@@ -53,15 +53,15 @@ $default-float: left;
 
 // $body-bg: #fff;
 // $body-font-color: #222;
- @font-face {
-    font-family: 'BLOKKNeue-Regular';
-    src: url('/fonts/blokkneue/BLOKKNeue-Regular.eot');
-    src: url('/fonts/blokkneue/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/blokkneue/BLOKKNeue-Regular.woff') format('woff'),
-         url('/fonts/blokkneue/BLOKKNeue-Regular.svg#BLOKKNeue-Regular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+// @font-face {
+//   font-family: 'BLOKKNeue-Regular';
+   // src: url('/fonts/blokkneue/BLOKKNeue-Regular.eot');
+  //  src: url('/fonts/blokkneue/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
+   //      url('/fonts/blokkneue/BLOKKNeue-Regular.woff') format('woff'),
+    //     url('/fonts/blokkneue/BLOKKNeue-Regular.svg#BLOKKNeue-Regular') format('svg');
+   // font-weight: normal;
+    //font-style: normal;
+//}
 // $body-font-family: "BLOKKNeue-Regular", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -169,7 +169,7 @@ $default-float: left;
 
 // Control header font styles
 
-$header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+// $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $header-font-weight: bold;
 // $header-font-style: normal;
 // $header-font-color: #222;
@@ -202,7 +202,7 @@ $header-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif
 
 // Style paragraphs
 
-$paragraph-font-family: "BLOKKNeue-Regular";
+// $paragraph-font-family: "BLOKKNeue-Regular";
 // $paragraph-font-weight: normal;
 // $paragraph-font-size: 1em;
 // $paragraph-line-height: 1.6;
