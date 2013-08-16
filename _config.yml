@@ -1,0 +1,10 @@
+name: "KBM-Foundation"
+description: "KBM Jekyll/foundation Test"
+
+url: "[localhost:4001]"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
