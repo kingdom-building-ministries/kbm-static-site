@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "This is a test"
-date:   2013-08-14 12:18:13
+title: This is a test
+date: {}
 categories: jekyll update
+published: false
 ---
 
 asdfagrgrgessasdas
