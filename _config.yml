@@ -1,9 +1,15 @@
-name: "KBM-Foundation"
-description: "KBM Jekyll/foundation Test"
+name: "KBM"
+description: "KBM Main Website"
 
 url: "[localhost:4001]"
-
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
 paginate: 10
 
 permalink: pretty
 pygments: true
+
