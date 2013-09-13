@@ -8,8 +8,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
-paginate: 10
 
 permalink: pretty
-pygments: true
 
