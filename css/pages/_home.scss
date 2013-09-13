@@ -1,0 +1,9 @@
+.introduction-section {
+    .section-1 {
+        @include grid-column(6);
+    }
+
+    .section-2 {
+        @include grid-column(6);
+    }
+ }
