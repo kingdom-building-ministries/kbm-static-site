@@ -1,24 +1,29 @@
+# From GIST https://gist.github.com/dtjm/517556
 module Jekyll
-  require 'haml'
   class HamlConverter < Converter
     safe true
-    priority :low
-
+ 
+    def setup 
+      return if @setup
+      require 'haml'
+      @setup = true
+    rescue
+      STDERR.puts 'do `gem install haml`'
+      raise FatalException.new("Missing dependency: haml")
+    end
+ 
     def matches(ext)
       ext =~ /haml/i
-    end
-
+    end 
+ 
     def output_ext(ext)
       ".html"
     end
-
+ 
     def convert(content)
-      begin
-        engine = Haml::Engine.new(content)
-        engine.render
-      rescue StandardError => e
-          puts "!!! HAML Error: " + e.message
-      end
+      setup
+      engine = Haml::Engine.new(content)
+      engine.render
     end
   end
 end
