@@ -8,6 +8,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
-
+include:
+  - _*.scss
 permalink: pretty
 
+sass:
+    syntax: scss        # scss|sass
+    style:  expanded  # nested|expanded|compact|compressed
