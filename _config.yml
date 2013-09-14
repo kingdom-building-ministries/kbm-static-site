@@ -8,7 +8,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
-  - vendor
 
 permalink: pretty
 
