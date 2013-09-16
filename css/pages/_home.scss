@@ -1,7 +1,21 @@
 .introduction-section {
     color: #fff;
     background-image:url(/img/home/linen.jpg);
+    text-align: justify;
+    em {
+        color: red;
+    }
+    h1 {
+        display: block;
+        @media #{$small} {
+            width: 50%;
+            float: left;
+        }
+    }
     .section-1, .section-2 {
-        @include grid-column(6);
+        @include grid-column(12);
+        @media #{$small} {
+            @include grid-column(6);
+        }
     }
  }
