@@ -1,21 +1,59 @@
+body {
+    padding-top: 40px;
+    @include linear-gradient($kbm-background-main-color, #fff 700px);
+}
+
 .menubar {
-    @include grid-row();
     border-style:solid none;
-    .logo {
-        position: absolute;
-        z-index:999;
-    }
+    border-width: 4px;
+    border-color: $kbm-accent-a-color;
+    background:$kbm-background-menu-color;
     nav {
-        @include grid-column(9, $offset:3);
+        .logo {
+            width:100px;
+            position: absolute;
+            z-index:999;
+        }
+        @include grid-row();
     }
     .nav-buttons {
-        @include button-group-container;
-        & > li {
-            @include button-group-style($float:right);
-            height:42px;
+        @include grid-column(12);
+        & > ul {
+            @include button-group-container;
+            float:right;
         }
-        a {
-            @include button;
+        & > ul > li {
+            @include button-group-style();
+            padding: 20px 0;
+            &:hover {
+                background-color: $kbm-accent-a-color;
+            }
+        }
+        & > ul > li:first-child .nav-main-button {
+            border:none;
+        }
+        .nav-main-button {
+            color:#000;
+            text-transform: uppercase;
+            font-size:emCalc(14);
+            border-style: none none none solid;
+            border-width: 1px;
+            border-color: #cacaca;
+            padding: 15px;
+            &:hover {
+                color:#fff;
+            }
+        }
+    }
+}
+
+.featured {
+    padding-top: 50px;
+    @include grid-row();
+    #slider {
+        @include grid-column(12);
+        .orbit-container {
+            background-color: transparent;
         }
     }
 }

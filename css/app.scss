@@ -1,4 +1,5 @@
 // Global Foundation Settings
+@import "bourbon/bourbon";
 @import "settings";
 
 // Comment out this import if you don't want to use normalize
@@ -7,6 +8,7 @@
 // Comment out this import if you are customizing you imports below
 @import "foundation";
 @import "default";
+@import "kbm-colors";
 @import "pages/home";
 @import "layouts/default";
 // Import specific parts of Foundation by commenting the import "foundation"

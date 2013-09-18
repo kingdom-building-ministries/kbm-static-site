@@ -2,16 +2,14 @@
 ---
 {% include header.html %}
 
-<div class="row">
-  <div class="large-12 columns">
-    <div id="slider">
-      <ul data-orbit>
-        {% for image in page.slider %} 
-        <li data-orbit-slide="headline-1">
+<div class="featured">
+  <div id="slider">
+    <ul data-orbit>
+      {% for image in page.slider %} 
+      <li data-orbit-slide="headline-1">
         <img src="{{ image.url }}">
         {% endfor %} 
-      </ul>
-    </div>
+    </ul>
   </div>
 </div>
 
