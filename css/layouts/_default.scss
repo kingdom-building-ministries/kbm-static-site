@@ -1,6 +1,3 @@
----
-
----
 $pad-top-to-separator:12px;
 $menu-border-height:4px;
 body {
@@ -51,20 +48,23 @@ body {
                 display: none;
             }
         }
-        .nav-main-button {
+        .nav-main-button {            
             position:relative;
             z-index:5;
             color:#000;
             text-transform: uppercase;
             font-size:emCalc(13);
-            padding: 20px;
+            padding-top: 25px;
+            padding-bottom: 23px;
+            padding-left:20px;
+            padding-right:20px;
             &:after {
                 position: absolute;
                 content:"";
                 z-index:-1;
                 left: 0px;
-                top: -$pad-top-to-separator + 7px;
-                bottom: -$pad-top-to-separator + 10px;
+                top:0px;
+                bottom:0px;
                 right: 0px;
             }
             &:hover:after {
@@ -74,6 +74,15 @@ body {
                 left: -2px;
                 right: -2px;
                 @include linear-gradient($kbm-menu-button-depression-color, #fff);
+            }
+            &.active {
+                color:#fff;
+                background-color:$kbm-accent-a-color;
+                margin-right:-1px;
+                z-index:6;
+            }
+            &.active:after {
+                display:none;
             }
         }
     }

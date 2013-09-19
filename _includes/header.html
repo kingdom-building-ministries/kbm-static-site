@@ -17,48 +17,22 @@
         <h1><a href="/"><img src="/img/layouts/default/kbm-logo-banner.png" /></a></h1>
       </div>
       <div class="nav-buttons">
-      <ul>
-      	<li><a href="#" data-dropdown="drop1"
-      	data-options="is_hover:true" class="nav-main-button">About Us</a></li>
-      	<ul id="drop1" class="f-dropdown" data-dropdown-content>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="#">KBM Board</a></li>
-          <li><a href="#">KBM Staff</a></li>
-          <li><a href="#">Financial Summary</a></li>
-          <li><a href="#">Statement of Faith</a></li>
+        <ul>
+          {% for link in site.navigation %}
+          <li>
+            <a href="{{link.url}}" data-dropdown="{{link.id}}"
+               data-options="is_hover:true" class="nav-main-button{% if page.url == link.url %} active{% endif %}">
+              {{link.text}}</a></li>
+            {% if link.items %}
+            <ul id="{{link.id}}" class="f-dropdown" data-dropdown-content>
+              {% for sublink in link.items %}
+              <li><a href="{{sublink.url}}">{{sublink.text}}</a></li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          {% endfor %}
         </ul>
-        <li><a href="#" data-dropdown="drop2" data-options="is_hover:true" class="nav-main-button">Speakers</a></li>
-      	<ul id="drop2" class="f-dropdown" data-dropdown-content>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="#">KBM Board</a></li>
-          <li><a href="#">KBM Staff</a></li>
-        </ul>
-        <li><a href="#" data-dropdown="drop3" data-options="is_hover:true" class="nav-main-button">Training</a></li>
-      	<ul id="drop3" class="f-dropdown" data-dropdown-content>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="#">KBM Board</a></li>
-          <li><a href="#">KBM Staff</a></li>
-        </ul>
-        <li><a href="#" data-dropdown="drop4" data-options="is_hover:true" class="nav-main-button">Fuel</a></li>
-      	<ul id="drop4" class="f-dropdown" data-dropdown-content>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="#">KBM Board</a></li>
-          <li><a href="#">KBM Staff</a></li>
-        </ul>
-        <li><a href="#" data-dropdown="drop5" data-options="is_hover:true" class="nav-main-button">Get Involved</a></li>
-      	<ul id="drop5" class="f-dropdown" data-dropdown-content>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="#">KBM Board</a></li>
-          <li><a href="#">KBM Staff</a></li>
-        </ul>
-        <li><a href="#" data-dropdown="drop6" data-options="is_hover:true" class="nav-main-button">Store</a></li>
-      	<ul id="drop6" class="f-dropdown" data-dropdown-content>
-          <li><a href="/about">About Us</a></li>
-          <li><a href="#">KBM Board</a></li>
-          <li><a href="#">KBM Staff</a></li>
-        </ul>
-      </ul>
       </div>
-     </nav>
-   </div>
+    </nav>
+  </div>
   
