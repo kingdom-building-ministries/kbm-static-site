@@ -15,10 +15,15 @@
   {% include mobile-menu-header.html %}
   <div class="menubar">
     <nav>
-      <div class="logo">
-        <h1><a id="mp-menu-trigger" href="#"><img src="/img/layouts/default/kbm-logo-banner.png" /></a></h1>
+      <div class="nav-buttons mobile-nav">
+        <ul>
+          <li><a href="#" id="mp-menu-trigger" class="nav-main-button">Menu</a>
+        </ul>
       </div>
-      <div class="nav-buttons">
+      <div class="logo">
+        <a href="/"><img src="/img/layouts/default/kbm-logo-banner.png" /></a>
+      </div>
+      <div class="nav-buttons main-nav">
         <ul>
           {% for link in site.navigation %}
           <li>
@@ -37,4 +42,4 @@
       </div>
     </nav>
   </div>
-  
+

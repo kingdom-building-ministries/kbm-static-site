@@ -17,11 +17,11 @@ sass:
 
 navigation:
   - text: About Us
-    url: #
+    url: /about
     id: about-menu
     items:
       - text: About Pages
-        url: #
+        url: /about
   - text: Speakers
     url: /
     id: speakers-menu
