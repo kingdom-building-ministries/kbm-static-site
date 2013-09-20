@@ -37,6 +37,7 @@ html, body, .container, .scroller {
 }
 
 .mp-level {
+    overflow: scroll;
 	position: absolute;
 	top: 0;
 	left: 0;

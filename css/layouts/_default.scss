@@ -28,13 +28,13 @@ body {
         @include grid-row();
     }
     .mobile-nav {
-        @include grid-column(11, $offset:1);
+        @include grid-column(12);
         .nav-main-button {
-            padding-left:50px;
+            padding-left:70px;
         }
         .nav-main-button:before { /* hamburger */
             position:absolute;
-            left: 0;
+            left: 20px;
             top: 15px;
 	    width: 40px;
 	    height: 6px;
