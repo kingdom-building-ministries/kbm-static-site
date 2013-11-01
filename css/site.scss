@@ -1,7 +1,7 @@
 // Global Foundation Settings
-@import "bourbon/bourbon";
-@import "settings";
 @import "normalize";
+@import "bourbon/bourbon";
+@import "foundation-defaults";
 
 // Comment out this import if you are customizing you imports below
 //@import "foundation";
@@ -41,14 +41,31 @@
 // @import "foundation/components/tooltips";
 @import "foundation/components/dropdown";
 
-// KBM Imports
-@import "kbm-colors";
-@import "kbm-core";
-@import "kbm-columns";
-@import "kbm-bubbles";
+@import "foundation-additions";
+@import "colors";
+@import "push-menu/push-menu";
+@import "kbm-elements/kbm-bubbles";
+@import "kbm-elements/kbm-columns";
+// These are carryovers from the old site, should probably move these to their own Jekyll layouts one day...
+@import "kbm-elements/basic-layout";
+@import "kbm-elements/basic-layout2";
+@import "kbm-elements/kbm-fixedbg-layout";
+
+// Include any css specific to a layout here
 @import "layouts/default";
-@import "layouts/kbm-fixedbg-layout";
-@import "pages/home";
+
+// Include any css specific to a page here
+@import "pages/16days";
+@import "pages/board";
+@import "pages/deepcamp";
+@import "pages/deepcamp";
 @import "pages/experience";
-@import "push-menu";
-@import "push-menu-icons";
+@import "pages/home";
+@import "pages/lifeplan";
+@import "pages/speakers";
+@import "pages/staff";
+@import "pages/training-page";
+@import "pages/trainingvalues";
+@import "pages/unusualsoldiers";
+
+
