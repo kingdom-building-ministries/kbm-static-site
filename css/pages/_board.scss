@@ -1,0 +1,9 @@
+
+.kbmboard {
+	#kbm-body {
+		background: url(#{$images}/kbmboard/board-body-bg.jpg) -2600px 0px repeat-x fixed;
+	}
+	#kbm-header {
+		background: url(#{$images}/kbmboard/board-header-bg.jpg) repeat-x 500px;
+	}
+}

@@ -1,7 +1,0 @@
-.training-info-box {
-	@extend .column;
-	@media #{$small} {
-		@include grid-column(4)	
-	}
-	text-align: justify;
-}

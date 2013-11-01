@@ -1,5 +1,42 @@
 $pad-top-to-separator:12px;
 $menu-border-height:4px;
+a {
+    color: $kbm-accent-b-color;
+    &:hover {
+        color: $kbm-accent-a-color;
+    }
+}
+
+.kbm-drop {
+    font-size: 65px;
+    display: inline;
+    float: left;
+    line-height: 54px;
+    margin: 1px 2px -3px 1px;
+}
+
+h2 {
+    text-align: left;
+    font-family: NovecentowideDemiBold, Helvetica, sans-serif;
+    margin-bottom: 8px;
+    text-align: left;
+    span {
+	color: #cb222f;
+    }
+}
+
+h1
+{
+    text-align: left;
+    font-family: NovecentowideDemiBold, Helvetica, sans-serif;
+    margin-bottom: 8px;
+    text-align: left;
+    color: #fff;
+    span {
+	color: #cb222f;
+    }
+}
+
 body {
     @include linear-gradient($kbm-background-main-color, #fff 700px);
 }
@@ -54,7 +91,7 @@ body {
             & > ul {
                 float:right;
             }
-       }
+        }
     }
     .nav-buttons {
         & > ul {
@@ -131,6 +168,68 @@ body {
         @include grid-column(12);
         .orbit-container {
             background-color: transparent;
+        }
+    }
+}
+
+.footer-section {
+    background-color:$kbm-accent-b-color;
+    border-style: dotted none none none;
+    border-width: 2px;
+    border-color: #fff;
+}
+
+footer {
+    @include grid-row();
+    @media #{$not-mobile} {
+        width:$small-screen;
+    }
+    color: #fff;
+    padding-top:20px;
+    padding-bottom:20px;
+    h1 {
+        font-size: emCalc(24);
+    }
+    section {
+        @media #{$not-mobile} {
+            @include grid-column(4, $center:false);
+        }
+        @media #{$mobile} {
+            @include grid-column(6, $center:true);
+        }
+
+        a {
+            font-size: emCalc(20);
+            position: relative;
+            color:#fff;
+            @include single-transition();
+        }
+    }
+
+    section:hover a {
+        color:$kbm-inactive-link-color;
+        &:hover {
+            color:#fff;
+        }
+    }
+
+    ul {
+        @include button-group-container;
+        & > li {
+            position:relative;
+            padding:10px 0;
+            &:first-child:before {
+                display:none;
+            }
+            &:before {
+                content:"";
+                background: $kbm-inactive-link-color;
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 25%;
+                height: 1px;
+            }
         }
     }
 }

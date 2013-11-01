@@ -1,0 +1,82 @@
+.kbm-bubble-box {
+	@extend .kbm-program-content-box;
+	position: relative;
+	padding: 15px;
+	border-radius: 15px;
+	overflow: visible;
+	margin: 13px 0px 10px 0px;
+	z-index: 0;
+	&:before {
+		content: "";
+		position: absolute;
+		z-index: -1;
+		display: block;
+	}
+	clear: both;
+	.light & {
+		background-color: #ffffff;
+		color: #000000;
+	}
+	.dark & {
+		background-color: #000000;
+		color: #ffffff;
+	}
+	img {
+		box-shadow: none;
+		padding-right: 10px;
+		border:none;
+	}
+	&.shadow {
+		box-shadow: inset 0px 0px 30px 4px rgba(0,0,0,0.48)
+	}
+}
+
+.kbm-bubble-box-right {
+	@extend .kbm-bubble-box;
+	&:before {
+		width: 60px;
+		height: 60px;
+		right: -21px;
+		margin-top: -16px;
+	}
+	.light &:before {
+		background: url(#{$images}/csslayout/white-arrow-right.png) no-repeat;
+	}
+	.dark &:before {
+	    background: url(#{$images}/csslayout/black-arrow-right.png) no-repeat;
+	}
+}
+
+.kbm-bubble-box-left {
+	@extend .kbm-bubble-box;
+	&:before {
+		width: 60px;
+		height: 60px;
+		left: -21px;
+		margin-top: -16px;
+	}
+	.light &:before {
+		background: url(#{$images}/csslayout/white-arrow-left.png) no-repeat;
+	}
+	.dark &:before {
+		background: url(#{$images}/csslayout/black-arrow-left.png) no-repeat;
+	}
+}
+
+.kbm-vertical-separator {
+	position: absolute;	display: inline-block;
+	top: 0px;
+	left: 50%;
+	height: 100%;
+	$width: 10px;
+	width: $width;
+	margin-left: -$width/2; 
+	border-radius: 35px;
+	.dark & {
+		background: black;
+	}
+	.light & {
+		background: white;
+	}
+}
+

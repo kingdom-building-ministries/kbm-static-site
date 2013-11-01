@@ -1,0 +1,82 @@
+img.kbm-program-logo {
+    display: block;
+    float: left;
+    clear: none;
+    margin: 10px 0;	
+    padding-right: 0;
+    padding-left: 0;
+    border: 0px;
+}
+
+.kbm-training-page {
+    img {
+	display: block;
+	float: left;
+	clear: none;
+	margin: 10px 0;
+	padding-right: 0;
+	padding-left: 0;
+	border: 0px solid ;
+	box-shadow: 0px 0px 0px #232320;
+    }
+    
+    a {
+	color: white !important;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: 3px 3px 10px rgba(0,0,0,0.65);
+    }
+    
+    a.button {
+	display:inline-block;
+	border-bottom: 4px solid #cc1f28;
+	color: white !important;
+	text-decoration: none;
+	font-size: 19px;
+	:hover {
+	    color: #cc1f28 !important;
+	}
+	.dark & {
+	    border-bottom: 4px solid #cc1f28;
+	    color: black !important;
+	    text-decoration: none;
+	    font-size: 19px;
+	}
+    }
+    #kbm-header {
+        &.training-header {
+	    background: url(#{$images}/training/kbm-training-header-3.jpg) repeat-x #ffffff;
+	}
+    }
+    .kbm-section {
+	&#training-experience {
+	    background: url(#{$images}/theexperience/experience-header-bg.jpg) repeat-x -70px #ffffff;
+	    img {
+		margin-top: 40px;
+	    }
+	}
+	&#training-16days {
+	    background: url(#{$images}/16days/16days-header-bg.jpg) repeat-x -210px #ffffff;
+	    img {
+		margin-top: -50px;
+	    }		
+	}	
+	&#training-deepcamp {
+	    min-height: 420px;
+	    border-bottom: 2px solid;
+	    background: url(#{$images}/deepcamp/deepcamp-header-bg.jpg) repeat-x -600px #ffffff;
+	    img {
+		margin-top: -30px;
+	    }
+	}
+	&#training-lifeplan {
+	    background: url(#{$images}/lifeplan/lifeplan-header-bg.jpg) repeat-x -1500px #ffffff;
+	    img {
+		margin-top: 110px;
+	    }
+	}
+	&#training-unusualsoldiers {
+	    background: url(#{$images}/unusualsoldiers/unusualsoldiers-header-bg.jpg) repeat-x -1500px #ffffff;
+	}
+    }
+}

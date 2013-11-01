@@ -1,7 +1,6 @@
 ---
 layout: post
 title: This is a test
-date: {}
 categories: jekyll update
 published: false
 ---

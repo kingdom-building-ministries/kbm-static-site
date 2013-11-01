@@ -1,0 +1,51 @@
+$margin-extension: 1000px;
+$margin-offset: -25px;
+$border-radius: 15px;
+$basic-shadow: 0px 3px 7px rgba(0,0,0,0.67);
+
+#kbm-basic-layout {
+	width: 960px;
+	background: -webkit-linear-gradient(#e7e7e7 0%, #eeeeee 100%);
+	margin-left: #{-$margin-extension + $margin-offset};
+	margin-top: -160px;
+	padding-top: 105px;
+	padding-right: #{$margin-extension};
+	margin-bottom: -80px;
+	padding-bottom: 50px;
+	padding-left: #{$margin-extension};
+	
+    #kbm-header {
+	    padding: 50px 12px 20px 12px;
+	    border-radius: 0px 0px $border-radius $border-radius;
+	    box-shadow: $basic-shadow;
+	    &.light {
+		    background: url(#{$images}/kbmspeakers/speakers-header-bg.jpg);
+	    }
+	    &.dark {
+		    background: white;
+	    }
+		.kbm-header-content {
+		    position: relative;
+		    height: auto;
+		}
+    }
+    #kbm-body {
+    	background: -webkit-linear-gradient(#c1c1c1 0%, #7a7a7a 100%);
+    	border-radius: $border-radius $border-radius $border-radius $border-radius;
+    	margin-top: 20px;
+    	box-shadow: $basic-shadow;
+    	padding: 0px 12px;
+	}
+	.caption {
+		text-align: left;
+		font-size: 14px;
+		background-color: #c70d0d;
+		color: white;
+		clear: both;
+		padding: 7px;
+		margin: 0px 10px 10px 0px;
+		display:block;
+		width: 300px;
+		float: left;
+	}
+}

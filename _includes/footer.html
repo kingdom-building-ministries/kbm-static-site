@@ -1,77 +1,49 @@
- <!-- Footer -->
-  
-  <footer class="row">
-    <div class="large-12 columns">
-      <hr />
-      <div class="row">
-        <div class="large-6 columns">
-          <p>&copy; Copyright no one at all. Go to town.</p>
-        </div>
-        <div class="large-6 columns">
-          <ul class="inline-list right">
-            <li><a href="#">Link 1</a></li>
-            <li><a href="#">Link 2</a></li>
-            <li><a href="#">Link 3</a></li>
-            <li><a href="#">Link 4</a></li>
-          </ul>
-        </div>
-      </div>
-    </div> 
+<div class="footer-section">
+  <footer>
+    <section>
+      <img src="/img/layouts/default/kbm-footer-heading.png">
+      14485 E. Evans Ave<br>
+      Aurora, CO 80014<br>
+      laborers@kbm.org<br>
+      800-873-8957<br>
+      303-745-8191<br>
+    </section>
+    <section>
+      <ul>
+        <li><a href="/connect">Ways to Connect</a></li>
+        <li><a href="/connect">Training</a></li>
+        <li><a href="/connect">Initiatives</a></li>
+        <li><a href="/connect">Browse Speakers</a></li>
+        <li><a href="/connect">Book a Speaker</a></li>
+      </ul>
+    </section>
+    <section>
+      <h1>Get Involved</h1>
+      <h2>Become a Prayer Partner</h2>
+      <h2>Donate to KBM</h2>
+      <h3>ECFA Certified</h3>
+      <img src="/img/layouts/default/ecfa-seal-small.png">
+    </section>
   </footer>
-  {% include mobile-menu-footer.html %}
-  <script>
+</div>
+{% include mobile-menu-footer.html %}
+<script>
   document.write('<script src=' +
-  ('__proto__' in {} ? '/js/vendor/zepto' : '/js/vendor/jquery') +
-  '.js><\/script>')
+                 ('__proto__' in {} ? '/js/vendor/zepto' : '/js/vendor/jquery') +
+                 '.js><\/script>')
   </script>
-  
+
   <script src="/js/foundation.min.js"></script>
   <script src="/js/foundation/foundation.clearing.js"></script>
   <script src="/js/push-menu/classie.js"></script>
   <script src="/js/push-menu/mlpushmenu.js"></script>
   <script>
-    new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
-      type : 'cover'
-    } );
+  new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
+    type : 'cover'
+  } );
   </script>
-  <!--
-  
-  <script src="js/foundation/foundation.js"></script>
-  
-  <script src="js/foundation/foundation.interchange.js"></script>
-  
-  <script src="js/foundation/foundation.abide.js"></script>
-  
-  <script src="js/foundation/foundation.dropdown.js"></script>
-  
-  <script src="js/foundation/foundation.placeholder.js"></script>
-  
-  <script src="js/foundation/foundation.forms.js"></script>
-  
-  <script src="js/foundation/foundation.alerts.js"></script>
-  
-  <script src="js/foundation/foundation.magellan.js"></script>
-  
-  <script src="js/foundation/foundation.reveal.js"></script>
-  
-  <script src="js/foundation/foundation.tooltips.js"></script>
-  
-  <script src="js/foundation/foundation.clearing.js"></script>
-  
-  <script src="js/foundation/foundation.cookie.js"></script>
-  
-  <script src="js/foundation/foundation.joyride.js"></script>
-  
-  <script src="js/foundation/foundation.orbit.js"></script>
-  
-  <script src="js/foundation/foundation.section.js"></script>
-  
-  <script src="js/foundation/foundation.topbar.js"></script>
-  
-  -->
-  
   <script>
-    $(document).foundation();
+  $(document).foundation();
   </script>
 </body>
 </html>

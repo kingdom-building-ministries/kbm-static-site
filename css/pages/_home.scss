@@ -7,14 +7,14 @@
     }
     h1 {
         display: block;
-        @media #{$small} {
+        @media #{$not-mobile} {
             width: 50%;
             float: left;
         }
     }
     .section-1, .section-2 {
         @include grid-column(12);
-        @media #{$small} {
+        @media #{$not-mobile} {
             @include grid-column(6);
         }
     }
