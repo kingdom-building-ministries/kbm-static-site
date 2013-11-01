@@ -26,8 +26,15 @@ navigation:
     url: /
     id: speakers-menu
   - text: Training
-    url: /travel.html
+    url: /training
     id: training-menu
+    items:
+      - text: The Experience
+        url: /theexperience
+      - text: 16 Days
+        url: /16days
+      - text: Deep Camp
+        url: /deepcamp
   - text: Fuel
     url: /travel.html
     id: fuel-menu
