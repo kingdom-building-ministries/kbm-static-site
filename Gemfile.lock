@@ -1,3 +1,12 @@
+GIT
+  remote: git://github.com/noct/jekyll-sass
+  revision: ca2fdd2d27cf39ef152f2276627a05d07d46d203
+  specs:
+    jekyll-sass (1.2.0)
+      colorator (~> 0.1)
+      jekyll (>= 0.10.0)
+      sass (>= 3.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -23,9 +32,6 @@ GEM
       safe_yaml (~> 0.7.0)
     jekyll-contentblocks (0.0.2)
       jekyll
-    jekyll-sass (1.1.0)
-      jekyll (>= 0.10.0)
-      sass (>= 3.0.0)
     liquid (2.5.3)
     maruku (0.7.0)
     posix-spawn (0.3.6)
@@ -46,5 +52,5 @@ DEPENDENCIES
   haml (~> 4.0.3)
   jekyll (~> 1.2.1)
   jekyll-contentblocks (~> 0.0.2)
-  jekyll-sass (~> 1.1.0)
+  jekyll-sass!
   rmagick (~> 2.13.2)
