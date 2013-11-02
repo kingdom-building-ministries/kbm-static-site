@@ -9,5 +9,5 @@ install: bundle install
 after_success: bundle exec s3_website push --headless
 env:
   global:
-  - secure: GnI0ZGKHos2xRK0zTWwo9dI5AuWpo8+gEgASjoHOb+pI/4WVD/aDXxMT+iRipZCfhSbw/jE8EazNskUJDyncLtRuXzb9BsdLfMU9zCjaxGdBl2V/KOA2MVi3vDXmd/rTbOQYJ2Uck0UKlvjS8YUSFjOroEboVWFj4nTSxqzad/4=
-  - secure: Y/AggBeBNjifucoXHYIfY1fzuqUpdhrCCx0NPjOTcT13tcBedWuY+nd4h+Gyq5PhKvfAjbDjGT+eHOdqw6EEOjRdd31WSvyoq+s2+oex9SfXCELBigg9KlOarATYZdCicOVZS3Kcyu5wTyPAr368+Y/3dzgy818gCVitPt7rtZg=
+  - secure: d0EIHVzl5FdpyBBAmkhw5Y6777ZFltNTX6GTF4LH7h5Q3hVNcvCN+rrjTa5jggBOI3877w0up+u4Os0JNxhVkDuUZzyfTNFhy/XGyH0daXnokHv5PR3aKIx5ezmyj0lm6fRh7/sXZ40qLwk3Kye6Y7S6Nxs/DC/5sOuL9PaPjkc=
+  - secure: MUnYfGidHxfjO/aZgASAz7aMTDg2LxAM9HnS8fjy2kKzay8Tu83yUY8mr3tKfOugVSzznRDthLdRW0ZLy2SurQbm8YcsatRNBFsogkAPkZLMPGaqxbrIvyi7bYpru5KtFfJIMSS3GPct0Q1FN/d6yssQsvWwLTSaGMMoO0RjzG0=
