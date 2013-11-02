@@ -1,14 +1,10 @@
-require "rubygems"
-require "bundler/setup"
-Bundler.require(:default)
-
 begin
   require 'exifr'
 rescue LoadError
 end
 
 require 'webrick'
-require 'rmagick'
+require 'RMagick'
 
 module Jekyll
 
