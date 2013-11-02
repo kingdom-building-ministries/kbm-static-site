@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kingdom-building-ministries/kbm-static-site.png)](https://travis-ci.org/kingdom-building-ministries/kbm-static-site.png)
+
 ## Special Note
 
 `robots.txt` is set to deny all search engines. Once kbm.org goes live

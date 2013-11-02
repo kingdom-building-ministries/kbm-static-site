@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+- 2.0.0
+script: bundle exec rake build
+install: bundle install
+after_success: bundle exec s3_website push --headless
+env:
+  global:
+  - secure: GnI0ZGKHos2xRK0zTWwo9dI5AuWpo8+gEgASjoHOb+pI/4WVD/aDXxMT+iRipZCfhSbw/jE8EazNskUJDyncLtRuXzb9BsdLfMU9zCjaxGdBl2V/KOA2MVi3vDXmd/rTbOQYJ2Uck0UKlvjS8YUSFjOroEboVWFj4nTSxqzad/4=
+  - secure: Y/AggBeBNjifucoXHYIfY1fzuqUpdhrCCx0NPjOTcT13tcBedWuY+nd4h+Gyq5PhKvfAjbDjGT+eHOdqw6EEOjRdd31WSvyoq+s2+oex9SfXCELBigg9KlOarATYZdCicOVZS3Kcyu5wTyPAr368+Y/3dzgy818gCVitPt7rtZg=
