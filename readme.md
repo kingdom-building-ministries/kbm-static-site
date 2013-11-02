@@ -1,3 +1,7 @@
+## Special Note
+
+`robots.txt` is set to deny all search engines. Once kbm.org goes live
+we need to make sure this is set properly.
 
 # Installing
 
