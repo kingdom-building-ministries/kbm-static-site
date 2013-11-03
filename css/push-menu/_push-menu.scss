@@ -261,7 +261,7 @@ html, body, .container, .scroller {
 /* We'll show the first level only */
 .no-csstransforms3d .mp-pusher,
 .no-js .mp-pusher {
-	padding-left: 300px;
+	padding-left: 0;
 }
 
 .no-csstransforms3d .mp-menu .mp-level,
@@ -271,5 +271,5 @@ html, body, .container, .scroller {
 
 .no-csstransforms3d .mp-menu > .mp-level,
 .no-js .mp-menu > .mp-level {
-	display: block;
+	display: none;
 }

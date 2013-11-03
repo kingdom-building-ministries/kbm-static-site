@@ -21,6 +21,7 @@ h2 {
     font-family: NovecentowideDemiBold, Helvetica, sans-serif;
     margin-bottom: 8px;
     text-align: left;
+    color: #000;
     span {
 	color: #cb222f;
     }
@@ -31,7 +32,7 @@ h1 {
     font-family: NovecentowideDemiBold, Helvetica, sans-serif;
     margin-bottom: 8px;
     text-align: left;
-    color: #fff;
+    color: #000;
     span {
 	color: #cb222f;
     }
@@ -46,6 +47,7 @@ body {
 }
 
 .menubar {
+    margin-bottom: 20px;
     border-style:solid none;
     border-width: $menu-border-height;
     border-color: $kbm-accent-a-color;

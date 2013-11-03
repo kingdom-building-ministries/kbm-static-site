@@ -7,6 +7,7 @@
     }
     h1 {
         display: block;
+        color: #fff;
         @media #{$not-mobile} {
             width: 50%;
             float: left;
