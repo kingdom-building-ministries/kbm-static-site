@@ -20,11 +20,59 @@ navigation:
     url: /about
     id: about-menu
     items:
+      - text: Ministry Guide
+        url: /ministryguide
+      - text: KBM Board
+        url: /board
+      - text: KBM Staff
+        url: /staff 
+      - text: Financial Summary
+        url: /financialsummary
+      - text: Statement of Faith
+        url: /statementoffaith  
       - text: About Pages
-        url: /about
+        url: /about  
   - text: Speakers
     url: /
     id: speakers-menu
+    items:
+      - text: Speakers
+        url: /speakers
+        items:
+          - text: Caleb Bislow
+            url: /calebbislow
+          - text: Foster Christy
+            url: /fosterchristy
+          - text: Adrian Despres
+            url: /adriandespres
+          - text: Chris Emery
+            url: /chrisemery
+          - text: Robert Gelinas
+            url: /robertgelinas
+          - text: Ken Johnson
+            url: /kenjohnson
+          - text: Fred Lynch
+            url: /fredlynch
+          - text: Tim Reilly
+            url: /timreilly
+          - text: Dwight Robertson
+            url: /dwightrobertson
+          - text: Jason Roe
+            url: /jasonroe
+          - text: Efrem Smith
+            url: /efremsmith
+          - text: Mick Veach
+            url: /mickveach
+          - text: John Vermilya
+            url: /johnvermilya
+      - text: Speaker Schedule
+        url: /speakerschedule
+      - text: Book A Speaker
+        url: /book
+      - text: Past Event Reports
+        url: /eventreports
+      - text: Podcasts
+        url: /podcasts
   - text: Training
     url: /training
     id: training-menu
@@ -35,13 +83,44 @@ navigation:
         url: /16days
       - text: Deep Camp
         url: /deepcamp
+      - text: Unusual Soldiers
+        url: /unusualsoldiers
+      - text: Life Plan
+        url: /lifeplan  
+      - text: Plan A Conference
+        url: /planaconference
+      - text: Weekends Almost Alone With God
+        url: /waawg
+      - text: Training Values
+        url: /trainingvalues  
   - text: Fuel
     url: /travel.html
     id: fuel-menu
+    items:
+      - text: Plan A Connection
+        url: planaconnection
+      - text: Personal Ministry Inventory
+        url: /personalministryinventory
   - text: Get Involved
     url: /travel.html
     id: get-involved-menu
+    items:
+      - text: Prayer
+        url: /prayer
+      - text: Donate
+        url: Donate
+      - text: Scholarship a Student
+        url: /scholarship
+      - text: Initiatives
+        url: /initiatives
+        items:
+          - text: Man Up!
+            url: /manup
+          - text: International
+            url: /international
+          - text: Urban Advance
+            url: /urbanadvance
   - text: Store
-    url: /travel.html
+    url: http://kbm.donorshops.com
     id: store-menu
     
