@@ -108,7 +108,7 @@ navigation:
       - text: Prayer
         url: /prayer
       - text: Donate
-        url: Donate
+        url: /donate
       - text: Scholarship a Student
         url: /scholarship
       - text: Initiatives
