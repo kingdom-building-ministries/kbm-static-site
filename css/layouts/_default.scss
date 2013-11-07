@@ -3,6 +3,8 @@
   src: url(/fonts/novecento/novecentowide-demibold-webfont.woff) format("woff"),
        url(/fonts/novecento/novecentowide-demibold-webfont.ttf) format("opentype");
 }
+@import url(http://fonts.googleapis.com/css?family=Tinos:400,700,400italic,700italic|Ovo);
+
 
 $pad-top-to-separator:12px;
 $menu-border-height:4px;
@@ -26,35 +28,41 @@ h2 {
     font-family: NovecentowideDemiBold, Helvetica, sans-serif;
     margin-bottom: 8px;
     text-align: left;
-    color: #000;
-    span {
-	color: #cb222f;
-    }
+    color: #cb222f;
+    font-size: 1.9em;
 }
 
+a {
+      color: #cd1f29;
+    }
+    
 h1 {
     text-align: left;
     font-family: NovecentowideDemiBold, Helvetica, sans-serif;
     margin-bottom: 8px;
-    font-size: 1.6em;
+    font-size: 2.4em;
     text-align: left;
     line-height: 0.9em;
     letter-spacing: inherit;
-    margin: 0 0 20px;
-    color: #cb222f;
-    span {
-	color: #cb222f;
+    margin: 20px 0px;
+    color: #ffffff;
+    .light & {
+      color: black;
     }
-    a {
-      color: #cd1f29;
-      &:hover {
-        color: #8b151c;
-      }
+    .dark & {
+      color: white; 
     }
+    
 }
 
+em {
+  color: #cb222f;
+  font-style: normal;
+}
 body {
     @include linear-gradient($kbm-background-main-color, #fff 700px);
+    font-family: 'Ovo', serif;
+    line-height: 1.3em;
 }
 
 .scroller-inner {
@@ -112,6 +120,7 @@ body {
     }
     .top-bar-section {
         text-transform: uppercase;
+        font-family: NovecentowideDemiBold, Helvetica, sans-serif;
         & > ul > .divider {
             width:3px;
             background: #cacaca;
@@ -133,6 +142,8 @@ body {
         }
         .dropdown {
             background: #fff;
+            border-color: #5e5c5c;
+            border-width: 4px; 
         }
         & > ul > .has-dropdown > .dropdown {
             border-style:solid none none none;
