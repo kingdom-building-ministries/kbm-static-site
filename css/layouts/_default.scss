@@ -90,76 +90,52 @@ body {
         display: none;
         @media #{$not-mobile} {
             display: block;
-            & > ul {
+            & .nav-buttons > ul {
                 float:right;
             }
         }
     }
-    .nav-buttons {
-        & > ul {
-            @include button-group-container;
+    .top-bar-section {
+        text-transform: uppercase;
+        & > ul > .divider {
+            width:3px;
+            background: #cacaca;
+            display:block;
+            border-style: solid;
+            border-width: 1px;
+            border-color: #fff;
+            height: 30px;
+            margin-top: 12px;
         }
-        & > ul > li {
-            position:relative;
-            @include button-group-style();
-            margin: $pad-top-to-separator 0;
-            padding: 7px 0;
-            &:before { /*menu divider*/
-                position:absolute;
-                left:-1px;
-                top:0px;
-                bottom:0px;
-                content:"";
-                width:3px;
-                background: #cacaca;
-                display:block;
-                border-style: solid;
-                border-width: 1px;
-                border-color: #fff;
-            }
-            &:first-child:before {
-                display: none;
-            }
-        }
-        .nav-main-button {
-            position:relative;
-            z-index:5;
-            color:#000;
-            text-transform: uppercase;
-            font-size:emCalc(13);
-            padding-top: 25px;
-            padding-bottom: 23px;
-            @media #{$not-mobile} {
-                padding-left:20px;
-            }
-            padding-right:20px;
+        & > ul > .has-dropdown > a {
+            padding-right: $topbar-height / 3 !important;
             &:after {
-                position: absolute;
-                content:"";
-                z-index:-1;
-                left: 0px;
-                top:0px;
-                bottom:0px;
-                right: 0px;
-            }
-            &:hover:after {
-                border-style: none solid;
-                border-width: 1px;
-                border-color: $kbm-menu-button-depression-color;
-                left: -2px;
-                right: -2px;
-                @include linear-gradient($kbm-menu-button-depression-color, #fff);
-            }
-            &.active {
-                color:#fff;
-                background-color:$kbm-accent-a-color;
-                margin-right:-1px;
-                z-index:6;
-            }
-            &.active:after {
                 display:none;
             }
         }
+        & > ul > .has-dropdown > ul li.has-dropdown > a:after {
+            margin-top: -20px;
+        }
+        .dropdown {
+            background: #fff;
+        }
+        & > ul > .has-dropdown > .dropdown {
+            border-style:solid none none none;
+            border-width: $menu-border-height;
+            border-color: $kbm-accent-a-color;
+        }
+        #get-involved-menu .dropdown {
+            left: auto;
+            right: 100%;
+        }
+    }
+    .nav-buttons {
+        /*     &.active { */
+        /*         color:#fff; */
+        /*         background-color:$kbm-accent-a-color; */
+        /*         margin-right:-1px; */
+        /*         z-index:6; */
+        /*     } */
     }
 }
 
