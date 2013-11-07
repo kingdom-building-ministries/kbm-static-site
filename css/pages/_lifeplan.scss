@@ -1,9 +1,10 @@
 
 .kbmlifeplan {
 	#kbm-body {
-		background: url(#{$images}/lifeplan/lifeplan-body-bg.jpg) -1700px -20px repeat-x fixed;
+		background: url(#{$images}/training/lifeplan/lifeplan-body-bg.jpg) -1700px -20px repeat-x fixed;
 	}
 	#kbm-header {
-		background: url(#{$images}/lifeplan/lifeplan-header-bg.jpg) -1550px 0px repeat-x ;
+		background: url(#{$images}/training/lifeplan/lifeplan-header-bg.jpg)  0px repeat-x ;
+		margin-top: -20px;
 	}
 }
