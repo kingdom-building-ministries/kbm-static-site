@@ -100,7 +100,7 @@ navigation:
       - text: Plan A Connection
         url: planaconnection
       - text: Personal Ministry Inventory
-        url: /personalministryinventory
+        url: /resources/kbm_personal_ministry_inventory.pdf
   - text: Get Involved
     url: /travel.html
     id: get-involved-menu
