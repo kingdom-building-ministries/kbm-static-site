@@ -31,10 +31,20 @@ h1 {
     text-align: left;
     font-family: NovecentowideDemiBold, Helvetica, sans-serif;
     margin-bottom: 8px;
+    font-size: 1.6em;
     text-align: left;
-    color: #000;
+    line-height: 0.9em;
+    letter-spacing: inherit;
+    margin: 0 0 20px;
+    color: #cb222f;
     span {
 	color: #cb222f;
+    }
+    a {
+      color: #cd1f29;
+      &:hover {
+        color: #8b151c;
+      }
     }
 }
 
