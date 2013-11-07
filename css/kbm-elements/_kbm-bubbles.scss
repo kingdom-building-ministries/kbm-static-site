@@ -36,8 +36,8 @@
 	&:before {
 		width: 60px;
 		height: 60px;
-		right: -21px;
-		margin-top: -16px;
+		right: -25px;
+		margin-top: -20px;
 	}
 	.light &:before {
 		background: url(#{$images}/csslayout/white-arrow-right.png) no-repeat;
@@ -52,8 +52,8 @@
 	&:before {
 		width: 60px;
 		height: 60px;
-		left: -21px;
-		margin-top: -16px;
+		left: -25px;
+		margin-top: -20px;
 	}
 	.light &:before {
 		background: url(#{$images}/csslayout/white-arrow-left.png) no-repeat;
