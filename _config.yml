@@ -33,7 +33,7 @@ navigation:
       - text: About Pages
         url: /about  
   - text: Speakers
-    url: /
+    url: /speakers
     id: speakers-menu
     items:
       - text: Speakers
@@ -94,7 +94,7 @@ navigation:
       - text: Training Values
         url: /trainingvalues  
   - text: Fuel
-    url: /travel.html
+    url: 
     id: fuel-menu
     items:
       - text: Plan A Connection
@@ -102,7 +102,7 @@ navigation:
       - text: Personal Ministry Inventory
         url: /resources/kbm_personal_ministry_inventory.pdf
   - text: Get Involved
-    url: /travel.html
+    url: /connect
     id: get-involved-menu
     items:
       - text: Prayer
