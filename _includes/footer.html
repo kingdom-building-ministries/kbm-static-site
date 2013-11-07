@@ -32,7 +32,7 @@
   <script src="/js/foundation/foundation.clearing.js"></script>
   <script src="/js/push-menu/classie.js"></script>
   <script src="/js/push-menu/mlpushmenu.js"></script>
-  
+
   {% if page.circle-player %}
   <script type="text/javascript" src="/js/vendor/circle-player/jquery.transform2d.js"></script>
 	<script type="text/javascript" src="/js/vendor/circle-player/jquery.grab.js"></script>
@@ -40,19 +40,13 @@
 	<script type="text/javascript" src="/js/vendor/circle-player/mod.csstransforms.min.js"></script>
 	<script type="text/javascript" src="/js/vendor/circle-player/circle.player.js"></script>
 	<script>$(document).ready(function(){
-	{% for player in page.circle-player %}
-    new CirclePlayer('{{player.selector}}',
-		{
-			mp3: '{{player.mp3}}'
-		}, {
-			cssSelectorAncestor: '{{player.ancestor}}'
-		}); 
-  {% endfor %}
-	
+	  {% for player in page.circle-player %}
+          new CirclePlayer('#jquery_jplayer_{{ forloop.index }}',
+		           { mp3: '{{player.mp3}}'}, { cssSelectorAncestor:'#cp_container_{{ forloop.index }}', preload:"none" });
+          {% endfor %}
 	});
   </script>
-	{% endif %}
-	
+  {% endif %}
   <script>
   new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
     type : 'cover'
@@ -61,6 +55,6 @@
   <script>
   $(document).foundation();
   </script>
-  
+
 </body>
-</html>  
+</html>
