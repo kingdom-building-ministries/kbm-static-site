@@ -40,7 +40,7 @@
 	<script type="text/javascript" src="/js/vendor/circle-player/mod.csstransforms.min.js"></script>
 	<script type="text/javascript" src="/js/vendor/circle-player/circle.player.js"></script>
 	<script>$(document).ready(function(){
-	{% for player in page.circle-player &}
+	{% for player in page.circle-player %}
     new CirclePlayer('{{player.selector}}',
 		{
 			mp3: '{{player.mp3}}'
