@@ -1,3 +1,8 @@
+@font-face {
+  font-family: NovecentowideDemiBold;
+  src: url(/fonts/novecento/novecentowide-demibold-webfont.woff) format("woff"),
+       url(/fonts/novecento/novecentowide-demibold-webfont.ttf) format("opentype");
+}
 
 $pad-top-to-separator:12px;
 $menu-border-height:4px;
