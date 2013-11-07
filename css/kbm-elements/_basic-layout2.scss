@@ -2,7 +2,8 @@ $border-radius: 15px;
 $basic-shadow: 0px 3px 7px rgba(0,0,0,0.67);
 
 #kbm-basic-layout2 {
-    padding-top: 20px;
+    margin-top: -20px;
+    
     background: -webkit-linear-gradient(#ffffff 0%, rgba(249,249,249,0.77) 100%);
     .kbm-program-content-box {
 	background:#e3e3e3;
@@ -14,11 +15,9 @@ $basic-shadow: 0px 3px 7px rgba(0,0,0,0.67);
 	border: none;
     }
     #kbm-header {
-    	position: relative;
-        float: left;
-        clear: both;
-        overflow: hidden;
         background-repeat: repeat;
+        padding-top: 20px;
+        
 	&.light {
 	    background: -webkit-linear-gradient(#5a5a5a 0%, #ffffff 90%);
 	}
@@ -28,7 +27,8 @@ $basic-shadow: 0px 3px 7px rgba(0,0,0,0.67);
 	.kbm-header-content {
 	    position: relative;
 	    height: auto;
-	}
+      @include grid-row();	
+      }
     }
     #kbm-body {
 	background: none;
