@@ -94,7 +94,7 @@ navigation:
       - text: Training Values
         url: /trainingvalues  
   - text: Fuel
-    url: 
+    url: /fuel
     id: fuel-menu
     items:
       - text: Plan A Connection
