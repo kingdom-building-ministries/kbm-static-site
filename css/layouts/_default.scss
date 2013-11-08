@@ -2,6 +2,12 @@
   font-family: NovecentowideDemiBold;
   src: url(/fonts/novecento/novecentowide-demibold-webfont.woff) format("woff"),
        url(/fonts/novecento/novecentowide-demibold-webfont.ttf) format("opentype");
+  font-family: NovecentowideMedium;
+  src: url(/fonts/novecento/novecentowide-medium-webfont.woff) format("woff"),
+       url(/fonts/novecento/novecentowide-medium-webfont.ttf) format("opentype");
+  font-family: NovecentowideNormal;
+  src: url(/fonts/novecento/novecentowide-normal-webfont.woff) format("woff"),
+       url(/fonts/novecento/novecentowide-normal-webfont.ttf) format("opentype");
 }
 @import url(http://fonts.googleapis.com/css?family=Tinos:400,700,400italic,700italic|Ovo);
 
@@ -25,7 +31,8 @@ a {
 
 h2 {
     text-align: left;
-    font-family: NovecentowideDemiBold, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-family: NovecentowideMedium, Helvetica, sans-serif;
     margin-bottom: 8px;
     text-align: left;
     color: #cb222f;
@@ -38,6 +45,7 @@ a {
     
 h1 {
     text-align: left;
+    text-transform: uppercase;
     font-family: NovecentowideDemiBold, Helvetica, sans-serif;
     margin-bottom: 8px;
     font-size: 2.4em;
@@ -57,7 +65,9 @@ h1 {
 
 em {
   color: #cb222f;
+  text-transform: uppercase;
   font-style: normal;
+  font-family: NovecentowideNormal, Helvetica, sans-serif;
 }
 body {
     @include linear-gradient($kbm-background-main-color, #fff 700px);
@@ -191,6 +201,8 @@ footer {
     color: #fff;
     padding-top:20px;
     padding-bottom:20px;
+    font-family: NovecentowideNormal, Helvetica, sans-serif;
+    font-size: 0.8em;
     h1 {
         font-size: emCalc(24);
     }
