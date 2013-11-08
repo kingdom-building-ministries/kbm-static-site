@@ -20,18 +20,29 @@ navigation:
     url: /about
     id: about-menu
     items:
+      - text: Our Story
+        url: /ourstory
+      - text: DNA
+        url: /dna
+        items:
+          - text: Mission
+            url: /mission
+          - text: Purpose
+            url: /purpose
+          - text: Values
+            url: /values
+          - text: Statement of Faith
+            url: /statementoffaith
+      - text: What is a Laborer?
+        url: /whatisalaborer
       - text: Ministry Guide
         url: /ministryguide
+      - text: KBM Staff
+        url: /staff
       - text: KBM Board
         url: /board
-      - text: KBM Staff
-        url: /staff 
       - text: Financial Summary
-        url: /financialsummary
-      - text: Statement of Faith
-        url: /statementoffaith  
-      - text: About Pages
-        url: /about  
+        url: /financialsummary 
   - text: Speakers
     url: /speakers
     id: speakers-menu
