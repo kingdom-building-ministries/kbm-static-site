@@ -120,6 +120,8 @@ navigation:
             url: /international
           - text: Urban Advance
             url: /urbanadvance
+      - text: Connect
+        url: /connect
   - text: Store
     url: http://kbm.donorshops.com
     id: store-menu
