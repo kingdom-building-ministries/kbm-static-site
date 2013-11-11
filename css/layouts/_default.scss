@@ -206,6 +206,7 @@ footer {
     h1 {
         font-size: emCalc(24);
     }
+
     section {
         @media #{$not-mobile} {
             @include grid-column(4, $center:false);
