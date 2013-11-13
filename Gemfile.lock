@@ -1,6 +1,7 @@
 GIT
-  remote: git://github.com/noct/jekyll-sass
-  revision: ca2fdd2d27cf39ef152f2276627a05d07d46d203
+  remote: git@github.com:rebelzach/jekyll-sass.git
+  revision: 5349f08813b0f3f16324da779973ed4e07da8386
+  branch: dev
   specs:
     jekyll-sass (1.2.0)
       colorator (~> 0.1)
@@ -43,7 +44,7 @@ GEM
     jekyll-contentblocks (0.0.2)
       jekyll
     json (1.8.1)
-    liquid (2.5.3)
+    liquid (2.5.4)
     listen (1.3.1)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
