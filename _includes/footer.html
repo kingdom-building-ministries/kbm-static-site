@@ -1,6 +1,5 @@
 <div class="footer-section">
   <footer>
-   
       <section>
         <ul>
           <li> <img src="/img/layouts/default/kbm-footer-heading.png"></li>
@@ -49,7 +48,7 @@
 	<script>$(document).ready(function(){
 	  {% for player in page.circle-player %}
           new CirclePlayer('#jquery_jplayer_{{ forloop.index }}',
-		           { mp3: '{{player.mp3}}'}, { cssSelectorAncestor:'#cp_container_{{ forloop.index }}', preload:"none" });
+		           { mp3: '{{player.mp3 | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}'}, { cssSelectorAncestor:'#cp_container_{{ forloop.index }}', preload:"none" });
           {% endfor %}
 	});
   </script>
