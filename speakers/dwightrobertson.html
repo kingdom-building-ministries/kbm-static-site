@@ -1,6 +1,8 @@
 --- 
 layout: default 
-alias: /dwightrobertson 
+alias: /dwightrobertson
+circle-player:
+ - mp3: https://www.dropbox.com/s/tvn7f75jocvu09v/kbm-dwight-robertson-plan-a.mp3
 ---
 
 <div id="kbm-basic-layout2">
@@ -112,51 +114,14 @@ alias: /dwightrobertson
             </div>
 
             <div class="kbm-third-col" style="padding: 10px 12px 10px 10px;">
-                <br>
-
-                <h2 style="text-align:center;">Listen to Dwight</h2><!-- The jPlayer div must not be hidden. Keep it at the root of the body element to avoid any such problems. -->
-                <!-- This is the 2nd instance's jPlayer div -->
-
-                <div id="jquery_jplayer_1" class="cp-jplayer"></div>
-
-                <div class="prototype-wrapper">
-                    <!-- A wrapper to emulate use in a webpage and center align -->
-                    <!-- The container for the interface can go where you want to display it. Show and hide it as you need. -->
-
-                    <div id="cp_container_1" class="cp-container" style="margin: auto;">
-                        <div class="cp-buffer-holder">
-                            <!-- .cp-gt50 only needed when buffer is > than 50% -->
-
-                            <div class="cp-buffer-1"></div>
-
-                            <div class="cp-buffer-2"></div>
-                        </div>
-
-                        <div class="cp-progress-holder">
-                            <!-- .cp-gt50 only needed when progress is > than 50% -->
-
-                            <div class="cp-progress-1"></div>
-
-                            <div class="cp-progress-2"></div>
-                        </div>
-
-                        <div class="cp-circle-control"></div>
-
-                        <ul class="cp-controls">
-                            <li>
-                                <a class="cp-play" tabindex="1">listen</a>
-                            </li>
-
-                            <li>
-                                <a class="cp-pause" style="display:none;" tabindex="1">pause</a>
-                            </li><!-- Needs the inline style here, or jQuery.show() uses display:inline instead of display:block -->
-                        </ul>
-                    </div>
-                </div><br>
+                <h2 style="text-align:center;">Listen to Dwight</h2>
+                {% include audio-player.html index=1 %}
+                
 
                 <h2 style="text-align:center;">See Dwight in action</h2><iframe width="420" height="315" src="http://www.youtube.com/embed/yHYQ86x1lvk" frameborder="0" allowfullscreen="" style="width:100%;height:200px;"></iframe>
             </div>
-        </div>
+            </div>
+
 
         <div class="row">
             <div class="kbm-full-col">
