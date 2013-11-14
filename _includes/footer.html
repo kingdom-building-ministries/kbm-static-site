@@ -40,18 +40,7 @@
   <script src="/js/push-menu/mlpushmenu.js"></script>
 
   {% if page.circle-player %}
-  <script type="text/javascript" src="/js/vendor/circle-player/jquery.transform2d.js"></script>
-	<script type="text/javascript" src="/js/vendor/circle-player/jquery.grab.js"></script>
-	<script type="text/javascript" src="/js/vendor/circle-player/jquery.jplayer.js"></script>
-	<script type="text/javascript" src="/js/vendor/circle-player/mod.csstransforms.min.js"></script>
-	<script type="text/javascript" src="/js/vendor/circle-player/circle.player.js"></script>
-	<script>$(document).ready(function(){
-	  {% for player in page.circle-player %}
-          new CirclePlayer('#jquery_jplayer_{{ forloop.index }}',
-		           { mp3: '{{player.mp3 | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}'}, { cssSelectorAncestor:'#cp_container_{{ forloop.index }}', preload:"none" });
-          {% endfor %}
-	});
-  </script>
+  {% include audio-player-script.html players = page.circle-player %}
   {% endif %}
   <script>
   new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
@@ -61,6 +50,6 @@
   <script>
   $(document).foundation();
   </script>
-
+  {{ include.script }}
 </body>
 </html>
