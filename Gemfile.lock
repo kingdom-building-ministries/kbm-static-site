@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:rebelzach/jekyll-sass.git
+  remote: https://github.com/rebelzach/jekyll-sass.git
   revision: 5349f08813b0f3f16324da779973ed4e07da8386
   branch: dev
   specs:
