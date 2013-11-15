@@ -2,8 +2,4 @@
 layout: basic
 alias: /book
 ---
-<div class="row" style="margin-top:20px;">
-  <div class="large-9 large-offset-3 columns">
-    <iframe src="http://www.kbm.org/forms/embed.php?id=3" scrolling="no" onload="setTimeout(function() {window.scrollTo(0, 0);},1)" style="width:100%;height:1700px;border:none;overflow-x:hidden;"></iframe>
-  </div>
-</div>
+{% include form-embed.html url="http://www.kbm.org/forms/embed.php?id=3" height="1600px" %}
