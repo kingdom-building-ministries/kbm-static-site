@@ -1,0 +1,18 @@
+{% include header.html %}
+
+<div class="row">
+  <div class="large-3 columns">
+    {% include audio-player.html mp3=page.mp3 %}
+  </div>
+  <div class="large-9 columns">
+    <h3 class="title"><a href="{{ post.url }}">{{ page.title }}</a></h3>
+    <p class="date">{{ page.date | date: "%m-%d-%Y" }}</p>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 columns">
+    {{ content }}
+  </div>
+</div>
+
+{% include footer.html %}
