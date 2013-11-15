@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>player</title>
+    <style>
+      /* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+    </style>
+    <link rel="stylesheet" href="/js/vendor/circle-player/circle.skin/circle.player.css">
+  </head>
+  <body>
+    <div id="jquery_jplayer_1" class="cp-jplayer"></div>
+    <div class="prototype-wrapper">
+      <div id="cp_container_1" class="cp-container" style="margin: auto;">
+        <div class="cp-buffer-holder">
+          <div class="cp-buffer-1"></div>
+          <div class="cp-buffer-2"></div>
+        </div>
+        <div class="cp-progress-holder">
+          <div class="cp-progress-1"></div>
+          <div class="cp-progress-2"></div>
+        </div>
+        <div class="cp-circle-control"></div>
+        <ul class="cp-controls">
+          <li>
+            <a class="cp-play" tabindex="1">listen</a>
+          </li>
+          <li>
+            <a class="cp-pause" style="display:none;" tabindex="1">pause</a>
+          </li><!-- Needs the inline style here, or jQuery.show() uses display:inline instead of display:block -->
+        </ul>
+      </div>
+    </div>
+    <script src="/js/vendor/jquery.js"></script>
+    <script type="text/javascript" src="/js/vendor/circle-player/jquery.transform2d.js"></script>
+    <script type="text/javascript" src="/js/vendor/circle-player/jquery.grab.js"></script>
+    <script type="text/javascript" src="/js/vendor/circle-player/jquery.jplayer.js"></script>
+    <script type="text/javascript" src="/js/vendor/circle-player/mod.csstransforms.min.js"></script>
+    <script type="text/javascript"
+            src="/js/vendor/circle-player/circle.player.js"></script>
+    <script>
+  $(document).ready(function() {
+    var QueryString = function () {
+      var query_string = {};
+      var query = window.location.search.substring(1);
+      var vars = query.split("&");
+      for ( var i=0; i < vars.length; i++ ) {
+        var pair = vars[i].split("=");
+        if (typeof query_string[pair[0]] === "undefined") {
+          query_string[pair[0]] = pair[1];
+        } else if (typeof query_string[pair[0]] === "string") {
+          var arr = [ query_string[pair[0]], pair[1] ];
+          query_string[pair[0]] = arr;
+        } else {
+          query_string[pair[0]].push(pair[1]);
+        }
+      }
+      return query_string;
+    } ();
+    new CirclePlayer('#jquery_jplayer_1',
+                     { mp3: decodeURIComponent(QueryString.mp3) },
+                     { cssSelectorAncestor:'#cp_container_1',
+                       preload:"none" });
+  });
+   </script>
+  </body>
+</html>

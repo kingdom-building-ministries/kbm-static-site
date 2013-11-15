@@ -1,48 +1,62 @@
 ---
 alias: /eventreports
+max_posts_displayed: 10
 ---
 {% capture header %}
 <link rel="stylesheet" href="/js/vendor/circle-player/circle.skin/circle.player.css">
 {% endcapture %}
 {% include header.html head = header %}
-  <div class="row">
-    <div class="large-12 columns">
-      {% assign idx = '1' %}
-      {% for post in site.posts %}
-      {% if post.categories contains 'eventreports' %}
-      <div class="post">
+<div class="row">
+  <div class="large-12 columns">
+    <h1>Speaker Event Reports</h1>
+  </div>
+</div>
+<div class="row">
+  <div class="large-12 columns">
+    {% assign idx = '1' %}
+    {% for post in site.posts %}
+    {% if post.categories contains 'eventreports' %}
+    <div class="row">
+      <div class="large-3 columns">
         {% include audio-player.html index=idx %}
+      </div>
+      <div class="large-9 columns">
         <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="meta">Date: {{ post.date }}</p>
+        <p class="date">{{ post.date | date: "%m-%d-%Y" }}</p>
         <div class="entry">
           {{ post.content | truncatewords: 10 | capitalize }}
         </div>
       </div>
-      {% capture idx %}{{ idx | plus: '1' }}{% endcapture %}
-      {% endif %}
-      {% endfor %}
     </div>
-  </div>
-  {% capture footerscripts %}
-  <script type="text/javascript" src="/js/vendor/circle-player/jquery.transform2d.js"></script>
-  <script type="text/javascript" src="/js/vendor/circle-player/jquery.grab.js"></script>
-  <script type="text/javascript" src="/js/vendor/circle-player/jquery.jplayer.js"></script>
-  <script type="text/javascript" src="/js/vendor/circle-player/mod.csstransforms.min.js"></script>
-  <script type="text/javascript"
-          src="/js/vendor/circle-player/circle.player.js"></script>
-  <script>$(document).ready(function(){
-    {% assign idx = '1' %}
-    {% for post in site.posts %}
-    {% if post.categories contains 'eventreports' %}
-    new CirclePlayer('#jquery_jplayer_{{ idx }}',
-    { mp3: '{{post.mp3 | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}'}, { cssSelectorAncestor:'#cp_container_{{ forloop.index }}', preload:"none" });
+    {% if idx | times: 1 > page.max_posts_displayed %}{% break %}{% endif %}
     {% capture idx %}{{ idx | plus: '1' }}{% endcapture %}
     {% endif %}
     {% endfor %}
-    });
-  </script>
-  {% endcapture %}
-  {% include footer.html script = footerscripts %}
+  </div>
+</div>
+{% capture footerscripts %}
+<script type="text/javascript" src="/js/vendor/circle-player/jquery.transform2d.js"></script>
+<script type="text/javascript" src="/js/vendor/circle-player/jquery.grab.js"></script>
+<script type="text/javascript" src="/js/vendor/circle-player/jquery.jplayer.js"></script>
+<script type="text/javascript" src="/js/vendor/circle-player/mod.csstransforms.min.js"></script>
+<script type="text/javascript"
+        src="/js/vendor/circle-player/circle.player.js"></script>
+<script>$(document).ready(function(){
+  {% assign idx = '1' %}
+  {% for post in site.posts %}
+  {% if post.categories contains 'eventreports' %}
+  new CirclePlayer('#jquery_jplayer_{{ idx }}',
+  { mp3: '{{post.mp3 | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}'}, {
+  cssSelectorAncestor:'#cp_container_{{ forloop.index }}',
+  preload:"none" });
+  {% if idx | times: 1 > page.max_posts_displayed %}{% break %}{% endif %}
+  {% capture idx %}{{ idx | plus: '1' }}{% endcapture %}
+  {% endif %}
+  {% endfor %}
+  });
+</script>
+{% endcapture %}
+{% include footer.html script = footerscripts %}
 
 
 

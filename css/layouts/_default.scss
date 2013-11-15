@@ -42,7 +42,7 @@ h2 {
 a {
       color: #cd1f29;
     }
-    
+
 h1 {
     text-align: left;
     text-transform: uppercase;
@@ -250,4 +250,14 @@ footer {
             }
         }
     }
+}
+
+iframe.audio-player {
+    width: 200px;
+    height:200px;
+    border: none;
+    margin: auto;
+    box-shadow: none;
+    float:none;
+    overflow: hidden;
 }

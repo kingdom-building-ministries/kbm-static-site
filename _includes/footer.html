@@ -38,10 +38,7 @@
   <script src="/js/foundation/foundation.clearing.js"></script>
   <script src="/js/push-menu/classie.js"></script>
   <script src="/js/push-menu/mlpushmenu.js"></script>
-
-  {% if page.circle-player %}
-  {% include audio-player-script.html players = page.circle-player %}
-  {% endif %}
+  
   <script>
   new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
     type : 'cover'
