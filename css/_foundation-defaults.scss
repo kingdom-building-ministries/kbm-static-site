@@ -233,8 +233,8 @@ $default-float: left;
 
 // Style lists
 
-// $list-style-position: outside;
-// $list-side-margin: 0;
+$list-style-position: outside;
+$list-side-margin: emCalc(20);
 // $list-nested-margin: emCalc(20);
 // $definition-list-header-weight: bold;
 // $definition-list-header-margin-bottom: .3em;
