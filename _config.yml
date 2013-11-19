@@ -12,8 +12,8 @@ exclude:
 permalink: pretty
 
 sass:
-    style: expanded
-    deploy_style: compressed
+  style: expanded
+  deploy_style: compressed
 
 prose:
   siteurl: "http://staging.kbm.org"
@@ -139,4 +139,3 @@ navigation:
   - text: Store
     url: http://kbm.donorshops.com
     id: store-menu
-    
