@@ -1,6 +1,6 @@
 task :serve do
   if sh "bundle install"
-    sh "bundle exec 'jekyll serve --watch --trace'"
+    sh "bundle exec 'jekyll serve --watch'"
   end
 end
 
