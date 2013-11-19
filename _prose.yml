@@ -1,0 +1,8 @@
+prose:
+  siteurl: "http://staging.kbm.org"
+  metadata:
+    speakers/speakerschedule/_posts:
+      - name: "address"
+        field:
+          element: "text"
+          label: "Event Address:"

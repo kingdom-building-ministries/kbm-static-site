@@ -1,0 +1,12 @@
+.speaker-schedule {
+    li {
+        height: 275px;
+        padding: 7px;
+    }
+    li > div {
+        border-radius:10px;
+        background: #d1d1d1;
+        padding: 7px;
+        height: 100%;
+    }
+}
