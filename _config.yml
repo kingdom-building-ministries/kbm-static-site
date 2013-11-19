@@ -1,7 +1,7 @@
 name: "KBM"
-description: "KBM Main Website"
+description: "Kingdom Building Ministries"
+future: false
 
-url: "[localhost:4000]"
 exclude:
   - .gitignore
   - README.md
@@ -12,7 +12,7 @@ exclude:
 permalink: pretty
 
 sass:
-    style:  expanded  # nested|expanded|compact|compressed
+    style: expanded
     deploy_style: compressed
 
 prose:
