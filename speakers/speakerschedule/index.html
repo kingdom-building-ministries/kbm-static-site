@@ -5,10 +5,7 @@ alias: /speakerschedule
 ---
 <h1 style="text-align:center;"><span>Upcoming</span> speaker events</h1>
 <ul class="speaker-schedule small-block-grid-1 large-block-grid-3">
-  {% sorted_for post in site.categories.speakerschedule sort_by:start_date %}
-  {% assign starting_time = post.start_date | date_to_number %}
-  {% assign site_time = site.time | date_to_number %}
-  {% if starting_time > site_time %}
+  {% for post in site.categories.speakerschedule %}
   <li>
     <div>
     <h3 class="meta">{{ post.start_date | date: "%B %-d %Y" }}</h3>
@@ -18,6 +15,5 @@ alias: /speakerschedule
     </div>
     </div>
   </li>
-  {% endif %}
-  {% endsorted_for %}
+  {% endfor %}
 </ul>
