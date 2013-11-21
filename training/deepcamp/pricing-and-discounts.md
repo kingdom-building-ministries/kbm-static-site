@@ -29,7 +29,7 @@ $439/person applying as an individual
 | 4 | $1,439      |
 | 5 | $1,739      |
 | 6 | $1,999      |
-|| * Children 4 years of age and under will incur a $70 childcare fee. |
+| * Children 4 years of age and under will incur a $70 childcare fee. ||
 <br/>
 # *Family* Pricing: RV CAMPING
 

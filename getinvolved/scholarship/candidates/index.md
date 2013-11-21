@@ -14,8 +14,10 @@ In addition to their personal investment, each student is asked raise support fo
 
 <div class="row">
   <div class="kbm-full-col">
-   <div class="kbm-program-content-box gray" markdown="1">
-#{{student.name}}
+   <div class="kbm-program-content-box gray">
+   
+ <h1>{{student.name}}</h1>
+   
    </div>
   </div>
 </div>
@@ -25,7 +27,7 @@ In addition to their personal investment, each student is asked raise support fo
     <div class="kbm-program-content-box gray">
       <div class="row">
         <div class="kbm-third-col">
-          ![{{student.name}}s Picture]({{student.picurl}})
+          <img src="{{student.picurl}}"/>
         </div>
         
         <div class="kbm-third-col">
@@ -41,7 +43,7 @@ In addition to their personal investment, each student is asked raise support fo
           </h3>
           <h3>Country: {{student.country}}</h3>
         </div>
-        <div class="kbm-third-col" markdown="1">
+        <div class="kbm-third-col">
           {{student.dpurl}}
         </div>
       </div>

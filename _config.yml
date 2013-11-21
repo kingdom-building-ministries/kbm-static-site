@@ -18,6 +18,10 @@ sass:
 prose:
   siteurl: "http://staging.kbm.org"
 
+markdown: redcarpet
+redcarpet:
+  extensions: [tables, lax_spacing, smart]
+
 navigation:
   - text: About Us
     url: /about
