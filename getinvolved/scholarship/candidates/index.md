@@ -10,6 +10,43 @@ In addition to their personal investment, each student is asked raise support fo
 
 **WOULD YOU CO-LABOR WITH THESE STUDENTS TO ARE RIGHT NOW WALKING THIS FAITH JOURNEY?**
 
-{% for student in site.getinvolved.scholarship.candidates %}
-{{student.name}}
+{% for student in site.categories.candidates %}
+
+<div class="row">
+  <div class="kbm-full-col">
+   <div class="kbm-program-content-box gray" markdown="1">
+#{{student.name}}
+   </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="kbm-full-col">
+    <div class="kbm-program-content-box gray">
+      <div class="row">
+        <div class="kbm-third-col">
+          ![{{student.name}}s Picture]({{student.picurl}})
+        </div>
+        
+        <div class="kbm-third-col">
+          <h3> Program:
+          {% case student.program %}
+          {% when 'experience' %}
+          <a href="/theexperience">The Experience</a>
+          {% when '16days' %}
+          <a href="/16days">16 Days</a>
+          {% when 'deepcamp' %}
+          <a href="/deepcamp">Deep Camp</a>
+          {% endcase %}
+          </h3>
+          <h3>Country: {{student.country}}</h3>
+        </div>
+        <div class="kbm-third-col" markdown="1">
+          {{student.dpurl}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 {% endfor %}

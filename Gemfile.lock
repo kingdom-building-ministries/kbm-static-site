@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rebelzach/jekyll-sass.git
-  revision: 5349f08813b0f3f16324da779973ed4e07da8386
+  revision: 665bb21a02185501b8b56449b87b32072254455e
   branch: dev
   specs:
     jekyll-sass (1.2.0)

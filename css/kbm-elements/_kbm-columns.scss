@@ -49,6 +49,11 @@
     &.dark, .dark &{
 	background: black;
     }
+    &.gray, .gray &{
+	background:#e3e3e3;
+	color: black;
+	border: 1px solid #898989
+    }
 }
 
 .kbm-equal-column-row {
