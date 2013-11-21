@@ -29,8 +29,8 @@ $439/person applying as an individual
 | 4 | $1,439      |
 | 5 | $1,739      |
 | 6 | $1,999      |
-| * Children 4 years of age and under will incur a $70 childcare fee.||
-
+|| * Children 4 years of age and under will incur a $70 childcare fee. |
+<br/>
 # *Family* Pricing: RV CAMPING
 
 | # of People (5yrs+)* Per Camp Site | All-Inclusive Price (due by June 1st) |
@@ -42,8 +42,9 @@ $439/person applying as an individual
 | 5 | $1,119      |
 | 6 | $1,399      |
 | * Children 4 years of age and under will incur a $70 childcare fee.||
+<br/>
+# *DEPOSIT*:
 
-DEPOSIT:
+All Deep Camp individual attendees who are youth or young adults must [APPLY](/deepcamp/apply) online and be accepted. Church groups, families, couples and single adults must [REGISTER](/deepcamp/apply) online. A deposit of $75/person will be required upon registration/acceptance to secure your lodging accommodations at Deep Camp. Full tuition is due by May 1st. Group leaders: Call 800-873-8957 to discuss counselor attendance opportunities and possible custom pricing plans.  
 
-All Deep Camp individual attendees who are youth or young adults must APPLY online and be accepted. Church groups, families, couples and single adults must REGISTER online. A deposit of $75/person will be required upon registration/acceptance to secure your lodging accommodations at Deep Camp. Full tuition is due by May 1st. Group leaders: Call 800-873-8957 to discuss counselor attendance opportunities and possible custom pricing plans.
-SUBMIT A DEEP CAMP DEPOSIT/PAYMENT HERE.
+## [SUBMIT A DEEP CAMP DEPOSIT/PAYMENT HERE.](/deepcamp/payment)

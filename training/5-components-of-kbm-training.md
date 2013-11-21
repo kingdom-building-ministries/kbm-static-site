@@ -2,7 +2,7 @@
 layout: basic
 alias: 
   - /5-components-of-kbm-training
-  - /trainig/components
+  - /training/components
 ---
 # *5 Components* of KBM Training
 
