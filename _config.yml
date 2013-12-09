@@ -15,8 +15,25 @@ sass:
   style: expanded
   deploy_style: compressed
 
+siteurl: "http://staging.kbm.org"
 prose:
-  siteurl: "http://staging.kbm.org"
+  ignore:
+    - /*
+    - !/blog
+  metadata:
+    speakers/speakerschedule/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "speaker-event"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Event Title:"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Event Address:"
 
 markdown: redcarpet
 redcarpet:
