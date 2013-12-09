@@ -1,4 +1,9 @@
+
+siteurl: http://staging.kbm.org
 prose:
+  ignore:
+    - /*
+    - !/blog
   metadata:
     speakers/speakerschedule/_posts:
       - name: "layout"
