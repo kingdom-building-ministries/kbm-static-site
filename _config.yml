@@ -15,26 +15,6 @@ sass:
   style: expanded
   deploy_style: compressed
 
-siteurl: "http://staging.kbm.org"
-prose:
-  ignore:
-    - /*
-    - !/blog
-  metadata:
-    speakers/speakerschedule/_posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "speaker-event"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Event Title:"
-      - name: "address"
-        field:
-          element: "text"
-          label: "Event Address:"
-
 markdown: redcarpet
 redcarpet:
   extensions: [tables, lax_spacing, smart]
