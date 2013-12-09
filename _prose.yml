@@ -1,0 +1,49 @@
+prose:
+  siteurl: 'http://staging.kbm.org'
+  ignore:
+    - /_plugins
+  metadata:
+    speakers/speakerschedule/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "speaker-event"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Event Title:"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Event Address:"
+      - name: "speaker"
+        field:
+          element: "select"
+          label: "Speaker:"
+          options: "/data/speakers.jsonp?callback=speakers"
+    speakers/eventreports/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "event-report"
+      - speaker: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Event Address:"
+    blog/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post Title"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Event Address:"
