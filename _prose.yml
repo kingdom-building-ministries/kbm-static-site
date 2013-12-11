@@ -3,7 +3,7 @@ prose:
   ignore:
     - /_plugins
   metadata:
-    speakers/speakerschedule/_posts:
+    speakers/speakerschedule/_events:
       - name: "layout"
         field:
           element: "hidden"
@@ -20,7 +20,7 @@ prose:
         field:
           element: "select"
           label: "Speaker:"
-          options: "/data/speakers.jsonp?callback=speakers"
+          options: "http://staging.kbm.org/data/speakers.jsonp?callback=speakers"
     speakers/eventreports/_posts:
       - name: "layout"
         field:
