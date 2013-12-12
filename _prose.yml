@@ -2,7 +2,16 @@ prose:
   siteurl: 'http://staging.kbm.org'
   ignore:
     - /*
+    - '!/_data'
+    - '!/about'
     - '!/blog'
+    - '!/events'
+    - '!/fuel'
+    - '!/getinvolved'
+    - '!/resources'
+    - '!/speakers'
+    - '!/training'
+    - '!/index.haml'
   metadata:
     speakers/speakerschedule/_events:
       - name: "layout"
