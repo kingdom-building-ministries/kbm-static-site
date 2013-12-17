@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Zach's post"
+title: Zachs post
 ---
 
 ## A New Post
