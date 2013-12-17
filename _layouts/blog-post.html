@@ -6,7 +6,7 @@
     <p class="muted">{{ page.author }} {{ page.date | date_to_long_string }}</p>
     
     {% if page.poster-image %}
-    <img src="{{ page.poster-image }}"/>
+    {% include image.html url=page.poster-image %}
     {% endif %}
     
     {{ content }}
