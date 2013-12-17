@@ -1,5 +1,6 @@
 prose:
-  siteurl: 'http://staging.kbm.org'
+  # siturl disable because prose has issues with live previews right now
+  # siteurl: 'http://staging.kbm.org'
   ignore:
     - /*
     - '!/_data'
@@ -48,12 +49,31 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "default"
-      - name: "title"
+          value: "blog-post"
+      - name: "author"
         field:
           element: "text"
-          label: "Post Title"
-      - name: "address"
+          label: "Author"
+          value: ""
+          placeholder: "Kingdom Builder"
+          type: "text"
+      - name: "date"
         field:
           element: "text"
-          label: "Event Address:"
+          label: "Post Date"
+          value: ""
+          placeholder: "2013-01-01"
+          type: "text"
+      - name: "poster-image"
+        field:
+          element: "text"
+          label: "Poster Image"
+          value: ""
+          placeholder: "http://www.dropbox.com/poster/link"
+          type: "text"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
