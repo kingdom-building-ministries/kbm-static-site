@@ -103,7 +103,6 @@ body {
 }
 
 .menubar {
-    margin-bottom: 60px;
     border-style:solid none;
     border-width: $menu-border-height;
     border-color: $kbm-accent-a-color;
@@ -302,4 +301,8 @@ thead {
 
 tbody tr:nth-child(odd)	{ 
 background-color:#c6c6c6; 
+}
+
+.menu-padding {
+  padding-top: 60px;
 }

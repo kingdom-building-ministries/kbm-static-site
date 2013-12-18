@@ -1,6 +1,6 @@
 --- 
 layout: default 
-alias: /prayer 
+alias: /prayer
 ---
 
 <div id="kbm-basic-layout2">
@@ -38,13 +38,9 @@ alias: /prayer
         <div class="row">
             <div class="kbm-full-col">
                 <div class="kbm-program-content-box light">
-                    <?php
-                                                                                                                                    $document = &JFactory::getDocument();
-                                                                                                                                    $renderer = $document->loadRenderer('modules');
-                                                                                                                                    $options = array('style' => 'xhtml');
-                                                                                                                                    $position = 'main1';
-                                                                                                                                    echo $renderer->render($position, $options, null);
-                                                                                                                                ?>
+                      {% for post in site.categories.prayer-updates limit: 1 %}
+                        {{ post.content }}
+                      {% endfor %}
                 </div>
             </div>
         </div>
@@ -60,25 +56,26 @@ alias: /prayer
         <div class="row">
             <div class="kbm-half-col">
                 <div class="kbm-program-content-box light kbm-speaker-prayer-list">
-                    <h1>Speaker Events</h1><?php
-                                                                                                                                    $document = &JFactory::getDocument();
-                                                                                                                                    $renderer = $document->loadRenderer('modules');
-                                                                                                                                    $options = array('style' => 'xhtml');
-                                                                                                                                    $position = 'main3';
-                                                                                                                                    echo $renderer->render($position, $options, null);
-                                                                                                                                ?>
+                    <h1 style="text-align:center;"><span>Upcoming</span> speaker events</h1>
+<ul>
+  {% for post in site.categories.speakerschedule limit: 5 %}
+  <li>
+    <div>
+    <h3 class="meta">{{ post.start_date | date: "%B %-d %Y" }}</h3>
+    <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
                 </div>
             </div>
 
             <div class="kbm-half-col">
                 <div class="kbm-program-content-box light">
-                    <?php
-                                                                                                                                    $document = &JFactory::getDocument();
-                                                                                                                                    $renderer = $document->loadRenderer('modules');
-                                                                                                                                    $options = array('style' => 'xhtml');
-                                                                                                                                    $position = 'main2';
-                                                                                                                                    echo $renderer->render($position, $options, null);
-                                                                                                                                ?>
+                    {% for post in site.categories.prayer-requests limit: 1 %}
+                        {{ post.content }}
+                      {% endfor %}
                 </div>
             </div>
         </div>

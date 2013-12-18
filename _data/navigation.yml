@@ -1,0 +1,127 @@
+- text: About Us
+  url: /about
+  id: about-menu
+  items:
+    - text: Our Story
+      url: /ourstory
+    - text: DNA
+      url: /dna
+      items:
+        - text: Mission
+          url: /mission
+        - text: Purpose
+          url: /purpose
+        - text: Values
+          url: /values
+        - text: Statement of Faith
+          url: /statementoffaith
+    - text: What is a Laborer?
+      url: /whatisalaborer
+    - text: Ministry Guide
+      url: /ministryguide
+    - text: KBM Staff
+      url: /staff
+    - text: KBM Board
+      url: /board
+    - text: Financial Summary
+      url: /financialsummary 
+- text: Speakers
+  url: /speakers
+  id: speakers-menu
+  items:
+    - text: Speakers
+      url: /speakers
+      items:
+        - text: Caleb Bislow
+          url: /calebbislow
+        - text: Foster Christy
+          url: /fosterchristy
+        - text: Adrian Despres
+          url: /adriandespres
+        - text: Chris Emery
+          url: /chrisemery
+        - text: Robert Gelinas
+          url: /robertgelinas
+        - text: Fred Lynch
+          url: /fredlynch
+        - text: Tim Reilly
+          url: /timreilly
+        - text: Dwight Robertson
+          url: /dwightrobertson
+        - text: Jason Roe
+          url: /jasonroe
+        - text: Efrem Smith
+          url: /efremsmith
+        - text: Mick Veach
+          url: /mickveach
+        - text: John Vermilya
+          url: /johnvermilya
+    - text: Speaker Schedule
+      url: /speakerschedule
+    - text: Book A Speaker
+      url: /book
+    - text: Past Event Reports
+      url: /eventreports
+    - text: Podcasts
+      url: /podcasts
+- text: Training
+  url: /training
+  id: training-menu
+  items:
+    - text: The Experience
+      url: /theexperience
+    - text: 16 Days
+      url: /16days
+    - text: Deep Camp
+      url: /deepcamp
+    - text: Unusual Soldiers
+      url: /unusualsoldiers
+    - text: Life Plan
+      url: /lifeplan  
+    - text: Plan A Conference
+      url: /planaconference
+    - text: Weekends Almost Alone With God
+      url: /waawg
+    - text: Training Values
+      url: /trainingvalues  
+- text: Fuel
+  id: fuel-menu
+  items:
+    - text: Plan A Connection
+      url: /plan-a-connection
+      items:
+        - text: Plan A Book
+          url: /plan-a-book
+        - text: Plan A Study Guide
+          url: /plan-a-study-guide
+        - text: View Dwights Schedule
+        - text: Book Dwight to Speak
+          url: /dwightrobertson
+    - text: Personal Ministry Inventory
+      url: /resources/kbm_personal_ministry_inventory.pdf
+- text: Get Involved
+  url: /connect
+  id: get-involved-menu
+  items:
+    - text: Blog
+      url: /blog
+    - text: Prayer
+      url: /prayer
+    - text: Donate
+      url: /donate
+    - text: Scholarship a Student
+      url: /scholarship
+    - text: Initiatives
+      url: /initiatives
+      items:
+        - text: Man Up!
+          url: /manup
+        - text: International
+          url: /international
+        - text: Urban Advance
+          url: /urbanadvance
+    - text: Connect
+      url: /connect
+- text: Store
+  url: http://kbm.donorshops.com
+  id: store-menu

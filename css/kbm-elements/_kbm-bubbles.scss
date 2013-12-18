@@ -22,12 +22,12 @@
 		color: #ffffff;
 	}
 	img {
-		box-shadow: none;
+		box-shadow: none !important;
 		padding-right: 10px;
-		border:none;
+		border:none !important;
 	}
 	&.shadow {
-		box-shadow: inset 0px 0px 30px 4px rgba(0,0,0,0.48)
+		box-shadow: inset 0px 0px 30px 4px rgba(0,0,0,0.48);
 	}
 }
 
