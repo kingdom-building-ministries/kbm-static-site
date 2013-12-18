@@ -1,7 +1,20 @@
 ---
 layout: basic
 ---
-{% for post in site.categories.blog %}
-  <h1><a href="{{post.url}}">{{post.title}}</a></h1>
-  {{post.content}}
-{% endfor %}
+<div class="row">
+  <div class="large-12 columns">
+    <img src="/img/kbm-blog-logo.png"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-8 columns">
+    {% for post in site.categories.blog %}
+      <h1><a href="{{post.url}}">{{post.title}}</a></h1>
+      {{post.excerpt}} <a href="/{{post.url}}">Click here to continue reading.</a>
+      {% endfor %}
+  </div>
+  <div class="large-4 columns">
+    {% include blog-sidebar.html %}
+  </div>
+</div>
