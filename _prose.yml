@@ -1,6 +1,5 @@
 prose:
-  # siturl disable because prose has issues with live previews right now
-  # siteurl: 'http://staging.kbm.org'
+  siteurl: 'http://staging.kbm.org'
   ignore:
     - /*
     - '!/_data'
