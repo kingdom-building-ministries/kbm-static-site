@@ -1,5 +1,35 @@
+- name: Caleb Bislow
+  value: caleb-bislow
+
+- name: Foster Christy
+  value: foster-christy  
+
 - name: Adrian Despres
   value: adrian-despres
-
+    
+- name: Chris Emery
+  value: chris-emery
+  
+- name: Robert Gelinas
+  value: robert-gelinas
+  
+- name: Fred Lynch
+  value: fred-lynch
+  
+- name: Tim Reilly
+  value: tim-reilly
+  
+- name: Dwight Robertson
+  value: dwight-robertson
+  
 - name: Jason Roe
   value: jason-roe
+  
+- name: Efrem Smith
+  value: efrem-smith
+  
+- name: Mick Veach
+  value: mick-veach
+  
+- name: John Vermilya
+  value: john-vermilya

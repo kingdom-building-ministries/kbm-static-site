@@ -37,12 +37,12 @@ prose:
         field:
           element: "hidden"
           value: "event-report"
-      # - name: "title"
-#         field:
-#           element: "text"
-#           label: "Title"
-#           value: ""
-#           type: "text"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+          type: "text"
       - name: "speaker"
         field:
           element: "select"
@@ -96,4 +96,4 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          alterable: true
+          alterable: "true"
