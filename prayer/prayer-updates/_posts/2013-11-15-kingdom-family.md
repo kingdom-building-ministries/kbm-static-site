@@ -1,0 +1,17 @@
+<p> </p>
+<p>The holiday season can be odd in the way that the joy of "belonging" feels absent in many individuals and families.  If you find yourself in this category or know someone who does, God has much to say and much comfort to offer.  We have hope, for we have been given so much - chosen for God's royal Kingdom family and an eternity of intimate communion with God.</p>
+<p style="padding-left: 30px;"><em>Now if you obey me fully and keep my covenant, then out of all nations you will be my treasured possession. Although the whole earth is mine, you will be for me a kingdom of priests and a holy nation.  (Exodus 19:5-6)</em></p>
+<p><span style="line-height: 1.3em;">God spoke to Moses at the very beginning of Israel's story revealing that they would be for Him "a kingdom of priests and a holy nation."  This was a pretty big statement...and guess what -  the very last book in the Bible says a similar thing!  The only difference being that since Christ died and was resurrected for the redemption of ALL mankind, we are now all included in the promise God first spoke to Moses:</span></p>
+<p style="padding-left: 30px;"><em>You are worthy to take the scroll and to open its seals, because you were slain, and with your blood you purchased for God persons from every tribe and language and people and nation. You have made them to be a kingdom and priests to serve our God, and they will reign on the earth.  (Revelation 5:9-10) </em></p>
+<p>God's people were made to be a kingdom unlike any other around it - a kingdom whose citizens are all priests, each having the privilege of daily access, worship and devotion to God! Embracing our role as priests before our God leads us to complete devotion and intimacy with Him, worshiping Him in everything we do.  So, as believers redeemed by Christ's sacrifice our priestly role follows the example of the sacrificial way Jesus lived His life :</p>
+<ul>
+<ul>
+<li><span style="line-height: 1.3em;">Prayer and worship (Revelation 8:3-4) </span></li>
+<li><span style="line-height: 1.3em;">Offering our lives as living sacrifices (Romans 12:1) </span></li>
+<li><span style="line-height: 1.3em;">Praise (Hebrews 13:15) Giving (Philippians 4:18) </span></li>
+<li><span style="line-height: 1.3em;">Everyday communion with the Lord (Colossians 3:1) </span></li>
+<li><span style="line-height: 1.3em;">Ministry you're created for (1 Corinthians 12, Isaiah 61)</span></li>
+</ul>
+</ul>
+<p><span style="line-height: 1.3em;">In this Thanksgiving season, it seems fitting to reflect anew on God's big picture and the intimate way He has included us as family and given us a role in His Kingdom.  We are chosen, we are a royal priesthood and holy Kingdom nation, belonging to God and serving him, that we may declare the praises of Jesus, who called us out of darkness into his wonderful light!  </span></p>
+<p style="text-align: center;"><strong><span style="line-height: 1.3em;">As you reflect on this royal priesthood Kingdom family with a thankful heart, <br />what would God have you offer Him this week, and how would He have you serve others?<br />What does it look like for your heart to hang onto these truths the remainder of the year?</span></strong></p>

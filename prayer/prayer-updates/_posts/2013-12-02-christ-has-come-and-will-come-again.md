@@ -1,0 +1,7 @@
+<p> </p>
+<p>A season of joy, anticipation, hope, longing, life, and love is upon us!</p>
+<p>Christ has come and will come again.  How should our prayers be shaped in light of this truth?  We long, we hope, we anticipate, we believe and are filled with inexpressible JOY, all in prayer.  Living in the "in-between" is the mysterious journey we've been chosen for.</p>
+<p>In prayer, we also anticipate a King who will come to rule the world with truth, justice, and righteousness; the perfect King will bring perfect judgment upon the world and free us from the shadow of death.</p>
+<p>The season of Advent is thus a season marked by prayer.  Christ has come and will come again, and the weight of this truth draws us to pray out of a posture of humility, devotion, submission, and with the hope of deliverance - that those walking in darkness may anticipate great light (Isaiah 9).</p>
+<p style="text-align: center;">Christ has come and will come again!  <br />As Advent begins, unpack the meaning of this truth for your life and let it shape the way you pray.</p>
+<p>Come, Thou long expected Jesus <br />Born to set Thy people free; <br />From our fears and sins release us, <br />Let us find our rest in Thee. <br />Israel's Strength and Consolation, <br />Hope of all the earth Thou art; <br />Dear Desire of every nation, <br />Joy of every longing heart.</p>

@@ -1,0 +1,12 @@
+<p>The 2013 Experience team graduated the program last Saturday and was commissioned to go labor for the King in the everyday and ordinary places of life!  Praise be to our awesome God! He has gone beyond what we could have asked for or imagined.  Lives have undoubtedly been transformed for the glory of our God and the advancement of His Kingdom.  Once again, <strong>THANK YOU for laboring with us in prayer</strong> - an eternal impact has been made.  May their hearts be forever submitted to the King, and may they know His love and hear His voice every step of the way!  Thank you for celebrating their lives together with us.  </p>
+<p style="text-align: center;">Captured below is a glimpse of what was shared during the graduation ceremony.  I pray your heart is inspired and blessed this week, knowing your intercession invited God's miraculous touch in the lives of these students.</p>
+<p class="caption" style="text-align: center;"><strong>The world has yet to know what impact will be made for the Kingdom as these 31 laborers commit to a life of full surrender!  Watch out...they're coming!<br /><br /></strong></p>
+<p>"I have finally experienced a <strong>community of authentic love</strong>." ~Erik</p>
+<p>"<strong>Through Christ I can</strong> do way more than I could have ever imagined." ~Beth</p>
+<p>"I used to think, 'I'm just a soccer player, what impact could I ever make?'  But I'm not just a soccer player, <strong>my story does matter and can make an impact</strong>."  ~Cortland</p>
+<p>"I realized God doesn't just give us freedom "from" things, He gives us <strong>freedom to LIVE FULLY</strong>, and He's done so much more than I could have asked for this summer."  ~Taylor</p>
+<p>"There is JOY in surrender!  I will trust God and know <strong>my joy is found in Him."  </strong>~Calie</p>
+<p>"I had to ask myself, what team do I play for?  I have chosen God's team.  I'm sick of being on the bench, <strong>it's time to play and fight for God, and together with you, we'll change the world.</strong>"  ~Enrique</p>
+<p>"All my life I've been striving, but <strong>GRACE has come to me</strong>."  ~Jordan</p>
+<p>"I've found freedom in forgiveness.  A weight has lifted and <strong>everything is brighter</strong>."  ~Matt</p>
+<p>"All I can say is, God showed up! <strong>It's time to be sent out</strong>!"  ~Kate</p>

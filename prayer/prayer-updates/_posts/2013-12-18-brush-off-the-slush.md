@@ -1,9 +1,6 @@
 ---
 layout: basic
 ---
-# Brush off the slush  
-
-
 Can joy be found at Christmas without a fireplace and stockings, without cookies and hot chocolate, and without a warm embrace?  With all of our hearts we must say yes. 
 
 "Joy to the world!  The Lord has come!  Let earth receive her King!  Let every heart prepare Him room, and heaven and nature sing."  This familiar hymn, Joy to the World, can preach!  Have you sung it lately?  Our Savior reigns, and every living thing will repeat the sounding joy!  He came to let sin and sorrow grow no more, and to cast the curse we know far away.  Through the wonders of Christ's love He will rule the world with truth and grace, and all nations will know the glories of His righteousness. 
