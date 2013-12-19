@@ -37,14 +37,24 @@ prose:
         field:
           element: "hidden"
           value: "event-report"
-      - speaker: "title"
+      - name: "title"
         field:
           element: "text"
-          label: "Post Title"
-      - name: "address"
+          label: "Title"
+          value: ""
+          type: "text"
+      - name: "speaker"
+        field:
+          element: "select"
+          label: "Speaker:"
+          options: "http://staging.kbm.org/data/speakers.jsonp?callback=speakers"
+      - name: "mp3"
         field:
           element: "text"
-          label: "Event Address:"
+          label: "MP3"
+          value: ""
+          type: "text"
+          help: "A link to the MP3 file in KBM web assets dropbox folder"
     blog/_posts:
       - name: "layout"
         field:
