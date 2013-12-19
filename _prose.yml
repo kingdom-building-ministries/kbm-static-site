@@ -13,6 +13,7 @@ prose:
     - '!/speakers'
     - '!/training'
     - '!/index.haml'
+    - '!/prayer'
   metadata:
     speakers/speakerschedule/_events:
       - name: "layout"
