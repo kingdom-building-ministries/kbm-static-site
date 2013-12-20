@@ -1,10 +1,13 @@
 .blog-sidebar {
   background: #d8d8d8;
-  position: absolute;
   height: 100%;
   right: 0;
   top: 0;
   bottom: 0;
+  @media #{$not-mobile} {
+            position: absolute;
+        }
+
 }
 
 .blog-header {
@@ -26,8 +29,22 @@
 
 .blog-thumbnail {
   width: 200px;
-  float: left;
   margin-right: 10px;
+  margin-bottom: 10px;
 	border: 5px solid white;
 	box-shadow: 1px 3px 4px #232320;
+}
+
+.firstpost-thumbnail {
+  width: 250px;
+  border: 5px solid white;
+	box-shadow: 1px 3px 4px #232320;
+  margin-bottom: 10px;
+}
+
+.firstpost-row {
+  padding-bottom: 10px;
+  border-bottom: 2px solid black;
+  border-bottom-width: 50%;
+  margin-bottom: 20px !important;
 }
