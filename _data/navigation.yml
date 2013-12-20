@@ -2,8 +2,6 @@
   url: /about
   id: about-menu
   items:
-    - text: Our Story
-      url: /ourstory
     - text: Our DNA
       url: /dna
       items:
@@ -17,6 +15,9 @@
           url: '/about/dna/#statement-of-faith'
     - text: What is a Laborer?
       url: /whatisalaborer
+   # 131220 - Content isn't ready yet. Uncomment when the page is done.
+   # - text: Our Story
+   #   url: /ourstory
     - text: Ministry Guide
       url: /ministryguide
     - text: KBM Staff
