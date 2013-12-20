@@ -1,11 +1,12 @@
 .pad-top {
-  padding-top: 60px;
+  padding-top: 60px !important;
 }
 
 .section {
   margin-bottom: 20px;
+  padding-top: 20px;
   &.dark {
-    background: gray;
+    background: #acacac;
     color: white;
   }
   &.light {
