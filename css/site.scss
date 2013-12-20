@@ -46,10 +46,12 @@
 @import "push-menu/push-menu";
 @import "kbm-elements/kbm-bubbles";
 @import "kbm-elements/kbm-columns";
+@import "kbm-elements/content-formatting";
 // These are carryovers from the old site, should probably move these to their own Jekyll layouts one day...
 @import "kbm-elements/basic-layout";
 @import "kbm-elements/basic-layout2";
 @import "kbm-elements/kbm-fixedbg-layout";
+
 
 // Include any css specific to a layout here
 @import "layouts/default";
