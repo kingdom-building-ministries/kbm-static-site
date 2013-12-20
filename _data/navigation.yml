@@ -8,13 +8,13 @@
       url: /dna
       items:
         - text: Mission
-          url: /mission
+          url: '/about/dna/#misison'
         - text: Purpose
-          url: /purpose
+          url: '/about/dna/#purpose'
         - text: Values
-          url: /values
+          url: '/about/dna/#values'
         - text: Statement of Faith
-          url: /statementoffaith
+          url: '/about/dna/#statement-of-faith'
     - text: What is a Laborer?
       url: /whatisalaborer
     - text: Ministry Guide
