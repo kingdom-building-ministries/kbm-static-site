@@ -1,14 +1,12 @@
 {% include header.html %}
 <div class="blog-post-container">
 <div class="row" style="position:relative;">
-  <div class="large-8 columns">
+  <div class="large-8 columns blog-content">
+    {% if page.poster-image %}
+    <img class="blog-poster-img" src="{% include url.html url=page.poster-image %}"/>
+    {% endif %}
     <h1>{{ page.title }}</h1>
     <p class="muted">{{ page.author }} {{ page.date | date_to_long_string }}</p>
-    
-    {% if page.poster-image %}
-    {% include image.html url=page.poster-image %}
-    {% endif %}
-    
     {{ content }}
   </div>
   
