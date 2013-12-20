@@ -1,0 +1,63 @@
+---
+layout: basic
+alias: /dna
+---
+# MISSION
+ 
+Kingdom Building Ministries exists to expand God’s Kingdom by challenging people to fully devote their lives to God and by equipping them to live lives of active ministry:
+Hearts on Fire. Lives on Purpose.
+ 
+ 
+# PURPOSE
+ 
+>"And Jesus went about all the cities and villages, teaching in their synagogues and preaching the >gospel of the kingdom, and healing every disease and every infirmity. When he saw the crowds, he 
+>had compassion for them, because they were harassed and helpless, like sheep without a shepherd. 
+>Then he said to his disciples, 'The harvest is plentiful, but the laborers are few; pray therefore the Lord 
+>of the harvest to send out laborers into his harvest'" (Matthew 9:35-38 RSV).
+ 
+Our purpose is to fan the flame of a worldwide multiplying *laborership*  movement that will bring more of God, more of His will and more of His glory to the earth.  We believe God is raising up a movement of laborers—ordinary people who, empowered by His Spirit, are ambassadors of His love in every corner of the world. We seek to get in line with what God is doing in our generation and quicken—or fan the flame—of this worldwide laborership movement.
+ 
+However, there are still too few active Kingdom Laborers at work in the world.  Jesus instructed His disciples to [pray](/prayer) and ask for more laborers. 2,000 years later we need to earnestly be praying for the same need. According to a survey published by the Barna Research Institute, eighty-two percent of people who consider themselves Christians are not involved in any kind of active Kingdom service. Apparently, the harvest (ministry opportunities among people) is still plentiful, and the laborers (ministry participants) are still too few (Matthew 9:37). God’s Plan A for reaching the world is to mobilize every Christian (as an active laborer) into every place of human need. But how can He fulfill His plan if fewer than 20% of His people are involved in it? How can He fulfill His plan when more than 80% are spectators?  
+ 
+Kingdom Building Ministries challenges spectators to get up off of the bench and employ their life for the King and His Kingdom!  We hope that KBM will be a place where you have a place and space to be transformed by God, through digging deeper in your relationship with God and having your understand of God, His plan for the world and your key role in it unveiled. You will be equipped and mobilized to live with a heart on fire and a life on purpose, laboring for the Kingdom!  Our earnest prayer is that you would experience the MORE God has in store: More of God.  More of His glory.  More of His will. And the world around you would experience MORE through your life.
+ 
+Kingdom Building Ministries’ [Itinerant Speaker Team](/speakers) exists to challenge individuals to take deeper steps with Jesus and be transformed. We also offer [discipleship training opportunities[(/training) for all ages. Our training opportunities provide avenues for believers to be equipped as Kingdom Laborers, and our [KBM Initiatives](/initiatives) serve to mobilize laborers everywhere to live with a heart on fire for God.
+ 
+# VALUES
+ 
+All of our discipleship training is based on a set of core values. We believe living by these values will help EVERY person represent and labor for God’s kingdom in the ways Jesus taught and modeled.
+ 
+The two most important values come from Jesus’ greatest commandments - Love God, Love Others. Because of the first commandment, we believe the greatest gift we can give the world is our intimacy with God, and therefore loving God and loving others are intricately connected. We pray your roots will grow DEEP in your relationship with Jesus Christ, that your influence would be WIDE as your love for God overflows into love for those around you, and that you would become a REPRODUCER of other laborers!  As you explore KBM, become familiar with the "spiritual DNA" of the Kingdom Laborer movement.
+ 
+Scripture directs us to some key Deep (loving God) and Wide (loving people) values which drive the life of a Kingdom Laborer.
+ 
+## DEEP VALUES
+ 
+1. 	Loving God Intimately (Matthew 22:34-40)
+2. 	Seeking His Kingdom Always (Matthew 6:33)
+3. 	Being Daily Directed by His Spirit (Galatians 5:16-26)
+4. 	Living Passionately for Christ (Romans 5:1-5)
+5. 	Continuing Transformation Through the Holy Spirit (2 Corinthians 3:18)
+6. 	Engaging in the Spiritual Battle (James 4:7, 2 Corinthians 10:3-6, Ephesians 6:10-17)
+7. 	Growing Together with Other Believers (Ephesians 4:11-16, 1 John 1:7, Proverbs 27:17)
+ 
+ 
+## WIDE VALUES
+ 
+1. 	Loving All People (Matthew 22:34-40)
+2. 	Participating in the Priesthood of Believers (1 Peter 2:9)
+3. 	Engaging in the Ordinary (Matthew 9:10)
+4. 	Spiritually Multiplying Through One-At-A-Time Reproduction (Titus 2:4, Matthew 28:16-20)
+5. 	Fulfilling the Great Commission as Your Ultimate Purpose (Matthew 28:16-20)
+6. 	Living in Unity with All Believers (John 17:23)
+7. 	Living a Life of Transformational Impact (1 Corinthians 3:10-15, Galatians 4:24, John 15:16)
+ 
+# STATEMENT OF FAITH
+ 
+- We believe the Bible to be the inspired, the only infallible, authoritative Word of God.
+- We believe that there is one God, eternally existent in three persons: Father, Son and Holy Spirit.
+- We believe in the deity of our Lord Jesus Christ, in His virgin birth, in His sinless life, in His miracles, in His vicarious and atoning death through His shed blood, in His bodily resurrection, in His ascension to the right hand of the Father, and in His personal return in power and glory.
+- We believe that regeneration by the Holy Spirit is absolutely essential for the salvation of lost and sinful man.
+- We believe in the present ministry of the Holy Spirit by whose indwelling the Christian is enabled to live a godly life.
+- We believe in the resurrection of both the saved and the lost: they that are saved unto the resurrection of life and they that are lost unto the resurrection of damnation.
+- We believe in the spiritual unity of believers in our Lord Jesus Christ. 
