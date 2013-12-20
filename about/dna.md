@@ -2,13 +2,13 @@
 layout: basic
 alias: /dna
 ---
-# MISSION
+# *MISSION*
  
 Kingdom Building Ministries exists to expand God’s Kingdom by challenging people to fully devote their lives to God and by equipping them to live lives of active ministry:
 Hearts on Fire. Lives on Purpose.
  
  
-# PURPOSE
+# *PURPOSE*
  
 >"And Jesus went about all the cities and villages, teaching in their synagogues and preaching the >gospel of the kingdom, and healing every disease and every infirmity. When he saw the crowds, he 
 >had compassion for them, because they were harassed and helpless, like sheep without a shepherd. 
@@ -52,7 +52,7 @@ Scripture directs us to some key Deep (loving God) and Wide (loving people) valu
 6. 	Living in Unity with All Believers (John 17:23)
 7. 	Living a Life of Transformational Impact (1 Corinthians 3:10-15, Galatians 4:24, John 15:16)
  
-# STATEMENT OF FAITH
+# *STATEMENT* OF FAITH
  
 - We believe the Bible to be the inspired, the only infallible, authoritative Word of God.
 - We believe that there is one God, eternally existent in three persons: Father, Son and Holy Spirit.
