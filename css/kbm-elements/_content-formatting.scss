@@ -3,7 +3,6 @@
 }
 
 .section {
-  margin-bottom: 20px;
   padding-top: 20px;
   &.dark {
     background: #acacac;
@@ -23,6 +22,10 @@ blockquote {
   padding: 11px 15px 10px 10px;
   margin-bottom: 40px;
   color: black;
+  @media #{$not-mobile} {
+    margin-left: 60px;
+    margin-right: 60px;
+  }
 }
  
 blockquote:before {
@@ -37,4 +40,8 @@ blockquote:before {
   bottom: -35px;
 }
 
- 
+.content-column {
+  @extend .large-10;
+  @extend .columns;
+  @extend .large-centered;
+}

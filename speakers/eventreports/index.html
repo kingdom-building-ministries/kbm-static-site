@@ -1,7 +1,6 @@
 ---
 layout: basic
 alias: /eventreports
-max_posts_displayed: 10
 ---
 <div class="row">
   <div class="large-12 columns">
@@ -12,24 +11,20 @@ We've discovered that capturing and sharing event testimonies and speaker report
 </div>
 <div class="row">
   <div class="large-12 columns">
-    {% assign idx = '1' %}
-    {% for post in site.posts %}
-    {% if post.categories contains 'eventreports' %}
+    {% for post in site.categories.eventreports  limit:10 %}
     <div class="row">
+    <div class="section">
       <div class="large-3 columns">
         {% include audio-player.html mp3=post.mp3 %}
       </div>
-      <div class="large-9 columns">
-        <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="date">{{ post.date | date: "%m-%d-%Y" }}</p>
+      <div class="large-9 columns event-report-snippet">
+        <h3><a href="{{ post.url }}">{{ post.title }} - {{post.speaker}} - {{post.date | date: "%m-%d-%y" }}</a></h3>
         <div class="entry">
           {{ post.content | truncatewords: 10 | capitalize }}
         </div>
       </div>
+      </div>
     </div>
-    {% if idx | times: 1 > page.max_posts_displayed %}{% break %}{% endif %}
-    {% capture idx %}{{ idx | plus: '1' }}{% endcapture %}
-    {% endif %}
     {% endfor %}
   </div>
 </div>
