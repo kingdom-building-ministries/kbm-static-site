@@ -48,7 +48,7 @@ h1 {
       color: black;
     }
     .dark & {
-      color: white; 
+      color: white;
     }
     em {
       color: #cb222f;
@@ -56,7 +56,6 @@ h1 {
       font-style: normal;
       font-family: NovecentowideNormal, Helvetica, sans-serif;
     }
-    
 }
 
 h2 {
@@ -79,7 +78,7 @@ h3 {
       color: black;
     }
     .dark & {
-      color: white; 
+      color: white;
     }
     em {
       color: #cb222f;
@@ -154,6 +153,28 @@ body {
     .top-bar-section {
         text-transform: uppercase;
         font-family: NovecentowideDemiBold, Helvetica, sans-serif;
+        .top-level ul {
+            background-color:$kbm-background-main-color;
+            box-shadow: 0px 2px 6px #888;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .top-level > ul {
+            border-top-right-radius: 0px;
+            border-top-left-radius: 0px;
+        }
+        .top-level li {
+            &:hover {
+                @include transition (all 0.2s ease-out);
+                background-color:$kbm-grey-background-color;
+                > a {
+                    color: #fff;
+                }
+            }
+            padding-top:emCalc(2);
+            border-radius: 4px;
+            height:emCalc(30);
+        }
         & > ul > .divider {
             width:3px;
             background: #cacaca;
@@ -176,14 +197,14 @@ body {
         .dropdown {
             background: #fff;
             border-color: #5e5c5c;
-            border-width: 4px; 
+            border-width: 4px;
         }
         & > ul > .has-dropdown > .dropdown {
             border-style:solid none none none;
             border-width: $menu-border-height;
             border-color: $kbm-accent-a-color;
         }
-        #get-involved-menu .dropdown {
+        #get-involved .dropdown, #fuel .dropdown {
             left: auto;
             right: 100%;
         }
@@ -191,7 +212,6 @@ body {
     .nav-main-button.active {
         color:#fff;
         background-color:$kbm-accent-a-color;
-        margin-right:-1px;
         z-index:6;
     }
 }
@@ -298,8 +318,8 @@ thead {
   padding-bottom: 10px;
 }
 
-tbody tr:nth-child(odd)	{ 
-background-color:#c6c6c6; 
+tbody tr:nth-child(odd)	{
+background-color:#c6c6c6;
 }
 
 .menu-padding {
