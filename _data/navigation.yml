@@ -1,6 +1,6 @@
 - text: About Us
   url: /about
-  id: about-menu
+  id: about
   items:
     - text: Our Story
       url: /ourstory
@@ -27,7 +27,7 @@
       url: /financialsummary 
 - text: Speakers
   url: /speakers
-  id: speakers-menu
+  id: speakers
   items:
     - text: Speakers
       url: /speakers
@@ -66,7 +66,7 @@
       url: /podcasts
 - text: Training
   url: /training
-  id: training-menu
+  id: training
   items:
     - text: The Experience
       url: /theexperience
@@ -85,7 +85,7 @@
     - text: Training Values
       url: /trainingvalues  
 - text: Fuel
-  id: fuel-menu
+  id: fuel
   items:
     - text: Plan A Connection
       url: /plan-a-connection
@@ -101,7 +101,7 @@
       url: /resources/kbm_personal_ministry_inventory.pdf
 - text: Get Involved
   url: /connect
-  id: get-involved-menu
+  id: get-involved
   items:
     - text: Blog
       url: /blog
@@ -124,4 +124,4 @@
       url: /connect
 - text: Store
   url: http://kbm.donorshops.com
-  id: store-menu
+  id: store

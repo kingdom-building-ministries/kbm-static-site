@@ -30,7 +30,8 @@
             <ul>
               {% for link in site.data.navigation %}
               <li {% if link.items %}class="has-dropdown"{% endif %}>
-                <a href="{{link.url}}" class="nav-main-button{% if page.url == link.url %} active{% endif %}">
+                {% assign path_components = page.url | split:'/' %}
+                <a href="{{link.url}}" class="nav-main-button{% if page.highlight-menu-id == link.id %} active{% elsif page.highlight-menu-id == null and path_components[1] == link.id %} active{% endif %}">
                   {{link.text}}
                 </a>
                 {% if link.items %}

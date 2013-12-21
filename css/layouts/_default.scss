@@ -187,13 +187,11 @@ body {
             right: 100%;
         }
     }
-    .nav-buttons {
-        /*     &.active { */
-        /*         color:#fff; */
-        /*         background-color:$kbm-accent-a-color; */
-        /*         margin-right:-1px; */
-        /*         z-index:6; */
-        /*     } */
+    .nav-main-button.active {
+        color:#fff;
+        background-color:$kbm-accent-a-color;
+        margin-right:-1px;
+        z-index:6;
     }
 }
 
