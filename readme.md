@@ -1,4 +1,14 @@
-[![Build Status](https://travis-ci.org/kingdom-building-ministries/kbm-static-site.png)](https://travis-ci.org/kingdom-building-ministries/kbm-static-site.png)
+# Guidelines
+
+- All filenames should be lowercase with dash seperation for words.
+
+  Amazon S3 is case sensitive, so you had better have a good reason for
+  any capitals
+    - If you are using git then you should probably set git to be case aware
+
+      `git config --unset-all core.ignorecase`
+
+      `git config --system core.ignorecase false`
 
 ## Special Note
 
