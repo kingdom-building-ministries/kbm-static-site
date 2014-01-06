@@ -45,6 +45,16 @@
   <script>
   $(document).foundation();
   </script>
+  <script>
+    $(".collapse-button").click(function () {
+      var nextCollapsible = $(this).nextAll(".collapsible").first();
+        if (nextCollapsible.is(":hidden")) {
+          nextCollapsible.slideDown("slow");
+        } else {
+            nextCollapsible.slideUp("slow");
+                }
+            });
+    </script>
   {{ include.script }}
 </body>
 </html>
