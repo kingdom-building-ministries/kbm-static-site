@@ -1,0 +1,164 @@
+{% include header.html %}
+<style>
+  /* magnifying glass icon */
+  .zoomer:after {
+  content:'Click to Zoom';
+  display:block;
+  width:110px;
+  height:65px;
+  font-size: 1.1em;
+  position:absolute;
+  top:0;
+  right:0;
+  padding-top: 5px;
+  padding-left: 5px;
+  background:url(/js/vendor/jquery-zoom/zoom-corner.png) no-repeat;
+  background-position:right top;
+  opacity: .8;
+  text-shadow:
+  -1px -1px 0 #ffffff,
+  1px -1px 0 #ffffff,
+  -1px 1px 0 #ffffff,
+  1px 1px 0 #ffffff;
+  }
+  .zoomer {
+
+  }
+  .unzoomed {
+  max-width:100%;
+  max-height:100%;
+  margin: auto;
+  display:block;
+  }
+  .fancybox-nav {
+  height: 40px;
+  width: 40px;
+  top: 50%;
+  margin-top: -20px;
+  }
+  .fancybox-nav span {
+  visibility: visible;
+  }
+  .zoomer img::selection { background-color: transparent; }
+
+  .thumb-caption {
+  width:50px;
+  bottom: 0px;
+  left: 5px;
+  font-size: 1.5em;
+  color:#fff;
+  position: absolute;
+  z-index: 9999;
+  }
+  #fancybox-thumbs ul li {
+  opacity: 0.8;
+  }
+  #fancybox-thumbs ul li.active {
+  opacity: 1.0;
+  }
+</style>
+{{ content }}
+
+<div style="display:none;">
+  <div id="zoom1" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-01.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-01.jpg" alt="" /></div>
+  <div id="zoom2" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-02.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-02.jpg" alt="" /></div>
+  <div id="zoom3" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-03.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-03.jpg" alt="" /></div>
+  <div id="zoom4" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-04.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-04.jpg" alt="" /></div>
+  <div id="zoom5" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-05.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-05.jpg" alt="" /></div>
+  <div id="zoom6" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-06.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-06.jpg" alt="" /></div>
+  <div id="zoom7" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-07.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-07.jpg" alt="" /></div>
+  <div id="zoom8" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-08.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-08.jpg" alt="" /></div>
+  <div id="zoom9" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-09.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-09.jpg" alt="" /></div>
+  <div id="zoom10" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-10.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-10.jpg" alt="" /></div>
+  <div id="zoom11" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-11.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-11.jpg" alt="" /></div>
+  <div id="zoom12" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-12.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-12.jpg" alt="" /></div>
+  <div id="zoom13" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-13.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-13.jpg" alt="" /></div>
+  <div id="zoom14" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-14.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-14.jpg" alt="" /></div>
+  <div id="zoom15" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-15.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-15.jpg" alt="" /></div>
+  <div id="zoom16" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-16.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-16.jpg" alt="" /></div>
+  <div id="zoom17" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-17.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-17.jpg" alt="" /></div>
+  <div id="zoom18" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-18.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-18.jpg" alt="" /></div>
+  <div id="zoom19" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-19.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-19.jpg" alt="" /></div>
+  <div id="zoom20" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-20.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-20.jpg" alt="" /></div>
+  <div id="zoom21" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-21.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-21.jpg" alt="" /></div>
+  <div id="zoom22" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-22.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-22.jpg" alt="" /></div>
+  <div id="zoom23" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-23.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-23.jpg" alt="" /></div>
+  <div id="zoom24" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-24.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-24.jpg" alt="" /></div>
+  <div id="zoom25" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-25.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-25.jpg" alt="" /></div>
+  <div id="zoom26" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-26.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-26.jpg" alt="" /></div>
+  <div id="zoom27" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-27.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-27.jpg" alt="" /></div>
+  <div id="zoom28" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-28.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-28.jpg" alt="" /></div>
+  <div id="zoom29" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-29.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-29.jpg" alt="" /></div>
+  <div id="zoom30" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-30.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-30.jpg" alt="" /></div>
+  <div id="zoom31" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-31.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-31.jpg" alt="" /></div>
+  <div id="zoom32" class="zoomer"><img class="unzoomed" src="#" data-src="/img/2014-ministry-guide/ministry-guide-2014-32.jpg" data-medsrc="/img/2014-ministry-guide/ministry-guide-2014-med-32.jpg" alt="" /></div>
+   <a class="fancybox" rel="mg" href="#zoom1"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-med-01.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom2"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-02.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom3"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-03.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom4"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-04.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom5"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-05.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom6"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-06.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom7"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-07.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom8"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-08.jpg" alt="" /></a>
+   <a class="fancybox" rel="mg" href="#zoom9"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-09.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom10"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-10.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom11"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-11.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom12"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-12.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom13"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-13.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom14"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-14.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom15"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-15.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom16"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-16.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom17"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-17.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom18"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-18.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom19"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-19.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom20"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-20.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom21"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-21.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom22"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-22.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom23"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-23.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom24"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-24.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom25"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-25.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom26"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-26.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom27"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-27.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom28"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-28.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom29"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-29.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom30"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-30.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom31"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-31.jpg" alt="" /></a>
+  <a class="fancybox" rel="mg" href="#zoom32"><img width="1200px" height="776px" src="/img/2014-ministry-guide/ministry-guide-2014-th-32.jpg" alt="" /></a>
+</div>
+{% capture zooming_javascript %}
+ <script type="text/javascript" src="/js/vendor/fancybox/jquery.fancybox.pack.js"></script>
+ <script type="text/javascript" src="/js/vendor/jquery-zoom/jquery.zoom-min.js"></script>
+ <script type="text/javascript" src="/js/vendor/fancybox/helpers/jquery.fancybox-thumbs.js"></script>
+ <script>
+  $(document).ready(function() {
+    $("#start").on('click', function(e) {
+      e.preventDefault();
+      $(".fancybox:first").trigger('click');
+    });
+    $(".fancybox").fancybox({
+        beforeLoad : function() {
+          $(this.content).trigger('zoom.destroy');
+          $(this.content).zoom({ on:'click' });
+        },
+        beforeShow : function() {
+          $(".unzoomed").each(function () {
+            $(this).attr('src', $(this).data('medsrc'));
+          });
+        },
+        autoSize   : true,
+        prevEffect : 'none',
+				nextEffect : 'none',
+				closeBtn  : true,
+				arrows    : true,
+				nextClick : false,
+        helpers:  {
+            thumbs : {
+                width: 50,
+                height: 50
+            }
+        }
+    });
+  });
+ </script>
+{% endcapture %}
+{% include footer.html script=zooming_javascript %}
