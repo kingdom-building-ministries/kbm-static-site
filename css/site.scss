@@ -41,6 +41,10 @@
 // @import "foundation/components/tooltips";
 @import "foundation/components/dropdown";
 
+// Third-party css
+@import "../js/vendor/fancybox/jquery.fancybox.css";
+@import "../js/vendor/fancybox/helpers/jquery.fancybox-thumbs.css";
+
 @import "foundation-additions";
 @import "colors";
 @import "push-menu/push-menu";
@@ -51,7 +55,6 @@
 @import "kbm-elements/basic-layout";
 @import "kbm-elements/basic-layout2";
 @import "kbm-elements/kbm-fixedbg-layout";
-
 
 // Include any css specific to a layout here
 @import "layouts/default";
