@@ -10,7 +10,7 @@ tags:
 
 {% include image.html url= "https://www.dropbox.com/s/jaidhmexecesk51/IMG_2810.JPG" %}
 
-Rebecca Crim is a 2006 KBM Alumni. She currently lives in Indiana and works as an elementary music teacher. 
+Rebecca Crim is a 2006 KBM alumni of the young adult TLI program. She currently lives in Indiana and works as an elementary music teacher. 
 Below are some of her thoughts around the idea of Epiphany, the manifestation of Christ among us. 
 
 **Q: Where has Jesus shown up in unexpected places for you?**
