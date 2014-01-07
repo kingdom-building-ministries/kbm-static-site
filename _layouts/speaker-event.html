@@ -3,7 +3,7 @@
   <div class="large-5 large-centered columns">
     <h1>{{ page.title }}</h1>
     {{ page.date | date_to_long_string }} {{ page.date | date: "%X" }} <br>
-    {{ page.date | date_to_long_string }} {{ page.date | date: "%X" }} <br>
+    {% if page.end_date %}{{ page.end_date | date_to_long_string }} {{ page.end_date | date: "%X" }}{% endif %} <br>
     {{ page.address }}<br>
 
     <iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"  src="http://maps.google.com/maps?q={{ page.address | replace:' ','+' }}&hl=en&ie=UTF8&t=v&hnear={{ page.address | replace:' ','+' }}&z=13&amp;output=embed"></iframe>

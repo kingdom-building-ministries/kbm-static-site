@@ -29,14 +29,14 @@ prose:
           element: "select"
           label: "Speaker:"
           options: "http://staging.kbm.org/data/speakers.jsonp?callback=speakers"
-      - name: "address"
-        field:
-          element: "textarea"
-          label: "Event Address:"
       - name: "venue"
         field:
           element: "text"
           label: "Venue Name:"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Venue Address:"
       - name: "date"
         field:
           element: "text"
@@ -45,7 +45,7 @@ prose:
           placeholder: "2013-01-01 23:23"
           help: "2013-01-01 23:23"
           type: "text"
-      - name: "end-date"
+      - name: "end_date"
         field:
           element: "text"
           label: "End Date/Time"
