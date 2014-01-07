@@ -8,7 +8,7 @@ tags:
   - Alumni
 ---
 
-{% include image.html url= "https://www.dropbox.com/s/jaidhmexecesk51/IMG_2810.JPG" %}
+{% include image.html url= "https://www.dropbox.com/s/ijgqevebakzzi8t/IMG_2810.JPG" %}
 
 Rebecca Crim is a 2006 KBM alumni of the young adult TLI discipleship training program. She currently lives in Indiana and works as an elementary music teacher. She shared with us some of her thoughts and experiences around the idea of Epiphany, the manifestation of Christ among us...
 
@@ -39,5 +39,3 @@ See what great love the Father has lavished on us, that we should be called the 
 **A:** Be a ready laborer wherever God has you. Recently, I was driving home from the store and along the side of the road there was a guy walking in the cold, only wearing a sweatshirt and didn't have any gloves. I don’t do this often, but I felt like I needed to offer him a ride. While he He didn’t end up needing a ride, being available to what God is prompting my heart to do is so important for my faith development. It felt so good to hear God speak and follow through.  
 
 God "among us" isn't just when people are nice to us, when something great happens, you hear the perfect song on the radio, or there's a great parking spot after a long day of work. I think that might be part of it, but it's also in the faces of all the people I see everyday.  My co-workers and my students are made in the image of God, “Imago Dei.”  So when I'm looking in to the face of a student who's getting on my nerves, I need to remember that’s God’s face. When I'm looking at a co-worker who frustrates me, I'm looking at someone who is deeply loved by our Heavenly Father. The same God who created and loves me, who cradles me in His lap, loves that person in front of me to the same extent.  I’m praying that I continue to remember this and that I, along with other co-laborers, won’t miss opportunities to see and love those around us, and become vessels of "God with us."
-
-
