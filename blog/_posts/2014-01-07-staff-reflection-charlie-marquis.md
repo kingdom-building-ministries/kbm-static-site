@@ -24,4 +24,5 @@ May we never forget the vastness of Christ’s light. Jesus really is shining in
 Whenever you ponder Jesus as the light of the world, take a moment and pray for those who are shining His light in some of the darkest places. Be inspired by their examples. And, courageously let Christ’s light shine through you in the everyday ordinary places you set foot. For Jesus said “YOU are the light of the world, a city on a hill cannot be hidden.”
 
 All for King Jesus!
+
 Charlie Marquis
