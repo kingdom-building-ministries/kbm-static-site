@@ -11,3 +11,11 @@ end
 task :debug do
   sh "bundle exec 'jekyll serve --watch --trace'"
 end
+
+task :stage do
+  sh "bundle exec 'jekyll build --config _config.yml,_staging_config.yml --trace'"
+end
+
+task :deploy do
+  sh "bundle exec 'jekyll build --config _config.yml,_deploy_config.yml --trace'"
+end
