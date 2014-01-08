@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: Deep Camp Pricing & Discounts
 alias: 
   - /deepcamp/pricinganddiscounts
   - /deepcamp/pricing

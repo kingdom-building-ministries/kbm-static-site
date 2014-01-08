@@ -1,6 +1,7 @@
 ---
 layout: basic
 alias: /plan-a-study-guide
+title: 'Plan A: Study Guide'
 ---
 <img src="/img/fuel/plan-a-connection/plan-a-header.jpg"/>
 # Plan A Study Guide

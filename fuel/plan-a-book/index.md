@@ -1,6 +1,7 @@
 ---
 layout: basic
 alias: /plan-a-book
+title: Plan A Book
 ---
 <img src="/img/fuel/plan-a-connection/plan-a-header.jpg"/>
 # The Book: You are God's Plan A

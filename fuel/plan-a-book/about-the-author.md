@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: 'Plan A: About the Author'
 ---
 <img src="/img/fuel/plan-a-connection/plan-a-header.jpg"/>
 # About the Author

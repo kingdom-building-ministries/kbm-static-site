@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: Student Scholarship Opportunities
 alias:
   - /scholarship
   - /scholarships
