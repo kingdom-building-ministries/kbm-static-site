@@ -11,4 +11,4 @@ gem "jekyll-contentblocks", "~> 0.0.2"
 gem "jekyll-sass", :git => 'https://github.com/rebelzach/jekyll-sass.git', :branch => 'dev'
 
 #gem 'jekyll-events', :path => '../jekyll-events'
-gem 'jekyll-events', '~> 0.0.1'
+gem 'jekyll-events', '~> 0.1.0'
