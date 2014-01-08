@@ -7,9 +7,6 @@ date: "2014-01-07"
 tags: 
   - Alumni
 ---
-
-{% include image.html url= "https://www.dropbox.com/s/ijgqevebakzzi8t/IMG_2810.JPG" %}
-
 Rebecca Crim is a 2006 KBM alumni of the young adult TLI discipleship training program. She currently lives in Indiana and works as an elementary music teacher. She shared with us some of her thoughts and experiences around the idea of Epiphany, the manifestation of Christ among us...
 
 **Q: Where have you seen Jesus show up in unexpected places?**
