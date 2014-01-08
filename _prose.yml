@@ -24,15 +24,39 @@ prose:
         field:
           element: "text"
           label: "Event Title:"
-      - name: "address"
-        field:
-          element: "text"
-          label: "Event Address:"
       - name: "speaker"
         field:
           element: "select"
           label: "Speaker:"
           options: "http://staging.kbm.org/data/speakers.jsonp?callback=speakers"
+      - name: "venue"
+        field:
+          element: "text"
+          label: "Venue Name:"
+      - name: "address"
+        field:
+          element: "text"
+          label: "Venue Address:"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Start Date/Time"
+          value: ""
+          placeholder: "2013-01-01 23:23"
+          help: "2013-01-01 23:23"
+          type: "text"
+      - name: "end_date"
+        field:
+          element: "text"
+          label: "End Date/Time"
+          value: ""
+          placeholder: "2013-01-01 23:23"
+          help: "2013-01-01 23:23"
+          type: "text"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
     speakers/eventreports/_posts:
       - name: "layout"
         field:
