@@ -1,0 +1,5 @@
+{% for speaker in site.data.speakers %}
+{% if speaker.value == include.id %}
+{{ speaker[include.get] }}
+{% endif %}
+{% endfor %}
