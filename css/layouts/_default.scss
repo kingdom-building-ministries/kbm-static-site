@@ -112,6 +112,9 @@ body {
     #slider {
         @include grid-column(12);
         .orbit-container {
+            img {
+                border-radius: 40px;
+            }
             background-color: transparent;
         }
     }
