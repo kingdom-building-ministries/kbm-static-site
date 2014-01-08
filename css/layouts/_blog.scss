@@ -30,10 +30,26 @@
 }
 
 .blog-thumbnail {
-  width: 200px;
+  height: 130px;
   margin-right: 10px;
   margin-bottom: 10px;
 	border: 5px solid white;
+	background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	box-shadow: 1px 3px 4px #232320;
+}
+
+.firstpost-blog-thumbnail {
+  height: 250px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+	border: 5px solid white;
+	background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
 	box-shadow: 1px 3px 4px #232320;
 }
 
