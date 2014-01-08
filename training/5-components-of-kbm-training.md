@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: 5 Components of KBM Training
 alias: 
   - /5-components-of-kbm-training
   - /training/components

@@ -1,6 +1,7 @@
 ---
 layout: basic
 alias: /plan-a-connection
+title: Plan A Connection
 ---
 <img src="/img/fuel/plan-a-connection/plan-a-header.jpg"/>
 # Welcome to the Plan A Connection

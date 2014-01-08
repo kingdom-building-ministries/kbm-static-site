@@ -3,9 +3,14 @@
   {% if include.speaker == null or post.speaker == include.speaker %}
   <li>
     <div>
-    <h3 class="meta">{{ post.start_date | date: "%B %-d %Y" }}</h3>
-    <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <div class="entry">
+    <h3>{{ post.date | date: "%B %-d, %Y" }} 
+    {% if post.end_date %}
+    - {{ post.end_date | date: "%B %-d, %Y" }}
+    {% endif %}
+    </h3>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h3>{{ post.speaker }}</h3>
+    <div>
       {{ post.content | truncatewords: 10 | capitalize }}
     </div>
     </div>

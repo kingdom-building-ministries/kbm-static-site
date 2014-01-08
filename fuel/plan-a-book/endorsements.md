@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: 'Plan A: Endorsements'
 ---
 <img src="/img/fuel/plan-a-connection/plan-a-header.jpg"/>
 # Endorsements

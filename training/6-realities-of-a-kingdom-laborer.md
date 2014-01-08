@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: 6 Realities of a Kingdom Laborer
 alias:
   - /6-realities-of-a-kingdom-laborer
   - /training/realitiesofalaborer

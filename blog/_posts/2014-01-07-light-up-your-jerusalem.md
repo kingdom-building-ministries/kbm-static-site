@@ -6,7 +6,6 @@ date: "2014-01-09"
 "poster-image": "https://www.dropbox.com/s/8vhzd1mctv4vilz/1452399_10152005503323672_1034151975_n.jpg"
 ---
 
-
 Last month, KBM Itinerant Jason Roe and a team of 14 crossed country borders and landed in Tegucigalpa, Honduras.  With hearts excited to serve and spread the light of Christ the team spent a week with *The Micah Project* of Honduras. 
 
 Tegucigalpa is widely known as being one of the most dangerous cities in the world.  Darkness is felt heavily over the city and poverty is a deathly enemy who brings brokenness to many.  Countless young boys and girls roam the streets finding whatever they can to survive, and most end up addicted to sniffing glue as an escape to their reality.  
@@ -22,7 +21,6 @@ Going to “Samaria” or the “ends of the earth” ([Acts 1:8](http://www.bib
 Jason’s encouragement to you: Walk with the Lord every moment of every day of every minute of every second!  Laboring is a life journey that we don’t get to check out from; He may have an “Edward” for you to touch.  The Lord may be planning to call you elsewhere, but where you are TODAY is important preparation for where He may call you onward.
 
 ##Jason Roe
+{% include image.html url="https://www.dropbox.com/s/9v77cxwq283sow5/Screenshot%202014-01-07%2010.07.44.png" float="left" width="3" %}
 Jason Roe has dedicated himself to the ministry of spreading the Gospel of Jesus Christ to the ends of the earth. The foundation of Jason's ministry claims Mark 16:15: 'Go into all the world and proclaim the Gospel to the whole creation.'
 To learn more about Jason or book him as a speaker, click here: [www.kbm.org/speakers/jasonroe](http://www.kbm.org/speakers/jasonroe)
-
-{% include image.html url= "https://www.dropbox.com/s/9v77cxwq283sow5/Screenshot%202014-01-07%2010.07.44.png" %}

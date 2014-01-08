@@ -1,5 +1,6 @@
 ---
 layout: basic
+title: 16 Days FAQ
 alias: 
   - /16days/faq
   - /16days/frequentlyaskedquestions
