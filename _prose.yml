@@ -53,6 +53,10 @@ prose:
           placeholder: "2013-01-01 23:23"
           help: "2013-01-01 23:23"
           type: "text"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
     speakers/eventreports/_posts:
       - name: "layout"
         field:
