@@ -7,7 +7,7 @@ tags:
   - Wide Values
   - Multiplication
   - Great Commission
-"poster-image": "https://www.dropbox.com/s/39yuvy1eafewwa2/Picture%20clipping.pictClipping"
+"poster-image": "https://www.dropbox.com/s/137ac3gn3n6l2ip/Light_of_the_cross_by_ThomasKostiuk.jpg"
 ---
 
 
