@@ -1,1 +1,1 @@
-<img src="{{ include.url | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}"></img>
+<img class="large-{% if include.width %}{{include.width}}{% else %}12{% endif %} {% if include.float %}{{include.float}}{% else %}large-centered columns{% endif %}" src="{{ include.url | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}" style="display:block;"></img>
