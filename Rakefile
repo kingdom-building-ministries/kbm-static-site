@@ -1,6 +1,6 @@
 task :serve do
   if sh "bundle install"
-    sh "bundle exec 'jekyll serve --config _config.yml,_staging_config.yml --watch'"
+    sh "bundle exec 'jekyll serve --config _config.yml,_config_staging.yml --watch'"
   end
 end
 
@@ -13,9 +13,9 @@ task :debug do
 end
 
 task :stage do
-  sh "bundle exec 'jekyll build --config _config.yml,_staging_config.yml --trace'"
+  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml --trace'"
 end
 
 task :deploy do
-  sh "bundle exec 'jekyll build --config _config.yml,_deploy_config.yml --trace'"
+  sh "bundle exec 'jekyll build --config _config.yml,_config_deploy.yml --trace'"
 end
