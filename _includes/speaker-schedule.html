@@ -3,9 +3,9 @@
   {% if include.speaker == null or post.speaker == include.speaker %}
   <li>
     <div>
-    <h3>{{ post.date | date: "%B %-d, %Y" }} 
+    <h3>{{ post.date | date: "%B <em>%-d</em>, %Y" }} 
     {% if post.end_date %}
-    - {{ post.end_date | date: "%B %-d, %Y" }}
+    - {{ post.end_date | date: "%B <em>%-d</em>, %Y" }}
     {% endif %}
     </h3>
     <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
