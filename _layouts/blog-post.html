@@ -1,19 +1,24 @@
 {% include header.html %}
 <div class="blog-post-container">
-<div class="row" style="position:relative;">
-  <div class="large-8 columns blog-content">
-    {% if page.poster-image %}
-    <img class="blog-poster-img" src="{% include url.html url=page.poster-image %}"/>
-    {% endif %}
+  {% if page.poster-image %}
+  <div class="row blog-poster-img-crop"
+       style="background-image: url('{% include url.html url=page.poster-image %}');"/>
+  <div class="large-10 columns blog-title">
     <h1>{{ page.title }}</h1>
-    <p class="muted">{{ page.author }} {{ page.date | date_to_long_string }}</p>
-    {{ content }}
+    {% if page.author %}<h3>by {{ page.author }}</h3>{% endif %}
   </div>
+  </div>
+  {% endif %}
+  <div class="row" style="position:relative;">
+    <div class="large-8 columns blog-content">
+      {{ content }}
+      <p class="muted">{{ page.author }} {{ page.date | date_to_long_string }}</p>
+    </div>
 
-  <div class="large-4 columns blog-sidebar">
-    <img src="/img/kbm-blog-logo.png"/>
-    {% include blog-sidebar.html %}
+    <div class="large-4 columns blog-sidebar">
+      <img src="/img/kbm-blog-logo.png"/>
+      {% include blog-sidebar.html %}
+    </div>
   </div>
-</div>
 </div>
 {% include footer.html %}

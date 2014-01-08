@@ -1,7 +1,8 @@
 ---
 published: true
 layout: "blog-post"
-title: "Staff Reflection, Charlie Marquis"
+title: "Staff Reflection"
+author: "Charlie Marquis"
 date: "2014-01-23"
 "poster-image": "https://www.dropbox.com/s/vhvdre86so63rg6/Hadzabe.png"
 tags: 
