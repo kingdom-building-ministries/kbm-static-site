@@ -28,7 +28,7 @@ prose:
         field:
           element: "select"
           label: "Speaker:"
-          options: "http://staging.kbm.org/data/speakers.jsonp?callback=speakers"
+          options: "http://www.kbm.org/data/speakers.jsonp?callback=speakers"
       - name: "venue"
         field:
           element: "text"
@@ -72,7 +72,7 @@ prose:
         field:
           element: "select"
           label: "Speaker:"
-          options: "http://staging.kbm.org/data/speakers.jsonp?callback=speakers"
+          options: "http://www.kbm.org/data/speakers.jsonp?callback=speakers"
       - name: "mp3"
         field:
           element: "text"
