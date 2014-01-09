@@ -6,7 +6,7 @@ layout: nil
  
   <title>Kingdom Building Ministries</title>
   <link href="http://www.kbm.org/"/>
-  <link type="application/feed+xml" rel="self" href="http://kbm.com/feed.xml"/>
+  <link type="/feed+xml" rel="self" href="http://kbm.com/feed.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>http://kbm.com/</id>
   <author>
