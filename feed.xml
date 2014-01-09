@@ -28,8 +28,8 @@ layout: nil
       <uri>http://www.kbm.org/</uri>
     </author>
     {% endif %}
-    {% assign image = '<img src="{{ post.poster-image }}"/>' %}
-    <content type="html"> {{ image | xml_escape }} {{ post.content | xml_escape }}</content>
+    {% capture image %}<img src="{{ post.poster-image }}"/>{% endcapture %}
+    <content type="html">{{ image | xml_escape }} {{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
  
