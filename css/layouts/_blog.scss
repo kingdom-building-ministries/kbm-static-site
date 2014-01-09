@@ -64,6 +64,19 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
+  .blog-title {
+      position: absolute;
+      bottom: 10px;
+  }
+}
+
+.row.blog-poster-no-img {
+  padding-top:60px;
+  position: relative;
+  background-color: #000;
+  .blog-title {
+
+  }
 }
 
 .blog-content {
@@ -76,7 +89,5 @@
     h1, h2, h3 {
         color: #fff;
     }
-    position: absolute;
-    bottom: 10px;
     text-shadow: 0 0 10px #000;
 }

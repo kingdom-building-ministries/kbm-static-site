@@ -3,14 +3,19 @@
   <div class="row" style="position:relative;">
     <div class="large-3 columns speaker-schedule-sidebar">
       <h1>Filter by Speaker</h2>
-      <h3><a href="">All Speakers</a></h3>
+      <h3><a href="/speakers/schedule">All Speakers</a></h3>
       {% for speaker in site.data.speakers %}
-      <h3><a href="{{ speaker.value }}">{{ speaker.name }}</a></h3>
+      <h3><a href="/speakers/schedule/{{ speaker.value }}">{{ speaker.name }}</a></h3>
       {% endfor %}
     </div>
     <div class="large-9 columns speaker-schedule-content">
-      <h1>{{ page.title }}</h1>
-      {{ content }}
+      {% if page.speaker %}
+      <h1>{{ page.speaker.name }}</h1>
+      {% include speaker-schedule.html speaker=page.speaker.value %}
+      {% else %}
+      <h1>All Speakers</h1>
+      {% include speaker-schedule.html %}
+      {% endif %}
     </div>
   </div>
 </div>

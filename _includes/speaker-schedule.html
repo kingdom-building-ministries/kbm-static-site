@@ -1,6 +1,7 @@
 <ul class="speaker-schedule small-block-grid-1 large-block-grid-3">
-  {% for post in site.categories.speakerschedule reversed %}
+  {% for post in site.categories.schedule reversed %}
   {% if include.speaker == null or post.speaker == include.speaker %}
+  {% assign events_found = true %}
   <li>
     <div>
     <h3>{{ post.date | date: "%B <em>%-d</em>, %Y" }} 
@@ -18,3 +19,10 @@
   {% endif %}
   {% endfor %}
 </ul>
+{{ events_found }}
+{% if events_found == null %}
+<h2>Currently no scheduled events</h2>
+{% if include.speaker %}
+<h2><a href="/speakers/{{ include.speaker }}">Find out more about this speaker here.</a></h2>
+{% endif %}
+{% endif %}

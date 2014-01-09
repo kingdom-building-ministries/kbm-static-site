@@ -2,13 +2,15 @@
 <div class="blog-post-container">
   {% if page.poster-image %}
   <div class="row blog-poster-img-crop"
-       style="background-image: url('{% include url.html url=page.poster-image %}');"/>
-  <div class="large-10 columns blog-title">
-    <h1>{{ page.title }}</h1>
-    {% if page.author %}<h3>by {{ page.author }}</h3>{% endif %}
-  </div>
-  </div>
+       style="background-image: url('{% include url.html url=page.poster-image %}');">
+  {% else %}
+  <div class="row blog-poster-no-img">
   {% endif %}
+    <div class="large-10 columns blog-title">
+      <h1>{{ page.title }}</h1>
+      {% if page.author %}<h3>by {{ page.author }}</h3>{% endif %}
+    </div>
+  </div>
   <div class="row" style="position:relative;">
     <div class="large-8 columns blog-content">
       {{ content }}

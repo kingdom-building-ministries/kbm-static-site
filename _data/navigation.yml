@@ -34,37 +34,35 @@
       url: /speakers
       items:
         - text: Caleb Bislow
-          url: /calebbislow
+          url: /speakers/caleb-bislow
         - text: Foster Christy
-          url: /fosterchristy
+          url: /speakers/foster-christy
         - text: Adrian Despres
-          url: /adriandespres
+          url: /speakers/adrian-despres
         - text: Chris Emery
-          url: /chrisemery
+          url: /speakers/chris-emery
         - text: Robert Gelinas
-          url: /robertgelinas
+          url: /speakers/robert-gelinas
         - text: Fred Lynch
-          url: /fredlynch
+          url: /speakers/fred-lynch
         - text: Tim Reilly
           url: /timreilly
         - text: Dwight Robertson
-          url: /dwightrobertson
+          url: /speakers/dwight-robertson
         - text: Jason Roe
-          url: /jasonroe
+          url: /speakers/jason-roe
         - text: Efrem Smith
-          url: /efremsmith
+          url: /speakers/efrem-smith
         - text: Mick Veach
-          url: /mickveach
+          url: /speakers/mick-veach
         - text: John Vermilya
-          url: /johnvermilya
+          url: /speakers/john-vermilya
     - text: Speaker Schedule
-      url: /speakerschedule
+      url: /speakers/schedule
     - text: Book A Speaker
-      url: /book
+      url: /speakers/book
     - text: Past Event Reports
-      url: /eventreports
-    - text: Podcasts
-      url: /podcasts
+      url: /speakers/event-reports
 - text: Training
   url: /training
   id: training
