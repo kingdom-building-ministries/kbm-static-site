@@ -13,7 +13,7 @@ task :debug do
 end
 
 task :stage do
-  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml --trace'"
+  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml -d ../public --trace'"
 end
 
 task :deploy do
