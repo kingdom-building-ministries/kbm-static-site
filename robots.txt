@@ -1,3 +1,2 @@
 User-agent: *
-# this is for testing right now, don't want inadvertent indexing
-Disallow: /
+Disallow: 
