@@ -1,6 +1,7 @@
 name: "KBM"
 description: "Kingdom Building Ministries"
 future: false
+siteurl: http://www.kbm.org
 
 exclude:
   - .gitignore

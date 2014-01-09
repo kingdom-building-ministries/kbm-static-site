@@ -3,6 +3,7 @@ layout: nil
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+<rights>Copyright © 2014, Kingdom Building Ministries</rights>
  
   <title>Kingdom Building Ministries</title>
   <link href="http://www.kbm.org/"/>
@@ -14,7 +15,7 @@ layout: nil
     <email>you@example.com</email>
   </author>
 
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.blog limit:10 %}
   <entry>
     <id>http://kbm.org{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://kbm.com{{ post.url }}"/>
@@ -22,7 +23,7 @@ layout: nil
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>Your Name</name>
+      <name>{{ post.author }}</name>
       <uri>http://kbm.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
