@@ -9,10 +9,10 @@ layout: nil
   <link href="http://www.kbm.org/"/>
   <link type="application/atom+xml" rel="self" href="{{ site.siteurl }}/feed.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://kbm.com/</id>
+  <id>http://www.kbm.org/</id>
   <author>
-    <name>Your Name</name>
-    <email>you@example.com</email>
+    <name>Kingdom Building Ministries</name>
+    <email>info@kbm.org</email>
   </author>
 
   {% for post in site.categories.blog limit:10 %}
@@ -22,10 +22,12 @@ layout: nil
     <title>{{ post.title }}</title>
     <published>{{ post.date | date_to_xmlschema }}</published>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
+    {% if post.author %}
     <author>
       <name>{{ post.author }}</name>
-      <uri>http://kbm.com/</uri>
+      <uri>http://www.kbm.org/</uri>
     </author>
+    {% endif %}
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
