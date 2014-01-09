@@ -28,7 +28,7 @@ layout: nil
       <uri>http://www.kbm.org/</uri>
     </author>
     {% endif %}
-    {% capture image %}{% include image.html url=post.poster-image %} {% endcapture %}
+    {% capture image %} {% include image.html url=post.poster-image %} {% endcapture %}
     <content type="html">{{ image | xml_escape }} {{ post.content | xml_escape }}</content>
   </entry>
   {% endfor %}
