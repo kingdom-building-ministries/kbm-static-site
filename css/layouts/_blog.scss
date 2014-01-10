@@ -54,6 +54,10 @@
   box-shadow: 1px 3px 4px #232320;
 }
 .row.social-row {
+  img {
+    position: relative;
+    top: 5px;
+  }
   background: #d8d8d8;
   border-bottom: 1px solid gray;
   border-top: 1px solid gray;
