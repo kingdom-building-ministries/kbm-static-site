@@ -41,8 +41,8 @@ s3_reduced_redundancy: true
 #   about.php: about.html
 #   music-files/promo.mp4: http://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-# routing_rules:
-#   - condition:
+#routing_rules:
+#  - condition:
 #       key_prefix_equals: blog/some_path
 #     redirect:
 #       host_name: blog.example.com
