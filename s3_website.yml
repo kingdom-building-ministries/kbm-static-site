@@ -6,7 +6,10 @@ s3_bucket: www.kbm.org
 # See README for more detailed info on each of them.
 
 max_age:
-   "*": 720
+  "img/*": 604800
+  "fonts/*": 604800
+  "js/*": 604800
+  "*": 300
 
 gzip:
    - .html
