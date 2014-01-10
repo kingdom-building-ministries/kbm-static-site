@@ -46,7 +46,6 @@ img.kbm-program-logo {
     #kbm-header {
         &.training-header {
 	    background: url(#{$images}/training/kbm-training-header-3.jpg) repeat-x #ffffff;
-	    margin-top: -20px;
 	}
     }
     .kbm-section {
@@ -81,10 +80,12 @@ img.kbm-program-logo {
 	}
 	&#training-plana {
 	    background: #e5b632;
-	    
+	    padding-bottom:40px;
 	}
 	&#training-waawg {
-	    background: url(#{$images}/training/waawg/waawg_bg.jpg) repeat-x #ffffff;
+	    background: url(#{$images}/training/waawg/waawg-bg.jpg) repeat-x #ffffff;
+	    background-position: left bottom;
+	    background-size: cover;
 	}
     }
 }

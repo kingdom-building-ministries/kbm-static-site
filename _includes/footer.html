@@ -47,13 +47,18 @@
   </script>
   <script>
     $(".collapse-button").click(function () {
-      var nextCollapsible = $(this).nextAll(".collapsible").first();
-        if (nextCollapsible.is(":hidden")) {
-          nextCollapsible.slideDown("slow");
-        } else {
-            nextCollapsible.slideUp("slow");
-                }
-            });
+      var collapseClass = null;
+      if ($(this).data('collapse-class')) {
+        collapseClass = $("." + $(this).data('collapse-class'));
+      } else {
+        collapseClass = $(this).nextAll(".collapsible").first();
+      }
+      if (collapseClass.is(":hidden")) {
+        collapseClass.slideDown("slow");
+      } else {
+        collapseClass.slideUp("slow");
+      }
+    });
     </script>
   {{ include.script }}
   <script type="text/javascript">

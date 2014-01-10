@@ -97,7 +97,7 @@
         - text: Book Dwight to Speak
           url: /dwightrobertson
     - text: Personal Ministry Inventory
-      url: /resources/kbm_personal_ministry_inventory.pdf
+      url: /fuel/content/personal-ministry-inventory/
 - text: Get Involved
   url: /connect
   id: get-involved

@@ -7,7 +7,7 @@
     <ul data-orbit>
       {% for image in page.slider %} 
       <li data-orbit-slide="headline-1">
-        <img src="{{ image.url }}">
+        <a href="{{ image.link }}"><img src="{{ image.url }}"></a>
         {% endfor %} 
     </ul>
   </div>
