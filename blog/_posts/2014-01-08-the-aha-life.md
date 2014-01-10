@@ -2,14 +2,13 @@
 published: true
 layout: "blog-post"
 title: "The \"Aha\" Life"
-date: "2014-01-29"
+date: "2014-01-13"
 tags: 
   - Wide Values
   - Multiplication
   - Great Commission
 "poster-image": "https://www.dropbox.com/s/137ac3gn3n6l2ip/Light_of_the_cross_by_ThomasKostiuk.jpg"
 ---
-
 
 Epiphany.  The “aha” moment that Jesus, the Light of the World, shines on everyone and anyone with His light and life.  Epiphany is the realization that God is the God of “whosoever believes” (John 3:16) and that “in him is life, and his life is the light of all mankind” (John 1:4).  Epiphany is the unmistakable insight that the same love, light, grace, forgiveness, and freedom that illumines the hearts of those who follow Jesus is a gift to be graciously and generously shared with everyone, everywhere.
 
