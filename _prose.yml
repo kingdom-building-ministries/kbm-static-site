@@ -164,3 +164,18 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           alterable: "true"
+    prayer/prayer-requests:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog-post"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+          type: "text"
