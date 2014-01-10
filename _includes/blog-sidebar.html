@@ -1,11 +1,24 @@
 <h2>Follow Us</h2>
-<a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.kbm.org%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-square-flat-green_2x.png' alt='follow us in feedly' width='28' height='28'>  Follow us on Feedly</a> <br><br>
-<iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkingdombuildingministries&amp;width&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;show_faces=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+
+<div class="large-10 large-centered columns">
+
+  <a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.kbm.org%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-circle-flat-black_2x.png' alt='follow us in feedly' width='28' height='28'></a> |
+
+  <a href="http://www.kbm.org/feed.xml"><img src="/img/rss.png" style="height:28px;width:28px;"/></a> |
+  
+  <a href="http://www.facebook.com/kingdombuildingministries"><img src="/img/facebook.png" style="height:28px;width:28px;"/></a> |
+  
+  <a href="http://www.twitter.com/kingdomlaborers"><img src="/img/twitter.png" style="height:28px;width:28px;"/></a> |
+  
+  <a href="http://www.instagram.com/kingdomlaborers"><img src="/img/instagram.png" style="height:28px;width:28px;"/></a>
+  <br>
+</div>
 
 <h2> Recent Articles </h2>
+
 <ul>
   {% for post in site.categories.blog limit: 5 %}
-    <li><a href="{{ post.url }}">{{ post.title }} - {{ post.date | date_to_long_string }}</a></li>
+    <li><a href="{{ post.url }}"><strong>{{ post.title }} - {{ post.date | date_to_long_string }}</strong></a></li>
   {% endfor %}
 </ul>
 <!--

@@ -9,6 +9,7 @@
     bottom: 0;
     border-left: 1px solid gray;
     border-right: 1px solid gray;
+    padding-top: 60px !important;
     @media #{$not-mobile} {
         position: absolute;
     }
