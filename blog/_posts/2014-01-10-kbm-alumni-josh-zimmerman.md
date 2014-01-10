@@ -9,7 +9,7 @@ tags:
   - The Experience
 ---
 
-Josh Zimmerman is a 2012 KBM alumni of [The Experience](http://www.kbm.org/training/theexperience/).  After growing up his entire life in Pennsylvania, Josh heard a call from God to “go west,” and moved to Colorado just over a year ago.  Josh recently shared with us what life after KBM has been like and what it means to keep walking in the light.  Below are a few segments from the conversation.  To hear its entirety (19 min.) click the play button below. {% include audio-player.html mp3="https://www.dropbox.com/s/9vjfto23e7mw2vg/JZim011514.mp3" %}
+Josh Zimmerman is a 2012 KBM alumni of [The Experience](http://www.kbm.org/training/theexperience/).  After growing up his entire life in Pennsylvania, Josh heard a call from God to “go west,” and moved to Colorado just over a year ago.  Josh recently shared with us what life after KBM has been like and what it means to keep walking in the light.  Below are a few segments from the conversation.  To hear its entirety (19 min.) click the play button. {% include audio-player.html mp3="https://www.dropbox.com/s/9vjfto23e7mw2vg/JZim011514.mp3" float="right"%}
 
 **Q: What has God taught you in the last year since you’ve left things behind to follow Him?**
 
