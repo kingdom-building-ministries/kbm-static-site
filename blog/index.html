@@ -24,18 +24,17 @@ highlight-menu-id: get-involved
           <a href="{{firstpost.url}}">Click here to continue reading...</a>
         </div>
         </div>
-        
       <ul class="small-block-grid-1 large-block-grid-3">
         {% for post in site.categories.blog offset:1 %}
         <li>
           {% if post.poster-image %}
           <h3><a href="{{post.url}}">{{post.title}}</a></h3>
           <a href="{{post.url}}"><div class="blog-thumbnail" style="background-image:url('{{ post.poster-image | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}');"></div></a>
-          {{post.excerpt | truncatewords: 23}} <br><br>
+          {{ post.excerpt | strip_html | truncatewords: 23 }} <br><br>
           <a href="{{post.url}}">Click here to continue reading...</a>
           {% else %}
           <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-          {{post.excerpt | truncatewords: 36}} <br><br>
+          {{post.excerpt | strip_html | truncatewords: 36}} <br><br>
           <a href="{{post.url}}">Click here to continue reading...</a>
           {% endif %}
         </li>

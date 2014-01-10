@@ -40,7 +40,9 @@ title: Prayer Initiative
             <div class="kbm-full-col">
                 <div class="kbm-program-content-box light">
                       {% for post in site.categories.prayer-updates limit: 1 %}
-                        {{ post.content }}
+                      <h1>{{ post.title }}</h1>
+                      <em>{{ post.date | date_to_long_string }}</em><br>
+                      {{ post.content }}
                       {% endfor %}
                 </div>
             </div>
@@ -59,10 +61,10 @@ title: Prayer Initiative
                 <div class="kbm-program-content-box light kbm-speaker-prayer-list">
                     <h1 style="text-align:center;"><span>Upcoming</span> speaker events</h1>
 <ul>
-  {% for post in site.categories.speakerschedule limit: 5 %}
+  {% for post in site.categories.schedule limit: 5 %}
   <li>
     <div>
-    <h3 class="meta">{{ post.start_date | date: "%B %-d %Y" }}</h3>
+    <h3 class="meta">{{ post.date | date: "%B %-d %Y" }}</h3>
     <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
     </div>
   </li>
@@ -75,8 +77,9 @@ title: Prayer Initiative
             <div class="kbm-half-col">
                 <div class="kbm-program-content-box light">
                     {% for post in site.categories.prayer-requests limit: 1 %}
-                        {{ post.content }}
-                      {% endfor %}
+                    <h1>{{ post.title }}</h1>
+                    {{ post.content }}
+                    {% endfor %}
                 </div>
             </div>
         </div>
