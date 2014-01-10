@@ -15,7 +15,7 @@ prose:
     - '!/index.haml'
     - '!/prayer'
   metadata:
-    speakers/speakerschedule/_events:
+    speakers/schedule/_events:
       - name: "layout"
         field:
           element: "hidden"
@@ -57,7 +57,7 @@ prose:
         field:
           element: "hidden"
           value: "true"
-    speakers/eventreports/_posts:
+    speakers/event-reports/_posts:
       - name: "layout"
         field:
           element: "hidden"

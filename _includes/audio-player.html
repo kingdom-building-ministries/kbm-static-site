@@ -4,5 +4,5 @@ Re capuring the mp3 value because jekyll 1.3.0 throws an encoding
 error for cgi_capture
 {% endcomment %}
 {% capture mp3 %}{{ include.mp3 }}{% endcapture %}
-<iframe class="audio-player" scrolling="no"
+<iframe class="audio-player {% if include.float %}{{include.float}}{% endif %}" scrolling="no"
    src="/utils/circle-player.html?mp3={{ mp3 | replace:'www.dropbox.com','dl.dropboxusercontent.com' | cgi_escape }}"></iframe>
