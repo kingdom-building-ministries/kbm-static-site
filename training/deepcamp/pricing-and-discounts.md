@@ -5,6 +5,7 @@ alias:
   - /deepcamp/pricinganddiscounts
   - /deepcamp/pricing
   - /deep-camp-pricing-and-discounts
+  - /deep-camp-pricing-a-discounts
 ---
 # *Deep* Camp Pricing and Discounts
 
