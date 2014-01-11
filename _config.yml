@@ -3,6 +3,8 @@ description: "Kingdom Building Ministries"
 future: false
 siteurl: http://www.kbm.org
 
+timezone: 'America/Denver'
+
 exclude:
   - .gitignore
   - README.md
