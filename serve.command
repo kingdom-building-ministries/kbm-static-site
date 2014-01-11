@@ -1,4 +1,4 @@
 #!/bin/bash
 
 cd `dirname $0`
-rake serve
+./serve_util.sh

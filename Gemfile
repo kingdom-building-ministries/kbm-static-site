@@ -12,3 +12,5 @@ gem "jekyll-sass", :git => 'https://github.com/rebelzach/jekyll-sass.git', :bran
 
 #gem 'jekyll-events', :path => '../jekyll-events'
 gem 'jekyll-events', '~> 0.1.0'
+
+gem 'terminal-notifier'
