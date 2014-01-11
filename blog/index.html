@@ -14,21 +14,21 @@ highlight-menu-id: get-involved
 <div class="row blog-container" style="position:relative;">
   <div class="large-8 columns blog-content">
     {% assign firstpost = site.categories.blog[0] %}
-    {% if firstpost.image %}
     <div class="row firstpost-row">
+      {% if firstpost.poster-image %}
       <div class="large-5 columns">
         <a href="{{firstpost.url}}"><div class="firstpost-blog-thumbnail" style="background-image:url('{{ firstpost.poster-image | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}');"></div></a>
       </div>
       <div class="large-7 columns">
         <h3><a href="{{firstpost.url}}">{{firstpost.title}}</a></h3>
-        {{firstpost.excerpt | truncatewords: 30}}<br><br>
-        <a href="{{firstpost.url}}">Click here to continue reading...</a>
+        {{firstpost.excerpt | strip_html | truncatewords: 30}}<br><br>
+        <a href="{{firstpost.url}}">Click here to continue reading...</a><br><br>
       </div>
       {% else %}
       <div class="large-12 columns">
         <h3><a href="{{firstpost.url}}">{{firstpost.title}}</a></h3>
-        {{firstpost.excerpt | truncatewords: 60}}<br><br>
-        <a href="{{firstpost.url}}">Click here to continue reading...</a>
+        {{firstpost.excerpt | strip_html | truncatewords: 60}}<br><br>
+        <a href="{{firstpost.url}}">Click here to continue reading...</a><br><br>
       </div>
       {% endif %}
     </div>
