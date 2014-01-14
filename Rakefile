@@ -19,4 +19,5 @@ end
 
 task :deploy do
   sh "bundle exec 'jekyll build --config _config.yml,_config_deploy.yml --trace'"
+  sh "bundle exec s3_website push --headless"
 end
