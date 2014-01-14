@@ -20,8 +20,6 @@ Author Dwight Robertson shows how acts as simple as sharing a meal or treating p
 Yes, God has a plan for reaching the world. It's really very simple. It's you. You are God's Plan A ...and there's no Plan B.
 </div>
 </div>
-# David C. Cook TV Interview with Dwight
-<iframe src="//player.vimeo.com/video/10291965" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/10291965">David C. Cook TV - Week 1</a> from <a href="http://vimeo.com/davidccook">David C Cook</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <ul>
 <li><a href="/fuel/plan-a-book/endorsements">Endorsements</a>                                            </li>
 <li><a href="/fuel/plan-a-book/about-the-author">About the Author</a>                                    </li>

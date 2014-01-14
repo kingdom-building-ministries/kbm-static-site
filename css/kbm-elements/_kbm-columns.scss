@@ -49,6 +49,9 @@
   }
   &.dark, .dark &{
     background: black;
+    h1 {
+      color: white;
+    }
   }
   &.gray, .gray &{
     background:#e3e3e3;

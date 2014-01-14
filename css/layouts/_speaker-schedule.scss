@@ -15,6 +15,27 @@
     }
 }
 
+.speaker-schedule-container {
+  & > .row {
+  min-height: 700px;
+  }
+  .left {
+    padding-right:10px;
+  }
+  .right {
+    padding-left:10px;
+  }
+   .left, .right {
+     padding-top:10px;
+     padding-bottom:10px;
+  }
+}
+
+.speaker-schedule-container > .row > .columns {
+  padding-top: 10px;
+}
+
+
 /*
 .speaker-schedule-content {
     border-left: 1px solid gray;
