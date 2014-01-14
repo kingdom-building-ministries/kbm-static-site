@@ -14,7 +14,7 @@ end
 
 task :stage, :url do |t, args|
   puts "Staging at:" + args[:url]
-  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml -d \'args[:url]\' --trace'"
+  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml -d \'#{args[:url]}\' --trace'"
 end
 
 task :deploy do
