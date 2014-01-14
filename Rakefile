@@ -12,10 +12,12 @@ task :debug do
   sh "bundle exec 'jekyll serve --watch --trace'"
 end
 
-task :stage do
-  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml -d ../public --trace'"
+task :stage, :url do |t, args|
+  puts "Staging at:" + args[:url]
+  sh "bundle exec 'jekyll build --config _config.yml,_config_staging.yml -d \'#{args[:url]}\' --trace'"
 end
 
 task :deploy do
   sh "bundle exec 'jekyll build --config _config.yml,_config_deploy.yml --trace'"
+  sh "bundle exec s3_website push --headless"
 end
