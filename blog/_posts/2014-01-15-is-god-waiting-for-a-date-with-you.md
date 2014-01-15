@@ -19,6 +19,6 @@ Maybe it’s time to simplify your resolution.  Time to walk, even crawl, before
 
 **3. Come with no agenda but God’s.**  In the most simple and honest way you know, let God know, “I’m here to meet you any way you want to meet me.”  Whether you listen, speak, read, write, pray, sing, dance, or do – let whatever comes next come out of genuine desire to hear from and respond to God.
 
-God often speaks the loudest, not in the wind, earthquakes, or fire … but in the gentle whispers of His voice when we quiet ourselves enough to hear Him speak (<a href="http://www.biblegateway.com/passage/?search=1+Kings+19%3A9-12&version=NIV" target="_blank">1 Kings 19:9-12</a>).  
+God often speaks the loudest, not in the wind, earthquakes, or fire … but in the gentle whispers of His voice when we quiet ourselves enough to hear Him speak (<a href="http://www.biblegateway.com/passage/?search=1+Kings+19%3A9-12&version=NIV" target="_blank">1 Kings 19:12</a>).  
 
 For more tips and advice on how to get the most out of your dates with God, visit <a href="http://kbm.donorshops.com" target="_blank">www.kbm.org/store</a> and order “<a href="http://kbm.donorshops.com/product/DR0006/isgodwaitingforadatebooklet.php" target="_blank">Is God Waiting for a Date with You?</a>” by Dwight Robertson.
