@@ -21,4 +21,4 @@ Maybe it’s time to simplify your resolution.  Time to walk, even crawl, before
 
 God often speaks the loudest, not in the wind, earthquakes, or fire … but in the gentle whispers of His voice when we quiet ourselves enough to hear Him speak (<a href="http://www.biblegateway.com/passage/?search=1+Kings+19%3A9-12&version=NIV" target="_blank">1 Kings 19:9-12</a>).  
 
-For more tips and advice on how to get the most out of your dates with God, visit [www.kbm.org/store](http://kbm.donorshops.com) and order “[Is God Waiting for a Date with You?](http://kbm.donorshops.com/product/DR0006/isgodwaitingforadatebooklet.php)” by Dwight Robertson.
+For more tips and advice on how to get the most out of your dates with God, visit <a href="http://kbm.donorshops.com" target="_blank">www.kbm.org/store</a> and order “<a href="http://kbm.donorshops.com/product/DR0006/isgodwaitingforadatebooklet.php" target="_blank">Is God Waiting for a Date with You?</a>” by Dwight Robertson.
