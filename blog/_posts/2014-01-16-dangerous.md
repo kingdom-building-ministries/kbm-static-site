@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: Dangerous
 date: "2014-01-27"
-"poster-image": "https://www.dropbox.com/s/95fzipx73marctq/danger-cover.jpg"
+"poster-image": "https://www.dropbox.com/s/moto7gym5vvhou4/stacks_image_181.jpg"
 ---
 
 *Dangerous: Engaging the People and Places No One Else Will*
