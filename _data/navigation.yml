@@ -19,13 +19,13 @@
    # - text: Our Story
    #   url: /ourstory
     - text: Ministry Guide
-      url: /about/ministryguide
+      url: /about/ministry-guide
     - text: KBM Staff
       url: /about/staff
     - text: KBM Board
       url: /about/board
     - text: Financial Summary
-      url: /about/financialsummary
+      url: /about/financial-summary
 - text: Speakers
   url: /speakers
   id: speakers
@@ -106,7 +106,7 @@
     - text: Blog
       url: /blog
     - text: Prayer
-      url: /prayer
+      url: /get-involved/initiatives/prayer/
     - text: Donate
       url: /get-involved/donate
     - text: Scholarship a Student
