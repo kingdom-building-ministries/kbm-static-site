@@ -23,7 +23,7 @@ Yes, God has a plan for reaching the world. It's really very simple. It's you. Y
 <ul>
 <li><a href="/fuel/plan-a-book/endorsements">Endorsements</a>                                            </li>
 <li><a href="/fuel/plan-a-book/about-the-author">About the Author</a>                                    </li>
-<li><a href="/resources/plan-a-connection/you-are-gods-plan-a-by-dwight-robertson-chapter-1.pdf">Read the First Chapter</a></li>
+<li><a href="{% include url.html url='https://www.dropbox.com/s/8ka1mtqnuu63r62/you_are_gods_plan_a_by_dwight_robertson_chapter_1.pdf' %}">Read the First Chapter</a></li>
 <li><a href="http://kbm.donorshops.com/product/DR0001/youaregodsplana.php">Buy the Plan A Book</a>                         </li>
 <li><a href="http://pressvillage.com/planA/index.php">Press Room</a>                                                       </li>
 <li><a href="/dwightrobertson">Book Dwight to speak at your event</a>                                                      </li>

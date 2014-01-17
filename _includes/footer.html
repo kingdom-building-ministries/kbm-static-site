@@ -46,6 +46,17 @@
   $(document).foundation();
   </script>
   <script>
+  $(document).ready( function() {
+    $('.has-dropdown a').on('click' function(event) {
+      var target = $(event.target).find('> .dropdown');
+      if (target.is(':hidden')) {
+        event.preventDefault();
+        target.toggle();
+      }
+    });
+    $(document).click( function(){
+      $('.dropdown').hide();
+    });
     $(".collapse-button").click(function () {
       var collapseClass = null;
       if ($(this).data('collapse-class')) {
@@ -59,6 +70,7 @@
         collapseClass.slideUp("slow");
       }
     });
+  });
     </script>
   {{ include.script }}
   <script type="text/javascript">

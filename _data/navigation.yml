@@ -3,7 +3,7 @@
   id: about
   items:
     - text: Our DNA
-      url: /dna
+      url: /about/dna
       items:
         - text: Mission
           url: '/about/dna/#misison'
@@ -14,18 +14,18 @@
         - text: Statement of Faith
           url: '/about/dna/#statement-of-faith'
     - text: What is a Laborer?
-      url: /whatisalaborer
+      url: /about/what-is-a-laborer
    # 131220 - Content isn't ready yet. Uncomment when the page is done.
    # - text: Our Story
    #   url: /ourstory
     - text: Ministry Guide
-      url: /ministryguide
+      url: /about/ministryguide
     - text: KBM Staff
-      url: /staff
+      url: /about/staff
     - text: KBM Board
-      url: /board
+      url: /about/board
     - text: Financial Summary
-      url: /financialsummary 
+      url: /about/financialsummary
 - text: Speakers
   url: /speakers
   id: speakers
@@ -68,38 +68,39 @@
   id: training
   items:
     - text: The Experience
-      url: /theexperience
+      url: /training/theexperience
     - text: 16 Days
-      url: /16days
+      url: /training/16days
     - text: Deep Camp
-      url: /deepcamp
+      url: /training/deepcamp
     - text: Unusual Soldiers
-      url: /unusualsoldiers
+      url: /training/unusualsoldiers
     - text: Life Plan
-      url: /lifeplan  
+      url: /training/lifeplan
     - text: Plan A Conference
-      url: /planaconference
+      url: /training/planaconference
     - text: Weekends Almost Alone With God
-      url: /waawg
+      url: /training/waawg
     - text: Training Values
-      url: /trainingvalues  
+      url: /training/trainingvalues
 - text: Fuel
   id: fuel
   items:
     - text: Plan A Connection
-      url: /plan-a-connection
+      url: /fuel/plan-a-connection
       items:
         - text: Plan A Book
-          url: /plan-a-book
+          url: /fuel/plan-a-book
         - text: Plan A Study Guide
-          url: /plan-a-study-guide
-        - text: View Dwights Schedule
+          url: /fuel/plan-a-connection/plan-a-study-guide
+        - text: "View Dwight's Schedule"
+          url: /speakers/schedule/dwight-robertson
         - text: Book Dwight to Speak
-          url: /dwightrobertson
+          url: /speakers/dwight-robertson
     - text: Personal Ministry Inventory
       url: /fuel/content/personal-ministry-inventory/
 - text: Get Involved
-  url: /connect
+  url: /get-involved/connect
   id: get-involved
   items:
     - text: Blog
@@ -107,20 +108,20 @@
     - text: Prayer
       url: /prayer
     - text: Donate
-      url: /donate
+      url: /get-involved/donate
     - text: Scholarship a Student
-      url: /scholarship
+      url: /get-involved/scholarship
     - text: Initiatives
-      url: /initiatives
+      url: /get-involved/initiatives
       items:
         - text: Man Up!
-          url: /manup
+          url: /get-involved/initiatives/manup
         - text: International
-          url: /international
+          url: /get-involved/initiatives/international
         - text: Urban Advance
-          url: /urbanadvance
+          url: /get-involved/initiatives/urbanadvance
     - text: Connect
-      url: /connect
+      url: /get-involved/connect
 - text: Store
   url: http://kbm.donorshops.com
   id: store
