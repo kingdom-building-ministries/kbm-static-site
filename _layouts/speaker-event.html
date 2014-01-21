@@ -1,14 +1,20 @@
 {% include header.html %}
 <div class="row">
-  <div class="large-5 large-centered columns">
+  <div class="large-7 large-centered columns">
     <h1>{{ page.title }}</h1>
-    {{ page.date | date_to_long_string }} {{ page.date | date: "%X" }} <br>
-    {% if page.end_date %}{{ page.end_date | date_to_long_string }} {{ page.end_date | date: "%X" }}{% endif %} <br>
+    <h3>Event Speaker: <a href="/speakers/{{ page.speaker }}">{% include speaker.html id=page.speaker get='name' %}</a></h3>
+    {% if page.host %}
+    <h3>Hosted by: {{ page.host }}</h3>
+    {% endif %}
+    {{ page.date | date_to_long_string }}
+    {% if page.end_date %}- {{ page.end_date | date_to_long_string }}{% endif %} <br>
+    {{ content }} <br>
+    {{ page.venue }}
     {{ page.address }}<br>
-
+    {% if page.address %}
     <iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"  src="http://maps.google.com/maps?q={{ page.address | replace:' ','+' }}&hl=en&ie=UTF8&t=v&hnear={{ page.address | replace:' ','+' }}&z=13&amp;output=embed"></iframe>
     <br>
-    {{ content }}
+    {% endif %}
   </div>
 </div>
 
