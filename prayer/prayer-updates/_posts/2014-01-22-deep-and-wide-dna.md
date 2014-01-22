@@ -11,6 +11,7 @@ date: "2014-01-26"
 Prayerfully look over the list below.  Are there any areas the Lord is highlighting for you to dig deeper and wider into this year?  As your intimacy and love for God continues to grow deeper, may your love and laborship spread wider for the glory of our King.  Also, include these values when you ask and pray for God to raise up more laborers! 
 
 **Deep Values**
+
 1. Loving God Intimately (Matthew 22:34-40)
 2. Seeking His Kingdom Always (Matthew 6:33)
 3. Being Daily Directed by His Spirit (Galatians 5:16-26)
@@ -20,6 +21,7 @@ Prayerfully look over the list below.  Are there any areas the Lord is highlight
 7. Growing Together with Other Believers (Ephesians 4:11-16, 1 John 1:7, Proverbs 27:17)
 
 **Wide Values**
+
 1. Loving All People (Matthew 22:34-40)
 2. Participating in the Priesthood of Believers (1 Peter 2:9)
 3. Engaging in the Ordinary (Matthew 9:10)
