@@ -52,6 +52,7 @@
 @import "kbm-elements/kbm-columns";
 @import "kbm-elements/content-formatting";
 @import "kbm-elements/menu-bar";
+@import "kbm-elements/utilities";
 // These are carryovers from the old site, should probably move these to their own Jekyll layouts one day...
 @import "kbm-elements/basic-layout";
 @import "kbm-elements/basic-layout2";
@@ -74,5 +75,4 @@
 @import "pages/staff";
 @import "pages/training-page";
 @import "pages/unusualsoldiers";
-@import "pages/speaker-schedule";
 @import "pages/event-report";

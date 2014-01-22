@@ -4,16 +4,14 @@
   {% assign events_found = true %}
   <li>
     <div>
-    <h3>{{ post.date | date: "%B <em>%-d</em>, %Y" }} 
-    {% if post.end_date %}
-    - {{ post.end_date | date: "%B <em>%-d</em>, %Y" }}
-    {% endif %}
-    </h3>
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <h3>{% include speaker.html id=post.speaker get='name' %}</h3>
-    <div>
-      {{ post.content | truncatewords: 10 | capitalize }}
-    </div>
+      {{ post.date | date: "%B %-d, %Y" }} 
+      {% if post.end_date %} - <br> {{ post.end_date | date: "%B %-d, %Y" }}
+      {% endif %}
+      <br>
+      <strong>{{ post.title }}</strong><br><br>
+      {% include speaker.html id=post.speaker get='name' %}
+      <br>
+      <a href="{{ post.url }}" class="fill-div"></a>
     </div>
   </li>
   {% endif %}

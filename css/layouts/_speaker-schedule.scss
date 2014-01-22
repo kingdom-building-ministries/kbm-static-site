@@ -35,9 +35,29 @@
   padding-top: 10px;
 }
 
-
-/*
-.speaker-schedule-content {
-    border-left: 1px solid gray;
+.speaker-schedule {
+  li {
+    position: relative;
+    height: 220px;
+    padding: 7px;
+    overflow: scroll;
+  }
+  li > div {
+    border-radius:5px;
+    background: #d1d1d1;
+    padding: 7px;
+    height: 100%;
+  }
+  li:hover > div {
+    background: $kbm-background-main-color;
+    color: $kbm-accent-a-color;
+    @include transition (all 0.2s ease-in-out);
+  }
+  h3 {
+    font-size: 1.1em;
+    font-weight: 500;
+    em {
+      font-weight: bold;
+    }
+  }
 }
-*/
