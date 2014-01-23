@@ -4,7 +4,7 @@
   {% assign events_found = true %}
   <li>
     <div>
-      {{ post.date | date: "%B %-d, %Y" }} 
+      {{ post.date | date: "%B %-d, %Y" }}
       {% if post.end_date %} - <br> {{ post.end_date | date: "%B %-d, %Y" }}
       {% endif %}
       <br>

@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if page.poster-image %}
-    <meta property="og:image" content="{% include url.html url=page.poster-image %}">
+      <meta property="og:image" content="{% include url.html url=page.poster-image %}">
     {% endif %}
     <title>{{ page.title }}</title>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.siteurl }}/feed.xml">
@@ -22,9 +22,9 @@
       <nav>
         <div class="top-bar mobile-nav">
           <section class="top-bar-section nav-buttons">
-          <ul>
-            <li class="top-level" ><a href="#" id="mp-menu-trigger" class="nav-main-button">&nbsp;</a>
-          </ul>
+            <ul>
+              <li class="top-level" ><a href="#" id="mp-menu-trigger" class="nav-main-button">&nbsp;</a>
+            </ul>
           </section>
         </div>
         <div class="logo">
@@ -35,33 +35,32 @@
           <section class="top-bar-section nav-buttons">
             <ul>
               {% for link in site.data.navigation %}
-              <li {% if link.items %}class="has-dropdown top-level"{% endif %}>
-                {% assign path_components = page.url | split:'/' %}
-                <a href="{{link.url}}" class="nav-main-button{% if page.highlight-menu-id == link.id %} active{% elsif page.highlight-menu-id == null and path_components[1] == link.id %} active{% endif %}">
-                  {{link.text}}
-                </a>
-                {% if link.items %}
-                <ul id="{{link.id}}" class="dropdown">
-                  {% for sublink in link.items %}
-                  <li {% if sublink.items %}class="has-dropdown"{% endif %}>
-                    <a href="{{sublink.url}}">{{sublink.text}}</a>
-                    {% if sublink.items %}
-                    <ul class="dropdown">
-                      {% for deeplink in sublink.items %}
-                      <li><a href="{{deeplink.url}}">{{deeplink.text}}</a></li>
+                <li {% if link.items %}class="has-dropdown top-level"{% endif %}>
+                  {% assign path_components = page.url | split:'/' %}
+                  <a href="{{link.url}}" class="nav-main-button{% if page.highlight-menu-id == link.id %} active{% elsif page.highlight-menu-id == null and path_components[1] == link.id %} active{% endif %}">
+                    {{link.text}}
+                  </a>
+                  {% if link.items %}
+                    <ul id="{{link.id}}" class="dropdown">
+                      {% for sublink in link.items %}
+                        <li {% if sublink.items %}class="has-dropdown"{% endif %}>
+                          <a href="{{sublink.url}}">{{sublink.text}}</a>
+                          {% if sublink.items %}
+                            <ul class="dropdown">
+                              {% for deeplink in sublink.items %}
+                                <li><a href="{{deeplink.url}}">{{deeplink.text}}</a></li>
+                              {% endfor %}
+                            </ul>
+                          {% endif %}
+                        </li>
                       {% endfor %}
                     </ul>
-                    {% endif %}
-                  </li>
-                  {% endfor %}
-                </ul>
-                {% endif %}
-              </li>
-              <li class="divider"></li>
+                  {% endif %}
+                </li>
+                <li class="divider"></li>
               {% endfor %}
             </ul>
           </section>
         </div>
       </nav>
     </div>
-
