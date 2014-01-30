@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: Living the Plan A Life
 date: "2014-01-31"
-"poster-image": "https://www.dropbox.com/s/pajmvn12w0i82gg/Plan%20A.png"
+"poster-image": "https://www.dropbox.com/s/12nx0phpntlf07x/344.jpg"
 ---
 
 
@@ -19,9 +19,11 @@ As you move forward into 2014, consider these two questions:
 Pray and take action this week that brings you into closer relationship to the person or people God brought to mind. 
 
 **An Excerpt from *You are God’s Plan A*:**
+
 *Imagine if all Christians “woke up from their slumber,” apart from the two hours they go to church every week, and fully engaged in God’s Plan A for their lives the additional 166 hours. Imagine the new Kingdom exploits!  The possibilities around us!  Imagine if every Christian worldwide woke up and reported for duty!  Like the early followers of Jesus who announced His life-changing resurrection person to person, you can share His life, hope, power, and presence everywhere.*
 
 **Plan A Resources**
+
 Attend a Plan A Conference!  You are invited to Kingdom Building Ministries in Aurora, Colorado February 21-22.  There will be more information coming soon @ [www.KBM.org](http://www.kbm.org).
 
 Read the book!  Available online at [www.KBM.org/store](http://kbm.donorshops.com/product/DR0001/youaregodsplana.php). 
