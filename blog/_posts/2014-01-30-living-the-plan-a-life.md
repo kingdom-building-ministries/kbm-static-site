@@ -6,7 +6,6 @@ date: "2014-01-31"
 "poster-image": "https://www.dropbox.com/s/12nx0phpntlf07x/344.jpg"
 ---
 
-
 The hope we have for seeing our communities transformed for the glory of God won’t come through any new truths or ideas.  The hope we have to see the change we desire is found in Christ alone and the direction He gave us through His Word.  It’s not time for new questions; His Word is not outdated.  Yes, God is the same yesterday, today, and tomorrow, but what He desires to do through you hasn’t been done before and can’t be duplicated.  You are a one-of-a-kind original created to uniquely influence the world around you on behalf of the King and His Kingdom.
 
 We’ve chosen to highlight *You are God’s Plan A* at the beginning of the year for a reason.  Whether you’re already filled with excitement about a new year of kingdom laboring or you never knew God created you with His plan in mind, you need the map of God’s ancient-future plan in place as you step forward.
@@ -24,6 +23,6 @@ Pray and take action this week that brings you into closer relationship to the p
 
 **Plan A Resources**
 
-Attend a Plan A Conference!  You are invited to Kingdom Building Ministries in Aurora, Colorado February 21-22.  There will be more information coming soon @ [www.KBM.org](http://www.kbm.org).
+Attend a Plan A Conference!  You are invited to Kingdom Building Ministries in Aurora, Colorado in April.  There will be more information coming soon @ [www.KBM.org](http://www.kbm.org).
 
-Read the book!  Available online at [www.KBM.org/store](http://kbm.donorshops.com/product/DR0001/youaregodsplana.php). 
+Read the book!  Available online at [www.KBM.org/store](http://kbm.donorshops.com/product/DR0001/youaregodsplana.php).
