@@ -9,7 +9,8 @@ Before you start your prayers this week, pause for a minute and ask yourself thi
 
 It's the month of February already and whether we like it or not, the heart-shaped balloons, red glittery cards, and flowers are making their appearance.  So, I figured we might as well dig a little deeper into our love-relationship with our Creator and discuss how that relates to the way we pray!  And in all seriousness, I'm praying God's love would truly revolutionize our prayer lives this month.
  
-> Does the way you pray reflect belief that you are LOVED by your Friend, Savior, King, and Heavenly Father?
+> Does the way you pray reflect belief that you are LOVED 
+by your Friend, Savior, King, and Heavenly Father?
 
 We'll start with Jesus as a Friend this week.  Do you believe you have a best friend in Jesus?  Do you walk with Him, talk with Him, and sit with Him in that comfortable silence you only experience with those closest to you?  Do you honor the time you'll spend together?  Do you share honestly?  Do you approach Him as someone completely unfamiliar, unknown, or distant?
 
