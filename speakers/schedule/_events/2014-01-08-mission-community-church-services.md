@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: "speaker-event"
 title: "*CANCELLED* Mission Community Church - Services"
 speaker: "robert-gelinas"
