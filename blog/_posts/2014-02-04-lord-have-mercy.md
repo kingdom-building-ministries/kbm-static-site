@@ -1,12 +1,11 @@
 ---
 published: true
 layout: "blog-post"
-title: "Lord, Have Mercy"
+title: "Lord, Jesus, Son of God, Have Mercy"
 date: "2014-02-04"
 "poster-image": "https://www.dropbox.com/s/i5bhp753k7votnl/the-mercy-prayer3d-e1360703932263.jpg"
 ---
 
-Lord, Jesus, Son of God, have mercy.
 
 When grave circumstances, suffering, temptation, intercession, overwhelming compassion, and despair seem to leave you without words, a few still remain: “Lord, have mercy.”
 
