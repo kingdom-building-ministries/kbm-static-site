@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Lord, Jesus, Son of God, Have Mercy"
+title: "Lord Jesus, Have Mercy"
 date: "2014-02-04"
 "poster-image": "https://www.dropbox.com/s/i5bhp753k7votnl/the-mercy-prayer3d-e1360703932263.jpg"
 ---
