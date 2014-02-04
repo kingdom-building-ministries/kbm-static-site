@@ -6,10 +6,9 @@ date: "2014-02-04"
 "poster-image": "https://www.dropbox.com/s/i5bhp753k7votnl/the-mercy-prayer3d-e1360703932263.jpg"
 ---
 
-
 When grave circumstances, suffering, temptation, intercession, overwhelming compassion, and despair seem to leave you without words, a few still remain: “Lord, have mercy.”
 
-“But that’s not enough,” you might think.  Yes, it is.  God has displayed over and over that prayers for mercy are the most answered prayers throughout the Bible.  If you’ve ever wondered whether God hears the cry of your heart, may you be assured He does.  KBM itinerant, [Pastor Robert Gelinas](<a href="http://www.kbm.org/speakers/robert-gelinas/" target="_blank">Link to new page</a>), recently published a book entitled The Mercy Prayer, in which God’s merciful character is powerfully put on display.  His writing inspired the remainder of this post, and we would highly recommend reading through the book on your own (see below for more information). 
+“But that’s not enough,” you might think.  Yes, it is.  God has displayed over and over that prayers for mercy are the most answered prayers throughout the Bible.  If you’ve ever wondered whether God hears the cry of your heart, may you be assured He does.  KBM itinerant, <a href="http://www.kbm.org/speakers/robert-gelinas/" target="_blank">Pastor Robert Gelinas</a>, recently published a book entitled The Mercy Prayer, in which God’s merciful character is powerfully put on display.  His writing inspired the remainder of this post, and we would highly recommend reading through the book on your own (see below for more information). 
 
 **What is mercy?**
 
@@ -21,6 +20,6 @@ It was Christ’s mercy that became His reputation while He walked in and out of
 
 We are all in need of Christ’s mercy far more than we may recognize and have received Christ’s miraculous intervention far more than we probably know.  God’s mercy is the perfect provision as we face temptation, sin, suffering, and hopelessness.  Is there an area of your life in need of God’s mercy and miraculous intervention?  Invite Jesus in.  May a deeper look at His merciful character be transformational in your life.
 
-**The Mercy Prayer**
+##The Mercy Prayer
 
-Visit Pastor Robert Gelinas’ website ([mercyprayerbook.com](<a href="http://mercyprayerbook.com" target="_blank">Link to new page</a>)) to learn how to purchase the book and to view an online study guide accompanying the writing.
+Visit Pastor Robert Gelinas’ website, <a href="http://mercyprayerbook.com" target="_blank">mercyprayerbook.com</a>, to learn how to purchase the book and to view an online study guide accompanying the writing.
