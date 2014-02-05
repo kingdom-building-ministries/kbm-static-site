@@ -1,9 +1,9 @@
 ---
 published: true
 layout: "blog-post"
-title: Mercy in the Moment
+title: Mercy In the Moment
 date: "2014-02-06"
-"poster-image": "https://www.dropbox.com/s/qigfbz5ug98x7f3/MERCY1.jpg"
+"poster-image": ""
 ---
 
 Mercy in the monumental moments of life we often understand.  A son breaks a most treasured heirloom and mom says to him, “It’s okay, people are more important than things,” and really means it.   A wife is unfaithful in marriage and her husband graciously welcomes her back without constantly “making her pay for it.”  A teenager steals from his neighbor to buy drugs, and the neighbor says to the judge, “I want to drop the charges, he has too much potential to waste in jail.”  Mercy in the big moments we get.
