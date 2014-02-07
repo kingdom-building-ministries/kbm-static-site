@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: Water in the Desert
+title: Water In the Desert
 date: "2014-02-10"
 "poster-image": "https://www.dropbox.com/s/qph60q6480xdhjh/johnv-haiti2014b.jpg"
 ---
