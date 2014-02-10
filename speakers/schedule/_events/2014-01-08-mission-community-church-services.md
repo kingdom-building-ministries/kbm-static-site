@@ -1,7 +1,7 @@
 ---
-published: true
+published: false
 layout: "speaker-event"
-title: "Mission Community Church - Services"
+title: "*CANCELLED* Mission Community Church - Services"
 speaker: "robert-gelinas"
 venue: Mission Community Church
 address: "4450 East Elliot Road, Gilbert, AZ 85234, USA"
