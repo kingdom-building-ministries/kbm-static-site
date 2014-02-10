@@ -1,11 +1,11 @@
 ---
 published: true
 layout: "speaker-event"
-title: "Cran-Hill Ranch - Winter Youth Retreat"
+title: "Cran-Hill Ranch - Men's Retreat"
 speaker: "chris-emery"
 venue: "Cran-Hill Ranch"
 address: "14444 17 Mile Road, Rodney, MI 49342, USA"
-date: "2013-01-24"
-end_date: "2013-01-26"
+date: "2014-04-04"
+end_date: "2014-04-06"
 ---
 
