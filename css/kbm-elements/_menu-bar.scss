@@ -109,8 +109,36 @@ $menu-border-height:4px;
     }
   }
   .nav-main-button.active {
+    display: block;
     color:#fff;
-    background-color:$kbm-accent-a-color;
     z-index:6;
+    position: relative;
+    &:before {
+      content: "";
+      position: absolute;
+      background-color:$kbm-accent-a-color;
+      top: 0;
+      left: -3px;
+      bottom: 0;
+      right: -3px;
+      z-index: -1;
+    }
+  }
+  .nav-main-button:hover {
+    display: block;
+    color:#fff;
+    z-index:6;
+    position: relative;
+    &:before {
+      content: "";
+      position: absolute;
+      background: #ccc;
+      box-shadow: inset 0px 0px 15px -4px rgba(0,0,0,1);
+      top: 0;
+      left: -3px;
+      bottom: 0;
+      right: -3px;
+      z-index: -5;
+    }
   }
 }
