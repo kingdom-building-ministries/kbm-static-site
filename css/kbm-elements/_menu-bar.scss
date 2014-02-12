@@ -75,6 +75,9 @@ $menu-border-height:4px;
       height:emCalc(30);
     }
     & > ul > .divider {
+      &:last-child {
+        display: none;
+      }
       width:3px;
       background: #cacaca;
       display:block;
