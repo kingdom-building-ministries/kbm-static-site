@@ -19,4 +19,5 @@ God's mercy is what turned my, our, life around.  He did not leave us as we were
 *God is all mercy and grace — not quick to anger, is rich in love.* 
 Psalm 145:8 (The message)
 
->Jon and Rachel Sawyer have poured out their love to troubled American teens at the Caribbean Mountain Academy in the Dominican Republic for the past eight years and are now currently preparing and fundraising for a new chapter of serving Haitians and Dominicans in the north coast of the D.R. with Makarios International!  To read more from Rachel Sawyer and learn about her family's upcoming ministry in the Dominican Republic visit her blog: <a href="http://sawyersinthesun.blogspot.com" target="_blank">sawyersinthesun.blogspot.com</a>.
+##Rachel and Jon Sawyer
+The Sawyers have poured out their love to troubled American teens at the Caribbean Mountain Academy in the Dominican Republic for the past eight years and are now currently preparing and fundraising for a new chapter of serving Haitians and Dominicans in the north coast of the D.R. with Makarios International!  To read more from Rachel Sawyer and learn about her family's upcoming ministry in the Dominican Republic visit her blog: <a href="http://sawyersinthesun.blogspot.com" target="_blank">sawyersinthesun.blogspot.com</a>.
