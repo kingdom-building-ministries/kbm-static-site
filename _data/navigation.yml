@@ -86,6 +86,8 @@
 - text: Fuel
   id: fuel
   items:
+    - text: Blog
+      url: /blog
     - text: Plan A Connection
       url: /fuel/plan-a-connection
       items:
@@ -103,8 +105,6 @@
   url: /get-involved/connect
   id: get-involved
   items:
-    - text: Blog
-      url: /blog
     - text: Prayer
       url: /get-involved/initiatives/prayer/
     - text: Donate
