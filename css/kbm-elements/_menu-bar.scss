@@ -75,6 +75,9 @@ $menu-border-height:4px;
       height:emCalc(30);
     }
     & > ul > .divider {
+      &:last-child {
+        display: none;
+      }
       width:3px;
       background: #cacaca;
       display:block;
@@ -94,9 +97,20 @@ $menu-border-height:4px;
       margin-top: -20px;
     }
     .dropdown {
+      @include transition (all 0.1s ease-in-out);
       background: #fff;
       border-color: #5e5c5c;
       border-width: 4px;
+      left: -2px;
+    }
+    ul li.has-dropdown .dropdown {
+      display:block;
+      visibility: hidden;
+      opacity: 0;
+    }
+    ul li.has-dropdown:hover > .dropdown {
+      visibility: visible;
+      opacity: 1;
     }
     & > ul > .has-dropdown > .dropdown {
       border-style:solid none none none;
@@ -108,9 +122,42 @@ $menu-border-height:4px;
       right: 100%;
     }
   }
-  .nav-main-button.active {
-    color:#fff;
-    background-color:$kbm-accent-a-color;
-    z-index:6;
+  .nav-main-button {
+    @include transition (all 0.1s ease-in-out);
+    &:before {
+      @include transition (all 0.1s ease-in-out);
+      content: "";
+      position: absolute;
+      background: rgba(255,255,255,0);
+      top: 0;
+      left: -3px;
+      bottom: 0;
+      right: -3px;
+      z-index: -5;
+    }
   }
+  
+  .nav-main-button.active {
+    display: block;
+    color:#fff;
+    z-index:6;
+    position: relative;
+    &:before {
+      background-color:$kbm-accent-a-color;
+      z-index: -1;
+    }
+  }
+  
+  .nav-main-button:hover {
+    display: block;
+    color:#fff;
+    z-index:6;
+    position: relative;
+    &:before {
+      background: #ccc;
+      box-shadow: inset 0px 0px 15px -4px rgba(0,0,0,1);
+      z-index: -5;
+    }
+  }
+  
 }
