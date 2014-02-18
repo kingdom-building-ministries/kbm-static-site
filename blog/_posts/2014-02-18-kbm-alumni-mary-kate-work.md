@@ -20,12 +20,13 @@ But then she is reminded of God’s call to stay true to who He has made her to 
 “I’m going to walk beside you.” 
 
 When asked what was one of the most powerful experiences she has had in Las Vegas, Mary Kate shared this story:
+
 “I volunteer with a local organization, The Cupcake Girls, that reaches out to strippers. During an expo, the Cupcake Girls rented a suite at the Hard Rock hotel. Throughout the day, we provided a free spa experience for these girls, giving them a place to retreat to. My heart broke as I saw these girls who are so loved by Jesus. Jesus wants to be with them. 
 This industry is very deceiving. They walked in and were so excited to be away from boys…it was heart breaking. It’s not how it’s supposed to be. I just sat down and talked with them and shared. The girls were so thankful and amazed that we were there to simply love on them. For me to be able to interact with these girls on that level was a powerful experience to see God’s mercy, grace and love poured out on these girls, even as they don’t realized what’s going on. I believe that one day they will have the opportunity to see Jesus for who He is and choose Him.”
 
 While it is hard to live in Las Vegas, her love for the city only grows. 
 “Being here helps me understand how much Jesus gets in the trenches with people. Jesus desires to extend himself to all people. If we allow Him, He will use us to show His love and mercy to those around us.” 
 
-*Written by Rachel Reed
-Discipleship Training, Coaching, and Life Plan Facilitator
-{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="right" width="2"%}
+>*Written by Rachel Reed
+(Discipleship Training, Coaching, and Life Plan Facilitator)*
+{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="3"%}
