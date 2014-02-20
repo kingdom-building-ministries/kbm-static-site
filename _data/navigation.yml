@@ -77,7 +77,7 @@
       url: /training/unusualsoldiers
     - text: Life Plan
       url: /training/lifeplan
-    - text: 'Plan A' Conference
+    - text: '"Plan A" Conference'
       url: /training/planaconference
     - text: Weekends Almost Alone With God
       url: /training/waawg
@@ -88,12 +88,12 @@
   items:
     - text: Blog
       url: /blog
-    - text: 'Plan A' Connection
+    - text: '"Plan A" Connection'
       url: /fuel/plan-a-connection
       items:
-        - text: 'Plan A' Book
+        - text: '"Plan A" Book'
           url: /fuel/plan-a-book
-        - text: 'Plan A' Study Guide
+        - text: '"Plan A" Study Guide'
           url: /fuel/plan-a-connection/plan-a-study-guide
         - text: "View Dwight's Schedule"
           url: /speakers/schedule/dwight-robertson
