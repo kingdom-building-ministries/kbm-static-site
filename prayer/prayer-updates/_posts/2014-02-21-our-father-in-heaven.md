@@ -2,7 +2,7 @@
 published: true
 layout: "prayer-update"
 title: Our Father In Heaven
-date: "2014-02-23"
+date: "2014-04-23"
 ---
 
 Does the way you pray reflect belief that you are LOVED by your 
