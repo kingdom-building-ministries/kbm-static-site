@@ -17,4 +17,4 @@ I found this to be true: "It is precisely where we are most alone, most unique, 
  
 >As you think about your week ahead, is there a time and place you can settle into solitude?
  
-*Yet the news about him spread all the more, so that crowds of people came to hear him and to be healed of their sicknesses.  **But Jesus often withdrew to lonely places and prayed.***  Luke 5:15-17
+*Yet the news about him spread all the more, so that crowds of people came to hear him and to be healed of their sicknesses.  But Jesus often withdrew to lonely places and prayed.*  Luke 5:15-17
