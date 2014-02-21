@@ -3,6 +3,7 @@ published: true
 layout: "blog-post"
 title: "'And Can It Be'"
 date: "2014-02-22"
+"poster-image": "https://www.dropbox.com/s/kj6vkol11ojqgfo/140221_CR_HYMNAL_0003.jpg"
 ---
 
 Below are the lyrics to the third stanza of the hymn ‘And Can It Be’. 
