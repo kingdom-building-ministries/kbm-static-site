@@ -80,6 +80,10 @@ prose:
           value: ""
           type: "text"
           help: "A link to the MP3 file in KBM web assets dropbox folder"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
     blog/_posts:
       - name: "layout"
         field:
