@@ -13,7 +13,7 @@ What might God want to say to you today through this hymn?
 
 And Can It Be
 
-3. He left his Father's throne above 
+He left his Father's throne above 
 (so free, so infinite his grace!), 
 emptied himself of all but love, 
 and bled for Adam's helpless race. 
