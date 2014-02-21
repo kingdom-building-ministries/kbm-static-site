@@ -11,7 +11,7 @@ Friend, Savior, King, and **Heavenly Father**?
 You are intimately loved by a Friend, His name is Jesus.
 You are passionately loved by a Savior.
 The King's loving pursuit for *all you are* will never end.  
->You are tenderly cared for through the eyes of your loving heavenly Father.
+**You are tenderly cared for through the eyes of your loving heavenly Father.**
 
 We have a Father up in heaven!  A Father who sees, loves, provides, teaches, disciplines, and burns with desire to see our lives transformed to the best He's made possible.  He is ALL good.
 
@@ -36,4 +36,5 @@ Matthew 6:26-33
 *Endure hardship as discipline; God is treating you as sons.  For what son is not disciplined by his father? . . . How much more should we submit to the Father of our spirits and live!  Our fathers disciplined us for a while as they thought best; but God disciplines us for our good, that we may share in his holiness.  No discipline seems pleasant at the time, but painful.  Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it.*
 Hebrews 12:7-11
 
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Massey**        (Content Team and Discipleship Training)
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="4"%} 
+**Written by Lisa Massey**  (Content Team and Discipleship Training)
