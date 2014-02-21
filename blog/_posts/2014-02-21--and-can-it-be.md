@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "\"And Can It Be\""
+title: "'And Can It Be'"
 date: "2014-02-22"
 ---
 
@@ -20,3 +20,5 @@ and bled for Adam's helpless race.
 for O my God, it found out me! 
 'Tis mercy all, immense and free, 
 for O my God, it found out me!
+
+>{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)
