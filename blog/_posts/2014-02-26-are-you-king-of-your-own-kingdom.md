@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Are you king of your own kingdom?"
+title: "King of your own kingdom?"
 date: "2014-03-07"
 "poster-image": "https://www.dropbox.com/s/bluva8ienlbwirt/Haiti_earthquake_damage.jpg"
 ---
