@@ -12,7 +12,7 @@ James the apostle would encourage us to recall the right perspective – a persp
 
 Watch this video of a young mother named Stacey.  Through submitting her pain and loss to God and receiving the provision of His goodness, she can now say, 
 
-“God is all that I need, I don’t have to look elsewhere.”
+>“God is all that I need, I don’t have to look elsewhere.”
 
 http://vimeo.com/47844586
 
