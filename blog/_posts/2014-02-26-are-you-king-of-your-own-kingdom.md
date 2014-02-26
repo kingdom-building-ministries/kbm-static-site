@@ -8,12 +8,11 @@ date: "2014-03-07"
 
 Take a look at these questions.
 Have you ever:
--felt angry towards something or someone because things didn’t go your way?
--chosen your own comfort over God’s call?
--been disappointed and bitter about not seeing the fruits of your labor?
--controlled a person or situation because you didn’t trust that God could or would take care of it?
--agreed to a ministry role because it advanced your standing and fame?
-
+- felt angry towards something or someone because things didn’t go your way?
+- chosen your own comfort over God’s call?
+- been disappointed and bitter about not seeing the fruits of your labor?
+- controlled a person or situation because you didn’t trust that God could or would take care of it?
+- agreed to a ministry role because it advanced your standing and fame?
 If so, pause and ask, “Whose kingdom was I really serving?  Mine?  Or God’s?” and “Whose kingdom was I advancing?  My own?  Or God’s?”  
 
 With an honest look, the kingdoms we build for ourselves look more like slums and shanty towns than the perceived mansions and streets of gold we envision.  Our greatness can quickly turn to shambles.  The comfort and peace we experience when we feel “all is well within my kingdom” collapses the moment something interrupts our selfish structure.    
@@ -26,7 +25,7 @@ After forty years wandering in the desert, Joshua said to the Israelites, “cho
 >Whose kingdom is your life really all about these days?
 
 ##For further study:
--<a href="http://www.biblegateway.com/passage/?search=1+Corinthians+3%3A11-14&version=NIV" target="_blank">1 Corinthians 3:11-14</a> 
--<a href="http://www.biblegateway.com/passage/?search=Hebrews+12%3A22-29&version=NIVHebrews" target="_blank">Hebrews 12:22-29</a>
+- <a href="http://www.biblegateway.com/passage/?search=1+Corinthians+3%3A11-14&version=NIV" target="_blank">1 Corinthians 3:11-14</a> 
+- <a href="http://www.biblegateway.com/passage/?search=Hebrews+12%3A22-29&version=NIVHebrews" target="_blank">Hebrews 12:22-29</a>
 
 >{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
