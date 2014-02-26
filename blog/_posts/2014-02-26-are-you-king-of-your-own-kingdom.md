@@ -17,7 +17,7 @@ If so, pause and ask, “Whose kingdom was I really serving?  Mine?  Or God’s?
 
 With an honest look, the kingdom we build for ourselves looks more like a slum or shanty town than the perceived mansions and streets of gold we envision.  Our greatness can quickly turn to shambles.  The comfort and peace we experience when we feel “all is well within my kingdom” collapses the moment something interrupts our selfish structure.    
 
-If you’re a king in your own kingdom today, there is hope.  Jesus Christ has extended the invitation to you, to be adopted as sons and daughters – coheirs.  This Kingdom will have no end, its King is righteous, compassionate, loving, merciful, and faithful, and His ways bring life and peace.  After seeing the state your own kingdom is in, are you ready to wave the white flag and lay your crown down for a better way?  Many before us have, and what they gained will not be taken away.
+If you’re king in your own kingdom today, there is hope.  Jesus Christ has extended the invitation to you, to be adopted as sons and daughters – coheirs.  This Kingdom will have no end, its King is righteous, compassionate, loving, merciful, and faithful, and His ways bring life and peace.  After seeing the state your own kingdom is in, are you ready to wave the white flag and lay your crown down for a better way?  Many before us have, and what they gained will not be taken away.
 
 The same King and Kingdom inspired Paul to write, “I consider everything a loss compared to the surpassing greatness of knowing Christ Jesus my Lord, for whose sake I have lost all things” (Philippians 3:8). 
 
