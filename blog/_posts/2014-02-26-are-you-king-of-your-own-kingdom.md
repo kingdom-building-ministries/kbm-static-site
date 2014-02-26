@@ -15,7 +15,7 @@ Have you ever:
 - agreed to a ministry role because it advanced your standing and fame?
 If so, pause and ask, “Whose kingdom was I really serving?  Mine?  Or God’s?” and “Whose kingdom was I advancing?  My own?  Or God’s?”  
 
-With an honest look, the kingdoms we build for ourselves look more like slums and shanty towns than the perceived mansions and streets of gold we envision.  Our greatness can quickly turn to shambles.  The comfort and peace we experience when we feel “all is well within my kingdom” collapses the moment something interrupts our selfish structure.    
+With an honest look, the kingdom we build for ourselves looks more like a slum or shanty town than the perceived mansions and streets of gold we envision.  Our greatness can quickly turn to shambles.  The comfort and peace we experience when we feel “all is well within my kingdom” collapses the moment something interrupts our selfish structure.    
 
 If you’re a king in your own kingdom today, there is hope.  Jesus Christ has extended the invitation to you, to be adopted as sons and daughters – coheirs.  This Kingdom will have no end, its King is righteous, compassionate, loving, merciful, and faithful, and His ways bring life and peace.  After seeing the state your own kingdom is in, are you ready to wave the white flag and lay your crown down for a better way?  Many before us have, and what they gained will not be taken away.
 
