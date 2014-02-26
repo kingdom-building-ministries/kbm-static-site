@@ -21,3 +21,5 @@ What obstacles in your life stand in the way of telling God, “All I need is yo
 "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance.  Let perseverance finish its work so that you may be mature and complete, not lacking anything…Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him" (James 1:2-4, 12).
 
 **We thank our friends from <a href="http://ctoministries.org/Default.aspx" target="_blank">'God's Call to Obedience'</a> for the video!*
+
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman**       (Content Team and Discipleship Training)
