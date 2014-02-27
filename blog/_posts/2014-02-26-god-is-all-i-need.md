@@ -10,7 +10,7 @@ We praise God for His goodness when skies are blue and the sun is shining, but w
 
 James the apostle would encourage us to recall the right perspective – a perspective that believes God is our good Father in heaven who provides the grace we need to be more like Him.  Any trial we experience is an opportunity for our faith to be refined into gold, for godly wisdom and maturity to grow, and for our lives to bear a compelling witness to the world as Jesus Christ helps us overcome.  
 
-Watch this video of a young mother named Stacey.  Through submitting her pain and loss to God and receiving the provision of His goodness, she can now say, 
+Watch this video of a young mother named Stacy.  Through submitting her pain and loss to God and receiving the provision of His goodness, she can now say, 
 
 >“God is all that I need, I don’t have to look elsewhere.”
 
@@ -22,4 +22,4 @@ What obstacles in your life stand in the way of telling God, “All I need is yo
 
 **We thank our friends from <a href="http://ctoministries.org/Default.aspx" target="_blank">'God's Call to Obedience'</a> for the video!*
 
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman**       (Content Team and Discipleship Training)
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
