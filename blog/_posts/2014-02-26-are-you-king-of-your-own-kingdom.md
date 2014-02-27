@@ -6,7 +6,7 @@ date: "2014-03-07"
 "poster-image": "https://www.dropbox.com/s/bluva8ienlbwirt/Haiti_earthquake_damage.jpg"
 ---
 
-Take a look at these questions.  Have you ever,
+Have you ever,
 - felt angry towards something or someone because things didn’t go your way?
 - chosen your own comfort over God’s call?
 - been disappointed and bitter about not seeing the fruits of your labor?
