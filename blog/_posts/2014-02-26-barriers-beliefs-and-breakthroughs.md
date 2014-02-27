@@ -13,3 +13,5 @@ Maybe you’ve had a similar experience in traveling with God.  Life with God is
 But here’s the good news.  God knows where you are and where you’re going.  He’s well aware of those barriers that seem to be getting in the way of where you want to, or think you ought to, be.  And whether the obstacles that stand in your way are self-constructed or otherwise orchestrated, God wants to use such barriers and challenges to draw you deeper into trust, dependence, and love *with* Him.  
 
 While *our* sightline changes, *God’s* vision remains the same.  He’s got this.  He’s got you.  Will you trust the sufficiency of an all-sufficient God to help you navigate life and love when the journey takes unplanned turns, unwanted delays, and unexpected challenges?   Will you trust God’s promise to “go with you and never leave you nor forsake you” (Deut 31:6) no matter where the road or what the obstacle?   Adventure awaits.  It’s time to get in the car and drive.
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
