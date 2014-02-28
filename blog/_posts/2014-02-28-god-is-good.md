@@ -43,3 +43,5 @@ In times of doubt, remember Who God is and take heart.  God gave His one and onl
 - 1 John 1:9
 - 1 Corinthians 10:13
 - 1 Peter 4:19
+
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Massey** (Content Team and Discipleship Training)
