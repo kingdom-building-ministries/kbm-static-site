@@ -3,6 +3,7 @@ description: "Kingdom Building Ministries"
 future: false
 siteurl: http://www.kbm.org
 
+relative_permalinks: false
 timezone: 'America/Denver'
 
 exclude:
