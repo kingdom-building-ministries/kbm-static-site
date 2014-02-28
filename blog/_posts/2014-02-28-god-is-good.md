@@ -23,7 +23,7 @@ It’s hard to imagine anyone walking up to our all-glorious God to tell Him, �
 - Is God enough to fulfill me? 
 - Is God enough when I don’t understand? 
 
-- Do I have any right to expect satisfaction elsewhere? 
+- Do I have any right to expect satisfaction elsewhere?
 - Can any idol remain that offers false satisfaction and fulfillment?
 - Is there any reason to withhold surrendering my life completely into God’s hands?
 
