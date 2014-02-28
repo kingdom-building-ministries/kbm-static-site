@@ -26,4 +26,5 @@ So, is God good? Let me ask, how do you define God’s goodness? A pain-free lif
 
 “Give thanks in all circumstances; for this is the will of God in Christ Jesus for you.” I Thess 5:18“
 
->{% include image.html url="https://www.dropbox.com/s/aygsa6lxhqx99bm/Screenshot%202014-02-28%2015.51.35.png" float="left" width="5"%} **Written by Nate Hoot** (Discipleship Training and International Ministries)  Nate loves being a husband and a father to three awesome kids and has served with Kingdom Building Ministries for 10 years!  
+>{% include image.html url="https://www.dropbox.com/s/aygsa6lxhqx99bm/Screenshot%202014-02-28%2015.51.35.png" float="left" width="5"%} **Written by Nate Hoot** (Discipleship Training and International Ministries)  
+Nate loves being a husband and a father to three awesome kids and has served with Kingdom Building Ministries for 10 years!  
