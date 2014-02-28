@@ -20,9 +20,10 @@ It’s hard to imagine anyone walking up to our all-glorious God to tell Him, �
 - Is God enough in my lonliness? 
 - Is God enough in my pain and loss? 
 - Is God enough through my temptation? 
-- Is God enough to fulfill me? 
-- Is God enough when I don’t understand? 
+- Is God enough to fulfill me?
+- Is God enough when I don’t understand?
 
+Continue to search your heart:
 - Do I have any right to expect satisfaction elsewhere?
 - Can any idol remain that offers false satisfaction and fulfillment?
 - Is there any reason to withhold surrendering my life completely into God’s hands?
