@@ -1,8 +1,8 @@
 ---
 published: true
 layout: "blog-post"
-title: God Is All I Need
-date: "2014-03-26"
+title: All I Need
+date: "2014-03-05"
 "poster-image": "https://www.dropbox.com/s/920h25kp4vy0vpr/Screenshot%202014-02-25%2010.10.32.png"
 ---
 
@@ -14,7 +14,7 @@ Watch this video of a young mother named Stacy.  Through submitting her pain and
 
 >“God is all that I need, I don’t have to look elsewhere.”
 
-http://vimeo.com/47844586
+{% include vimeo.html video=47844586 %}
 
 What obstacles in your life stand in the way of telling God, “All I need is you”?
 
@@ -22,4 +22,4 @@ What obstacles in your life stand in the way of telling God, “All I need is yo
 
 **We thank our friends from <a href="http://ctoministries.org/Default.aspx" target="_blank">'God's Call to Obedience'</a> for the video!*
 
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Massey** (Content Team and Discipleship Training)
