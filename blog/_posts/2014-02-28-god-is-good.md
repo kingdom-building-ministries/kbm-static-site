@@ -2,7 +2,7 @@
 published: true
 layout: "blog-post"
 title: "God is: Good"
-date: "2014-03-03"
+date: "2014-03-04"
 "poster-image": "https://www.dropbox.com/s/gnxeli0odx1yf7h/shepherd-sheep-12.jpg"
 ---
 
