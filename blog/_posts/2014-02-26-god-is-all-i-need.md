@@ -1,8 +1,8 @@
 ---
 published: true
 layout: "blog-post"
-title: God Is All I Need
-date: "2014-03-04"
+title: All I Need
+date: "2014-03-05"
 "poster-image": "https://www.dropbox.com/s/920h25kp4vy0vpr/Screenshot%202014-02-25%2010.10.32.png"
 ---
 
