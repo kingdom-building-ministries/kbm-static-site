@@ -3,6 +3,7 @@ published: true
 layout: "blog-post"
 title: Grace Says...
 date: "2014-03-14"
+"poster-image": "https://www.dropbox.com/s/b83yw4own8ic6ai/2013-06-02%2017.55.50%20copy.jpg"
 ---
 
 When was the last time you stopped to hear what grace has to say?
