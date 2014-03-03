@@ -23,4 +23,4 @@ Are you a case with no grace today?  Tired of making the rounds of performance a
 
 *But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions – it is by grace you have been saved.  And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.* Ephesians 2:4-7
 
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Massey** (Content Team and Discipleship Training)
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
