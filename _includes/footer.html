@@ -1,78 +1,91 @@
 <div class="footer-section">
   <footer>
-      <section>
-        <ul>
-          <li> <img src="/img/layouts/default/kbm-footer-heading.png"></li>
-          <li><a href="http://maps.google.com/?q=14485%20E%20Evans%20Ave,%20Aurora,%20Colorado,%2080012" target="_blank">14485 E. Evans Ave<br>
+    <section>
+      <ul>
+        <li> <img src="/img/layouts/default/kbm-footer-heading.png"></li>
+        <li><a href="http://maps.google.com/?q=14485%20E%20Evans%20Ave,%20Aurora,%20Colorado,%2080012" target="_blank">14485 E. Evans Ave<br>
           Aurora, CO 80014</a><br>                                                                                                         </li>
-          <li><a href="mailto:laborers@kbm.org">laborers@kbm.org</a><br>                                                                       </li>
-          <li>800-873-8957<br>                                                                                                                 </li>
-          <li>303-745-8191<br>                                                                                                                 </li>
-        </ul>
-      </section>
-      <section>
-        <ul>
-          <li><a href="/connect">Get Involved</a></li>
-          <li><a href="/prayer">Become a Prayer <br>Partner</a></li>
-          <li><a href="/donate">Donate to KBM</a></li>
-          <li><a href="http://www.ecfa.org/MemberProfile.aspx?ID=5856">ECFA Accredited</a></li>
-          <div class="row">
-            <div class="large-8 columns large-centered">
-          <li><a href="http://www.ecfa.org/MemberProfile.aspx?ID=5856"><img src="/img/layouts/default/ecfa-seal.png"></a></li>
-            </div>
+        <li><a href="mailto:laborers@kbm.org">laborers@kbm.org</a><br>                                                                       </li>
+        <li>800-873-8957<br>                                                                                                                 </li>
+        <li>303-745-8191<br>                                                                                                                 </li>
+      </ul>
+    </section>
+    <section>
+      <ul>
+        <li><a href="/connect">Get Involved</a></li>
+        <li><a href="/prayer">Become a Prayer <br>Partner</a></li>
+        <li><a href="/donate">Donate to KBM</a></li>
+        <li><a href="http://www.ecfa.org/MemberProfile.aspx?ID=5856">ECFA Accredited</a></li>
+        <div class="row">
+          <div class="large-8 columns large-centered">
+            <li><a href="http://www.ecfa.org/MemberProfile.aspx?ID=5856"><img src="/img/layouts/default/ecfa-seal.png"></a></li>
           </div>
-      </section>
-      <section>
-        <ul>
-          <li><a href="/training">Training</a></li>
-          <li><a href="/initiatives">Initiatives</a></li>
-          <li><a href="/speakers">Browse Speakers</a></li>
-          <li><a href="/book">Book a Speaker</a></li>
-        </ul>
-      </section>
+        </div>
+    </section>
+    <section>
+      <ul>
+        <li><a href="/training">Training</a></li>
+        <li><a href="/initiatives">Initiatives</a></li>
+        <li><a href="/speakers">Browse Speakers</a></li>
+        <li><a href="/book">Book a Speaker</a></li>
+      </ul>
+    </section>
   </footer>
 </div>
 {% include mobile-menu-footer.html %}
-  <script src="/js/vendor/jquery-min.js"></script>
-  <script src="/js/foundation.min.js"></script>
-  <script src="/js/push-menu/classie.js"></script>
-  <script src="/js/push-menu/mlpushmenu.js"></script>
-  <script>
-  new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
-    type : 'cover'
-  } );
-  </script>
-  <script>
-  $(document).foundation();
-  </script>
-  <script>
-  $(document).ready( function() {
-    $(".collapse-button").click(function () {
-      var collapseClass = null;
-      if ($(this).data('collapse-class')) {
-        collapseClass = $("." + $(this).data('collapse-class'));
-      } else {
-        collapseClass = $(this).nextAll(".collapsible").first();
-      }
-      if (collapseClass.is(":hidden")) {
-        collapseClass.slideDown("slow");
-      } else {
-        collapseClass.slideUp("slow");
-      }
-    });
-  });
-    </script>
-  {{ include.script }}
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-8358550-1']);
-    _gaq.push(['_trackPageview']);
+<script src="/js/vendor/jquery-min.js"></script>
+<script src="/js/foundation.min.js"></script>
+<script src="/js/push-menu/classie.js"></script>
+<script src="/js/push-menu/mlpushmenu.js"></script>
+<script>
+ new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'mp-menu-trigger' ), {
+   type : 'cover'
+ } );
+</script>
+<script src="/js/vendor/iframe-resize/jquery.iframeResizer.min.js"></script>
+<script>
+$('iframe').iFrameResize({
+    log: true,
+    autoResize: true,
+    contentWindowBodyMargin:8,
+    doHeight:true,
+    doWidth:false,
+    enablePublicMethods:false,
+    interval:200,
+    scrolling:false
+});
+</script>
+<script>
+ $(document).foundation();
+</script>
+<script>
+ $(document).ready( function() {
+   $(".collapse-button").click(function () {
+     var collapseClass = null;
+     if ($(this).data('collapse-class')) {
+       collapseClass = $("." + $(this).data('collapse-class'));
+     } else {
+       collapseClass = $(this).nextAll(".collapsible").first();
+     }
+     if (collapseClass.is(":hidden")) {
+       collapseClass.slideDown("slow");
+     } else {
+       collapseClass.slideUp("slow");
+     }
+   });
+ });
+</script>
+{{ include.script }}
+<script type="text/javascript">
+ var _gaq = _gaq || [];
+ _gaq.push(['_setAccount', 'UA-8358550-1']);
+ _gaq.push(['_trackPageview']);
 
-    (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+ (function() {
+   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+ })();
+</script>
 </body>
 </html>
