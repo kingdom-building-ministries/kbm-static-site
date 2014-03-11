@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: All I Need
 date: "2014-03-05"
-"poster-image": "https://www.dropbox.com/s/920h25kp4vy0vpr/Screenshot%202014-02-25%2010.10.32.png"
+"poster-image": "https://www.dropbox.com/s/zvrrhtj4qnxll0w/Screenshot%202014-02-25%2010.10.32.png"
 ---
 
 We praise God for His goodness when skies are blue and the sun is shining, but what happens to our belief when a storm comes to shake any shelter the world could offer?  

@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: "God is: Good"
 date: "2014-03-04"
-"poster-image": "https://www.dropbox.com/s/gnxeli0odx1yf7h/shepherd-sheep-12.jpg"
+"poster-image": "https://www.dropbox.com/s/cs3u5iuadhfxo7i/shepherd-sheep-12.jpg"
 ---
 
 “God is most glorified in us when we are most satisfied in Him” (John Piper).

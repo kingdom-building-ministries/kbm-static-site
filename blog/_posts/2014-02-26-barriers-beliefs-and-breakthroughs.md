@@ -2,7 +2,7 @@
 published: true
 layout: "blog-post"
 title: "Barriers, Beliefs, and Breakthroughs"
-"poster-image": "https://www.dropbox.com/s/89im951e4wcibcd/roadblock%2520rock.jpg"
+"poster-image": "https://www.dropbox.com/s/8e05h5cag5ncpon/roadblock_rock.jpg"
 date: "2014-03-03"
 ---
 
