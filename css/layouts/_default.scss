@@ -36,8 +36,7 @@ src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(http://themes.
 }
 
 p {
-  font-size: 1.2em;
-  
+  font-size: 1.2em; 
 }
 
 a {
@@ -80,6 +79,11 @@ h1 {
     text-transform: uppercase;
     font-style: normal;
     font-family: NovecentowideNormal, Helvetica, sans-serif;
+  }
+  a {
+    &:hover {
+      color: $kbm-accent-a-color;
+    }
   }
 }
 
