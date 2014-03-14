@@ -4,6 +4,7 @@ layout: "blog-post"
 title: Fear and Glory
 date: "2014-03-17"
 author: John Boyd
+"poster-image": "https://www.dropbox.com/s/f594vwhd1pt3d7z/Fear-n-Glory.jpg"
 ---
 
 Johnny Depp is terrified of clowns.  Matthew McConaughey is scared of revolving doors.  For Sheryl Crow, it’s heights.  Michael Jordan, deep water.  Nicole Kidman, butterflies.  Keanu Reeves, the dark.  Donald Trump, shaking hands.  And ironically, for the late, great Disney founder and king, Walt, it was the fear of mice that undid him from time to time, according to [neatorama.com](http://www.neatorama.com/).  
