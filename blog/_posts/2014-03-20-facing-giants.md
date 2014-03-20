@@ -15,3 +15,5 @@ The king kept recruiting, but not a solitary soldier stepped forward to face the
 That’s David’s story.  What’s yours?  What are your eight foot giants?  Who or what frightens you?  Do you trust that the God who has rescued you before will do it all over again despite impossible circumstances?  Are you willing to trust God and see just how big he really is?  David battled one fear or another his entire life.  But David, called “a man after God’s own heart,” also learned at an early age what the apostle John wrote about centuries later – that “perfect love casts out fear” (I John 4:18), and that the closer we draw to the heart of God, the better we hear and trust God when he says, “do not be afraid, I am with you … always.”  
 
 >Read more about David’s story in I Samuel 17.  Discover why he learns to proclaim in Psalm 27, “The LORD is my light and my salvation, whom shall I fear?”
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
