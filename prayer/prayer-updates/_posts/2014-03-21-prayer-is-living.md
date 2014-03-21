@@ -2,7 +2,7 @@
 published: true
 layout: "prayer-update"
 title: Prayer is Living
-date: "2014-03-23"
+date: "2014-03-22"
 ---
 
 >O God, teach us to recognize you are always with us.  Help us eliminate the compartments we've created to separate daily life and spirituality so we can more fully experience the abundant life found in communing with you! 
