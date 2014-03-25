@@ -19,3 +19,5 @@ Noted theologian and apologist, Ravi Zacharias, accurately states: “The loneli
 We were created as such that we will only be satisfied in God alone.  Only when He is enough will we stop grasping for empty rainbows.  The psalm-writer says it this way, “Lord, you alone are my portion and my cup … apart from you I have no good thing” (Psalm 16:5, 2). 
 
 God is good, and He alone satisfies.  Why look anywhere else?
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
