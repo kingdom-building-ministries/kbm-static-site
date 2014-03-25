@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: Satisfied
 date: "2014-03-28"
-"poster-image": "https://www.dropbox.com/s/078bv02d3xgdph4/satisfied1.jpg"
+"poster-image": "https://www.dropbox.com/s/pdzk09ef9i3szq7/satisfied2.jpg"
 ---
 
 What satisfies you?  You know, that thing that gives you a sense that all is well and good in your life.  Is it a good meal?  A healthy body?  A fat checking account?  A completed “to do” list?  A favorite team victory?  An on-track relationship?  A successful job?  A bargain buy?  A “way to go” from a parent, teacher, boss, or friend?  An endless number of social media hits?  A Snickers candy bar?
