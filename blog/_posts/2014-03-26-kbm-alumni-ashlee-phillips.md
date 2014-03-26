@@ -23,7 +23,9 @@ During The Experience, we talked a lot about Jeremiah 29:11. God reminded me tha
 
 My life has been a huge but small display of God’s glory, from the time of my birth to my life now. God’s been getting nothing but the glory. I had such a tough time making it while my ACL was torn, but my teammates and others around saw God moving in me. God got nothing but the glory from this injury and my life. 
 
->All of life and creation are about the glory of God. (1 Chronicles 16:23-32)
+
+>All of life and creation are about the glory of God. 
+ (1 Chronicles 16:23-32)
 
 "It is not about you and making your story better, but about waking up to the infinitely bigger God story happening all around you. God's invitation to you is to join Him in it. It's about looking up to see that there's a story that has been going on long before you arrived on the planet and one that will go on long after you're gone. God is the central character of this story...He commands center stage in existence, Creation, time, life, history, redemption, and eternity." ~ Lou Giglio
 
