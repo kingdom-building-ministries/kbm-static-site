@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem 'rmagick', '~>2.13.2', :require => 'RMagick'
+#gem 'rmagick', '~>2.13.2', :require => 'RMagick'
 gem 'rake', '10.1'
 gem 's3_website', '~> 1.5.0'
 #gem "jekyll", :path => '../jekyll' # for jekyll development
