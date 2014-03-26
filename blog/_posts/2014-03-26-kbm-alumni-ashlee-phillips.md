@@ -10,7 +10,8 @@ Ashlee’ is a 2011 <a href="http://www.kbm.org/training/theexperience/" target=
 
 **Q: Where have you questioned God's intentionality in your life?**
 
-**A:** At this time in my life, I was questioning God being intentional in my life during my sports this year. I finally accomplished making varsity and gained a starting spot. Then, in one of our basketball games in November, I tore my ACL going for a loose ball rebound. I was completely crushed and hurt knowing my season was now over even though it had just begun. I kept asking, “Why now? Why me?”. I questioned God because I just couldn’t believe that this was in the plan. 
+**A:** At this time in my life, I was questioning God being intentional in my life during my sports this year. I finally accomplished making varsity and gained a starting spot. Then, in one of our basketball games in November, I tore my ACL going for a loose ball rebound. I was completely crushed and hurt knowing my season was now over even though it had just begun. I kept asking, “Why now? Why me?”. I questioned God because I just couldn’t believe that this was in the plan.
+
 {% include image.html url="https://www.dropbox.com/s/t21i01ys5bgv0vi/Ashlee%27.jpg" %}
 
 **Q: Where have you found peace and safety in knowing that you are part of God's greater story?**
