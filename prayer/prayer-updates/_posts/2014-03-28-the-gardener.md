@@ -13,13 +13,13 @@ Maybe you've engaged the season of Lent this year.  How have you chosen to engag
 
 >*Spirit of the Living God, be the Gardener of my soul.
 For so long I have been waiting, silent and still - 
-Experiencing a winter of the soul.
+experiencing a winter of the soul.
 But now, in the strong name of Jesus Christ, I dare to ask:
 Clear away the dead growth of the past,
-Break up the hard clods of custom and routine,
-Stir in the rich component of vision and challenge,
-Bury deep in my soul the implanted Word,
-Cultivate and water and tend my heart,
-Until new life buds and opens and flowers.
+break up the hard clods of custom and routine,
+stir in the rich component of vision and challenge,
+bury deep in my soul the implanted Word,
+cultivate and water and tend my heart,
+until new life buds and opens and flowers.
 Amen.*
 ~Richard Foster
