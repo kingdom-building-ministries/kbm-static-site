@@ -34,4 +34,4 @@ God is GRACIOUS, so I don’t have to prove myself.
 
 Reading each statement helps every thought that is not from God fall into the background, making His voice clearer. In your moment of decision, this summary of God’s character will help you see the traffic signal more clearly and follow God’s will.
 
->{% include image.html url="https://www.dropbox.com/s/f06a9qnwqx4n0w1/Screenshot%202014-03-31%2009.13.11.png" float="left" width="5"%} **Written by Rob Cupp** (Chief Content Officer)
+>{% include image.html url="https://www.dropbox.com/s/f06a9qnwqx4n0w1/Screenshot%202014-03-31%2009.13.11.png" float="left" width="5"%} **Written by Rob Cupp**          (Chief Content Officer)
