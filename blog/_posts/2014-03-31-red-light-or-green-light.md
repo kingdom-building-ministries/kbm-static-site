@@ -20,7 +20,7 @@ We pray. We seek God’s help and guidance. And often we still are uncertain and
 
 At life’s intersections, it is helpful to remember that God’s will is always tied to God’s character. Whether the decision is big or small, God will never contradict his own character in his leading of you. Our confusion comes from our own selfish agenda or our misconceptions of God.
 
-I have struggled to summarize God’s character in a way that helped me to discern his will, until my friends at <a href="http://www.ctoministries.org" target="_blank">Called To Obedience Ministries</a> introduced me to “The 4 Gs.”  The “4 Gs” have become a great way for me to remember God’s character while trying to discern if the light is green or red.
+I have struggled to summarize God’s character in a way that helped me to discern his will, until my friends at <a href="http://www.ctoministries.org" target="_blank">Called To Obedience Ministries</a> introduced me to “The 4 Gs.”  The 4 Gs have become a great way for me to remember God’s character while trying to discern if the light is green or red.
 
 Each of the 4 Gs is rooted in scripture. Each one describes an attribute of God that I easily forget when the pressure is on to make a decision and move forward. I keep a card in my wallet with these four phrases on it as a quick reference to remind me who God is while I’m trying to figure out what He wants.
 
