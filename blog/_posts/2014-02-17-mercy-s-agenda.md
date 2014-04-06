@@ -4,6 +4,8 @@ layout: "blog-post"
 title: "Mercy's Agenda"
 date: "2014-02-18"
 "poster-image": "https://www.dropbox.com/s/mw3qvelbg1pwowe/mercyagenda.jpg"
+tags: 
+  - Mercy
 ---
 
 Did you see the heartwarming <a href="http://gma.yahoo.com/blogs/abc-blogs/heartwarming-exchange-between-trash-collector-autistic-boy-goes-192909594--abc-news-parenting.html?vp=1" target="_blank">ABCNews.com story</a> this week about Manuel, a California garbage collector, and Daniel, a five-year-old boy with autism, who happens to be enthralled with garbage trucks?  Manuel took notice of Daniel, who routinely waits outside his home in anticipation of viewing the weekly pick-up.  On his own time and with his own resources, Manuel bought a replica toy garbage truck to surprise Daniel with on his next collection day.  Surprise him, he did, along with Daniel’s family too.  Without knowing much more, Manuel, at the very least, seems to live an attentive life – seeing, stopping, and responding to the “least of these” around him.
