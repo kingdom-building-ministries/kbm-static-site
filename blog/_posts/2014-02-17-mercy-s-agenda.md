@@ -16,4 +16,4 @@ Here’s a third story to consider.  Jesus had just told his disciples that he w
 
 Here something to ponder as you soak in this story from Mark: “How important does the stuff I do and the agenda I keep have to become in order for me not to see, stop, and respond to the cries of mercy?”
 
-*Written by John Boyd*
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
