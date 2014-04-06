@@ -5,9 +5,10 @@ title: "Lord Jesus, Have Mercy"
 date: "2014-02-04"
 "poster-image": "https://www.dropbox.com/s/i5bhp753k7votnl/the-mercy-prayer3d-e1360703932263.jpg"
 tags: 
-  - KBM  Speaker
-  - Mercy
+  - Resource
   - Robert Gelinas
+  - KBM Speaker
+  - Mercy
 ---
 
 When grave circumstances, suffering, temptation, intercession, overwhelming compassion, and despair seem to leave you without words, a few still remain: “Lord, have mercy.”
