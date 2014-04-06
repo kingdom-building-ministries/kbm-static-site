@@ -1,11 +1,11 @@
 ---
 published: true
 layout: "blog-post"
-title: "The \"Aha\" Life"
+title: "The "
 date: "2014-01-13"
 tags: 
   - Wide Values
-  - Multiplication
+  - Spiritual Multiplication
   - Great Commission
 "poster-image": "https://www.dropbox.com/s/137ac3gn3n6l2ip/Light_of_the_cross_by_ThomasKostiuk.jpg"
 ---
