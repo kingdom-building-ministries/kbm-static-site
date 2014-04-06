@@ -4,6 +4,11 @@ layout: "blog-post"
 title: "Will you Disciple Me?"
 date: "2014-01-21"
 "poster-image": "https://www.dropbox.com/s/ony349dw4w7hktq/coaching-01.jpg"
+tags: 
+  - Wide Values
+  - Spiritual Multiplication
+  - Deep Values
+  - Growing with Other Believers
 ---
 
 Have you ever been asked to mentor someone and in the middle of saying, “yes” thought, “what is it that I am even committing to?” Throughout Scripture we see examples of people living life together and intentionally baton passing spiritual wealth to those around them. 
