@@ -3,8 +3,9 @@ published: true
 layout: "blog-post"
 title: When Momma Hearts Ache
 date: "2014-02-14"
+tags: 
+  - Mercy
 ---
-
 
 On a day to day basis, being a mom or bearing the on-going desire to be a mom, mercy can sometimes seem far and intangible.  It doesn’t make it any less so, nor does it make God any less present.  Life comes, and sometimes it comes hard.
 
