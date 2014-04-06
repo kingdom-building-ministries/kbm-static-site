@@ -26,3 +26,5 @@ A mommy pulls her little one near to her, a little one whose birth mommy lovingl
 *“In your mercy, lead me.  In your mercy, lead mommy’s everywhere.”*
 
 In the relinquishing of our control – be it in the overbearing days where grace seems absent, in the grief observed, in the flight of children from the nest, in the ache of infertility or the process of adoption—the heart longs for reprieve.  The heart of God remains a safe place in which to retreat and to experience mercy.
+
+>{% include image.html url="https://www.dropbox.com/s/hr6trt1jfpoy98a/Shannon-11.jpeg" float="left" width="5"%} **Written by Shannon Boyd**  (KBM Writer)
