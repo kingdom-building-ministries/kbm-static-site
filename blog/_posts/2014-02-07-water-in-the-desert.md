@@ -24,3 +24,5 @@ Imagine this beautiful picture:  In the obscurity of Titanyen, the “little not
 *John Vermilya with Carl and Maya Gilles*  
 
 <a href="http://www.wesleyan.org/gp/minfo/WM04-0330" target="_blank">Carl and Maya</a> are long-term missionaries to Haiti and have been awaiting a Kingdom movement to spread among Haiti's youth that would empower and equip them to labor for the King.  May the flame continue to grow in Jesus' Name!  KBM's <a href="http://www.kbm.org/training/theexperience/" target="_blank">Experience</a> teams have had the privilege of serving with them the past few summers.
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
