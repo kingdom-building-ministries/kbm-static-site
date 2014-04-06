@@ -22,3 +22,5 @@ they are new every morning;
 great is your faithfulness. (Lamentations 3:22-23, ESV)*
 
 We need not falter, nor walk alone. It is the prayer of the momma, and it is the heartbeat of God’s beloved children, “Lord, have mercy.”  His compassions do not fail.
+
+>{% include image.html url="https://www.dropbox.com/s/hr6trt1jfpoy98a/Shannon-11.jpeg" float="left" width="5"%} **Written by Shannon Boyd**  (KBM Writer)
