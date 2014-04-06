@@ -27,3 +27,5 @@ We are all in need of Christ’s mercy far more than we may recognize and have r
 ##The Mercy Prayer
 
 Visit Pastor Robert Gelinas’ website, <a href="http://mercyprayerbook.com" target="_blank">mercyprayerbook.com</a>, to learn how to purchase the book and to view an online study guide accompanying the writing.
+
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
