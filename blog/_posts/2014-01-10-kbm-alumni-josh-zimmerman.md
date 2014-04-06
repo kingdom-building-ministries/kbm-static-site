@@ -6,7 +6,6 @@ date: "2014-01-15"
 "poster-image": "https://www.dropbox.com/s/wa495ku5nfbr2fc/JZnJB.jpg"
 tags: 
   - Alumni
-  - The Experience
 ---
 
 {% include audio-player.html mp3="https://www.dropbox.com/s/9vjfto23e7mw2vg/JZim011514.mp3" float="right"%}Josh Zimmerman is a 2012 KBM alumni of [The Experience](http://www.kbm.org/training/theexperience/).  After growing up his entire life in Pennsylvania, Josh heard a call from God to “go west,” and moved to Colorado just over a year ago.  Josh recently shared with us what life after KBM has been like and what it means to keep walking in the light.  Below are a few segments from the conversation.  To hear its entirety (19 min.) click the play button.
@@ -34,3 +33,5 @@ tags:
 **Q: Is living the adventure of a hard journey with Jesus worth it?**
 
 **A:** It’s so worth it.  After moving out here and going through all that craziness, God has wrecked me.  But I’m so excited … because now I’m like, “I want more!”  It’s like wading out into the water with Jesus, going a little deeper, a little deeper, a little deeper.  It’s scary, but it leaves me wanting more!
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
