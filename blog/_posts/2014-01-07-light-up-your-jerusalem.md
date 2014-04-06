@@ -4,6 +4,10 @@ layout: "blog-post"
 title: Light Up Your Jerusalem
 date: "2014-01-09"
 "poster-image": "https://www.dropbox.com/s/8vhzd1mctv4vilz/1452399_10152005503323672_1034151975_n.jpg"
+tags: 
+  - Jason Roe
+  - Acts
+  - International
 ---
 
 Last month, KBM Itinerant Jason Roe and a team of 14 crossed country borders and landed in Tegucigalpa, Honduras.  With hearts excited to serve and spread the light of Christ the team spent a week with *The Micah Project* of Honduras. 
