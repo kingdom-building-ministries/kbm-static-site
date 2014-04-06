@@ -40,3 +40,5 @@ In today’s society, where discipleship, mentoring and coaching may mean differ
 - **Coach toward Kingdom laborship.** Help the individual continue to discover God’s plan and purpose in glorifying God in His Kingdom.
 
 - **Give grace in the journey.** Know that the individual, like yourself, is a work in progress and needs “room to grow” and opportunities to “do it better the next time.”
+
+>{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)
