@@ -30,3 +30,5 @@ Humility is not low self-esteem.  Humility is not self-pity.  Humility is not hu
 Our attitude will continue to grow up in Jesus Christ’s likeness the more our surrender to His work in us matches our desire to be like Him.  But as long as we pick and choose from His characteristics, our love will be stale, our truth unfounded, and our witness dull.
 
 >Want to know the power of Jesus Christ’s resurrection life alive in you this Easter?  Begin with matching your life to His model of humility.
+
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
