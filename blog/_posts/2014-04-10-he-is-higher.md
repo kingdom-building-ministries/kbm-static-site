@@ -3,6 +3,7 @@ published: true
 layout: "blog-post"
 title: He Is Higher
 date: "2014-04-11"
+"poster-image": "https://www.dropbox.com/s/wkvy3ompm7husz5/GRADUATION%20SLIDESHOW-08292%20copy.jpg"
 ---
 
 >“As the heavens are higher than the earth, so are my ways higher than your ways
