@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: A Special Gift for You
 date: "2014-04-12"
-"poster-image": "https://www.dropbox.com/s/npt8y4cz4wxqd7d/Screenshot%202014-04-10%2011.06.09.png"
+"poster-image": "https://www.dropbox.com/s/mbekazopkqd9ut5/Screenshot%202014-04-10%2011.11.16.png"
 ---
 
 ##An Invitation to Journey with Jesus through Holy Week and Easter
