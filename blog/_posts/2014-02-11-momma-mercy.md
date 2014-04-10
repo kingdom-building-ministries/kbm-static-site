@@ -4,6 +4,9 @@ layout: "blog-post"
 title: Momma Mercy
 date: "2014-02-12"
 "poster-image": "https://www.dropbox.com/s/tzb113usthaej89/Image.jpg"
+tags: 
+  - Mercy
+  - Psalm
 ---
 
 “Lord, have mercy.”  A prayer uttered from the lips of the Psalmists in ancient days, a prayer uttered from the lips of God’s beloved worldwide in an on-going refrain.  “Lord, have mercy.  Christ, have mercy.”  We falter without the mercy — the tender compassion and gentle interventions— of our loving God.  
@@ -18,4 +21,6 @@ his mercies never come to an end;
 they are new every morning;
 great is your faithfulness. (Lamentations 3:22-23, ESV)*
 
-We need not falter, nor walk alone. It is the prayer of the momma, and it is the heartbeat of God’s beloved children, “Lord, have mercy.”  His compassions do not fail.  
+We need not falter, nor walk alone. It is the prayer of the momma, and it is the heartbeat of God’s beloved children, “Lord, have mercy.”  His compassions do not fail.
+
+>{% include image.html url="https://www.dropbox.com/s/hr6trt1jfpoy98a/Shannon-11.jpeg" float="left" width="5"%} **Written by Shannon Boyd**  (KBM Writer)

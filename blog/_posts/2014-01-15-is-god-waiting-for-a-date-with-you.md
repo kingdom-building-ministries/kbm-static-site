@@ -6,6 +6,11 @@ date: "2014-01-17"
 "poster-image": "https://www.dropbox.com/s/emu5jfenfjwx6q7/DAWG.png"
 tags: 
   - DAWG
+  - Resource
+  - KBM Speaker
+  - Dwight Robertson
+  - Deep Values
+  - Loving God Intimately
 ---
 
 So it’s a new year, and at the dropping of the Time Square Ball, you resolved to do things better – especially in the spiritual realm.  After all, something deep within you has been calling you closer.  You sense that the voice to deeper down and farther back conversations and encounters is coming from none other than God Himself.  One problem.  It’s two weeks into the new year and you’ve already begun dropping a resolution ball of your own.  Suddenly the idea doesn’t seem quite as urgent.  Satan continues his subtle whisper in your ear, “It’s just not all that important.”  Perhaps you’re overwhelmed at the thought of what it means to spend a significant amount of time with God.  Maybe you’re not quite sure how to go about it.  Perhaps your calendar is already filling up faster than you wanted or hoped, or the thought of being alone with God for a significant amount of time makes you feel as antsy and awkward as going on your first date.  Perhaps it’s a combination of all of the above.
@@ -22,3 +27,5 @@ Maybe it’s time to simplify your resolution.  Time to walk, even crawl, before
 God often speaks the loudest, not in the wind, earthquakes, or fire … but in the gentle whispers of His voice when we quiet ourselves enough to hear Him speak (<a href="http://www.biblegateway.com/passage/?search=1+Kings+19%3A9-12&version=NIV" target="_blank">1 Kings 19:12</a>).  
 
 For more tips and advice on how to get the most out of your dates with God, visit <a href="http://kbm.donorshops.com" target="_blank">www.kbm.org/store</a> and order “<a href="http://kbm.donorshops.com/product/DR0006/isgodwaitingforadatebooklet.php" target="_blank">Is God Waiting for a Date with You?</a>” by Dwight Robertson.
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

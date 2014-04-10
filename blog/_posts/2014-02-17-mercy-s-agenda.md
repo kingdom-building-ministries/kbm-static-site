@@ -4,6 +4,8 @@ layout: "blog-post"
 title: "Mercy's Agenda"
 date: "2014-02-18"
 "poster-image": "https://www.dropbox.com/s/mw3qvelbg1pwowe/mercyagenda.jpg"
+tags: 
+  - Mercy
 ---
 
 Did you see the heartwarming <a href="http://gma.yahoo.com/blogs/abc-blogs/heartwarming-exchange-between-trash-collector-autistic-boy-goes-192909594--abc-news-parenting.html?vp=1" target="_blank">ABCNews.com story</a> this week about Manuel, a California garbage collector, and Daniel, a five-year-old boy with autism, who happens to be enthralled with garbage trucks?  Manuel took notice of Daniel, who routinely waits outside his home in anticipation of viewing the weekly pick-up.  On his own time and with his own resources, Manuel bought a replica toy garbage truck to surprise Daniel with on his next collection day.  Surprise him, he did, along with Daniel’s family too.  Without knowing much more, Manuel, at the very least, seems to live an attentive life – seeing, stopping, and responding to the “least of these” around him.
@@ -14,4 +16,4 @@ Here’s a third story to consider.  Jesus had just told his disciples that he w
 
 Here something to ponder as you soak in this story from Mark: “How important does the stuff I do and the agenda I keep have to become in order for me not to see, stop, and respond to the cries of mercy?”
 
-*Written by John Boyd*
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

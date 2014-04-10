@@ -4,6 +4,11 @@ layout: "blog-post"
 title: Light Up Your Jerusalem
 date: "2014-01-09"
 "poster-image": "https://www.dropbox.com/s/8vhzd1mctv4vilz/1452399_10152005503323672_1034151975_n.jpg"
+tags: 
+  - KBM Speaker
+  - Jason Roe
+  - International
+  - Acts
 ---
 
 Last month, KBM Itinerant Jason Roe and a team of 14 crossed country borders and landed in Tegucigalpa, Honduras.  With hearts excited to serve and spread the light of Christ the team spent a week with *The Micah Project* of Honduras. 
@@ -23,3 +28,5 @@ Jason’s encouragement to you: Walk with the Lord every moment of every day of 
 ##Jason Roe
 {% include image.html url="https://www.dropbox.com/s/9v77cxwq283sow5/Screenshot%202014-01-07%2010.07.44.png" float="left" width="3" %} Jason Roe has dedicated himself to the ministry of spreading the Gospel of Jesus Christ to the ends of the earth. The foundation of Jason's ministry claims Mark 16:15: 'Go into all the world and proclaim the Gospel to the whole creation.'
 To learn more about Jason or book him as a speaker, click here: [www.kbm.org/speakers/jasonroe](http://www.kbm.org/speakers/jasonroe)
+
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)

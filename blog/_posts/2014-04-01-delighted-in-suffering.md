@@ -4,6 +4,10 @@ layout: "blog-post"
 title: Delighted in Suffering
 date: "2014-04-01"
 "poster-image": "https://www.dropbox.com/s/e846a2dvst1go7t/120529_MKW_THE_EXPERIENCE_0417.jpg"
+tags: 
+  - Adrian Despres
+  - 4 Gs
+  - Resource
 ---
 
 Think for a moment about the things in life that you delight in the most…is suffering on the list?

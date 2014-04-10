@@ -4,6 +4,10 @@ layout: "blog-post"
 title: "KBM Alumni, Mary Kate Work"
 date: "2014-02-20"
 "poster-image": "https://www.dropbox.com/s/afnj509cw4g743r/MaryKate1.jpg"
+tags: 
+  - Alumni
+  - Wide Values
+  - Loving All People
 ---
 
 Have you experienced a moment when you encountered a person or place that, seemingly without cause, moved your heart to deep love and compassion? That is what happened when Mary Kate first visited Las Vegas during 2011 while participating as a student with The Experience. The moment she entered Las Vegas, she loved the city. 

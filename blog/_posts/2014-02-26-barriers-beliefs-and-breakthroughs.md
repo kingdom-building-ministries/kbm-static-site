@@ -4,6 +4,8 @@ layout: "blog-post"
 title: "Barriers, Beliefs, and Breakthroughs"
 "poster-image": "https://www.dropbox.com/s/8e05h5cag5ncpon/roadblock_rock.jpg"
 date: "2014-03-03"
+tags: 
+  - "Obstacles "
 ---
 
 As Spring Break approached my freshman year of college, my life was filled with great expectation.  I had the opportunity for a free week on the beach thanks to my sister’s recent move to Florida.  Lightly packed with swimsuit and sunscreen in tow, I, along with a few traveling buddies, headed down Interstate 75 for our fifteen hour ride to paradise.  Until.  Until we hit bridge construction just one hour into our trip.  Now this was “back in the day” – so no cell phones, no GPS, no Google Maps, no detours, no nothin’!  In the words of a song that is almost as old as I am, “They paved paradise and put up a parking lot.”  Stuck.  The first 15-20 minutes wasn’t so bad.  But as minutes turned to hours discouragement and fatigue set in, and we found ourselves entertaining the discussion of “maybe we should just turn around and head back home.”
