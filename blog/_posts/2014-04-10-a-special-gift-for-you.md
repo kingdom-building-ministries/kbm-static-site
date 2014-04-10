@@ -17,7 +17,6 @@ Our prayer as you retrace the steps of Jesus' journey from the hills of Gethsema
 <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">Sign-up for Daily Devotions during Holy Week </a>
 (simply click and send) 
 
-
 <a href="http://www.kbm.org/fuel/holy-week-guide/" target="_blank">Download the Holy Week Devotional Guide</a>
 (pdf version of the entire week) 
 
