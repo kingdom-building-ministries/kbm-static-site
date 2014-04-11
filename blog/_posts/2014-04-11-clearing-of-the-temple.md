@@ -15,3 +15,8 @@ Is my heart filled with prayer in knowing and pleasing the Father or am I otherw
 
 ##Experience it in the Word:##
 Matthew 21:12-17 | Mark 11:12-26 | Luke 19:45-48 | John 12:12-16
+
+>Wanting a little more this week?  
+To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
