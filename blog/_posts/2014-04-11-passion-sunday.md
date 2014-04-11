@@ -16,6 +16,7 @@ I am a part of “the joy set before him.”  Am I grateful?  How much?  How muc
 ##Experience it in the Word:##
 Matthew 21:1-11 | Mark 11:1-1 | Luke 19:28-44 | John 12:12-16
 
-
 >Wanting a little more this week?  
-To receive the free daily email devotion, In His Steps, sign-up here. 
+To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
