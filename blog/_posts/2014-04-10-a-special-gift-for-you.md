@@ -12,11 +12,12 @@ What a great question for us who walk in the way of Jesus.  As we approach the w
 
 Over the next week, we hope you’ll daily visit the blog.  Our desire is to be a bit of a compass for you to help keep your thoughts centered on Jesus’ life, death, and resurrection.  More than knowing about him, we pray that next week will draw you closer to him.  We hope your prayer continues to be, “ I want to know Christ—yes, to know the power of his resurrection and participation in his sufferings, becoming like him in his death” (Philippians 3:10).
 
-*Let’s end where we begin: “Why is this week different from all the other weeks?”*  
+Let’s end where we begin: “Why is this week different from all the other weeks?”  
 
->In addition to the blog, you may also want to consider our free Holy Week devotional guide called, *In His Steps*.  
+**In addition to the blog, you may also want to consider our *free* Holy Week devotional guide called, *In His Steps*.**  
 
 To receive daily email devotions from *In His Steps*, click <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.
+
 To download a printable booklet version of *In His Steps*, click <a href="http://www.kbm.org/fuel/holy-week-guide/" target="_blank">here</a>.
 
 >{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
