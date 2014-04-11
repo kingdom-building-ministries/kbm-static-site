@@ -3,7 +3,7 @@ published: true
 layout: "blog-post"
 title: "Anything \"Holy\" About Next Week?"
 date: "2014-04-12"
-"poster-image": "https://www.dropbox.com/s/9y0zbu8pdrhs1n5/thisnight.jpg"
+"poster-image": "https://www.dropbox.com/s/mbekazopkqd9ut5/Screenshot%202014-04-10%2011.11.16.png"
 ---
 
 About this time every year, those who observe the Jewish Passover ask a very pointed question as they celebrate a first night feast called Seder: "Why is this night different from all other nights?” asks the youngest child present.  What follows is a retelling of the story of how a powerful and loving God moved his people from slavery to freedom, from death to life … and how he still does.
