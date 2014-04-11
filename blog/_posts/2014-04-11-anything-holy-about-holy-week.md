@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Anything Holy About Next Week?"
+title: "Anything \"Holy\" About Next Week?"
 date: "2014-04-12"
 "poster-image": "https://www.dropbox.com/s/mbekazopkqd9ut5/Screenshot%202014-04-10%2011.11.16.png"
 ---
