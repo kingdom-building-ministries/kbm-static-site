@@ -17,3 +17,8 @@ How much do I argue with God, instead of, with a humble and teachable spirit, le
 
 **Experience it in the Word:**
 Mt 21:23-25:46 | Mk 11:27-13:37 | Lk 20:1-21:36 | Jn 12:17-50
+
+**Wanting a little more this week?  
+To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
