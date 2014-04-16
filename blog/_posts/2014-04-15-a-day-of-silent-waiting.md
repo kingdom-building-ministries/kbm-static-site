@@ -6,8 +6,6 @@ title: "A Day of Silent Waiting "
 date: "2014-04-16"
 ---
 
-What do I fear about dying?
- 
 **What’s worth remembering: Silence + Betrayal**
 
 Rare is the opportunity to talk to a dead man after his assassination.  Time and breath have a way of working against such.  With the day of execution holding so little time for interviews, one can only speculate what all roams, scours, and haunts the mind of those who know that their next waking morning will be their last.  Minutes must seem like hours as the day burns quickly to night.  Is the silence deafening?  Does one replay life’s key moments like a highlight reel?  Do thoughts of life after death spin endlessly in one’s imagination?   And what about the mind of an executioner?   What, if anything, do they feel?  Do they rest easy?  Do they relish the part that they play as one who holds the power to destroy?  Or do they lie awake and wrestle; knowing that a life that is will be no more?
