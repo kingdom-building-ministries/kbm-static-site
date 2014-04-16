@@ -12,7 +12,7 @@ Jesus’ seven lasts words that fateful, yet forever good, Friday:
 
 1. “Father, forgive them, for they do not know what they are doing.”  Luke 23:34
 2. “Today, you will be with me in paradise.”  Luke 23:43
-3. “Dear woman, here is your son," and to the disciple, "Here is your mother."  John 19:26-27
+3. “Dear woman, here is your son," and to the disciple, "Here is your mother."  John 19:27
 4. “My God, my God, why have you forsaken me?”  Matthew 27:46
 5. “I am thirsty.” John 19:28
 6. “It is finished!”  John 19:30
