@@ -24,3 +24,7 @@ Does my intimate communion with Jesus compel me to stoop and wash the dirty feet
 
 Matthew 26:17-75 | Mark 14:12-72 | Luke 22:7-65 | John 13:1-18:27
 
+**Wanting a little more this week?  
+To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
