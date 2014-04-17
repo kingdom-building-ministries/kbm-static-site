@@ -4,6 +4,8 @@ layout: "blog-post"
 title: "That's How He Rolls: Full of Mercy"
 date: "2014-02-16"
 "poster-image": "https://www.dropbox.com/s/tfdkj6rqlj1d18e/Image.jpg"
+tags: 
+  - Mercy
 ---
 
 Someone once explained grace and mercy to me in this way:

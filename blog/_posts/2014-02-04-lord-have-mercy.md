@@ -4,6 +4,11 @@ layout: "blog-post"
 title: "Lord Jesus, Have Mercy"
 date: "2014-02-04"
 "poster-image": "https://www.dropbox.com/s/i5bhp753k7votnl/the-mercy-prayer3d-e1360703932263.jpg"
+tags: 
+  - Resource
+  - Robert Gelinas
+  - KBM Speaker
+  - Mercy
 ---
 
 When grave circumstances, suffering, temptation, intercession, overwhelming compassion, and despair seem to leave you without words, a few still remain: “Lord, have mercy.”
@@ -23,3 +28,5 @@ We are all in need of Christ’s mercy far more than we may recognize and have r
 ##The Mercy Prayer
 
 Visit Pastor Robert Gelinas’ website, <a href="http://mercyprayerbook.com" target="_blank">mercyprayerbook.com</a>, to learn how to purchase the book and to view an online study guide accompanying the writing.
+
+>{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)

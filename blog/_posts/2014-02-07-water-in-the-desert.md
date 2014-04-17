@@ -4,6 +4,14 @@ layout: "blog-post"
 title: Water In the Desert
 date: "2014-02-10"
 "poster-image": "https://www.dropbox.com/s/qph60q6480xdhjh/johnv-haiti2014b.jpg"
+tags: 
+  - KBM Speaker
+  - John Vermilya
+  - Deep Values
+  - Living Passionately for Christ
+  - Wide Values
+  - Spiritual Multiplication
+  - International
 ---
 
 Titanyen is a desolate, desert village in Haiti, whose name means “little nothing.”   Two hundred youth ministers and workers from all four corners of the country gathered in early January at a missionary compound in this remote Haitian town for one purpose: to have their hearts moved, their minds quickened, and their spirits ignited in order to live out -- and pass on to the “youth” (ages 14 to nearly 30) they daily encounter “back home” – a passionate and intentional love for God and others.  What was most unusual about this gathering was that, in Haiti, youth conferences and training experiences like this just don’t happen.  But God had a plan.  And His fingerprints proved to be all over this first time ever event.   Accompanied by KBM staff member, Rob Cupp, <a href="http://www.kbm.org/speakers/john-vermilya/" target="_blank">John Vermilya</a> was invited to share God’s Word for the week with these eager and unpaid youth volunteers, many who came by way of great personal sacrifice, and all who journeyed out of a great passion to better love God and share His message of hope with young people they greatly love.
@@ -16,3 +24,5 @@ Imagine this beautiful picture:  In the obscurity of Titanyen, the “little not
 *John Vermilya with Carl and Maya Gilles*  
 
 <a href="http://www.wesleyan.org/gp/minfo/WM04-0330" target="_blank">Carl and Maya</a> are long-term missionaries to Haiti and have been awaiting a Kingdom movement to spread among Haiti's youth that would empower and equip them to labor for the King.  May the flame continue to grow in Jesus' Name!  KBM's <a href="http://www.kbm.org/training/theexperience/" target="_blank">Experience</a> teams have had the privilege of serving with them the past few summers.
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

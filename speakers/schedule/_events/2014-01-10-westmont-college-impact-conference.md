@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: "speaker-event"
 title: "Westmont College - Impact Conference"
 speaker: "efrem-smith"

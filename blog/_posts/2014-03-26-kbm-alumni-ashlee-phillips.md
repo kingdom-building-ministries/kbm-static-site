@@ -4,6 +4,9 @@ layout: "blog-post"
 title: "KBM Alumni, Ashlee' Phillips "
 "poster-image": "https://www.dropbox.com/s/uwfssov23ulg17q/Ashlee%27%201.jpg"
 date: "2014-03-26"
+tags: 
+  - Alumni
+  - 4 Gs
 ---
 
 Ashlee’ is a 2011 <a href="http://www.kbm.org/training/theexperience/" target="_blank">Experience</a> alumni. She is attending college at Brewton-Parker College, where she is seeking to give God glory through her studies, athletics and relationships. 

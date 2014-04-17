@@ -4,6 +4,8 @@ layout: "blog-post"
 title: "Red Light?  Or Green Light?"
 date: "2014-03-31"
 "poster-image": "https://www.dropbox.com/s/l2moraglfgtl1vv/120601_MKW_THE_EXPERIENCE_0498.jpg"
+tags: 
+  - 4 Gs
 ---
 
 Decisions are easy when we are driving a car. We’ve been trained. At a traffic signal, even an observant 4 year-old can tell us what to do.  Green light…”GO!” Red light…”STOP!” Don’t you wish life decisions were that easy?

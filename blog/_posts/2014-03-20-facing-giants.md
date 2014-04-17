@@ -4,6 +4,9 @@ layout: "blog-post"
 title: Facing Giants
 date: "2014-03-21"
 "poster-image": "https://www.dropbox.com/s/3wytmi3cvolpq6v/facinggiants.jpg"
+tags: 
+  - 4 Gs
+  - 1 Samuel
 ---
 
 Locked on opposing hillsides, the two armies hesitated in ceasefire.  Who would make the next move?  How would this clash end?  On one side stood the mammoth of a man, a giant – nearly twice as tall and double the girth of even the largest opposing soldier.  His hand, sized to crush a man’s head like an egg for breakfast, held a sword that surely fatigued the blacksmith in the making.  Fitted in armor that seemed to be more uncomfortable than useful, the giant called out across the ravine, “Let’s get this thing over with.  Put your best man forward.  It’s this simple: He beats me, you win; I beat him, we win.”  His deep voice thundered through the chests of his opposers as he awaited their reply.  

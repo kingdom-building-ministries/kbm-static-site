@@ -4,6 +4,9 @@ layout: "blog-post"
 title: "God is: Good"
 date: "2014-03-04"
 "poster-image": "https://www.dropbox.com/s/cs3u5iuadhfxo7i/shepherd-sheep-12.jpg"
+tags: 
+  - 4 Gs
+  - Psalm
 ---
 
 “God is most glorified in us when we are most satisfied in Him” (John Piper).

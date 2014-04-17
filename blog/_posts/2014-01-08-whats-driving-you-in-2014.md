@@ -18,3 +18,5 @@ Take some time to really listen to God for a moment.  Don’t allow the awkwardn
 Whatever you’ve heard God sharing with you, share with a close friend or accountability partner, and begin living into your challenge or calling with courage and joy.  After all, it’s God Himself who is beckoning you further and higher, and He’s always faithful to complete the good work He begins.
 
 When ready, return to life’s highway.  And may God take you on the ride of your life in 2014!
+
+>{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
