@@ -13,19 +13,11 @@ In addition to their personal investment, each student is asked raise support fo
 
 {% for student in site.categories.candidates %}
 
-<div class="row">
-  <div class="kbm-full-col">
-   <div class="kbm-program-content-box gray">
-   
- <h1>{{student.name}}</h1>
-   
-   </div>
-  </div>
-</div>
 
 <div class="row">
   <div class="kbm-full-col">
     <div class="kbm-program-content-box gray">
+    <h1>{{student.name}}</h1>
       <div class="row">
         <div class="kbm-third-col">
           <img src="{{student.picurl}}"/>
@@ -43,6 +35,7 @@ In addition to their personal investment, each student is asked raise support fo
           {% endcase %}
           </h3>
           <h3>Country: {{student.country}}</h3>
+          <p>{{student.content}}</p>
         </div>
         <div class="kbm-third-col">
           {{student.dpurl}}

@@ -183,3 +183,35 @@ prose:
           label: "Title"
           value: ""
           type: "text"
+    get-involved/scholarship/candidates/_posts:
+      - name:"name"
+	      field:
+          element: "text"
+          label: "Student Name"
+    		  value: ""
+    		  type: "text" - name: "country"
+        field:
+          element: "text"
+          label: "Country"
+          value: ""
+          type: "text"
+      - name: "program"
+        field:
+          element: "text"
+          label: "Program"
+          value: ""
+          type: "text"
+      - name: "picurl"
+        field:
+          element: "text"
+          label: "Picture URL"
+          value: ""
+          type: "text"
+      - name: "dpurl"
+        field:
+          element: "text"
+          label: "Donor Perfect Thermometer Embed Code"
+          value: ""
+          type: "text"
+
+				get-involved/scholarship/candidates/_posts:
