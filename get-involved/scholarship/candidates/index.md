@@ -17,14 +17,14 @@ In addition to their personal investment, each student is asked raise support fo
 <div class="row">
   <div class="kbm-full-col">
     <div class="kbm-program-content-box gray">
-    <h1>{{student.name}}</h1>
+    <h1><a href="{{student.link}}">{{student.name}}</a></h1>
       <div class="row">
         <div class="kbm-third-col">
-          <img src="{{student.picurl}}"/>
+          <a href="{{student.link}}"><img src="{% include url.html url=student.picurl %}"/></a>
         </div>
-        
+
         <div class="kbm-third-col">
-          <h3> Program:
+          <h3> Program:<br>
           {% case student.program %}
           {% when 'experience' %}
           <a href="/theexperience">The Experience</a>
@@ -34,11 +34,14 @@ In addition to their personal investment, each student is asked raise support fo
           <a href="/deepcamp">Deep Camp</a>
           {% endcase %}
           </h3>
-          <h3>Country: {{student.country}}</h3>
-          <p>{{student.content}}</p>
+          <h3>Location: <br>{{student.country}}</h3>
+          <h3>College: <br>{{student.college}}</h3>
         </div>
         <div class="kbm-third-col">
           {{student.dpurl}}
+        </div>
+        <div class="kbm-full-col">
+          <p>{{student.content}}</p>
         </div>
       </div>
     </div>
