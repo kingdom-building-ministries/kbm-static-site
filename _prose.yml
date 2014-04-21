@@ -196,6 +196,12 @@ prose:
           label: "Location"
           value: ""
           type: "text"
+      - name: "college"
+        field:
+          element: "text"
+          label: "College"
+          value: ""
+          type: "text"
       - name: "program"
         field:
           element: "text"
@@ -208,12 +214,17 @@ prose:
           label: "Picture URL"
           value: ""
           type: "text"
+      - name: "link"
+        field:
+          element: "text"
+          label: "Donorpage Link"
+          value: ""
+          type: "text"
       - name: "dpurl"
         field:
           element: "textarea"
           label: "Donor Perfect Thermometer Embed Code"
           value: ""
-          type: "text"
       - name: "published"
         field:
           element: "hidden"
