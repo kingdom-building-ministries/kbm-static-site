@@ -184,7 +184,7 @@ prose:
           value: ""
           type: "text"
     get-involved/scholarship/candidates/_posts:
-      - name:"name"
+      - name: "name"
         field:
           element: "text"
           label: "Student Name"
