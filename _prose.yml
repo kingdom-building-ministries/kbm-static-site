@@ -189,10 +189,11 @@ prose:
           element: "text"
           label: "Student Name"
     		  value: ""
-    		  type: "text" - name: "country"
+    		  type: "text"
+      - name: "country"
         field:
           element: "text"
-          label: "Country"
+          label: "Location"
           value: ""
           type: "text"
       - name: "program"
@@ -213,5 +214,7 @@ prose:
           label: "Donor Perfect Thermometer Embed Code"
           value: ""
           type: "text"
-
-				get-involved/scholarship/candidates/_posts:
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
