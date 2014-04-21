@@ -1,0 +1,16 @@
+---
+published: true
+layout: "prayer-update"
+title: Because He Lives
+date: "2014-04-21"
+---
+
+*God sent his son, they called him Jesus.  He came to love, heal and forgive.  He lived and died to buy my pardon.  An empty grave; is there to prove My Savior lives!  Because he lives, I can face tomorrow.  Because he lives, all fear is gone. Because I know He holds the future...
+And life is worth the living, just because he lives.*
+
+You fill in the blank: "Because He lives, I ___________."
+If Jesus had only lived and died, our faith would be the same as any other religion.  But because He lived, died, and was raised to life, we have something (Someone) to live for.
+
+Because Jesus lives and God has a master plan of redemption, there is a Kingdom that needs building.  Because there is a Kingdom that needs building there are laborers, like you and I, who need to be equipped and mobilized!  And because there are more laborers needed (Matthew 9:37-38), WE PRAY! 
+ 
+May Jesus Christ's resurrected life, alive in YOU today, remind you of the reason, urgency and passion behind why you pray.
