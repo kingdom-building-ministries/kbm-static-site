@@ -185,11 +185,11 @@ prose:
           type: "text"
     get-involved/scholarship/candidates/_posts:
       - name:"name"
-	      field:
+        field:
           element: "text"
           label: "Student Name"
-    		  value: ""
-    		  type: "text"
+          value: ""
+          type: "text"
       - name: "country"
         field:
           element: "text"
@@ -211,7 +211,7 @@ prose:
       - name: "dpurl"
         field:
           element: "text"
-          label: "Donor Perfect Thermometer Embed Code"
+          label: "Donor Perfect Thermometer Embed URL"
           value: ""
           type: "text"
       - name: "published"
