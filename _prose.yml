@@ -222,9 +222,10 @@ prose:
           type: "text"
       - name: "dpurl"
         field:
-          element: "textarea"
+          element: "text"
           label: "Donor Perfect Thermometer Embed Code"
           value: ""
+          type: "text"
       - name: "published"
         field:
           element: "hidden"
