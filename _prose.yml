@@ -1,5 +1,7 @@
 prose:
   siteurl: 'http://www.kbm.org'
+  site:
+    data: "http://www.kbm.org/data/data.jsonp"
   ignore:
     - /*
     - '!/_data'
