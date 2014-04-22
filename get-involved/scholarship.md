@@ -10,10 +10,10 @@ alias:
 <br/>
 # *INVESTMENT* OPTIONS:
 
-- [DONATE directly to an international student](/scholarshipcandidates)  
+- [DONATE directly to a student with exceptional need.](/scholarshipcandidates)  
 See the list of students with exceptional need, and [donate to them directly](/scholarshipcandidates)
 
-- [DONATE an online gift toward KBM's Training Scholarship Fund.](https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=3)  
+- [DONATE a gift toward KBM's Training Scholarship Fund.](https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=3)  
     - Select *"TLI Scholarship Fund"* to donate to the student scholarship fund.  
     - Mail a check payable to "Kingdom Building Ministries" to:  
     
