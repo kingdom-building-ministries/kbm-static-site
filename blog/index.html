@@ -3,26 +3,32 @@ layout: default
 title: Kingdom Building Ministries Blog
 highlight-menu-id: get-involved
 ---
-<div class="blog-header">
-  <div class="row">
-    <div class="large-8 columns large-centered">
-      <img src="/img/kbm-blog-logo.png">
-    </div>
-  </div>
+{% assign firstpost = site.categories.blog[0] %}
+<div class="row firstpost-blog-thumbnail"
+       style="background-image: url('{% include url.html url=firstpost.poster-image %}');">
+   
+      <div class="large-12 columns firstpost-blog-content">
+          <h1><a href="{{firstpost.url}}">{{firstpost.title}}</a></h1>
+<!--           <p class="author">by {{firstpost.author}}</p>  -->
+          {{firstpost.excerpt | strip_html | truncatewords: 100}} <br><br>
+          <a class="box-link" href="{{firstpost.url}}">Continue Reading</a><br><br>
+      </div>      
+
 </div>
 
 <div class="row blog-container" style="position:relative;">
   <div class="large-8 columns blog-content">
-    {% assign firstpost = site.categories.blog[0] %}
+    <!--
+{% assign firstpost = site.categories.blog[0] %}
     <div class="row firstpost-row">
       {% if firstpost.poster-image %}
-      <div class="large-5 columns">
+      <div class="large-12 columns">
         <a href="{{firstpost.url}}"><div class="firstpost-blog-thumbnail" style="background-image:url('{{ firstpost.poster-image | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}');"></div></a>
-      </div>
-      <div class="large-7 columns">
-        <h3><a href="{{firstpost.url}}">{{firstpost.title}}</a></h3>
-        {{firstpost.excerpt | strip_html | truncatewords: 30}}<br><br>
-        <a href="{{firstpost.url}}">Click here to continue reading...</a><br><br>
+         <div class="firstpost-blog-content">
+          <h3><a href="{{firstpost.url}}">{{firstpost.title}}</a></h3>
+          {{firstpost.excerpt | strip_html | truncatewords: 60}}<br><br>
+          <a href="{{firstpost.url}}">Click here to continue reading...</a><br><br>
+        </div>
       </div>
       {% else %}
       <div class="large-12 columns">
@@ -32,18 +38,29 @@ highlight-menu-id: get-involved
       </div>
       {% endif %}
     </div>
-    <ul class="small-block-grid-1 large-block-grid-3">
+-->
+    <!-- <ul class="small-block-grid-1 large-block-grid-3"> -->
+    <ul class="large-12 columns postlist">
       {% for post in site.categories.blog offset:1 %}
       <li>
         {% if post.poster-image %}
-        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+        <div class="row">
+        <div class="large-4 columns">
         <a href="{{post.url}}"><div class="blog-thumbnail" style="background-image:url('{{ post.poster-image | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}');"></div></a>
-        {{ post.excerpt | strip_html | truncatewords: 23 }} <br><br>
-        <a href="{{post.url}}">Click here to continue reading...</a>
-        {% else %}
+        </div>
+        <div class="large-8 columns">
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        {{post.excerpt | strip_html | truncatewords: 36}} <br><br>
-        <a href="{{post.url}}">Click here to continue reading...</a>
+<!--         <p class="author">by {{post.author}}</p>  -->
+        {{ post.excerpt | strip_html | truncatewords: 60 }} <br><br>
+        <a href="{{post.url}}">Continue Reading</a>
+        </div></div>
+        {% else %}
+        
+        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
+<!--         <p class="author">by {{post.author}}</p>  -->
+        {{post.excerpt | strip_html | truncatewords: 60}} <br><br>
+        <a href="{{post.url}}">Continue Reading</a>
+        
         {% endif %}
       </li>
       {% endfor %}

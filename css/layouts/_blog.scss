@@ -1,27 +1,19 @@
 .blog-sidebar {
-  background: #d8d8d8;
+  background: white;
   height: 100%;
   right: 0;
   top: 0;
   bottom: 0;
-  border-left: 1px solid gray;
-  border-right: 1px solid gray;
   @media #{$not-mobile} {
     position: absolute;
   }
-}
-
-.blog-header {
-  background:#7e7e7e;
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 
 .blog-container {
   min-height: 400px;
   font-size: 1em;
   .columns {
-    padding-top: 5px;
+    padding-top: 15px;
   }
 }
 
@@ -46,12 +38,10 @@
   height: 130px;
   margin-right: 10px;
   margin-bottom: 10px;
-  border: 5px solid white;
   background-color: #000;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  box-shadow: 1px 3px 4px #232320;
 }
 .row.social-row {
   img {
@@ -67,18 +57,37 @@
 }
 
 .firstpost-blog-thumbnail {
-  height: 275px;
-  margin-bottom: 10px;
-  border: 5px solid white;
+  position: relative;
   background-color: #000;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  box-shadow: 1px 3px 4px #232320;
+  height: 400px;
+  .firstpost-blog-content {
+    position: absolute;
+    bottom: 0;
+  }
+}
+
+.firstpost-blog-content {
+  background-color: rgba(0,0,0,0.5);
+  color: white;
+  width: 45%;
+  height: 100%;
+  padding-top: 65px;
+  line-height: 1.6;
+  h1 a {
+    color: white;
+    font-style: normal;
+  }
+  a {
+    color: white;
+    font-style: italic;
+  }
 }
 
 .firstpost-thumbnail {
-  width: 250px;
+  width: 275px;
   border: 5px solid white;
   box-shadow: 1px 3px 4px #232320;
   margin-bottom: 10px;
@@ -107,8 +116,14 @@
 }
 
 .blog-content {
-  border-left: 1px solid gray;
   background-color: #fff;
+  ul.postlist {
+    list-style-type: none;
+    margin: 0;
+    h3 a {
+      color: black;
+    }
+  }
 }
 
 .blog-title {
@@ -122,4 +137,16 @@
 #livefyre-comments iframe {
   border: none;
   box-shadow: none;
+}
+
+.box-link {
+  border: 2px solid grey;
+  background: grey;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.author {
+  color: $kbm-accent-b-color;
+  font-size: 0.7em;
 }
