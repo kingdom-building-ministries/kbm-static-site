@@ -1,6 +1,6 @@
 ---
 published: true
-title: ""
+title: Tiana Robbins
 name: Tiana Robbins
 country: "Chesnee, SC"
 college: Southern Wesleyan University
