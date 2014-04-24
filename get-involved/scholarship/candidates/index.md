@@ -38,7 +38,7 @@ In addition to their personal investment, each student is asked raise support fo
           <h3>College: <br>{{student.college}}</h3>
         </div>
         <div class="kbm-third-col">
-          {{student.dpurl}}
+          <iframe src="{{student.dpurl}}" style="height: 265px; width: 230px; float: right;" frameborder="0" scrolling="no"></iframe>
         </div>
         <div class="kbm-full-col">
           <p>{{student.content}}</p>
