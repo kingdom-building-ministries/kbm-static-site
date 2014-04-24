@@ -11,8 +11,17 @@ In addition to their personal investment, each student is asked raise support fo
 
 **WOULD YOU CO-LABOR WITH THESE STUDENTS TO ARE RIGHT NOW WALKING THIS FAITH JOURNEY?**
 
+<ul class="large-block-grid-10 medium-block-grid-5">
 {% for student in site.categories.candidates %}
 
+
+<li>
+<a class="student-thumb" href=""><img src="{% include url.html url=student.picurl %}"/>{{student.name}}</a>
+</li>
+{% endfor %}
+</ul>
+
+{% for student in site.categories.candidates %}
 
 <div class="row">
   <div class="kbm-full-col">
