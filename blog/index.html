@@ -1,18 +1,18 @@
 ---
 layout: default
 title: Kingdom Building Ministries Blog
-highlight-menu-id: get-involved
+highlight-menu-id: fuel
 ---
 {% assign firstpost = site.categories.blog[0] %}
 <div class="row firstpost-blog-thumbnail"
        style="background-image: url('{% include url.html url=firstpost.poster-image %}');">
-   
+
       <div class="large-12 columns firstpost-blog-content">
           <h1><a href="{{firstpost.url}}">{{firstpost.title}}</a></h1>
 <!--           <p class="author">by {{firstpost.author}}</p>  -->
           {{firstpost.excerpt | strip_html | truncatewords: 100}} <br><br>
           <a class="box-link" href="{{firstpost.url}}">Continue Reading</a><br><br>
-      </div>      
+      </div>
 
 </div>
 
@@ -55,12 +55,12 @@ highlight-menu-id: get-involved
         <a href="{{post.url}}">Continue Reading</a>
         </div></div>
         {% else %}
-        
+
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
 <!--         <p class="author">by {{post.author}}</p>  -->
         {{post.excerpt | strip_html | truncatewords: 60}} <br><br>
         <a href="{{post.url}}">Continue Reading</a>
-        
+
         {% endif %}
       </li>
       {% endfor %}
