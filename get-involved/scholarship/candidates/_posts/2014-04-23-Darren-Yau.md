@@ -5,7 +5,7 @@ country: "Cupertino, CA"
 college: Wheaton College
 program: experience
 link: "http://kbm.donorpages.com/theexperience/darrenyau/"
-dpurl: "<iframe src=\"http://kbm.donorpages.com/Widget/getfundraiser.aspx?styleid=1&fid=80cd7c52-53c2-4e67-8c7c-c1b7f1a721af&pageId=455&did=9e6e189d-1066-4f69-bed1-bf32a5ec586f&type=indiv\" style=\"height:255px; width:220px;\" frameborder=\"0\" scrolling=\"no\" />"
+dpurl: "http://kbm.donorpages.com/Widget/getfundraiser.aspx?styleid=1&fid=80cd7c52-53c2-4e67-8c7c-c1b7f1a721af&pageId=455&did=9e6e189d-1066-4f69-bed1-bf32a5ec586f&type=indiv"
 picurl: "https://www.dropbox.com/s/y8dpmjkno0i5j7l/Darren%20Yau.jpg"
 title: Untitled
 ---
