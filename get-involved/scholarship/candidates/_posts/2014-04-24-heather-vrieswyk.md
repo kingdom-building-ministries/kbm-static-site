@@ -6,7 +6,7 @@ country: "Sheridan, WY"
 college: Sheridan College
 program: experience
 picurl: "https://www.dropbox.com/s/cog2n5de79zo8qq/Heather%20Vrieswyk.jpg"
-dpurl: "http://kbm.donorpages.com/Widget/getfundraiser.aspx?styleid=0&fid=5171298b-24ba-4f88-a6b3-8d26f30a98c2&pageId=464&did=9e6e189d-1066-4f69-bed1-bf32a5ec586f&type=indiv"
+dpurl: "http://kbm.donorpages.com/Widget/getfundraiser.aspx?styleid=1&fid=5171298b-24ba-4f88-a6b3-8d26f30a98c2&pageId=464&did=9e6e189d-1066-4f69-bed1-bf32a5ec586f&type=indiv"
 link: "http://kbm.donorpages.com/theexperience/heathervrieswyk/"
 ---
 
