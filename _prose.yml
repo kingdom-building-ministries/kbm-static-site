@@ -185,6 +185,19 @@ prose:
           value: ""
           type: "text"
     get-involved/scholarship/candidates/_posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+          type: "text"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Ordering Date"
+          value: ""
+          placeholder: "2014-01-01"
+          type: "text"
       - name: "name"
         field:
           element: "text"
