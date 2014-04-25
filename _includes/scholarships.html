@@ -1,0 +1,18 @@
+{% assign candidate_count = site.categories.candidates | size %}
+{% if candidate_count > 10 %}
+<ul class="large-block-grid-6 small-block-grid-5 scholarship-thumbs">
+{% else %}
+<ul class="large-block-grid-{{ site.categories.candidates | size }} small-block-grid-5 scholarship-thumbs">
+{% endif %}
+  {% for student in site.categories.candidates %}
+  <li>
+    <div>
+      <a href="/get-involved/scholarship/candidates#{{ student.name | downcase | uri_escape }}">
+        <div class="face" style="background-image:url({% include url.html url=student.picurl %});"></div>
+        <h3>{{student.name}}</h3>
+      </a>
+    </div>
+  </li>
+
+  {% endfor %}
+</ul>
