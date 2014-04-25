@@ -6,17 +6,18 @@ alias:
   - /scholarships
 ---
 #What if your ***GIVING*** could deeply transform ***ONE*** life... And that one life would greatly impact ***GENERATIONS*** to come?  
-<br/>
-<br/>
-# *INVESTMENT* OPTIONS:
 
-- [DONATE directly to a student with exceptional need.](/scholarshipcandidates)  
+### *INVESTMENT* OPTIONS:
+
+### 2014 Training Scholarship Students
+
+{% include scholarships.html %}  
 See the list of students with exceptional need, and [donate to them directly](/scholarshipcandidates)
 
 - [DONATE a gift toward KBM's Training Scholarship Fund.](https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=3)  
     - Select *"TLI Scholarship Fund"* to donate to the student scholarship fund.  
     - Mail a check payable to "Kingdom Building Ministries" to:  
-    
+
 **Kingdom Building Ministries**  
 14485 E Evans Ave  
 Aurora, CO 80014  
@@ -37,4 +38,3 @@ Kingdom Building Ministries believes that the Kingdom impact of one life laborin
 | <a href="/deepcamp"><img src="/img/getinvolved/scholarship/deep_camp_button.png"/></a> | **$439** *(program cost)* | **Any Amount** *Select "General Training Fund"* |
 | <a href="/urbanadvance"><img src="/img/getinvolved/scholarship/ua_button.png"/></a> | **Program Cost + Travel Costs** | **Any Amount** *Select "Urban Scholarship Fund"* |
 | <a href="/scholarshipcandidates"><img src="/img/getinvolved/scholarship/international_button.png"/></a> | **Program Cost + Travel Costs + Visa & Passport** | **Any Amount** *Select "International Scholarship Fund"* |  
-

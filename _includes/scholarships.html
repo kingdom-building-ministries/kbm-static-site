@@ -9,7 +9,13 @@
     <div>
       <a href="/get-involved/scholarship/candidates#{{ student.name | downcase | uri_escape }}">
         <div class="face" style="background-image:url({% include url.html url=student.picurl %});"></div>
-        <h3>{{student.name}}</h3>
+        <h3>
+          {% if include.first_name == 'y' %}
+            {{student.name | split: ' ' | first}}
+          {% else %}
+            {{student.name}}
+          {% endif %}
+        </h3>
       </a>
     </div>
   </li>
