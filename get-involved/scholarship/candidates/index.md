@@ -20,7 +20,7 @@ In addition to their personal investment, each student is asked to raise support
 <div class="row">
   <div class="kbm-full-col">
     <div class="kbm-program-content-box gray">
-      <a id="{{ student.name | downcase | uri_escape }}"></a>
+      <a id="{{ student.name | downcase | replace: ' ', '' }}"></a>
     <h1><a href="{{student.link}}">{{student.name}}</a></h1>
       <div class="row">
         <div class="kbm-third-col">
