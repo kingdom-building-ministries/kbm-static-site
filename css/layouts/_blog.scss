@@ -9,6 +9,19 @@
   }
 }
 
+.blog-sidebar-content {
+  font-size: .9em;
+  a {
+    color: black;
+    &:hover {
+      color: $kbm-accent-b-color;
+    }
+  }
+  li {
+    list-style-type: none;
+  }
+}
+
 .blog-container {
   min-height: 400px;
   font-size: 1em;
@@ -48,12 +61,13 @@
     position: relative;
     top: -2px;
   }
-  background: #d8d8d8;
-  border-bottom: 1px solid gray;
-  border-top: 1px solid gray;
-  padding: 13px 0px 10px 0px;
+  padding: 10px 0px 0px 0px;
   margin-top: -10px;
-  margin-bottom: 10px;
+}
+
+.social-links {
+  margin-top: -2%;
+  margin-bottom: 10%
 }
 
 .firstpost-blog-thumbnail {
@@ -62,7 +76,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 400px;
+  min-height: 400px;
   .firstpost-blog-content {
     position: absolute;
     bottom: 0;
@@ -72,8 +86,7 @@
 .firstpost-blog-content {
   background-color: rgba(0,0,0,0.5);
   color: white;
-  width: 45%;
-  height: 100%;
+  min-height: 400px;
   padding-top: 65px;
   line-height: 1.6;
   h1 a {
@@ -117,9 +130,11 @@
 
 .blog-content {
   background-color: #fff;
+  padding-top: 0 !important;
   ul.postlist {
     list-style-type: none;
     margin: 0;
+    padding-top: 0;
     h3 a {
       color: black;
     }
@@ -149,4 +164,19 @@
 .author {
   color: $kbm-accent-b-color;
   font-size: 0.7em;
+}
+
+.author-bio {
+  width: 20%;
+  position: relative;
+  z-index: 10;
+  padding: 0 0 0 20px;
+  margin: -30px 0px 0px 20px;
+  float: right;
+  clear: left;
+  font-style: italic;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: left;
+  letter-spacing: normal;
 }
