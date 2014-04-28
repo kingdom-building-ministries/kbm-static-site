@@ -15,23 +15,25 @@ highlight-menu-id: fuel
     </div>
   </div>
   <div class="row" style="position:relative;">
-    <div class="large-8 columns blog-content">
+    <div class="large-9 columns blog-content">
       {% include social-sharing-bar.html %}
-        <!--
-<div class="row social-row">
-          <div class="large-6 right columns">
-            <strong>Share this article on</strong>
-            <a href="http://facebook.com/sharer.php?u=http://www.kbm.org{{ page.url }}" target="_blank"><img data-collapse-class="facebook-share" style="height:28px;widthc:28px;" src="/img/facebook.png"/></a> |
-            <a href="http://twitter.com/intent/tweet?url=http://www.kbm.org{{ page.url }}&text={{ page.title | cgi_escape }}&via=kingdomlaborers" target="_blank"><img style="height:28px;widthc:28px;" src="/img/twitter.png"/></a> |
-            <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.kbm.org/{{ page.url }}" target="_blank"><img style="height:28px;widthc:28px;" src="/img/google-plus.png"/></a>
-          </div>
-      </div>
+      
+	  <!--
+<div class="author-bio"> 
+	  	<div class="thumbnail"> 
+		  <img src="/img/kbmstaff/kbm-staff-rreed.jpg" alt="Rachel Reed">
+		</div>
+		  By {{ page.author }}</a><br>
+		  <p>{{ post.postdate }} </p>
+		  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, error eum nobis voluptatibus totam provident cumque laborum unde soluta laboriosam!</p>
+ 	   </div>
 -->
+      
       {{ content }}
       <p class="muted">{{ page.author }} {{ page.date | date_to_long_string }}</p>
             {% include social-sharing-bar.html %}
-
-
+    
+    
     <!-- START: Livefyre Embed -->
 <div id="livefyre-comments"></div>
 <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
@@ -52,14 +54,15 @@ highlight-menu-id: fuel
 }());
 </script>
 <!-- END: Livefyre Embed -->
+
             </div>
-    <div class="large-4 columns blog-sidebar">
-      <a href="/blog"><img src="/img/kbm-blog-logo.png"/></a>
+    <div class="large-3 columns blog-sidebar">
+    	<h3><a href="/blog">Blog Home</a></h3>
       {% include blog-sidebar.html %}
     </div>
   </div>
 </div>
 </div>
 
-
+            
 {% include footer.html %}
