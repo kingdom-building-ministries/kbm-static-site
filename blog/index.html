@@ -29,14 +29,14 @@ highlight-menu-id: fuel
         </div>
         <div class="large-8 columns">
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        <p class="author">by {{post.author}}</p> 
+<!--         <p class="author">by {{post.author}}</p>  -->
         {{ post.excerpt | strip_html | truncatewords: 30}} <br><br>
         <a href="{{post.url}}">Continue Reading</a>
         </div></div>
         {% else %}
 
         <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        <p class="author">by {{post.author}}</p> 
+<!--         <p class="author">by {{post.author}}</p>  -->
         {{post.excerpt | strip_html | truncatewords: 30}} <br><br>
         <a href="{{post.url}}">Continue Reading</a>
 
