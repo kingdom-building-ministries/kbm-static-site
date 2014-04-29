@@ -17,16 +17,10 @@ highlight-menu-id: fuel
     <div class="large-9 columns blog-content">
       {% include social-sharing-bar.html %}
       
-		  <div class="author-bio">
-  		  <img src="{% include author.html id=page.author get='picture' %}"/>
-  		  By {% include author.html id=page.author get='name' %}<br/>
-  		  <p>{{ page.date | date_to_long_string }} </p>
-        {% include author.html id=page.author get='title' %}
-  		  <p>{% include author.html id=page.author get='bio' %}</p>
-		  </div>
+      {% include author-bio.html %}
       
       {{ content }}
-<!--       <p class="muted">{% include author.html id=page.author get='name' %} {{ page.date | date_to_long_string }}</p> -->
+      <p class="muted">{{ page.date | date_to_long_string }}</p>
       
 {% include social-sharing-bar.html %}    
     

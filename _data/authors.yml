@@ -1,3 +1,6 @@
+- name: No Author
+  value: no-author
+  
 - name: Lisa Zimmerman
   value: lisa-zimmerman
   title: "Content Team & Discipleship Training"
@@ -28,65 +31,3 @@ needs of people."
 as she can, enjoys coffee with others who are traveling toward deeper intimacy with Jesus, and leans 
 into a writing life. Shannon and her husband, John, co-author a weekly devotional called Abide. Follow 
 Shannon at www.movinghonestly.wordpress.com"
-  
-# 
-# - name: Caleb Bislow
-#   value: caleb-bislow
-#   title:
-#   picture:
-#   
-# - name: Foster Christy
-#   value: foster-christy  
-#   title:
-#   picture:
-#   
-# - name: Adrian Despres
-#   value: adrian-despres
-#   title:
-#   picture:
-#     
-# - name: Chris Emery
-#   value: chris-emery
-#   title:
-#   picture:
-#   
-# - name: Robert Gelinas
-#   value: robert-gelinas
-#   title:
-#   picture:
-#   
-# - name: Fred Lynch
-#   value: fred-lynch
-#   title:
-#   picture:
-#   
-- name: Tim Reilly
-  value: tim-reilly
-  title: Itinierant Speaker & Pastor
-  picture: /img/kbmspeakers/time-reilly.jpg
-  
-# - name: Dwight Robertson
-#   value: dwight-robertson
-#   title:
-#   picture:
-#   
-# - name: Jason Roe
-#   value: jason-roe
-#   title:
-#   picture:
-#   
-# - name: Efrem Smith
-#   value: efrem-smith
-#   title:
-#   picture:
-#   
-# - name: Mick Veach
-#   value: mick-veach
-#   title:
-#   picture:
-#   
-# - name: John Vermilya
-#   value: john-vermilya
-#   title:
-#   picture:
-  

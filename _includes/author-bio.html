@@ -1,0 +1,12 @@
+{% if page.author and page.author != "no-author" %}
+
+  <div class="author-bio">
+    {% capture picture_url %} {% include author.html id=page.author get='picture' %} {% endcapture %}     
+    <img src="{% include url.html url=picture_url %}"/>
+    By {% include author.html id=page.author get='name' %}<br/>
+    <p>{{ page.date | date_to_long_string }} </p>
+    {% include author.html id=page.author get='title' %}
+    <p>{% include author.html id=page.author get='bio' %}</p>
+  </div>
+  
+{% endif %}
