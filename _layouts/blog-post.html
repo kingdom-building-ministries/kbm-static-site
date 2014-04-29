@@ -11,28 +11,24 @@ highlight-menu-id: fuel
   {% endif %}
     <div class="large-10 columns blog-title">
       <h1>{{ page.title }}</h1>
-      {% if page.author %}<h3>by {{ page.author }}</h3>{% endif %}
     </div>
   </div>
   <div class="row" style="position:relative;">
     <div class="large-9 columns blog-content">
       {% include social-sharing-bar.html %}
       
-	  <!--
-<div class="author-bio"> 
-	  	<div class="thumbnail"> 
-		  <img src="/img/kbmstaff/kbm-staff-rreed.jpg" alt="Rachel Reed">
-		</div>
-		  By {{ page.author }}</a><br>
-		  <p>{{ post.postdate }} </p>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic, error eum nobis voluptatibus totam provident cumque laborum unde soluta laboriosam!</p>
- 	   </div>
--->
+		  <div class="author-bio">
+  		  <img src="{% include author.html id=page.author get='picture' %}"/>
+  		  By {% include author.html id=page.author get='name' %}<br/>
+  		  <p>{{ page.date | date_to_long_string }} </p>
+        {% include author.html id=page.author get='title' %}
+  		  <p>{% include author.html id=page.author get='bio' %}</p>
+		  </div>
       
       {{ content }}
-      <p class="muted">{{ page.author }} {{ page.date | date_to_long_string }}</p>
-            {% include social-sharing-bar.html %}
-    
+<!--       <p class="muted">{% include author.html id=page.author get='name' %} {{ page.date | date_to_long_string }}</p> -->
+      
+{% include social-sharing-bar.html %}    
     
     <!-- START: Livefyre Embed -->
 <div id="livefyre-comments"></div>

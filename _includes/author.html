@@ -1,0 +1,5 @@
+{% for author in site.data.authors %}
+{% if author.value == include.id %}
+{{ author[include.get] }}
+{% endif %}
+{% endfor %}

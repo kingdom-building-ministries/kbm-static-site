@@ -102,11 +102,9 @@ prose:
           type: "text"
       - name: "author"
         field:
-          element: "text"
-          label: "Author"
-          value: ""
-          placeholder: "Kingdom Builder"
-          type: "text"
+          element: "select"
+          label: "Author:"
+          options: "http://www.kbm.org/data/authors.jsonp?callback=authors"          
       - name: "date"
         field:
           element: "text"
