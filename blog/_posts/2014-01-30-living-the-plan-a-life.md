@@ -20,7 +20,8 @@ When was the last time you were reminded that God has equipped you to live in a 
 
 As you move forward into 2014, consider these two questions:  
 - Is there a person (or group of people) God is tapping you on the shoulder to extend his love to?  
-- Is there an individual God has placed in your life who you could pass a spiritual baton to and begin discipling?  
+- Is there an individual God has placed in your life who you could pass a spiritual baton to and begin discipling? 
+
 Pray and take action this week that brings you into closer relationship to the person or people God brought to mind. 
 
 **An Excerpt from *You are God’s Plan A*:**
