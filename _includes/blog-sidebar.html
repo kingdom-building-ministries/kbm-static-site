@@ -38,30 +38,40 @@
   <br>
 </div>
 
+<h3> Current Series </h3>
+<ul>
+  {% for series in site.data.current_series %}
+    <li>{{ series }}</li>
+  {% endfor %}
+</ul>
+
+<h3> Topics </h3>
+<ul>
+  {% for tag in site.tags limit:10 %}
+    <li>{{tag | first }}</li>
+    {% endfor %}
+    </ul>
+
+<h3> More Posts: </h3>
+<ul>
+  {% for tag in site.post_type %}
+    <li>{{ tag | first }}</li>
+  {% endfor %}
+</ul>
+
+<h3> Books of the bible: </h3>
+<ul>
+  {% for tag in site.post_type %}
+    <li>{{ tag | first }}</li>
+  {% endfor %}
+</ul>
+
 <!--
 <h3> Recent Articles </h3>
 
 <ul>
   {% for post in site.categories.blog limit: 5 %}
     <li><a href="{{ post.url }}"><strong>{{ post.title }} - {{ post.date | date_to_long_string }}</strong></a></li>
-  {% endfor %}
-</ul>
--->
-
-<!--
-<h3> Categories </h3>
-<ul>
-  {% for category in site.categories %}
-    <li>{{category | first }}</li>
-    {% endfor %}
-    </ul>
--->
-
-<!--
-<h3> Topics </h3>
-<ul>
-  {% for tag in site.tags %}
-    <li>{{ tag | first }}</li>
   {% endfor %}
 </ul>
 -->

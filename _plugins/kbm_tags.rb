@@ -7,7 +7,7 @@ module Jekyll
         siteHash = hash["site"]
         puts "Generating additional hashes"
         siteHash["bible_references"] = post_yaml_attr_hash("bible_references")
-        siteHash["post_type"] = post_yaml_attr_hash("post_type")
+        siteHash["post_types"] = post_yaml_attr_hash("post_types")
         siteHash["series"] = post_yaml_attr_hash("series")
         puts "done generating additional hashes"
         hash["site"] = siteHash

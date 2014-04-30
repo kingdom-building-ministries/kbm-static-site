@@ -15,6 +15,7 @@ exclude:
 
 permalink: pretty
 
+# search index limited to only blog posts right now
 lunr_search:
   excludes: ["^(?!\\/blog/).+"]
 
