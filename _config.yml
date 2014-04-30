@@ -15,6 +15,9 @@ exclude:
 
 permalink: pretty
 
+lunr_search:
+  excludes: ["^(?!\\/blog/).+"]
+
 sass:
   style: expanded
   deploy_style: compressed
