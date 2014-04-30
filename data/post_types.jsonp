@@ -1,5 +1,5 @@
 ---
 ---
-bible_books(
+post_types(
 {{ site.data.post_types | jsonify }}
 )
