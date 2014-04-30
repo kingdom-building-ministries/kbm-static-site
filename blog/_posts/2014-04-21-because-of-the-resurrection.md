@@ -14,5 +14,3 @@ Listen to <a href="http://www.kbm.org/speakers" target="_blank">KBM Speaker</a>,
 
 ##Tim Reilly
 {% include image.html url="https://www.dropbox.com/s/0o2u2pt03gyhz7e/tim-reilly.jpg" float="left" width="3" %} Tim Reilly is an ex-Atheist turned Evangelist. After attempting to disprove God’s existence, Tim ran right into him, through the overwhelming evidence of history, logic and reason. Tim is now a pastor/evangelist/missionary at Morgan Hill Bible Church in Morgan Hill, California (Bay Area), where he resides with his wife and four kids. Tim loves cycling, apologetics, theology and people. To learn more about Tim, visit <a href="http://www.iamcompelled.org" target="_blank">iamcompelled.org</a> and <a href="http://www.timreilly316.com" target="_blank">timreilly316.com</a>.
-
->{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)
