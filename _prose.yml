@@ -104,7 +104,7 @@ prose:
         field:
           element: "select"
           label: "Author:"
-          options: "http://www.kbm.org/data/authors.jsonp?callback=authors"          
+          options: "http://www.kbm.org/data/authors.jsonp?callback=authors"
       - name: "date"
         field:
           element: "text"
@@ -122,9 +122,28 @@ prose:
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Tags"
+          label: "Add Topics"
           placeholder: "Choose Tags"
           alterable: "true"
+      - name: "series"
+        field:
+          element: "text"
+          label: "Series"
+          value: ""
+          placeholder: "Series title"
+          type: "text"
+      - name: "post_types"
+        field:
+          element: "select"
+          label: "Post Type"
+          placeholder: "Choose Post Type"
+          options: "http://www.kbm.org/data/post_types.jsonp?callback=post_types"
+      - name: "bible_references"
+        field:
+          element: "multiselect"
+          label: "Add Bible Books"
+          alterable: "false"
+          options: "http://www.kbm.org/data/bible_books.jsonp?callback=bible_books"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:
