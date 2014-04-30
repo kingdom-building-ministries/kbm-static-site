@@ -1,0 +1,5 @@
+---
+---
+bible_books(
+{{ site.data.bible_books | jsonify }}
+)
