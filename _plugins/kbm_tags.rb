@@ -5,11 +5,9 @@ module Jekyll
       def site_payload
         hash = orig_site_payload
         siteHash = hash["site"]
-        puts "Generating additional hashes"
         siteHash["bible_references"] = post_yaml_attr_hash("bible_references")
         siteHash["post_types"] = post_yaml_attr_hash("post_types")
         siteHash["series"] = post_yaml_attr_hash("series")
-        puts "done generating additional hashes"
         hash["site"] = siteHash
         return hash
       end
@@ -19,8 +17,12 @@ module Jekyll
         # array of posts ) then sort each array in reverse order.
         hash = Hash.new { |hsh, key| hsh[key] = Array.new }
         self.posts.each do |p|
-          if !p.data[post_attr].nil?
-            p.data[post_attr].each { |t| hash[t] << p }
+          attrib = p.data[post_attr]
+          if !attrib.nil?
+            if !attrib.kind_of?(Array)
+              attrib = [attrib]
+            end
+            attrib.each { |t| hash[t] << p }
           end
         end
         hash.values.map { |sortme| sortme.sort! { |a, b| b <=> a } }

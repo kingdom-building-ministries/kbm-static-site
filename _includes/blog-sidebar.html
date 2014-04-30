@@ -54,14 +54,14 @@
 
 <h3> More Posts: </h3>
 <ul>
-  {% for tag in site.post_type %}
+  {% for tag in site.post_types %}
     <li>{{ tag | first }}</li>
   {% endfor %}
 </ul>
 
 <h3> Books of the bible: </h3>
 <ul>
-  {% for tag in site.post_type %}
+  {% for tag in site.bible_references %}
     <li>{{ tag | first }}</li>
   {% endfor %}
 </ul>
