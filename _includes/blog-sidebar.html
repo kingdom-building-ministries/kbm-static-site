@@ -1,4 +1,26 @@
 <div class="blog-sidebar-content">
+<div id="search">
+      <form action="/search" method="get">
+        <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
+      </form>
+    </div>
+    <section id="search-results" style="display: none;">
+      <div class="entries">
+      </div>
+    </section>
+
+    {% raw %}
+    <script id="search-results-template" type="text/mustache">
+      {{#entries}}
+        <article>
+          <h3>
+            {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+            <a href="{{url}}">{{title}}</a>
+          </h3>
+        </article>
+      {{/entries}}
+    </script>
+    {% endraw %}
 
 <h3>Follow Us</h3>
 
@@ -7,14 +29,42 @@
   <a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.kbm.org%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-circle-flat-black_2x.png' alt='follow us in feedly' width='28' height='28'></a> |
 
   <a href="http://www.kbm.org/feed.xml" target="_blank"><img src="/img/rss.png" style="height:28px;width:28px;"/></a> |
-  
+
   <a href="http://www.facebook.com/kingdombuildingministries" target="_blank"><img src="/img/facebook.png" style="height:28px;width:28px;"/></a> |
-  
+
   <a href="http://www.twitter.com/kingdomlaborers" target="_blank"><img src="/img/twitter.png" style="height:28px;width:28px;"/></a> |
-  
+
   <a href="http://www.instagram.com/kingdomlaborers" target="_blank"><img src="/img/instagram.png" style="height:28px;width:28px;"/></a>
   <br>
 </div>
+
+<h3> Current Series </h3>
+<ul>
+  {% for series in site.data.current_series %}
+    <li>{{ series }}</li>
+  {% endfor %}
+</ul>
+
+<h3> Topics </h3>
+<ul>
+  {% for tag in site.tags limit:10 %}
+    <li>{{tag | first }}</li>
+    {% endfor %}
+    </ul>
+
+<h3> More Posts: </h3>
+<ul>
+  {% for tag in site.post_types %}
+    <li>{{ tag | first }}</li>
+  {% endfor %}
+</ul>
+
+<h3> Books of the bible: </h3>
+<ul>
+  {% for tag in site.bible_references %}
+    <li>{{ tag | first }}</li>
+  {% endfor %}
+</ul>
 
 <!--
 <h3> Recent Articles </h3>
@@ -22,24 +72,6 @@
 <ul>
   {% for post in site.categories.blog limit: 5 %}
     <li><a href="{{ post.url }}"><strong>{{ post.title }} - {{ post.date | date_to_long_string }}</strong></a></li>
-  {% endfor %}
-</ul>
--->
-
-<!--
-<h3> Categories </h3>
-<ul>
-  {% for category in site.categories %}
-    <li>{{category | first }}</li>
-    {% endfor %}
-    </ul>
--->
-
-<!--
-<h3> Topics </h3>
-<ul>
-  {% for tag in site.tags %}
-    <li>{{ tag | first }}</li>
   {% endfor %}
 </ul>
 -->

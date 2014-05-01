@@ -4,6 +4,13 @@ layout: "blog-post"
 title: Resurrection Day
 date: "2014-04-20"
 "poster-image": "https://www.dropbox.com/s/xfhinbwni2gl43e/sun%20-%20resurrection.jpg"
+author: "lisa-zimmerman"
+post_types: "staff-reflection"
+bible_references: 
+  - Genesis
+series: Experience 2014
+tags: 
+  - Resurrection
 ---
 
 **What’s worth remembering: Resurrection + Celebration**
