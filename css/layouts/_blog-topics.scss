@@ -1,0 +1,26 @@
+.topic {
+  padding-top: 10px;
+}
+
+.topic-thumbnail {
+  height: 130px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h3.topic {
+  position: absolute;
+  color: white;
+  top: -5px;
+  text-align: center;
+  vertical-align: middle;
+  width: 100%;
+  height: 100%;
+  background:rgba(150,150,150,0.5);
+  padding-top: 26px;
+}
