@@ -8,6 +8,7 @@ module Jekyll
         siteHash["bible_references"] = post_yaml_attr_hash("bible_references")
         siteHash["post_types"] = post_yaml_attr_hash("post_types")
         siteHash["series"] = post_yaml_attr_hash("series")
+        siteHash["authors"] = post_yaml_attr_hash("author")
         hash["site"] = siteHash
         return hash
       end

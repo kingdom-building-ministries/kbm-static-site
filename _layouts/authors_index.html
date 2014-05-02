@@ -1,0 +1,23 @@
+---
+highlight-menu-id: fuel
+---
+{% include header.html %}
+
+<div class="blog-post-container">
+  <div class="row blog-poster-no-img">
+    <div class="large-10 columns blog-title">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+  <div class="row blog-container">
+    <div class="large-9 columns blog-content">
+      {% include blog-post-list.html posts=page.tagged_posts %}
+    </div>
+    <div class="large-3 columns blog-sidebar">
+      <h3><a href="/blog">Blog Home</a></h3>
+      {% include blog-sidebar.html %}
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}

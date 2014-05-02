@@ -6,15 +6,15 @@ highlight-menu-id: fuel
 {% assign firstpost = site.categories.blog[0] %}
 <div class="row firstpost-blog-thumbnail"
       style="background-image: url('{% include url.html url=firstpost.poster-image %}');">
-   
+
       <div class="large-5 columns firstpost-blog-content">
-      
+
           <h1><a href="{{firstpost.url}}">{{firstpost.title}}</a></h1>
-          <p class="author">{% if firstpost.author and firstpost.author != "no-author" %}by 
-          
+          <p class="author">{% if firstpost.author and firstpost.author != "no-author" %}by
+
             {% include author.html id=firstpost.author get='name' %}
           {% endif %}
-          </p> 
+          </p>
           {{firstpost.excerpt | strip_html | truncatewords: 100}} <br><br>
           <a class="box-link" href="{{firstpost.url}}">Continue Reading</a><br><br>
       </div>
@@ -23,40 +23,7 @@ highlight-menu-id: fuel
 
 <div class="row blog-container" style="position:relative;">
   <div class="large-9 columns blog-content">
-    <ul class="postlist">
-    
-      {% for post in site.categories.blog offset:1 %}
-      <li>
-      
-        {% if post.poster-image %}
-        <div class="row">
-        <div class="large-4 columns">
-        <a href="{{post.url}}"><div class="blog-thumbnail" style="background-image:url('{{ post.poster-image | replace:'www.dropbox.com','dl.dropboxusercontent.com' }}');"></div></a>
-        </div>
-        <div class="large-8 columns">
-        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        <p class="author">{% if post.author and post.author != "no-author" %}by 
-            {% include author.html id=post.author get='name' %}
-          {% endif %} </p> 
-        {{ post.excerpt | strip_html | truncatewords: 30}} <br><br>
-        <a href="{{post.url}}">Continue Reading</a>
-        </div></div>
-        
-        {% else %}
-
-        <h3><a href="{{post.url}}">{{post.title}}</a></h3>
-        <p class="author">{% if post.author and post.author != "no-author" %}by 
-            {% include author.html id=post.author get='name' %}
-          {% endif %} </p> 
-        {{post.excerpt | strip_html | truncatewords: 30}} <br><br>
-        <a href="{{post.url}}">Continue Reading</a>
-
-        {% endif %}
-        
-      </li>
-      {% endfor %}
-      
-    </ul>
+    {% include blog-post-list.html posts=site.categories.blog offset=1 %}
   </div>
 
   <div class="large-3 columns blog-sidebar">
