@@ -8,6 +8,8 @@ author: "lisa-zimmerman"
 post_types: "staff-reflection"
 bible_references: 
   - Genesis
+  - Job
+  - 3 John
 series: Experience 2014
 tags: 
   - Resurrection
