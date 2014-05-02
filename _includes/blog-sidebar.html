@@ -38,24 +38,14 @@
     <br>
   </div>
 
-  <h3><a href="/blog/series">Current Series</a></h3>
+  <h3>Discipleship Training - Join The Journey</h3>
   <ul>
-    {% for series in site.data.current_series %}
-    <li><a href="{% include sanitize_tag.html tag_type="series" tag=series %}">{{ series }}</a></li>
+    {% for type in site.data.current_training %}
+      <li><a href="{% include sanitize_tag.html tag_type="series" tag=type.tag %}">{{ type.name }}</a></li>
     {% endfor %}
   </ul>
-  <a href="/blog/series">Past Series</a>
 
-  <h3><a href="/blog/topics">Recent Topics</a></h3>
-  <ul>
-    {% for topic in site.tags limit:6 %}
-      {% assign topic_name = topic | first %}
-      <li><a href="{% include sanitize_tag.html tag_type="topic" tag=topic_name %}">{{ topic_name }}</a></li>
-    {% endfor %}
-  </ul>
-  <a href="/blog/topics">All Topics</a>
-
-  <h3>More Posts:</h3>
+  <h3>Read More From:</h3>
   <ul>
     {% for type in site.data.post_types %}
       {% assign posts_for_type = site.post_types[type.value] %}
@@ -65,9 +55,24 @@
     {% endfor %}
   </ul>
 
+  <h3><a href="/blog/topics">Topics</a></h3>
+  <ul>
+    {% for topic in site.data.current_topics %}
+      <li><a href="{% include sanitize_tag.html tag_type="topic" tag=topic.tag %}">{{ topic.name }}</a></li>
+    {% endfor %}
+  </ul>
+  <a href="/blog/topics">See All Topics</a>
+
+  <h3><a href="/blog/series">Recent Series</a></h3>
+  <ul>
+    {% for series in site.data.current_series %}
+      <li><a href="{% include sanitize_tag.html tag_type="series" tag=series.tag %}">{{ series.name }}</a></li>
+    {% endfor %}
+  </ul>
+  <a href="/blog/series">Past Series</a>
+
   <h3><a href="/blog/scripture">Books of the Bible</a></h3>
   <a href="#" data-dropdown="bible-down" class="small secondary button dropdown">Choose a book...</a><br>
-
   <ul id="bible-down" class="f-dropdown">
     {% for bible_book in site.data.bible_books %}
       {% assign posts_for_book = site.bible_references[bible_book.name] %}
@@ -76,5 +81,7 @@
       {% endif %}
     {% endfor %}
   </ul>
+
+  <h3><a href="/blog/authors">Browse Authors</a></h3>
 
 </div>

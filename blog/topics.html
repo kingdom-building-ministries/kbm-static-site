@@ -6,7 +6,7 @@ title: 'Topics'
   {% for topic in site.tags_alpha | sort %}
   <li>
         {% assign first_post = site.tags[topic][0] %}
-        {% capture tag_link %}{% include sanitize_tag.html tag_type="author" tag=topic %}{% endcapture %}
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="topic" tag=topic %}{% endcapture %}
         <a href="{{tag_link}}">
           <div class="blog-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');"></div>
           <h3>{{ topic }}</h3>
