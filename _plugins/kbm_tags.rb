@@ -9,6 +9,7 @@ module Jekyll
         siteHash["post_types"] = post_yaml_attr_hash("post_types")
         siteHash["series"] = post_yaml_attr_hash("series")
         siteHash["authors"] = post_yaml_attr_hash("author")
+        siteHash["tags_alpha"] = siteHash["tags"].keys.sort
         hash["site"] = siteHash
         return hash
       end
