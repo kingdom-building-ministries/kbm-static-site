@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "The "
+title: The Aha Life
 date: "2014-01-13"
 tags: 
   - Wide Values
