@@ -23,7 +23,7 @@ module Jekyll
       attributes = [ { :attr =>"post_types", :url_prefix => 'post_type'},
          { :attr =>"tags", :url_prefix => 'topic'},
          { :attr =>"series", :url_prefix => 'series'},
-         { :attr =>"bible_references", :url_prefix => 'post_type'},
+         { :attr =>"bible_references", :url_prefix => 'scripture'},
          { :attr =>"authors", :url_prefix => 'author'}]
       attributes.each do |an_attribute|
         layout_name = "#{an_attribute[:attr]}_index"

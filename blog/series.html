@@ -1,0 +1,17 @@
+---
+layout: tag-list
+title: 'Series Archive'
+---
+<ul class="tag-grid small-block-grid-2 large-block-grid-3">
+  {% for series_posts in site.series %}
+  <li>
+        {% capture topic %}{{ series_posts | first }}{% endcapture %}
+        {% assign first_post = series_posts[1][0] %}
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="author" tag=topic %}{% endcapture %}
+        <a href="{{tag_link}}">
+          <div class="blog-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');"></div>
+          <h3>{{ series_posts | first }}</h3>
+        </a>
+  </li>
+  {% endfor %}
+</ul>
