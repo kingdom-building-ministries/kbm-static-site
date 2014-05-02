@@ -10,7 +10,13 @@ title: 'Series Archive'
         {% capture tag_link %}{% include sanitize_tag.html tag_type="author" tag=topic %}{% endcapture %}
         <a href="{{tag_link}}">
           <div class="grid-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');">
-            <h3 class="text-overlay">{{ series_posts | first }}</h3>
+            <table>
+              <tr>
+                <td>
+                  <h3>{{ series_posts | first }}</h3>
+                </td>
+              </tr>
+            </table>
           </div>
         </a>
   </li>
