@@ -3,15 +3,13 @@ layout: tag-list
 title: 'Topics'
 ---
 <ul class="tag-grid small-block-grid-2 large-block-grid-3 topic">
-  {% for topic_posts in site.tags %}
+  {% for topic in site.tags_alpha | sort %}
   <li>
-        {% capture topic %}{{ topic_posts | first }}{% endcapture %}
-        {% assign first_post = topic_posts[1][0] %}
-        {% capture tag_link %}{% include sanitize_tag.html tag_type="author" tag=topic %}{% endcapture %}
+        {% assign first_post = site.tags[topic][0] %}
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="topic" tag=topic %}{% endcapture %}
         <a href="{{tag_link}}">
-          
           <div class="topic-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');">
-            <h3 class="topic">{{ topic_posts | first }}</h3>
+            <h3 class="topic">{{ topic }}</h3>
           </div>
         </a>
   </li>

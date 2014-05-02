@@ -1,3 +1,5 @@
+- name: 'No Type'
+  value: 'no-type'
 - name: 'Staff Reflection'
   value: 'staff-reflection'
 - name: 'Speaker Post'

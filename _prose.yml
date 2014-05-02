@@ -119,12 +119,6 @@ prose:
           value: ""
           placeholder: "http://www.dropbox.com/poster/link"
           type: "text"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Topics"
-          placeholder: "Choose Tags"
-          alterable: "true"
       - name: "series"
         field:
           element: "text"

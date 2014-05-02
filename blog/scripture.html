@@ -1,0 +1,19 @@
+---
+layout: tag-list
+title: 'Some awesome title regarging scripture references'
+---
+<ul class="tag-grid small-block-grid-2 large-block-grid-3">
+  {% for bible_book in site.data.bible_books %}
+    {% assign posts_for_book = site.bible_references[bible_book.name] %}
+    {% if posts_for_book %}
+      <li>
+        {% assign first_post = posts_for_book[0] %}
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="scripture" tag=bible_book.name %}{% endcapture %}
+        <a href="{{tag_link}}">
+          <div class="blog-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');"></div>
+          <h3>{{ bible_book.name }}</h3>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
