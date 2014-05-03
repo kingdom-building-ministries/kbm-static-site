@@ -48,10 +48,10 @@
   <h3>Read More From:</h3>
   <ul>
     {% for type in site.data.post_types %}
-      {% assign posts_for_type = site.post_types[type.value] %}
-      {% if posts_for_type %}
-        <li><a href="{% include sanitize_tag.html tag_type="post_types" tag=type.name %}">{{ type.name }}</a></li>
+      {% if type.value == 'no-type' %}
+        {% continue %}
       {% endif %}
+      <li><a href="{% include sanitize_tag.html tag_type="post_types" tag=type.name %}">{{ type.name }}</a></li>
     {% endfor %}
   </ul>
 
