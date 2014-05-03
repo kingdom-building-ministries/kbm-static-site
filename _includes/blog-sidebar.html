@@ -60,16 +60,19 @@
     {% for topic in site.data.current_topics %}
       <li><a href="{% include sanitize_tag.html tag_type="topic" tag=topic.tag %}">{{ topic.name }}</a></li>
     {% endfor %}
+    <li><a href="/blog/topics">See All Topics</a></li>
   </ul>
-  <a href="/blog/topics">See All Topics</a>
 
   <h3><a href="/blog/series">Recent Series</a></h3>
   <ul>
     {% for series in site.data.current_series %}
       <li><a href="{% include sanitize_tag.html tag_type="series" tag=series.tag %}">{{ series.name }}</a></li>
     {% endfor %}
+    <li><a href="/blog/series">Past Series...</a></li>
   </ul>
-  <a href="/blog/series">Past Series</a>
+
+  <h3>The Archive</h3>
+  {% include archive-dropdown.html %}
 
   <h3><a href="/blog/scripture">Books of the Bible</a></h3>
   <a href="#" data-dropdown="bible-down" class="small secondary button dropdown">Choose a book...</a><br>

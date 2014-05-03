@@ -1,9 +1,9 @@
 module Jekyll
   class Site
       # Monkey patch the payload to include kbm tracked hash maps
-      alias orig_site_payload site_payload
+      alias_method :orig_site_payload_kbm_tags, :site_payload
       def site_payload
-        hash = orig_site_payload
+        hash = orig_site_payload_kbm_tags
         siteHash = hash["site"]
         siteHash["bible_references"] = post_yaml_attr_hash("bible_references")
         siteHash["post_types"] = post_yaml_attr_hash("post_types")

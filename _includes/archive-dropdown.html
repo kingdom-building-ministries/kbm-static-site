@@ -1,0 +1,6 @@
+<a href="#" data-dropdown="archive-down" class="small secondary button dropdown">Choose a month...</a><br>
+<ul id="archive-down" class="f-dropdown">
+  {% for record in site.archive_urls %}
+      <li><a href="{{record.url}}">{{ record.date | date: '%B %Y' }}</a></li>
+  {% endfor %}
+</ul>
