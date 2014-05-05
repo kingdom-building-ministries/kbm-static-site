@@ -9,7 +9,7 @@ tags:
   - Spiritual Multiplication
   - Deep Values
   - Growing with Other Believers
-author: "no-author"
+author: "rachel-reed"
 post_types: "no-type"
 ---
 
