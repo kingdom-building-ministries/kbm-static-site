@@ -11,8 +11,12 @@ tags:
   - Dwight Robertson
   - Deep Values
   - Loving God Intimately
-author: "no-author"
-post_types: "no-type"
+author: "john-boyd"
+post_types: "recommended-resources"
+bible_references: 
+  - 1 Kings
+  - Jeremiah
+  - James
 ---
 
 So it’s a new year, and at the dropping of the Time Square Ball, you resolved to do things better – especially in the spiritual realm.  After all, something deep within you has been calling you closer.  You sense that the voice to deeper down and farther back conversations and encounters is coming from none other than God Himself.  One problem.  It’s two weeks into the new year and you’ve already begun dropping a resolution ball of your own.  Suddenly the idea doesn’t seem quite as urgent.  Satan continues his subtle whisper in your ear, “It’s just not all that important.”  Perhaps you’re overwhelmed at the thought of what it means to spend a significant amount of time with God.  Maybe you’re not quite sure how to go about it.  Perhaps your calendar is already filling up faster than you wanted or hoped, or the thought of being alone with God for a significant amount of time makes you feel as antsy and awkward as going on your first date.  Perhaps it’s a combination of all of the above.
