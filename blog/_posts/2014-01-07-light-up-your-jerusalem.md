@@ -7,6 +7,8 @@ date: "2014-01-09"
 tags: 
   - Jason Roe
   - International
+  - Wide Values
+  - The Great Commission
 author: "lisa-zimmerman"
 post_types: "itinerant-team"
 bible_references: 
