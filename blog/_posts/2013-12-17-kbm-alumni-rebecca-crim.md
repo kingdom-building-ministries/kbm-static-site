@@ -6,7 +6,7 @@ date: "2014-01-07"
 "poster-image": "https://www.dropbox.com/s/1wuevhaf5rmjir2/IMG_2810.JPG"
 tags: 
   - Epiphany
-  - Alumni
+  - Laborership
 author: "rachel-reed"
 post_types: alumni
 bible_references: 
