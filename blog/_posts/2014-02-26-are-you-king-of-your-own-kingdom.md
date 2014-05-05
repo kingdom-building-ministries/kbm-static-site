@@ -6,6 +6,12 @@ date: "2014-03-07"
 "poster-image": "https://www.dropbox.com/s/bluva8ienlbwirt/Haiti_earthquake_damage.jpg"
 tags: 
   - Critical Question
+author: "lisa-zimmerman"
+post_types: "no-type"
+bible_references: 
+  - Joshua
+  - Philippians
+series: 4 Gs
 ---
 
 Have you ever,
@@ -28,5 +34,3 @@ After forty years wandering in the desert, Joshua said to the Israelites, “cho
 ##For further study:
 - <a href="http://www.biblegateway.com/passage/?search=1+Corinthians+3%3A11-14&version=NIV" target="_blank">1 Corinthians 3:11-14</a> 
 - <a href="http://www.biblegateway.com/passage/?search=Hebrews+12%3A22-29&version=NIV" target="_blank">Hebrews 12:22-29</a>
-
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)
