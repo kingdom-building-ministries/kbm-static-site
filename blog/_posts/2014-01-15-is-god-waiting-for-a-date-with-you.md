@@ -7,7 +7,6 @@ date: "2014-01-17"
 tags: 
   - DAWG
   - Resource
-  - KBM Speaker
   - Dwight Robertson
   - Deep Values
   - Loving God Intimately
