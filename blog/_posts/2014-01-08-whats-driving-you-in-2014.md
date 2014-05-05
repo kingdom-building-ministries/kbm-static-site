@@ -5,8 +5,11 @@ title: "What's Driving You in 2014?"
 date: "2014-01-11"
 tags: 
   - Critical Question
-author: "no-author"
+  - Deep Values
+  - Seeking the Kingdom
+author: "john-boyd"
 post_types: "no-type"
+series: Epiphany
 ---
 
 With 2013 clearly in the rear view mirror and 2014 fully ahead, what a perfect time to pull over and "take five" to review, reflect, and resolve your Kingdom dwelling life (all cell phones and other listening distractions safely tucked away, please).  
