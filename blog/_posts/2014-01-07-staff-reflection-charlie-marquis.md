@@ -8,8 +8,9 @@ author:
 date: "2014-01-23"
 "poster-image": "https://www.dropbox.com/s/vhvdre86so63rg6/Hadzabe.png"
 tags: 
-  - Staff Reflection
-post_types: "no-type"
+  - International
+post_types: "staff-team"
+series: Epiphany
 ---
 
 Jesus is the light of the world. He is not only the light in our circumstances. He really is the light of ALL NATIONS. This is an amazing truth. 
