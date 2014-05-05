@@ -5,12 +5,12 @@ title: Living the Plan A Life
 date: "2014-01-31"
 "poster-image": "https://www.dropbox.com/s/12nx0phpntlf07x/344.jpg"
 tags: 
-  - Resource
-  - Plan A
-  - KBM Speaker
+  - "You are God's Plan A"
   - Dwight Robertson
-  - Baton Passing
-author: "no-author"
+  - Baton Passing and Coaching
+  - Laborership
+  - Life Domains
+author: "lisa-zimmerman"
 post_types: "no-type"
 ---
 
