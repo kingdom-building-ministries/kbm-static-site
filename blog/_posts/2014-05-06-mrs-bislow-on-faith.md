@@ -14,7 +14,7 @@ Faith.  What does it look like on a daily basis in your life?  Step by step, fai
 
 **A:**  Deciding...Deciding to take the risk of trusting God and watching to see what happens.
 
-**Q: How has your faith grown in recent years?
+**Q: How has your faith grown in recent years?**
 
 **A:** For Caleb and I, it was clear early on that the Lord had something in store for us.  We would take one step of obedience at a time and see the results!  Over time, this built confidence in hearing God’s voice, in following Him and in watching Him provide what was needed.
 
@@ -22,15 +22,15 @@ For example, I’m a horrible Bible storyteller – I can’t come up with anyth
 
 Faith can go from small to big steps; it’s a process.  When Caleb and I were very young, there was a significant surrender moment for both of us.  We told God, “Yes” and kept saying “yes,” and that’s why we’re where we are today.  As you keep giving your “yes” to God and follow in obedience, you can’t help but grow in faith as you see how all of the “random” steps of obedience and “yes’s” mattered!
 
-**Q: What helps you in moments of doubt, uncertainty and unbelief?
+**Q: What helps you in moments of doubt, uncertainty and unbelief?**
 	
 **A:** Since I was little, my parents lived out their faith in a very real way.  So as I grew up, I was able to watch what a faith journey looks like.  Because of that foundation, I feel I’ve had a confidence in the Lord my whole life.
 
 Yes, there are times I start to worry, but I catch myself quickly.  I remind myself that the Lord is in control...even when I mess up!  I know He will carry out the plans He wants to, I believe He wants to use me and I want to trust He can. I want to be faithful (Luke 12:48).  I know He’s bigger than me and *there’s a peace that comes when we believe He is who He says He is.*
 
-“If we are faithless, He remains faithful” (2 Timothy 2:13).
+>“If we are faithless, He remains faithful” (2 Timothy 2:13).
 
-**Q: Is faith for everybody?
+**Q: Is faith for everybody?**
 
 **A:** Faith is for everybody.
 
