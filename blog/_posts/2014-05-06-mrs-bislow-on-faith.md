@@ -34,8 +34,7 @@ Yes, there are times I start to worry, but I catch myself quickly.  I remind mys
 
 **A:** Faith is for everybody.
 
-The Lord doesn’t ask more of you than you can give.  He doesn’t ask for what we don’t have, he asks for what we have.  It all comes back to your “yes” answer to the Lord.  
-It doesn’t make sense to pray, “Lord help me be a generous person because I want to give $10,000 to someone” when you don’t have $10,000.  But you might have $5 that the Lord will prompt you to buy someone McDonald’s with.  He wants to know we’ll be faithful with what we do have.  The more you say “yes” the more opportunities He’ll give you, which in turn will grow your faith…you need to walk it out day by day.
+The Lord doesn’t ask more of you than you can give.  He doesn’t ask for what we don’t have, he asks for what we have.  It all comes back to your “yes” answer to the Lord.  It doesn’t make sense to pray, “Lord help me be a generous person because I want to give $10,000 to someone” when you don’t have $10,000.  But you might have $5 that the Lord will prompt you to buy someone McDonald’s with.  He wants to know we’ll be faithful with what we do have.  The more you say “yes” the more opportunities He’ll give you, which in turn will grow your faith…you need to walk it out day by day.
 
 Caleb and I have a passion for everyone to believe that they have a unique story to live!  It’s story of faith that isn’t like anyone else’s!  We can often get caught in comparing our lives to one another, but comparison is a sin.  *I think instead of comparing we should be inspired*...inspired by others who have lived or are living by faith and keep saying “yes” to God on the journey we’re on.
 
