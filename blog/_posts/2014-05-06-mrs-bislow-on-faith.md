@@ -8,7 +8,7 @@ date: "2014-05-07"
 
 “And without faith, it is impossible to please God” (Hebrews 11:6).
 
-Faith.  What does it look like on a daily basis in your life?  Step by step, faith will be required along the path God has for you.  It’s time to move the calligraphy-styled *faith* art hanging on the walls of our homes to an active place in our hearts.  Jessica Bislow, wife of Caleb Bislow (founder of <a href="http://www.kbm.org/training/unusualsoldiers/" target="_blank">Unusual Soldiers</a> and author of <a href="http://www.thedangerousbook.com/" target="_blank">Dangerous</a>) has shared some very encouraging thoughts on faith with us in the interview below!  Caleb and Jess have said “yes” to a unique, God-given adventure of faith, and they’d like you to know that you can say “yes” too.
+Faith.  What does it look like on a daily basis in your life?  Step by step, faith will be required along the path God has for you.  It’s time to move the calligraphy-styled *faith* art hanging on the walls of our homes to an active place in our hearts.  Jessica Bislow, wife of Caleb Bislow (founder of <a href="http://www.kbm.org/training/unusualsoldiers/" target="_blank">Unusual Soldiers</a> and author of <a href="http://www.thedangerousbook.com/" target="_blank">Dangerous</a>), has shared some very encouraging thoughts on faith with us in the interview below!  Caleb and Jess have said “yes” to a unique, God-given adventure of faith, and they’d like you to know that you can say “yes” too.
 
 **Q: Describe faith in your own words.**
 
