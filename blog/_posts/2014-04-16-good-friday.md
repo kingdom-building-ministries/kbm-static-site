@@ -4,6 +4,14 @@ layout: "blog-post"
 title: Good Friday
 date: "2014-04-18"
 "poster-image": "https://www.dropbox.com/s/10jhs6492888yuy/fri%20-%20crucified.jpg"
+author: "john-boyd"
+post_types: "recommended-resources"
+series: Holy Week
+bible_references: 
+  - Matthew
+  - Mark
+  - Luke
+  - John
 ---
 
 **What’s worth remembering about today: Supreme Love + Finished Work**
@@ -28,5 +36,3 @@ Mt 27:1-66 | Mk 15:1-47 | Lk 22:66-23:55 | Jn 18:28-19:42
 
 **Wanting a little more this week?  
 To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
