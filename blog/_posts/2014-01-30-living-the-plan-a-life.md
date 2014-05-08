@@ -11,7 +11,7 @@ tags:
   - Laborership
   - Life Domains
 author: "lisa-zimmerman"
-post_types: "no-type"
+post_types: "recommended-resources"
 ---
 
 The hope we have for seeing our communities transformed for the glory of God won’t come through any new truths or ideas.  The hope we have to see the change we desire is found in Christ alone and the direction He gave us through His Word.  It’s not time for new questions; His Word is not outdated.  Yes, God is the same yesterday, today, and tomorrow, but what He desires to do through you hasn’t been done before and can’t be duplicated.  You are a one-of-a-kind original created to uniquely influence the world around you on behalf of the King and His Kingdom.
