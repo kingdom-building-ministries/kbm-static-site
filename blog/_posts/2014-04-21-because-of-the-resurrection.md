@@ -4,6 +4,8 @@ layout: "blog-post"
 title: Because of the Resurrection
 date: "2014-04-22"
 "poster-image": "https://www.dropbox.com/s/yjrlgb3dfro0dy2/IMG_0532.JPG"
+author: "rachel-reed"
+post_types: "itinerant-team"
 ---
 
 As followers of Jesus, so often we identify our faith by the sacrifice Jesus made for us on the cross and his relentless love that led him to such a brutal death. But may we never forget the impact of Jesus’ resurrection!  He made himself the ultimate victory and defeated death forever! If Jesus had only died, our faith would be not different than any others.
