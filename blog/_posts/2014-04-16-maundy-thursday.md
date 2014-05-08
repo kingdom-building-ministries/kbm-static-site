@@ -4,6 +4,14 @@ layout: "blog-post"
 title: Maundy Thursday
 date: "2014-04-17"
 "poster-image": "https://www.dropbox.com/s/yjgdnjtoohcpea7/thu%20-%20feet.jpg"
+author: "john-boyd"
+post_types: "recommended-resources"
+series: Holy Week
+bible_references: 
+  - Matthew
+  - Mark
+  - Luke
+  - John
 ---
 
 **What’s worth remembering about today: True Communion + Dirty Feet**
@@ -26,5 +34,3 @@ Matthew 26:17-75 | Mark 14:12-72 | Luke 22:7-65 | John 13:1-18:27
 
 **Wanting a little more this week?  
 To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
