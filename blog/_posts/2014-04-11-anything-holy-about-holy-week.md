@@ -1,9 +1,14 @@
 ---
 published: true
 layout: "blog-post"
-title: "Anything \"Holy\" About Next Week?"
+title: Anything
 date: "2014-04-12"
 "poster-image": "https://www.dropbox.com/s/mbekazopkqd9ut5/Screenshot%202014-04-10%2011.11.16.png"
+author: "john-boyd"
+post_types: "recommended-resources"
+series: Holy Week
+bible_references: 
+  - Philippians
 ---
 
 About this time every year, those who observe the Jewish Passover ask a very pointed question as they celebrate a first night feast called Seder: "Why is this night different from all other nights?” asks the youngest child present.  What follows is a retelling of the story of how a powerful and loving God moved his people from slavery to freedom, from death to life … and how he still does.
@@ -19,5 +24,3 @@ Let’s end where we begin: “Why is this week different from all the other wee
 To receive daily email devotions from *In His Steps*, click <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.
 
 To download a printable booklet version of *In His Steps*, click <a href="http://www.kbm.org/fuel/holy-week-guide/" target="_blank">here</a>.
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
