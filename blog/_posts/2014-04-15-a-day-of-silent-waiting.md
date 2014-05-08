@@ -4,6 +4,13 @@ layout: "blog-post"
 title: "A Day of Silent Waiting "
 "poster-image": "https://www.dropbox.com/s/c6czesvolkt47bz/sat%20-%20candles.jpg"
 date: "2014-04-16"
+author: "john-boyd"
+post_types: "recommended-resources"
+series: Holy Week
+bible_references: 
+  - Matthew
+  - Mark
+  - Luke
 ---
 
 **What’s worth remembering: Silence + Betrayal**
@@ -24,5 +31,3 @@ Matthew 26:1-16 | Mark 14:1-11 | Luke 22:1-6
 
 **Wanting a little more this week?  
 To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)
