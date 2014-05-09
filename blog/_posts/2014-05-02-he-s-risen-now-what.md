@@ -4,9 +4,7 @@ layout: "blog-post"
 title: "He's Risen, Now What"
 "poster-image": "https://www.dropbox.com/s/r85grezqb4qhd9w/resurrectionlight.jpg"
 date: "2014-05-02"
-author: 
-  - "john-boyd"
-  - John Boyd
+author: john-boyd
 post_types: "no-type"
 ---
 
@@ -16,6 +14,6 @@ The disciples were hopeful but a bit fearful.  They cloistered themselves in obs
 
 In time, long after the initial reports and the inaugural hope-filled murmurings, the reality of Jesus alive forevermore sank deep and spread wide for those who dared to truly believe.
 
-Fast-forward two thousand years.  Where are you in all this?  With this year’s Easter celebration not so distant in the rearview mirror, who is the risen Lord to you?  Is the power of the resurrection, Christ alive in you, spurring you on to share such unbelievably good and true news with others?  Is it helping you face the unknowns of tomorrow and the fears and challenges of today?  Is it giving you reason to rise in the morning and face the day with joy and purpose? 
+Fast-forward two thousand years.  Where are you in all this?  With this year’s Easter celebration not so distant in the rearview mirror, who is the risen Lord to you?  Is the power of the resurrection, Christ alive in you, spurring you on to share such unbelievably good and true news with others?  Is it helping you face the unknowns of tomorrow and the fears and challenges of today?  Is it giving you reason to rise in the morning and face the day with joy and purpose?
 
 Here’s a challenge for you and a way to answer the question of what the resurrection means to you.  **Complete this sentence:  “Because Jesus lives, I …”**

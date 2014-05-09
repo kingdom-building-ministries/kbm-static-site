@@ -36,7 +36,6 @@ module Jekyll
     end
 
     def create_attribute_index(page_info, layout_name)
-      puts "evaluating #{page_info[:attr]}"
       if @payload['site'][page_info[:attr]].nil?
         return
       end
@@ -45,11 +44,8 @@ module Jekyll
       @payload['site'][page_info[:attr]].each do |category_array|
         title = category_array[0];
         category = sanitize_category_name(title)
-        puts "key:#{category}"
         page = IndexPage.new(@site, @site.source, File.join(dir, category), category, layout_name)
         page.data['tagged_posts'] = category_array[1]
-        puts "posts"
-        puts page.data['tagged_posts'].inspect
         page.data['title'] = "#{title}"
         @site.pages << page
       end

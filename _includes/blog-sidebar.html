@@ -51,10 +51,11 @@
       {% if type.value == 'no-type' %}
         {% continue %}
       {% endif %}
-      <li><a href="{% include sanitize_tag.html tag_type="post_types" tag=type.name %}">{{ type.name }}</a></li>
+      <li><a href="{% include sanitize_tag.html tag_type="post_type" tag=type.name %}">{{ type.name }}</a></li>
     {% endfor %}
   </ul>
 
+  {% comment %}
   <h3><a href="/blog/topics">Topics</a></h3>
   <ul>
     {% for topic in site.data.current_topics %}
@@ -62,6 +63,7 @@
     {% endfor %}
     <li><a href="/blog/topics">See All Topics</a></li>
   </ul>
+  {% endcomment %}
 
   <h3><a href="/blog/series">Recent Series</a></h3>
   <ul>

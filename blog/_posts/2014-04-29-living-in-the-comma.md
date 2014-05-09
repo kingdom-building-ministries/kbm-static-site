@@ -4,9 +4,7 @@ layout: "blog-post"
 title: "Living in the \"Comma\""
 date: "2014-04-30"
 "poster-image": "https://www.dropbox.com/s/f417iezqtvx5zl5/120617_MKW_THE_EXPERIENCE_2203.jpg"
-author: 
-  - "lisa-zimmerman"
-  - Lisa Zimmerman
+author: "lisa-zimmerman"
 post_types: "recommended-resources"
 ---
 
@@ -17,6 +15,6 @@ One of our initial blog posts this year highlighted Dwight Robertson’s book, *
 
 Is your relationship with God continuing to deepen?  Is your love for the people around you growing?  Has God placed someone in your life He’d like you to disciple and “pass the baton” to?
 
-If you’re looking for a next-step resource after reading, *You are God's Plan A*, take a look at <a href="http://kbm.donorshops.com/product/KBM0004/batonpassingbooklet.php" target="_blank">Baton Passing Relationships</a> by Dwight Robertson.  In this book, you'll find helpful encouragement on how to pass on to others what God has already poured into you!  These baton-passing relationships are a prime channel for God to work through you to multiply laborers for His kingdom! 
+If you’re looking for a next-step resource after reading, *You are God's Plan A*, take a look at <a href="http://kbm.donorshops.com/product/KBM0004/batonpassingbooklet.php" target="_blank">Baton Passing Relationships</a> by Dwight Robertson.  In this book, you'll find helpful encouragement on how to pass on to others what God has already poured into you!  These baton-passing relationships are a prime channel for God to work through you to multiply laborers for His kingdom!
 
 These books and more are available through <a href="http://kbm.donorshops.com/index.php" target="_blank">kbm.org/store</a>.
