@@ -91,6 +91,9 @@
 .firstpost-blog-content {
   #slider & { /* For the front page blog post */
     min-height: intrinsic;
+    padding-left: 65px;
+    padding-top: 20px;
+    width: 475px;
   }
   background-color: rgba(0,0,0,0.5);
   color: white;

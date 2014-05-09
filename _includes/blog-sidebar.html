@@ -41,7 +41,10 @@
   <h3>Discipleship Training - Join The Journey</h3>
   <ul>
     {% for type in site.data.current_training %}
-      <li><a href="{% include sanitize_tag.html tag_type="series" tag=type.tag %}">{{ type.name }}</a></li>
+      {% assign posts_for_series = site.bible_references[type.tag] %}
+      {% if posts_for_series %}
+        <li><a href="{% include sanitize_tag.html tag_type="series" tag=type.tag %}">{{ type.name }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 

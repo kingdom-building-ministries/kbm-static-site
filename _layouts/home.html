@@ -33,7 +33,7 @@
             {% include author.html id=firstpost.author get='name' %}
             {% endif %}
           </p>
-          {{firstpost.excerpt | strip_html | truncatewords: 100}} <br><br>
+          {{firstpost.excerpt | strip_html | truncatewords: 45}} <br><br>
           <a class="box-link" href="{{firstpost.url}}">Continue Reading</a><br><br>
         </div>
 
