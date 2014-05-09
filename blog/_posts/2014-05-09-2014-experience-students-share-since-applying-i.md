@@ -14,15 +14,15 @@ Although the Experience *officially* begins May 16th, the faith-journey begins t
 
 {% include image.html url="https://www.dropbox.com/s/608dp1bcyi43sen/7187133_img_03841.jpg" float="left" width="6"%} 
 
-**Q: Has faith taken a new meaning in your life since applying for the Experience?**
+**Q: Describe what your journey has been like since hearing about the Experience.**
 
 **A:** I learned about the Experience while Dwight Robertson was at my school, Bethel College.  I just knew it was something I was supposed to do.  Even though I didn’t have much time to raise the funds, I had faith that God would provide if He wanted me to come.  I prayed, “If this is all provided for – I know it is completely you, God.”
 
-The trip started when I turned in my application – not May 16th!  I’ve never had to rely on the Body like this to encourage and support me.  I’ve been on missions trips before, but the amount I had to raise wasn’t so significant that I couldn’t do it on my own.  But with the Experience, there was no way I could do it all on my own!  The ways God provided blew my mind – everyone was a part of what God was doing in me.  The process has brought me a lot closer to Him and I’ve experienced Him in ways I never have before.  It’s been awesome to be put into a position to lean on God and walk completely in faith. 
+The trip started when I turned in my application – not May 16th!  I’ve never had to rely on the Body like this to encourage and support me.  I’ve been on missions trips before, but the amount I had to raise wasn’t so significant that I couldn’t do it on my own.  But with the Experience, there was no way I could do it all on my own!  The ways God provided blew my mind – everyone (even people I didn't know) was a part of what God was doing in me.  The process has brought me a lot closer to Him and I’ve experienced Him in ways I never have before.  It’s been awesome to be put into a position to lean on God and walk completely in faith. 
 
 I am completely confident that God is going to shape me and change me this summer because I KNOW that God wants me here.  And for the rest of my life, I can have faith that God is going to provide for me wherever He wants to take me!
 
-**Q: How has learning to be more dependent on God shaped you so far?**
+**Q: What impact has learning to be more dependent on God made in your life?**
 
 **A:** I’m more mindful of God throughout my day…realizing that from the time that I wake from the time I go to bed, He is present and beside me, and is constantly shaping me and preparing me for what He wants to do.  His fingerprints are all over my everyday interactions.  I’ve become more intentional about everyone I’m with and everything I do – since I know God is present with me I want to be glorifying to Him all the time.  It’s instilled in me a deeper desire to please Him and glorify Him because He’s present!
 
