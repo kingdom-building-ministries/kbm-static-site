@@ -2,15 +2,60 @@
 ---
 {% include header.html %}
 
+<!-- scholarship overrides, delete when done -->
+<style>
+.training-blurb {
+  background-color: #E6E6E6;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.training-blurb h3 {
+  color: rgb(203, 34, 47);
+  text-align:center;
+}
+
+</style>
+
 <div class="featured">
   <div id="slider">
     <ul data-orbit>
-      {% for image in page.slider %}
-      <li data-orbit-slide="headline-1">
-        <a href="{{ image.link }}"><img src="{{ image.url }}"></a>
-        {% endfor %}
-    </ul>
+      <li>
+        {% assign firstpost = site.categories.blog[0] %}
+        <div class="row firstpost-blog-thumbnail"
+        style="background-image: url('{% include url.html url=firstpost.poster-image %}');">
+
+        <div class="large-5 columns firstpost-blog-content">
+
+          <h1><a href="{{firstpost.url}}">{{firstpost.title}}</a></h1>
+          <p class="author">{% if firstpost.author and firstpost.author != "no-author" %}by
+
+            {% include author.html id=firstpost.author get='name' %}
+            {% endif %}
+          </p>
+          {{firstpost.excerpt | strip_html | truncatewords: 100}} <br><br>
+          <a class="box-link" href="{{firstpost.url}}">Continue Reading</a><br><br>
+        </div>
+
+      </div>
+    </li>
+    {% for image in page.slider %}
+    <li>
+      <a href="{{ image.link }}"><img src="{{ image.url }}"></a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+</div>
+
+<div class="training-blurb">
+<div class="row">
+  <div class="large-12 columns">
+    <a href="/blog">
+      <h3>Stay connected with the Experience, 16 Days, and Deep Camp through our blog!</h3>
+    </a>
   </div>
+</div>
 </div>
 
 {{ content }}

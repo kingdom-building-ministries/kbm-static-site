@@ -36,7 +36,7 @@ src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(http://themes.
 }
 
 p {
-  font-size: 1.2em; 
+  font-size: 1.2em;
 }
 
 a {
@@ -126,7 +126,7 @@ strong {
 
 body {
   @include linear-gradient($kbm-background-main-color, #fff 700px);
-  font-family: 'Roboto', Helvetica, sans-serif; 
+  font-family: 'Roboto', Helvetica, sans-serif;
   line-height: 1.3em;
 }
 
@@ -139,11 +139,23 @@ body {
   @include grid-row();
   #slider {
     @include grid-column(12);
+    height:480px;
     .orbit-container {
-      img {
-        border-radius: 40px;
-      }
-      background-color: transparent;
+      background-color:transparent;
+    }
+    .orbit-slide-number {
+      visibility: hidden;
+    }
+    ul {
+      list-style-type: none;
+    }
+    li:first-child {
+      // display:block;
+    }
+    li {
+      // display:none;
+      border-radius: 40px;
+      overflow: hidden;
     }
   }
 }
@@ -217,13 +229,13 @@ footer {
 
 
 iframe {
-  
+
   box-sizing: border-box;
   border: 5px solid white;
   box-shadow: 1px 3px 4px #232320;
 
 }
-  
+
 iframe.audio-player {
   width: 200px;
   height:200px;

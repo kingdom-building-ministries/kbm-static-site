@@ -73,6 +73,10 @@
 }
 
 .firstpost-blog-thumbnail {
+  #slider & { /* For the front page blog post */
+    height: 430px;
+    min-height: 430px;
+  }
   position: relative;
   background-color: #000;
   background-position: center center;
@@ -85,8 +89,12 @@
 }
 
 .firstpost-blog-content {
+  #slider & { /* For the front page blog post */
+    min-height: intrinsic;
+  }
   background-color: rgba(0,0,0,0.5);
   color: white;
+  height:100%;
   min-height: 400px;
   padding-top: 41px;
   line-height: 1.6;
