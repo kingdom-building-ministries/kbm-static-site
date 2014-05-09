@@ -6,6 +6,7 @@ author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-0510"
 series: The Experience
+"poster-image": "https://www.dropbox.com/s/dkc498ng36hv6zb/Screenshot%202014-05-09%2011.59.55.png"
 ---
 
 Although the Experience *officially* begins May 16th, the faith-journey begins the day each student submits their application.  As they prepare for the summer and engage the fundraising process, we pray that God would deepen their relationship with Him before they even set foot inside our doors!  Two incoming students, Devin and Bethany, have shared what God has been showing them while preparing for the summer ahead.
