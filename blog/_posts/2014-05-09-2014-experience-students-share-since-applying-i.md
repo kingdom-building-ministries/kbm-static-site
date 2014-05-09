@@ -9,7 +9,7 @@ series: The Experience
 ---
 
 Although the Experience *officially* begins May 16th, the faith-journey begins the day each student submits their application.  As they prepare for the summer and engage the fundraising process, we pray that God would deepen their relationship with Him before they even set foot inside our doors!  Two incoming students, Devin and Bethany, have shared what God has been showing them while preparing for the summer ahead.
-
+                   ____________________________________________
 **Devin Hubbard** 
 
 {% include image.html url="https://www.dropbox.com/s/608dp1bcyi43sen/7187133_img_03841.jpg" float="left" width="6"%} 
