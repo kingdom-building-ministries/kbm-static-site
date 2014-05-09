@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "2014 Experience Students Share: \"Since Applying, I...\""
+title: "2014 Experience Students Share: "
 author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-05-10"
@@ -15,21 +15,17 @@ Although the Experience *officially* begins May 16th, the faith-journey begins t
 
 {% include image.html url="https://www.dropbox.com/s/608dp1bcyi43sen/7187133_img_03841.jpg" float="left" width="6"%}
 
-**Q: Describe what your journey has been like since hearing about the Experience.**
+**Q: Describe what your journey has been like since applying for the Experience.**
 
-**A:** I learned about the Experience while Dwight Robertson was at my school, Bethel College.  I just knew it was something I was supposed to do.  Even though I didn’t have much time to raise the funds, I had faith that God would provide if He wanted me to come.  I prayed, “If this is all provided for – I know it is completely you, God.”
-
-The trip started when I turned in my application – not May 16th!  I’ve never had to rely on the Body like this to encourage and support me.  I’ve been on missions trips before, but the amount I had to raise wasn’t so significant that I couldn’t do it on my own.  But with the Experience, there was no way I could do it all on my own!  The ways God provided blew my mind – everyone (even people I didn't know) was a part of what God was doing in me.  The process has brought me a lot closer to Him and I’ve experienced Him in ways I never have before.  It’s been awesome to be put into a position to lean on God and walk completely in faith.
-
-I am completely confident that God is going to shape me and change me this summer because I KNOW that God wants me here.  And for the rest of my life, I can have faith that God is going to provide for me wherever He wants to take me!
+**A:** *The Experience* started once I turned my application in.  I knew there was no way I could meet my fundraising goal all on my own!  Never before have I had to rely on the Body for encouragement and support like this, and the ways God provided blew my mind!  I've learned so much by leaning on God and walking in faith.  I know that God is going to change me this summer, and for the rest of my life I can have faith that wherever God may lead me, He will provide!
 
 **Q: What impact has learning to be more dependent on God made in your life?**
 
-**A:** I’m more mindful of God throughout my day…realizing that from the time that I wake from the time I go to bed, He is present and beside me, and is constantly shaping me and preparing me for what He wants to do.  His fingerprints are all over my everyday interactions.  I’ve become more intentional about everyone I’m with and everything I do – since I know God is present with me I want to be glorifying to Him all the time.  It’s instilled in me a deeper desire to please Him and glorify Him because He’s present!
+**A:** I’ve realized that from the time I wake up and from the time I go to bed God is present.  God's fingerprints are all over my everyday interactions; He is constantly shaping me and preparing me for what He has in store.  Knowing God is truly with me has instilled a deeper desire to please Him and glorify Him.
 
 **Q: If you dared to believe for something only God could do this summer, what would you ask of Him?**
 
-**A:** I hope that God can show me who I am…I hope to understand more about how God has designed me to serve His Kingdom with the passions and abilities He’s placed inside of me.  I want to know what it will look like when my identity is finally found in Him!
+**A:**  I hope that God can show me who I am, and I hope to gain more understanding about how to use the passions and abilities He's placed inside of me for His Kingdom.
 
 ##Bethany Pratt
 
