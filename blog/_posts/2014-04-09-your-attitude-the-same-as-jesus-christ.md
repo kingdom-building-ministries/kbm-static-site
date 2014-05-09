@@ -4,6 +4,11 @@ layout: "blog-post"
 title: "Your Attitude...the same as Jesus Christ?"
 date: "2014-04-09"
 "poster-image": "https://www.dropbox.com/s/pk765u1b5kfhtcg/DSC05539.jpg"
+author: "lisa-zimmerman"
+post_types: "no-type"
+bible_references: 
+  - Matthew
+  - Philippians
 ---
 
 "*Do nothing out of selfish ambition or vain conceit, but in humility consider others better than yourselves … Your attitude should be the same as that of Christ Jesus*" (Philippians 2:3, 5).
@@ -30,5 +35,3 @@ Humility is not low self-esteem.  Humility is not self-pity.  Humility is not hu
 Our attitude will continue to grow up in Jesus Christ’s likeness the more our surrender to His work in us matches our desire to be like Him.  But as long as we pick and choose from His characteristics, our love will be stale, our truth unfounded, and our witness dull.
 
 Want to know the power of Jesus Christ’s resurrection life alive in you this Easter?  Begin with matching your life to His model of humility.
-
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)

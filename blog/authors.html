@@ -1,0 +1,23 @@
+---
+layout: tag-list
+title: 'Authors'
+---
+<ul class="postlist">
+  {% for author_posts in site.authors %}
+  <li>
+    <div class="row">
+      <div class="large-4 columns">
+        {% capture author %}{{ author_posts | first }}{% endcapture %}
+        {% capture picture_url %}{% include author.html id=author get='picture' %}{% endcapture %}
+        {% capture picture_url %}{{ picture_url | strip | strip_newlines }}{% endcapture %}
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="author" tag=author %}{% endcapture %}
+        <a href="{{tag_link}}"><div class="blog-thumbnail" style="background-image:url('{% include url.html url=picture_url %}');"></div></a>
+      </div>
+      <div class="large-8 columns">
+        <h3><a href="{{tag_link}}">{% include author.html id=author get='name' %}</a></h3>
+        <p>{% include author.html id=author get='bio' %}</p>
+        </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

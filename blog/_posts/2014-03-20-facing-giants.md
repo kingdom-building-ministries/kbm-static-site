@@ -7,6 +7,13 @@ date: "2014-03-21"
 tags: 
   - 4 Gs
   - 1 Samuel
+author: "john-boyd"
+post_types: "no-type"
+series: 4 Gs
+bible_references: 
+  - 1 Samuel
+  - Psalm
+  - 1 John
 ---
 
 Locked on opposing hillsides, the two armies hesitated in ceasefire.  Who would make the next move?  How would this clash end?  On one side stood the mammoth of a man, a giant – nearly twice as tall and double the girth of even the largest opposing soldier.  His hand, sized to crush a man’s head like an egg for breakfast, held a sword that surely fatigued the blacksmith in the making.  Fitted in armor that seemed to be more uncomfortable than useful, the giant called out across the ravine, “Let’s get this thing over with.  Put your best man forward.  It’s this simple: He beats me, you win; I beat him, we win.”  His deep voice thundered through the chests of his opposers as he awaited their reply.  
@@ -18,5 +25,3 @@ The king kept recruiting, but not a solitary soldier stepped forward to face the
 That’s David’s story.  What’s yours?  What are your eight foot giants?  Who or what frightens you?  Do you trust that the God who has rescued you before will do it all over again despite impossible circumstances?  Are you willing to trust God and see just how big he really is?  David battled one fear or another his entire life.  But David, called “a man after God’s own heart,” also learned at an early age what the apostle John wrote about centuries later – that “perfect love casts out fear” (I John 4:18), and that the closer we draw to the heart of God, the better we hear and trust God when he says, “do not be afraid, I am with you … always.”  
 
 >Read more about David’s story in I Samuel 17.  Discover why he learns to proclaim in Psalm 27, “The LORD is my light and my salvation, whom shall I fear?”
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

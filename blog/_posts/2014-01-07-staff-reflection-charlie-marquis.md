@@ -1,14 +1,17 @@
 ---
 published: true
 layout: "blog-post"
-title: "Staff Reflection"
-author: "Charlie Marquis"
+title: Staff Reflection
+author: 
+  - Charlie Marquis
+  - "no-author"
 date: "2014-01-23"
 "poster-image": "https://www.dropbox.com/s/vhvdre86so63rg6/Hadzabe.png"
 tags: 
-  - Staff Reflection
+  - International
+post_types: "staff-team"
+series: Epiphany
 ---
-
 
 Jesus is the light of the world. He is not only the light in our circumstances. He really is the light of ALL NATIONS. This is an amazing truth. 
 
@@ -27,5 +30,3 @@ May we never forget the vastness of Christ’s light. Jesus really is shining in
 Whenever you ponder Jesus as the light of the world, take a moment and pray for those who are shining His light in some of the darkest places. Be inspired by their examples. And, courageously let Christ’s light shine through you in the everyday ordinary places you set foot. For Jesus said “YOU are the light of the world, a city on a hill cannot be hidden.”
 
 All for King Jesus!
-
-Charlie Marquis

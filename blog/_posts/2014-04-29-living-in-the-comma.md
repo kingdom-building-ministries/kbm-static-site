@@ -4,7 +4,10 @@ layout: "blog-post"
 title: "Living in the \"Comma\""
 date: "2014-04-30"
 "poster-image": "https://www.dropbox.com/s/f417iezqtvx5zl5/120617_MKW_THE_EXPERIENCE_2203.jpg"
-author: Lisa Zimmerman
+author: 
+  - "lisa-zimmerman"
+  - Lisa Zimmerman
+post_types: "recommended-resources"
 ---
 
 An Excerpt from “Baton Passing Relationships”:

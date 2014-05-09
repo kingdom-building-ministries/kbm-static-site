@@ -6,6 +6,11 @@ date: "2014-02-16"
 "poster-image": "https://www.dropbox.com/s/tfdkj6rqlj1d18e/Image.jpg"
 tags: 
   - Mercy
+author: "no-author"
+post_types: "no-type"
+series: Mercy
+bible_references: 
+  - Psalm
 ---
 
 Someone once explained grace and mercy to me in this way:

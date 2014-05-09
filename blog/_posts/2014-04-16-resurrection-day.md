@@ -4,6 +4,18 @@ layout: "blog-post"
 title: Resurrection Day
 date: "2014-04-20"
 "poster-image": "https://www.dropbox.com/s/xfhinbwni2gl43e/sun%20-%20resurrection.jpg"
+author: "john-boyd"
+post_types: 
+  - "recommended-resources"
+  - "staff-reflection"
+bible_references: 
+  - Matthew
+  - Mark
+  - Luke
+  - John
+series: Holy Week
+tags: 
+  - Resurrection
 ---
 
 **What’s worth remembering: Resurrection + Celebration**
@@ -31,5 +43,3 @@ Matthew 28:1-15 | Mark 16:1-8 (9-20) | Luke 24:1-49 | John 20:1-18
 Visit <a href="http://www.kbm.org" target="_blank">kbm.org</a> for discipleship training opportunities and helpful resources.**
 
 * “Because He Lives,” Gloria and William J. Gaither, 1971
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

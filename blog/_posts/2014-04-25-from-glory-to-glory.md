@@ -4,7 +4,11 @@ layout: "blog-post"
 title: From Glory to Glory
 date: "2014-04-26"
 "poster-image": "https://www.dropbox.com/s/efd737yjpgonwh6/120521_CR_THE_EXPERIENCE_0354.jpg"
-author: Lisa Zimmerman
+author: "lisa-zimmerman"
+post_types: "no-type"
+bible_references: 
+  - Numbers
+  - 2 Corinthians
 ---
 
 “At the Lord’s command Moses recorded the stages of their [the Israelite’s] journey” (Numbers 33:12).  And so the chapter goes something like this:
@@ -23,5 +27,3 @@ Will you trust Him and surrender to His good and perfect plan?  Even as His pill
 
 2 Corinthians 3:18 (KJV) - 
 *But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.*
-
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)

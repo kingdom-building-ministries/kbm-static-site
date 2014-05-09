@@ -1,0 +1,5 @@
+{% for post_type in site.data.post_types %}
+{% if post_type.value == include.id %}
+{{ post_type[include.get] }}
+{% endif %}
+{% endfor %}

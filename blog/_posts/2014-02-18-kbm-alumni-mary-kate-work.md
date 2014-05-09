@@ -5,9 +5,10 @@ title: "KBM Alumni, Mary Kate Work"
 date: "2014-02-20"
 "poster-image": "https://www.dropbox.com/s/afnj509cw4g743r/MaryKate1.jpg"
 tags: 
-  - Alumni
   - Wide Values
   - Loving All People
+author: "rachel-reed"
+post_types: alumni
 ---
 
 Have you experienced a moment when you encountered a person or place that, seemingly without cause, moved your heart to deep love and compassion? That is what happened when Mary Kate first visited Las Vegas during 2011 while participating as a student with The Experience. The moment she entered Las Vegas, she loved the city. 
@@ -30,5 +31,3 @@ This industry is very deceiving. They walked in and were so excited to be away f
 
 While it is hard to live in Las Vegas, her love for the city only grows. 
 “Being here helps me understand how much Jesus gets in the trenches with people. Jesus desires to extend himself to all people. If we allow Him, He will use us to show His love and mercy to those around us.” 
-
->{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)

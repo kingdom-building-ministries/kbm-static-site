@@ -5,11 +5,13 @@ title: Living the Plan A Life
 date: "2014-01-31"
 "poster-image": "https://www.dropbox.com/s/12nx0phpntlf07x/344.jpg"
 tags: 
-  - Resource
-  - Plan A
-  - KBM Speaker
+  - "You are God's Plan A"
   - Dwight Robertson
-  - Baton Passing
+  - Baton Passing and Coaching
+  - Laborership
+  - Life Domains
+author: "lisa-zimmerman"
+post_types: "recommended-resources"
 ---
 
 The hope we have for seeing our communities transformed for the glory of God won’t come through any new truths or ideas.  The hope we have to see the change we desire is found in Christ alone and the direction He gave us through His Word.  It’s not time for new questions; His Word is not outdated.  Yes, God is the same yesterday, today, and tomorrow, but what He desires to do through you hasn’t been done before and can’t be duplicated.  You are a one-of-a-kind original created to uniquely influence the world around you on behalf of the King and His Kingdom.
@@ -33,5 +35,3 @@ Pray and take action this week that brings you into closer relationship to the p
 Attend a Plan A Conference!  You are invited to Kingdom Building Ministries in Aurora, Colorado in April.  There will be more information coming soon @ [www.KBM.org](http://www.kbm.org).
 
 Read the book!  Available online at [www.KBM.org/store](http://kbm.donorshops.com/product/DR0001/youaregodsplana.php).
-
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)

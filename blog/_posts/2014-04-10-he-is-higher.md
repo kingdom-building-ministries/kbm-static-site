@@ -4,6 +4,10 @@ layout: "blog-post"
 title: He Is Higher
 date: "2014-04-11"
 "poster-image": "https://www.dropbox.com/s/wkvy3ompm7husz5/GRADUATION%20SLIDESHOW-08292%20copy.jpg"
+author: "rachel-reed"
+post_types: "no-type"
+bible_references: 
+  - Isaiah
 ---
 
 >“As the heavens are higher than the earth, so are my ways higher than your ways
@@ -19,5 +23,3 @@ Whether we encounter times of great joy or intense struggle, will we surrender t
 
 *Humility is perfect quietness of heart. It is to expect nothing, to wonder at nothing that is done to me, to feel nothing done against me. It is to be at rest when nobody praises me, and when I am blamed or despised. It is to have a blessed home in the Lord, where I can go in and shut the door, and kneel to my Father in secret, and am at peace as in a deep sea of calmness, when all around and above is trouble.* 
 ― Andrew Murray
-
->{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)

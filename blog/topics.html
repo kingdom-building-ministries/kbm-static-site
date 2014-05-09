@@ -1,0 +1,23 @@
+---
+layout: tag-list
+title: 'Topics'
+---
+<ul class="tag-grid small-block-grid-2 large-block-grid-3 grid">
+  {% for topic in site.tags_alpha | sort %}
+  <li>
+        {% assign first_post = site.tags[topic][0] %}
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="topic" tag=topic %}{% endcapture %}
+        <a href="{{tag_link}}">
+          <div class="grid-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');">
+            <table>
+              <tr>
+                <td>
+                  <h3>{{ topic }}</h3
+                </td>
+              </tr>
+            </table>
+          </div>
+        </a>
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,31 @@
+.grid {
+  padding-top: 10px;
+}
+
+.grid-thumbnail {
+  background-color: #000;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 220px;
+  overflow: hidden;
+  
+  table {
+    height:100%;
+    width:100%;
+  }
+  
+  tr {
+    background: none !important;
+  }
+
+  td {
+    vertical-align: middle; 
+    background:rgba(150,150,150,0.5);  
+  }
+  
+  h3 {
+    text-align: center;
+    color: white;
+  }
+}

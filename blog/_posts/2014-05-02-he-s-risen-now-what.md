@@ -4,7 +4,10 @@ layout: "blog-post"
 title: "He's Risen, Now What"
 "poster-image": "https://www.dropbox.com/s/r85grezqb4qhd9w/resurrectionlight.jpg"
 date: "2014-05-02"
-author: John Boyd
+author: 
+  - "john-boyd"
+  - John Boyd
+post_types: "no-type"
 ---
 
 The first Resurrection Day was a fairly quiet affair.  While many people today still feel the thundering reverberation of “Christ is risen!” echoing deep within their chests, that first Easter came with few fireworks this side of heaven.  While angels were singing, saints dancing, and hall-of-faith inductees whooping and hollering, those living beneath the cloud of eternity moved with a different choreography.  
