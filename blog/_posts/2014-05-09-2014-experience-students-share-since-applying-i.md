@@ -5,7 +5,7 @@ title: "2014 Experience Students Share: \"Since Applying, I...\""
 author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-05-10"
-series: The Experience
+series: Experience 2014
 "poster-image": "https://www.dropbox.com/s/vmq02jfu02hlm1x/Screenshot%202014-05-09%2012.23.49.png"
 ---
 
