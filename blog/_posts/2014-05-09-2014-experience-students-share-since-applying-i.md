@@ -27,6 +27,7 @@ Although the Experience *officially* begins May 16th, the faith-journey begins t
 
 **A:**  I hope that God can show me who I am, and I hope to gain more understanding about how to use the passions and abilities He's placed inside of me for His Kingdom.
 
+
 ##Bethany Pratt
 
 {% include image.html url="https://www.dropbox.com/s/y8glkbp25t3wdfw/1482779_10151812560472014_1671836061_n.jpg" float="right" width="6"%}
