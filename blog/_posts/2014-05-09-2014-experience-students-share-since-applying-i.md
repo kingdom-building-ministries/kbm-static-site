@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "2014 Experience Students Share: "
+title: "2014 Experience Students Share: \"Since applying, I...\""
 author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-05-10"
