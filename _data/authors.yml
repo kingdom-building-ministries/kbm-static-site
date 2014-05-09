@@ -1,19 +1,5 @@
 - name: No Author
   value: no-author
-  
-- name: Lisa Zimmerman
-  value: lisa-zimmerman
-  title: "Content Team & Discipleship Training"
-  picture: /img/kbmstaff/kbm-staff-lzimmerman.jpg
-  bio: "Lisa is passionate about people knowing and believing in the God who works in 
-“immeasurably more than imaginable” ways. An Experience alumna (2012), she is 
-ever-learning what life is truly all about. "
-  
-- name: Rachel Reed
-  value: rachel-reed
-  title: "Discipleship Training & Coaching | Life Plan Facilitator"
-  picture: /img/kbmstaff/kbm-staff-rreed.jpg
-  bio:
 
 - name: John Boyd
   value: john-boyd
@@ -26,3 +12,15 @@ ever-learning what life is truly all about. "
   title: KBM Contributing Writer
   picture: /img/authors/shannon-boyd.jpg
   bio: "Shannon Boyd is a full-time wife, mom, homemaker, and part-time writer.  She’s also an avid reader, coffee drinker, and fellow traveler with others journeying toward deeper intimacy with Jesus.  "
+
+- name: Rachel Reed
+  value: rachel-reed
+  title: "Discipleship Training & Coaching | Life Plan Facilitator"
+  picture: /img/kbmstaff/kbm-staff-rreed.jpg
+  bio:
+
+- name: Lisa Zimmerman
+  value: lisa-zimmerman
+  title: "Content Team & Discipleship Training"
+  picture: /img/kbmstaff/kbm-staff-lzimmerman.jpg
+  bio: "Lisa is passionate about people knowing and believing in the God who works in “immeasurably more than imaginable” ways. An Experience alumna (2012), she is ever-learning what life is truly all about. "
