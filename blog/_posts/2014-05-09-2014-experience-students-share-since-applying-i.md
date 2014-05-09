@@ -9,8 +9,8 @@ series: The Experience
 ---
 
 Although the Experience *officially* begins May 16th, the faith-journey begins the day each student submits their application.  As they prepare for the summer and engage the fundraising process, we pray that God would deepen their relationship with Him before they even set foot inside our doors!  Two incoming students, Devin and Bethany, have shared what God has been showing them while preparing for the summer ahead.
-                   ____________________________________________
-**Devin Hubbard** 
+
+##Devin Hubbard
 
 {% include image.html url="https://www.dropbox.com/s/608dp1bcyi43sen/7187133_img_03841.jpg" float="left" width="6"%} 
 
@@ -29,8 +29,8 @@ I am completely confident that God is going to shape me and change me this summe
 **Q: If you dared to believe for something only God could do this summer, what would you ask of Him?**
 
 **A:** I hope that God can show me who I am…I hope to understand more about how God has designed me to serve His Kingdom with the passions and abilities He’s placed inside of me.  I want to know what it will look like when my identity is finally found in Him!
-                  ____________________________________________
-**Bethany Pratt**
+
+##Bethany Pratt
 
 {% include image.html url="https://www.dropbox.com/s/y8glkbp25t3wdfw/1482779_10151812560472014_1671836061_n.jpg" float="right" width="6"%}
 
