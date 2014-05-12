@@ -1,0 +1,21 @@
+---
+layout: tag-list
+title: 'Authors'
+---
+<ul class="postlist">
+  {% for author in site.data.authors %}
+  {% if author.value == "no-author" %}{% continue %}{% endif %}
+  <li>
+    <div class="row">
+      <div class="large-4 columns">
+        {% capture tag_link %}{% include sanitize_tag.html tag_type="author" tag=author.value %}{% endcapture %}
+        <a href="{{tag_link}}"><div class="blog-thumbnail" style="background-image:url('{% include url.html url=author.picture %}');"></div></a>
+      </div>
+      <div class="large-8 columns">
+        <h3><a href="{{tag_link}}">{{author.name}}</a></h3>
+        <p>{{author.bio}}</p>
+        </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

@@ -102,11 +102,9 @@ prose:
           type: "text"
       - name: "author"
         field:
-          element: "text"
-          label: "Author"
-          value: ""
-          placeholder: "Kingdom Builder"
-          type: "text"
+          element: "select"
+          label: "Author:"
+          options: "http://www.kbm.org/data/authors.jsonp?callback=authors"
       - name: "date"
         field:
           element: "text"
@@ -121,12 +119,25 @@ prose:
           value: ""
           placeholder: "http://www.dropbox.com/poster/link"
           type: "text"
-      - name: "tags"
+      - name: "series"
+        field:
+          element: "text"
+          label: "Series"
+          value: ""
+          placeholder: "Series title"
+          type: "text"
+      - name: "post_types"
+        field:
+          element: "select"
+          label: "Post Type"
+          placeholder: "Choose Post Type"
+          options: "http://www.kbm.org/data/post_types.jsonp?callback=post_types"
+      - name: "bible_references"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          alterable: "true"
+          label: "Add Bible Books"
+          alterable: "false"
+          options: "http://www.kbm.org/data/bible_books.jsonp?callback=bible_books"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:

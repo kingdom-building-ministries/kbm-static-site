@@ -7,6 +7,12 @@ date: "2014-03-26"
 tags: 
   - Alumni
   - 4 Gs
+author: "rachel-reed"
+post_types: alumni
+series: 4 Gs
+bible_references: 
+  - 1 Chronicles
+  - Jeremiah
 ---
 
 Ashlee’ is a 2011 <a href="http://www.kbm.org/training/theexperience/" target="_blank">Experience</a> alumni. She is attending college at Brewton-Parker College, where she is seeking to give God glory through her studies, athletics and relationships. 
@@ -32,5 +38,3 @@ My life has been a huge but small display of God’s glory, from the time of my 
 (1 Chronicles 16:23-32)
 
 "It is not about you and making your story better, but about waking up to the infinitely bigger God story happening all around you. God's invitation to you is to join Him in it. It's about looking up to see that there's a story that has been going on long before you arrived on the planet and one that will go on long after you're gone. God is the central character of this story...He commands center stage in existence, Creation, time, life, history, redemption, and eternity." ~ Lou Giglio
-
->{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)

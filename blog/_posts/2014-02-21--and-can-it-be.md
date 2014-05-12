@@ -4,6 +4,9 @@ layout: "blog-post"
 title: "'And Can It Be'"
 date: "2014-02-22"
 "poster-image": "https://www.dropbox.com/s/mtcup9upcmtq51e/140221_CR_HYMNAL_0003.jpg"
+author: "rachel-reed"
+post_types: "no-type"
+series: Mercy
 ---
 
 Below are the lyrics to the third stanza of the hymn ‘And Can It Be’. 
@@ -28,6 +31,3 @@ for O my God, it found out me!
 'Tis mercy all, immense and free, 
 
 for O my God, it found out me!
-
-
->{% include image.html url="https://www.dropbox.com/s/3a5rf8ubnws7xcb/Screenshot%202014-02-18%2014.12.15.png" float="left" width="5"%} **Written by Rachel Reed**       (Discipleship Training, Coaching and Life Plan Facilitator)

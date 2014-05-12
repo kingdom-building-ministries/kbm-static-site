@@ -4,6 +4,11 @@ layout: "blog-post"
 title: A Day of Preparation
 date: "2014-04-19"
 "poster-image": "https://www.dropbox.com/s/yaw72usq8a8clf7/Sat%20-%20waiting.jpg"
+author: "john-boyd"
+post_types: "recommended-resources"
+series: Holy Week
+bible_references: 
+  - Luke
 ---
 
 **What’s worth remembering about today: Waiting + Wondering**
@@ -22,5 +27,3 @@ Luke 23:55-66
 
 **Wanting a little more this week?  
 To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

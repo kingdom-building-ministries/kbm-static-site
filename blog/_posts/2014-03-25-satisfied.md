@@ -6,6 +6,12 @@ date: "2014-03-28"
 "poster-image": "https://www.dropbox.com/s/pdzk09ef9i3szq7/satisfied2.jpg"
 tags: 
   - 4 Gs
+author: "john-boyd"
+post_types: "no-type"
+series: 4 Gs
+bible_references: 
+  - Psalm
+  - Ecclesiastes
 ---
 
 What satisfies you?  You know, that thing that gives you a sense that all is well and good in your life.  Is it a good meal?  A healthy body?  A fat checking account?  A completed “to do” list?  A favorite team victory?  An on-track relationship?  A successful job?  A bargain buy?  A “way to go” from a parent, teacher, boss, or friend?  An endless number of social media hits?  A Snickers candy bar?
@@ -21,5 +27,3 @@ Noted theologian and apologist, Ravi Zacharias, accurately states: “The loneli
 We were created as such that we will only be satisfied in God alone.  Only when He is enough will we stop grasping for empty rainbows.  The psalm-writer says it this way, “Lord, you alone are my portion and my cup … apart from you I have no good thing” (Psalm 16:5, 2). 
 
 God is good, and He alone satisfies.  Why look anywhere else?
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

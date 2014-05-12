@@ -4,6 +4,14 @@ layout: "blog-post"
 title: Arguing with the Pharisees
 date: "2014-04-15"
 "poster-image": "https://www.dropbox.com/s/nyrd2fr85sc8f3k/tue%20-%20pointing.jpg"
+author: "john-boyd"
+post_types: "recommended-resources"
+series: Holy Week
+bible_references: 
+  - Matthew
+  - Mark
+  - Luke
+  - John
 ---
 
 **What’s worth remembering : God + Boxes**
@@ -20,5 +28,3 @@ Mt 21:23-25:46 | Mk 11:27-13:37 | Lk 20:1-21:36 | Jn 12:17-50
 
 **Wanting a little more this week?  
 To receive the free daily email devotional, *In His Steps*, sign-up <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=kbm&id=39" target="_blank">here</a>.**
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

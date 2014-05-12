@@ -5,6 +5,11 @@ title: "What's Driving You in 2014?"
 date: "2014-01-11"
 tags: 
   - Critical Question
+  - Deep Values
+  - Seeking the Kingdom
+author: "john-boyd"
+post_types: "no-type"
+series: Epiphany
 ---
 
 With 2013 clearly in the rear view mirror and 2014 fully ahead, what a perfect time to pull over and "take five" to review, reflect, and resolve your Kingdom dwelling life (all cell phones and other listening distractions safely tucked away, please).  
@@ -18,5 +23,3 @@ Take some time to really listen to God for a moment.  Don’t allow the awkwardn
 Whatever you’ve heard God sharing with you, share with a close friend or accountability partner, and begin living into your challenge or calling with courage and joy.  After all, it’s God Himself who is beckoning you further and higher, and He’s always faithful to complete the good work He begins.
 
 When ready, return to life’s highway.  And may God take you on the ride of your life in 2014!
-
->{% include image.html url="https://www.dropbox.com/s/hvwu5mniahe14xs/Headshot%20-3r.jpeg" float="left" width="5"%} **Written by John Boyd**  (Writer and Spiritual Formation Team)

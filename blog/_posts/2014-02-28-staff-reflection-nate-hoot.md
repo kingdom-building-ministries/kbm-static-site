@@ -5,8 +5,16 @@ title: "Staff Reflection: Nate Hoot"
 date: "2014-03-06"
 "poster-image": "https://www.dropbox.com/s/kebebnra71v2q05/Rainbow.jpg"
 tags: 
-  - 4 Gs
-  - Staff Reflection
+  - Obstacles
+  - God is Good
+author: "no-author"
+post_types: "staff-team"
+series: 4 Gs
+bible_references: 
+  - Psalm
+  - Romans
+  - 1 Thessalonians
+  - James
 ---
 
 Humanity is on a quest for comfort—a quest for pleasure. The next time you sit through a TV commercial break, take note. You’ll soon hear the message: “You deserve to have what you want when you want it!” From the moment we’re born we start designing strategies to control our world—to crown ourselves the king of our own kingdom. The scream from my one-year-old son when his older sister jerks his Hot-Wheels car out of his hand proves he’s wasted no time perfecting his quest!

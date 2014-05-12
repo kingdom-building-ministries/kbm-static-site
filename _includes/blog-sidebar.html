@@ -1,47 +1,95 @@
 <div class="blog-sidebar-content">
+  <div id="search">
+    <form action="/search" method="get">
+      <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
+    </form>
+  </div>
+  <section id="search-results" style="display: none;">
+    <div class="entries">
+    </div>
+  </section>
 
-<h3>Follow Us</h3>
+  {% raw %}
+  <script id="search-results-template" type="text/mustache">
+    {{#entries}}
+    <article>
+    <h3>
+    {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+    <a href="{{url}}">{{title}}</a>
+    </h3>
+    </article>
+    {{/entries}}
+  </script>
+  {% endraw %}
 
-<div class="large-12 large-centered columns social-links">
+  <h3>Follow Us</h3>
 
-  <a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.kbm.org%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-circle-flat-black_2x.png' alt='follow us in feedly' width='28' height='28'></a> |
+  <div class="large-12 large-centered columns social-links">
 
-  <a href="http://www.kbm.org/feed.xml" target="_blank"><img src="/img/rss.png" style="height:28px;width:28px;"/></a> |
-  
-  <a href="http://www.facebook.com/kingdombuildingministries" target="_blank"><img src="/img/facebook.png" style="height:28px;width:28px;"/></a> |
-  
-  <a href="http://www.twitter.com/kingdomlaborers" target="_blank"><img src="/img/twitter.png" style="height:28px;width:28px;"/></a> |
-  
-  <a href="http://www.instagram.com/kingdomlaborers" target="_blank"><img src="/img/instagram.png" style="height:28px;width:28px;"/></a>
-  <br>
-</div>
+    <a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fwww.kbm.org%2Ffeed.xml'  target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-circle-flat-black_2x.png' alt='follow us in feedly' width='28' height='28'></a> |
 
-<!--
-<h3> Recent Articles </h3>
+    <a href="http://www.kbm.org/feed.xml" target="_blank"><img src="/img/rss.png" style="height:28px;width:28px;"/></a> |
 
-<ul>
-  {% for post in site.categories.blog limit: 5 %}
-    <li><a href="{{ post.url }}"><strong>{{ post.title }} - {{ post.date | date_to_long_string }}</strong></a></li>
-  {% endfor %}
-</ul>
--->
+    <a href="http://www.facebook.com/kingdombuildingministries" target="_blank"><img src="/img/facebook.png" style="height:28px;width:28px;"/></a> |
 
-<!--
-<h3> Categories </h3>
-<ul>
-  {% for category in site.categories %}
-    <li>{{category | first }}</li>
+    <a href="http://www.twitter.com/kingdomlaborers" target="_blank"><img src="/img/twitter.png" style="height:28px;width:28px;"/></a> |
+
+    <a href="http://www.instagram.com/kingdomlaborers" target="_blank"><img src="/img/instagram.png" style="height:28px;width:28px;"/></a>
+    <br>
+  </div>
+
+  <h3>Discipleship Training - Join The Journey</h3>
+  <ul>
+    {% for type in site.data.current_training %}
+      {% assign posts_for_series = site.series[type.tag] %}
+      {% if posts_for_series %}
+        <li><a href="{% include sanitize_tag.html tag_type="series" tag=type.tag %}">{{ type.name }}</a></li>
+      {% endif %}
     {% endfor %}
-    </ul>
--->
+  </ul>
 
-<!--
-<h3> Topics </h3>
-<ul>
-  {% for tag in site.tags %}
-    <li>{{ tag | first }}</li>
-  {% endfor %}
-</ul>
--->
+  <h3>Read More From:</h3>
+  <ul>
+    {% for type in site.data.post_types %}
+      {% if type.value == 'no-type' %}
+        {% continue %}
+      {% endif %}
+      <li><a href="{% include sanitize_tag.html tag_type="post_type" tag=type.name %}">{{ type.name }}</a></li>
+    {% endfor %}
+  </ul>
+
+  {% comment %}
+  <h3><a href="/blog/topics">Topics</a></h3>
+  <ul>
+    {% for topic in site.data.current_topics %}
+      <li><a href="{% include sanitize_tag.html tag_type="topic" tag=topic.tag %}">{{ topic.name }}</a></li>
+    {% endfor %}
+    <li><a href="/blog/topics">See All Topics</a></li>
+  </ul>
+  {% endcomment %}
+
+  <h3><a href="/blog/series">Recent Series</a></h3>
+  <ul>
+    {% for series in site.data.current_series %}
+      <li><a href="{% include sanitize_tag.html tag_type="series" tag=series.tag %}">{{ series.name }}</a></li>
+    {% endfor %}
+    <li><a href="/blog/series">Past Series...</a></li>
+  </ul>
+
+  <h3>The Archive</h3>
+  {% include archive-dropdown.html %}
+
+  <h3><a href="/blog/scripture">Books of the Bible</a></h3>
+  <a href="#" data-dropdown="bible-down" class="small secondary button dropdown">Choose a book...</a><br>
+  <ul id="bible-down" class="f-dropdown">
+    {% for bible_book in site.data.bible_books %}
+      {% assign posts_for_book = site.bible_references[bible_book.name] %}
+      {% if posts_for_book %}
+        <li><a href="{% include sanitize_tag.html tag_type="scripture" tag=bible_book.name %}">{{ bible_book.name }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h3><a href="/blog/authors">Browse Authors</a></h3>
 
 </div>

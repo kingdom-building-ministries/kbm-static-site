@@ -8,6 +8,13 @@ tags:
   - Adrian Despres
   - 4 Gs
   - Resource
+author: "lisa-zimmerman"
+post_types: "recommended-resources"
+bible_references: 
+  - Matthew
+  - Romans
+  - Philippians
+  - James
 ---
 
 Think for a moment about the things in life that you delight in the most…is suffering on the list?
@@ -31,5 +38,3 @@ Romans 8:28 says, “And we know that in all things God works for the good of th
 What portion of your heart is fully on board trusting God’s sovereignty?  What portion of your heart believes God will supply what you need to endure the suffering that will come?  Search your heart.  Is there a perfect piece of God’s character or truth you’re resisting?  Confess it to Him, right now even, and invite the deeper work only God can do to take place.
 
 If you’d like to dig deeper, <a href="http://www.kbm.org/speakers/adrian-despres/" target="_blank">Adrian Despres</a> shares a powerful message entitled, <a href="http://kbm.donorshops.com/product/AD0002/delightedinsufferingcd.php" target="_blank">Delighted in Suffering</a>.  “Would you be willing to die for Christ?  That’s easy.” Adrian says.  “But…are you willing to *liv*e for Him?”  Be prepared to be challenged!
-
->{% include image.html url="https://www.dropbox.com/s/mzzys6ur2i7w5yt/Screenshot%202014-02-21%2014.12.31.png" float="left" width="5"%} **Written by Lisa Zimmerman** (Content Team and Discipleship Training)

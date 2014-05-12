@@ -33,7 +33,18 @@
   </footer>
 </div>
 {% include mobile-menu-footer.html %}
-<script src="/js/vendor/jquery-min.js"></script>
+<!--  lunr-search includes jquery -->
+<script src="/js/vendor/lunr-search/search.min.js"></script>
+<script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl: '/search.json',             // URL of the `search.json` index data for your site
+      results:  '#search-results',          // jQuery selector for the search results container
+      entries:  '.entries',                 // jQuery selector for the element to contain the results list, must be a child of the results element above.
+      template: '#search-results-template'  // jQuery selector for the Mustache.js template
+    });
+  });
+</script>
 <script src="/js/foundation.min.js"></script>
 <script src="/js/push-menu/classie.js"></script>
 <script src="/js/push-menu/mlpushmenu.js"></script>
