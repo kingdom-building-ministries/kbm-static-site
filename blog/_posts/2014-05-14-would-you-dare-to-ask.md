@@ -27,7 +27,7 @@ That was the kind of story I heard again and again as a group of alumni from 201
     
 “Growing up, I didn’t let myself dream.  But I understand now that God does see 	my heart and is leading me one step at a time towards a new path.”  
     
-“A deep desire in my heart was to reach youth, but my insecurities held me back.  	During The Experience I found freedom and was filled with overflowing joy to trust 	God in this journey.  Two years later, after graduating from school, I’ve accepted a youth leader position at a church!”
+“A deep desire in my heart was to reach youth, but my insecurities held me back.  	During *The Experience* I found freedom and was filled with overflowing joy to trust God in this journey.  Two years later, after graduating from school, I’ve accepted a youth leader position at a church!”
 
 “*Trust in the Lord* and do good; dwell in the land and enjoy safe pasture.  *Delight yourself in the Lord* and he will give you the desires of your heart.”
 
