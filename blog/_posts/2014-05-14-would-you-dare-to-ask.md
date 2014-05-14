@@ -23,7 +23,7 @@ That was the kind of story I heard again and again as a group of alumni from 201
 
 “God saw my desire to nurture, mother, and use food to bless others, and has 		opened the door for me to be a full-time nanny!”
     
-“I can’t believe I’m a second year dental student and pursuing the dream God has 	given me to spread the gospel through dentistry.”
+“I can’t believe I’m a second year dental student and already seeing God bring a dream to life of spreading the gospel through dentistry.”
     
 “Growing up, I didn’t let myself dream.  But I understand now that God does see 	my heart and is leading me one step at a time towards a new path.”  
     
