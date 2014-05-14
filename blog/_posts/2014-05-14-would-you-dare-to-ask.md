@@ -4,7 +4,7 @@ layout: "blog-post"
 title: "Would You Dare to Ask?"
 author: "lisa-zimmerman"
 post_types: alumni
-"poster-image": "https://www.dropbox.com/s/gdgm9rtn8csgyvs/Screenshot%202014-05-14%2012.08.12.png"
+"poster-image": "https://www.dropbox.com/s/wxbwexfjbkwizjd/Screenshot%202014-05-14%2012.13.44.png"
 date: "2014-05-15"
 series: The Experience
 bible_references: 
