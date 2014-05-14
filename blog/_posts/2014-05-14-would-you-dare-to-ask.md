@@ -16,7 +16,7 @@ Psalm 37:3-4
 
 Each life that comes through *The Experience* will, at some point during the summer, grapple with the desires in their heart.  And many, before arriving in Colorado, have spent time in prayer asking God to meet them in a specific way.
 
-Have you ever offered a desire of your heart before God?  What happened?
+>Have you ever offered a desire of your heart before God?  What happened?
 
 Oftentimes, the story goes like this: “The journey hasn’t gone how I expected and the process is humbling, but God has brought things to pass that were beyond what I could have imagined or hoped for.”
 
