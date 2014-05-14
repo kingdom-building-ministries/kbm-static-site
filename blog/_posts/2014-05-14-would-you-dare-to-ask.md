@@ -11,8 +11,7 @@ bible_references:
   - Psalm
 ---
 
-“Trust in the Lord and do good; dwell in the land and enjoy safe pasture.  Delight yourself in the Lord and he will give you the desires of your heart.”
-Psalm 37:3-4
+“Trust in the Lord and do good; dwell in the land and enjoy safe pasture.  Delight yourself in the Lord and he will give you the desires of your heart" (Psalm 37:3-4).
 
 Each life that comes through *The Experience* will, at some point during the summer, grapple with the desires in their heart.  And many, before arriving in Colorado, have spent time in prayer asking God to meet them in a specific way.
 
