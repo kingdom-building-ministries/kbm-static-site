@@ -110,7 +110,7 @@ prose:
           element: "text"
           label: "Post Date"
           value: ""
-          placeholder: "2013-01-01"
+          placeholder: "2014-05-15 14:49:00"
           type: "text"
       - name: "poster-image"
         field:
