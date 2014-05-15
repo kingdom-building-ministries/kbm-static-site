@@ -6,7 +6,7 @@ author: "lisa-zimmerman"
 post_types: alumni
 "poster-image": "https://www.dropbox.com/s/8cb0mxytfcz1lza/reunion-crop-blur.jpg"
 date: "2014-05-14"
-series: The Experience
+series: Experience 2014
 bible_references: 
   - Psalm
 ---
