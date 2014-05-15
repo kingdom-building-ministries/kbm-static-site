@@ -5,7 +5,7 @@ title: "Would You Dare to Ask?"
 author: "lisa-zimmerman"
 post_types: alumni
 "poster-image": "https://www.dropbox.com/s/8cb0mxytfcz1lza/reunion-crop-blur.jpg"
-date: "2014-05-15"
+date: "2014-05-14"
 series: The Experience
 bible_references: 
   - Psalm
