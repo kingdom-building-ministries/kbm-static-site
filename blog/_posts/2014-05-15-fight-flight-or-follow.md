@@ -14,7 +14,7 @@ bible_references:
 ---
 
 “I’d rather fight you for something I don’t really want than to take what you give that I need.” 
-– Rich Mullins, “Hold Me Jesus”
+– Rich Mullins, *Hold Me Jesus*
 
 Some latched on to the invitation from Jesus to “come, follow me,” and some did not.  Ever wonder what made the difference in either direction?  Perhaps a little closer to home, what tips the scales in your decision to follow Jesus or to walk away?
 
