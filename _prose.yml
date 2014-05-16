@@ -143,7 +143,9 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           alterable: "true"
-          options: "http://www.kbm.org/data/bible_books.jsonp?callback=bible_books"
+          options:
+            - name: 'Type it in'
+              value: 'invalid-tag'
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:
