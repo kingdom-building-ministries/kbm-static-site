@@ -8,6 +8,7 @@ post_types: "no-type"
 date: "2014-05-16"
 tags: 
   - Live Streaming
+series: Experience 2014
 ---
 
 Save the date for this weekend's live streaming events!  
