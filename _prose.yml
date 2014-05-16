@@ -143,8 +143,7 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           alterable: "true"
-          options:
-            - "Pay you no mind"
+          options: "http://www.kbm.org/data/bible_books.jsonp?callback=bible_books"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:
