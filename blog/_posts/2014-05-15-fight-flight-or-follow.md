@@ -11,6 +11,8 @@ bible_references:
   - Matthew
   - John
   - Philippians
+tags: 
+  - Bobert
 ---
 
 “I’d rather fight you for something I don’t really want than to take what you give that I need.” 
