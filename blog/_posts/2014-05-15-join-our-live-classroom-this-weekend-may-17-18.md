@@ -5,6 +5,8 @@ title: "Join Our Live Classroom this Weekend: May 17 & 18"
 author: "no-author"
 post_types: "no-type"
 date: "2014-05-16"
+tags: 
+  - Live Streaming
 ---
 
 Save the date for this weekend's live streaming events!  
