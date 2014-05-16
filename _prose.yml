@@ -142,7 +142,9 @@ prose:
         field:
           element: "multiselect"
           label: "Add Tags"
-          alterable: "false"
+          alterable: "true"
+          options:
+            - "Pay you no mind"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:
