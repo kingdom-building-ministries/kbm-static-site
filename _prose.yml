@@ -143,9 +143,7 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           alterable: "true"
-          options:
-            - name: 'Type it in'
-              value: 'invalid-tag'
+          options:"http://www.kbm.org/data/tags.jsonp"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:
