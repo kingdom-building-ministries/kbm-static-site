@@ -2,6 +2,7 @@
 published: true
 layout: "blog-post"
 title: "Join Our Live Classroom this Weekend: May 17 & 18"
+"poster-image": "https://www.dropbox.com/s/7xhdnw58n1q6oua/130518_CR_THE_EXPERIENCE_0268.jpg"
 author: "no-author"
 post_types: "no-type"
 date: "2014-05-16"
