@@ -138,6 +138,11 @@ prose:
           label: "Add Bible Books"
           alterable: "false"
           options: "http://www.kbm.org/data/bible_books.jsonp?callback=bible_books"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          alterable: "false"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:
