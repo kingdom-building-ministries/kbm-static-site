@@ -4,7 +4,7 @@ layout: "blog-post"
 title: "Watch Now!  \"You are God's Plan A\", Dwight Robertson"
 author: "no-author"
 post_types: "no-type"
-date: "2014-05-17"
+date: "2014-05-17 08:00"
 series: Experience 2014
 ---
 
