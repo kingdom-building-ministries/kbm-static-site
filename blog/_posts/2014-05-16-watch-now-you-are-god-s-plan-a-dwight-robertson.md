@@ -6,7 +6,12 @@ author: "no-author"
 post_types: "no-type"
 date: "2014-05-17 08:00"
 series: Experience 2014
+"poster-image": "https://www.dropbox.com/s/j8tdfsco3ykykpe/130518_CR_THE_EXPERIENCE_0268.jpg"
+tags: 
+  - Live Streaming
 ---
+
+{% include youtube.html video='5L-eEPmvnqs' %}
 
 Welcome to the live streaming of *You are God's Plan A* by Dwight Robertson (President and Founder of Kingdom Building Ministries), 8:30am - 10:30am (MST).  God has a plan for loving and reaching the world - It's YOU.
  
