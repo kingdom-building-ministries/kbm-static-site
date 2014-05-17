@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Watch Now!  \"You are God's Plan A\", Dwight Robertson"
+title: "Watch Now!  You are God's Plan A, Dwight Robertson"
 author: "no-author"
 post_types: "no-type"
 date: "2014-05-17 08:00"
