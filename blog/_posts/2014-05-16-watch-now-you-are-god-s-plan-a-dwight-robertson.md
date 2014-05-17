@@ -19,6 +19,6 @@ Click <a href="https://www.dropbox.com/s/ckx1u1qlnhtwiam/Dwight%20Robertson%20-%
 
 
 ##You are God's Plan A
-Want to hear more?  Read the book!  *You are God's Plan A*, by Dwight Robertson, is filled with even more encouragement for you to know and believe that God has uniquely designed you to play an important role in carrying out His plans and purposes!  The book is available online through <a href="http://kbm.donorshops.com/product/DR0001/youaregodsplana.php" target="_blank">kbm.org/store</a>.
+Want to hear more?  Read the book!  *You are God's Plan A*, by Dwight Robertson, is filled with even more encouragement for you to understand how God has uniquely designed you to help move His Kingdom forward!  The book is available online through <a href="http://kbm.donorshops.com/product/DR0001/youaregodsplana.php" target="_blank">kbm.org/store</a>.
 
-Also, learn how to bring the *Plan A* message to your church and community by visiting <a href="http://www.kbm.org/training/planaconference/" target="_blank">Link to new page</a>kbm.org/planaconference.
+Also, learn how to bring the *Plan A* message to your church and community by visiting <a href="http://www.kbm.org/training/planaconference/" target="_blank">kbm.org/planaconference</a>.
