@@ -5,8 +5,10 @@ title: "Evidence of God's Faithfulness"
 author: "lisa-zimmerman"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/313dqtz2bknfalp/OI000011.jpg"
-date: "2014-05-17"
+date: "2014-05-16 19:00"
 series: Experience 2014
+bible_references: 
+  - Hebrews
 ---
 
 From California, Iowa, Pennsylvania, Nebraska, Africa, Eastern Europe, and more, the 2014 Experience has arrived!  Countless prayers have been answered to bring each member of this team to Colorado.  GREAT is God's faithfulness!  Before they were born God knew them by name, and we rejoice that their hearts have been stirred to know Him more intimately and follow Him passionately.  As the summer journey begins, we pray the students would rest in the truth that God's character does not change; He is the same yesterday, today, and forever (Hebrews 13:8).  May generations of Kingdom Laborers be impacted through what God does in their lives this summer! 
