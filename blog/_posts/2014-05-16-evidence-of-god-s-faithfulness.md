@@ -5,7 +5,7 @@ title: "Evidence of God's Faithfulness"
 author: "lisa-zimmerman"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/313dqtz2bknfalp/OI000011.jpg"
-date: "2014-05-16 19:00"
+date: "2014-05-16"
 series: Experience 2014
 bible_references: 
   - Hebrews
