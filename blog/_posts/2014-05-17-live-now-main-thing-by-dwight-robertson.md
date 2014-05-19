@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "  Watch \"Main Thing\" by Dwight Robertson"
+title: " Watch \"Main Thing\" by Dwight Robertson"
 author: "no-author"
 post_types: "no-type"
 date: "2014-05-18 17:00:00"
