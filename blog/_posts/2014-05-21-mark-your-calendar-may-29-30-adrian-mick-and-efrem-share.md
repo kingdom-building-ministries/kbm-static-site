@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Mark Your Calendar for May 29-30! Adrian, Mick, and Efrem Share"
+title: "Mark Your Calendar for May 29-30! Adrian Despres, Mick Veach, and Efrem Smith"
 author: "no-author"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/9rtkpgakc0as1ck/DeepCamp2013_082.jpg"
