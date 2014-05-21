@@ -5,7 +5,7 @@ title: Dying Moments
 author: "john-boyd"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/mv2wcab9uwpwwc2/dyingmoments.jpg"
-date: "2014-05-21"
+date: "2014-05-21 11:30:00"
 series: Experience 2014
 bible_references: 
   - Isaiah
