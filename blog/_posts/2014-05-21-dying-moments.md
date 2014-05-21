@@ -5,8 +5,12 @@ title: Dying Moments
 author: "john-boyd"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/mv2wcab9uwpwwc2/dyingmoments.jpg"
-date: "2014-05-22"
+date: "2014-05-21"
 series: Experience 2014
+bible_references: 
+  - Isaiah
+  - John
+  - James
 ---
 
 The Experience team did some hiking recently.  We'll certainly do some more.  Colorado, hiking, and spiritual journey just seem to go together that way.  Our first jaunt into the mountains proved breathtaking, quite literally.  Colorado Rocky Mountain highs are majestic but hiking in the higher elevations of Colorado isn't exactly a walk in the park.  Hiking here claims one's breathe much more quickly.  Oxygen depleted, muscles begin to burn and send anonymous notes to the brain that seem to say, "Hey, think you might want to slow down a bit or perhaps even sit a spell?"  The steep Rocky Mountain trails can outmuscle the strongest of hikers.  It certainly did several of us Rocky Mountain rookies!
