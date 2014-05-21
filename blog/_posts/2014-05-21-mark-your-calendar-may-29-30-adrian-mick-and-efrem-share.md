@@ -11,7 +11,7 @@ tags:
   - Live Streaming
 ---
 
-Mark your calendar and invite your friends and family to watch these upcoming live stream classroom sessions!
+Mark your calendar and invite your friends and family to watch these upcoming live stream classroom sessions!  Click the video below to watch an invitation from staff member, Laura Bulgrien.
 
 <a href="http://www.kbm.org/speakers/adrian-despres/" target="_blank">Adrian Despres</a> will be with us Thursday, May 29th from 8:00am - 9:30am (MST).  We will be streaming his teaching, *Passion* live.  This message will challenge and inspire you!  Are you willing to **live** for Jesus Christ?
 
@@ -28,6 +28,3 @@ If you weren't able to join us for our past two classroom events, the recording 
 To watch *You are God's Plan A* by Dwight Robertson, click <a href="http://www.kbm.org/blog/2014/05/17/watch-now-you-are-god-s-plan-a-dwight-robertson/" target="_blank">HERE</a>.
 
 To watch *Keeping the Main Thing the Main Thing*, by Dwight Robertson, click <a href="http://www.kbm.org/blog/2014/05/18/live-now-main-thing-by-dwight-robertson/" target="_blank">HERE</a>.
-
-
-
