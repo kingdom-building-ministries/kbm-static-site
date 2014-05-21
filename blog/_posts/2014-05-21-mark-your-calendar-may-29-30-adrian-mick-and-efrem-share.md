@@ -21,5 +21,11 @@ Friday, May 30th from 10:00am - 12:30pm, <a href="http://www.kbm.org/speakers/ef
 
 {% include image.html url="https://www.dropbox.com/s/sg9ccgcfm42h5ns/DeepCamp2013_074.jpg" %}
 
+If you weren't able to join us for our past two classroom events, the recordings are available!
+
+To watch *You are God's Plan A* by Dwight Robertson, click <a href="http://www.kbm.org/blog/2014/05/17/watch-now-you-are-god-s-plan-a-dwight-robertson/" target="_blank">HERE</a>.
+
+To watch *Keeping the Main Thing the Main Thing*, by Dwight Robertson, click <a href="http://www.kbm.org/blog/2014/05/18/live-now-main-thing-by-dwight-robertson/" target="_blank">HERE</a>.
+
 
 
