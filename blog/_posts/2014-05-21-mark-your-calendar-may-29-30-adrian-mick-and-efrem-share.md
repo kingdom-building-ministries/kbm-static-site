@@ -11,7 +11,8 @@ tags:
   - Live Streaming
 ---
 
-Mark your calendar and invite your friends and family to watch these upcoming live stream classroom sessions!  Click the video below to watch an invitation from staff member, Laura Bulgrien.
+Mark your calendar and invite your friends and family to watch these upcoming live stream classroom sessions!  Watch this invitation from staff member, Laura Bulgrien.
+{% include vimeo.html video='96034839' %}
 
 <a href="http://www.kbm.org/speakers/adrian-despres/" target="_blank">Adrian Despres</a> will be with us Thursday, May 29th from 8:00am - 9:30am (MST).  We will be streaming his teaching, *Passion* live.  This message will challenge and inspire you!  Are you willing to **live** for Jesus Christ?
 
