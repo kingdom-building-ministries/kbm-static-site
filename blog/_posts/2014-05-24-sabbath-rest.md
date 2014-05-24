@@ -20,5 +20,4 @@ This past week, we spent some time exploring the beauty of God's gift to us in S
 We are encouraged by God to live into the gift of really resting, for our wholeness and for our peace. Maybe Sabbath doesn't look like what we've made it, and maybe it can be a precious treasure. Perhaps that’s what God had in mind.   
  
 **Whatever form your "rest" takes on, may you know to the fullest extent what it means that "a person is a person" on the Sabbath.**
-
 {% include image.html url="https://www.dropbox.com/s/18f5rfp84xriu9q/Sabbath%20copy.jpg" %}
