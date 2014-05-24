@@ -28,5 +28,3 @@ We hope you enjoy seeing a glimpse of the past week!
 {% include image.html url="https://www.dropbox.com/s/a6r527l5saok9ow/140518_CR_EXPERIENCE_0804.jpg" %}
 
 {% include image.html url="https://www.dropbox.com/s/t1kfrs9q0llgxbg/140517_CR_EXPERIENCE_0218.jpg" %}
-
-{% include image.html url="https://www.dropbox.com/s/xthn5qalrpqmfa2/140518_CR_EXPERIENCE_0939.jpg" %}
