@@ -8,6 +8,7 @@ date: "2014-05-24 17:00:00"
 series: Experience 2014
 bible_references: 
   - John
+"poster-image": "https://www.dropbox.com/s/ns1sv59av9b46di/140518_CR_EXPERIENCE_0541.jpg"
 ---
 
 As you may have heard on the news, Colorado has had some fierce weather!  To us the rain, wind, and hail have been reminders of the powerful way God moves and works!  In the midst of the storm, students are sailing new seas of the soul, and yet they rest in their Father's arms of peace.
