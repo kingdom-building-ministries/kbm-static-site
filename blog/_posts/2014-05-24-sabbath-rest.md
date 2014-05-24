@@ -2,7 +2,7 @@
 published: true
 layout: "blog-post"
 title: Sabbath Rest
-author: "john-boyd"
+author: "shannon-boyd"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/aztwzdee8ojddvr/sabbath.jpg"
 date: "2014-05-25 11:00:00"
