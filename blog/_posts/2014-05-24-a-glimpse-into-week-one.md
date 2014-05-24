@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "A Glimpse Into Week One!"
+title: "Week One!"
 author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-05-24 17:00:00"
@@ -16,18 +16,16 @@ As you may have heard on the news, Colorado has had some fierce weather!  To us 
 
 We hope you enjoy seeing a glimpse of the past week!
 
-{% include image.html url="https://www.dropbox.com/s/rdrjs4iy63mjztm/140518_CR_EXPERIENCE_0891.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/pb6llgf8v5wymcy/Chik%20Fil%20A.jpg" %}
+
+{% include image.html url="https://www.dropbox.com/s/axldswc7hw36xkj/140518_CR_EXPERIENCE_0939.jpg" %}
+
+{% include image.html url="https://www.dropbox.com/s/k4slqasa0y3z1gr/140518_CR_EXPERIENCE_0891.jpg" %}
 
 {% include image.html url="https://www.dropbox.com/s/jnhedtzo7y4gqlw/Canyon.jpg" %}
 
-{% include image.html url="https://www.dropbox.com/s/t2ly1lznnwf7z98/Solomon.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/a6r527l5saok9ow/140518_CR_EXPERIENCE_0804.jpg" %}
 
-{% include image.html url="https://www.dropbox.com/s/dwya2s90zwb0py6/140518_CR_EXPERIENCE_0804.jpg" %}
-
-{% include image.html url="https://www.dropbox.com/s/bzgonylxy2s36hl/140517_CR_EXPERIENCE_0218.jpg" %}
-
-{% include image.html url="https://www.dropbox.com/s/1bxuxi9prxsoxkj/Chik%20Fil%20A.jpg" %}
-
-{% include image.html url="https://www.dropbox.com/s/ns1sv59av9b46di/140518_CR_EXPERIENCE_0541.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/t1kfrs9q0llgxbg/140517_CR_EXPERIENCE_0218.jpg" %}
 
 {% include image.html url="https://www.dropbox.com/s/xthn5qalrpqmfa2/140518_CR_EXPERIENCE_0939.jpg" %}
