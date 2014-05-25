@@ -13,9 +13,9 @@ tags:
 
 Good morning! *Passion*, by Adrian Despres will begin at 8:00am.  *Are you willing to **live** for Christ?*
 
-Thank you for joining us!
-
 To download a copy of the teaching notes, click <a href="https://www.dropbox.com/s/07ccirt5kfvxefx/Adrian%20Despres%20-%20A%20Passion%20For%20Christ%20.pdf" target="_blank">HERE</a>.
+
+Thank you for joining us!
 
 ##Adrian Despres
 {% include image.html url="https://www.dropbox.com/s/onpu41r0pwz3hc6/Screenshot%202014-03-21%2010.04.58.png" float="left" width="3" %} Adrian Despres is a passionate communicator and deliverer of God’s Word.  He firmly believes that it is possible to love God with all your heart in today’s culture and desires to inspire all who will listen that a victorious Christian life can be theirs in Jesus Christ.
