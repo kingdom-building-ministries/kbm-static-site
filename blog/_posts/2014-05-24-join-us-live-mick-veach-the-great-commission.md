@@ -11,6 +11,7 @@ tags:
 "poster-image": "https://www.dropbox.com/s/2oltx47pwy8dequ/Mick.jpg"
 ---
 
+{% include youtube.html video="2LTlXMZZKwY" %}
 *The Great Commission*, by Mick Veach will begin at 4:00pm (MST).  
 
 To download a copy of the teaching notes, click <a href="https://www.dropbox.com/s/vi3hdxgwhikxz7g/Mick%20Veach%20-%20World%20Christian%20Discipleship.pdf" target="_blank">HERE</a>.
