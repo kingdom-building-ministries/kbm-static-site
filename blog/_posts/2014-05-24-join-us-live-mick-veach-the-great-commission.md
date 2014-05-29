@@ -17,7 +17,7 @@ To download a copy of the teaching notes, click <a href="https://www.dropbox.com
 
 Thank you for joining us!
 
-##Mick Veach
+## Mick Veach
 {% include image.html url="https://www.dropbox.com/s/barbuua3cfut8ch/Screenshot%202014-05-24%2018.30.58.png" float="left" width="3" %}
 Mick’s passion is to finish the great commission and to mobilize as many people as possible to engage in this effort. His life verse is Acts 20:24, “However, I consider my life worth nothing to me if only I can finish the race and complete the task the task the Lord Jesus has given me, the task of testifying to the gospel of God’s grace.”
 To learn more about Mick or book him as a speaker, click <a href="http://www.kbm.org/speakers/mick-veach/" target="_blank">here</a>.
