@@ -11,6 +11,7 @@ tags:
   - Live Streaming
 ---
 
+{% include youtube.html video="i7hkuIRQVHE" %}
 *God's Kingdom*, by Efrem Smith will begin at 10:00am (MST)	.  
 
 To download a copy of the teaching notes, click <a href="https://www.dropbox.com/s/shissgvb4mx60tf/Efrem%20Smith%20-%20The%20Kingdom%20of%20God.pdf" target="_blank">HERE</a>.
