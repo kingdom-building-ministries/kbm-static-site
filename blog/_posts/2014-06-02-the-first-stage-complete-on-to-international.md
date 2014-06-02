@@ -8,6 +8,7 @@ date: "2014-06-03"
 series: Experience 2014
 bible_references: 
   - Isaiah
+"poster-image": "https://www.dropbox.com/s/yzqutydjz05vcr9/_DSC0930.JPG"
 ---
 
 Sunday night marked the end of the first stage of The Experience, and we marked the transition into the second stage with an amazing night of praise, worship, and prayer.  Three student teams fly to three international locations (Haiti, the Dominican Republic, and Honduras) this week, and we could not send them without first preparing through prayer.  We closed the night with a special time of anointing the students with oil as a symbol that they have been appointed and chosen by God to labor for His Kingdom.  The students have been so faithful to soak up teaching upon teaching during the first stage, and now by God's grace, they get to experience living it out day by day!
