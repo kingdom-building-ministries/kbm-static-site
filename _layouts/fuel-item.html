@@ -1,0 +1,79 @@
+---
+
+---
+
+{% include header.html %}
+<div style="height:45px;"></div>
+<div class="row">
+  <div class="large-12  columns">
+
+    {% if page.media.size == 1 %}
+    {% if page.media[0].type == "vimeo" %}
+    <div class="row">
+      <div class="large-10 large-centered columns">
+        <h1 style="text-align: left;">{{page.title}}</h1>
+        <div class="flex-video widescreen vimeo">
+          <iframe src="//player.vimeo.com/video/{{page.media[0].vimeo-id}}?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% else %}
+    <h1 style="text-align: left;">{{page.title}}</h1>
+    <div class="fuel-sections section-container vertical-tabs" data-section="vertical-tabs">
+      {% for media in page.media %}
+      {% if media.type == "vimeo" %}
+      <section {% if forloop.first %}class="active"{% endif %}>
+        <p class="title" data-section-title><a href="#">{{media.name}}</a></p>
+        <div class="content" data-section-content>
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="flex-video widescreen vimeo">
+                <iframe src="//player.vimeo.com/video/{{media.vimeo-id}}?title=0&amp;byline=0&amp;portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {% endif %}
+      {% if media.type == "mp3" %}
+      <section {% if forloop.first %}class="active"{% endif %}>
+        <p class="title" data-section-title><a href="#">{{media.name}}</a></p>
+        <div class="content" data-section-content>
+          <div class="row">
+            <div class="large-12 columns">
+              <h3 style="text-align:left;">Listen Now</h1>
+                {% include audio-player.html mp3=media.url %}
+              </div>
+            </div>
+          </div>
+        </section>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="row">
+    <div class="large-6 columns" style="text-align: left;">
+      {{content}}
+    </div>
+
+    <div class="large-6 columns" style="text-align: left;">
+      {% for note in page.notes %}
+      <div class="row" style="padding:10px;">
+        <div class="large-12 columns">
+          <a href="{% include url.html url=note.url download="y" %}">
+            <img class="kbm-large-icon" src="/img/events/folder-icon.png" />
+          </a>
+          <a href="{% include url.html url=note.url download="y" %}">
+            <h2>{{note.name}}</h2>
+            <h3>Download Notes/Worksheet</h3>
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% include footer.html %}

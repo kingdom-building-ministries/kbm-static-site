@@ -7,7 +7,7 @@ post_types: "no-type"
 date: "2014-05-18 17:00:00"
 "poster-image": "https://www.dropbox.com/s/al0k5yejzidk8i4/plan-a-hands.jpeg"
 series: Experience 2014
-tags: 
+tags:
   - Live Streaming
 ---
 

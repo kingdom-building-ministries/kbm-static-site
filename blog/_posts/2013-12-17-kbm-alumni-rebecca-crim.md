@@ -4,11 +4,11 @@ layout: "blog-post"
 title: "KBM Alumni, Rebecca Crim "
 date: "2014-01-07"
 "poster-image": "https://www.dropbox.com/s/1wuevhaf5rmjir2/IMG_2810.JPG"
-tags: 
+tags:
   - Laborership
 author: "rachel-reed"
 post_types: alumni
-bible_references: 
+bible_references:
   - 1 John
 series: Epiphany
 ---
