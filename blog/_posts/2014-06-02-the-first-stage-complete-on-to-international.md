@@ -20,3 +20,5 @@ This upcoming week, would you pray specifically for students to:
 
 *The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor.  He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners.
 Isaiah 60:1*
+
+*“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!” Mark 1:15*
