@@ -22,3 +22,12 @@ This upcoming week, would you pray specifically for students to:
 Isaiah 60:1*
 
 *“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!” Mark 1:15*
+
+{% include image.html url="https://www.dropbox.com/s/o81y0vmgj06wdyh/_DSC0757.JPG" %}
+{% include image.html url="https://www.dropbox.com/s/51vu8ttjfmw0w9x/_DSC0802.JPG" %}
+{% include image.html url="https://www.dropbox.com/s/bwtbo5jmv7xl9ks/_DSC0819.JPG" %}
+{% include image.html url="https://www.dropbox.com/s/5x370sd19inowwd/_DSC0865.JPG" %}
+{% include image.html url="https://www.dropbox.com/s/wrneugf7x2rnn5o/_DSC0884.JPG" %}
+{% include image.html url="https://www.dropbox.com/s/0snp7ulwwx0u79y/_DSC0913.JPG" %}
+{% include image.html url="https://www.dropbox.com/s/ov9mvwo24cwtk5g/_DSC0931.JPG" %}
+
