@@ -4,7 +4,7 @@ layout: "blog-post"
 title: "The First Stage Complete, On to International"
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-06-03"
+date: "2014-06-02 14:00:00"
 series: Experience 2014
 bible_references: 
   - Isaiah
