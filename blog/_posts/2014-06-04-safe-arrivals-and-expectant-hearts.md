@@ -22,7 +22,7 @@ The team arrived safely to Honduras and they have had the opportunity to hear th
 
 Yesterday, the team arrived in Puerto Plata with Jon and Rachel Sawyer. Upon arrival they took a tour of the Makarios school and grounds and had a great introduction to the Kingdom work God is doing through Makarios. Last night they spent a couple of hours with 4 local Dominican and Haitian Makarios staff members who will be serving as their translators during the next 3 days while the team engages the local community with street outreach activities.
 
-From Team Leader, Nate Hoot.  "The team is praising God for:"
+From Team Leader, Nate Hoot.  *The team is praising God for:*
 1. Safe travel! God helped us navigate through a midnight arrival, hotel stay and public transportation to our contacts on the north shore.
 2. Health! So far the team is doing well physically. There is a bit of tiredness lingering. But they are really stoked to engage this local community the next few days. 
 3. Ideas!  When given the chance to structure their own ministry strategy to the community, the team came up with some great ideas, and the local translators supported their ideas. It was really cool to see them (our team and local Dominican Christians) come together with ideas to communicate the love of Christ!
