@@ -9,6 +9,8 @@ date: "2014-06-04 11:00:00"
 series: Experience 2014
 tags: 
   - International
+bible_references: 
+  - 1 John
 ---
 
 ##Team Honduras
