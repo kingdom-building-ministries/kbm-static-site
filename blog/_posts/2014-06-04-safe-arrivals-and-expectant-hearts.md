@@ -4,7 +4,7 @@ layout: "blog-post"
 title: Safe Arrivals and Expectant Hearts
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-06-05"
+date: "2014-06-04 11:00:00"
 "poster-image": "https://www.dropbox.com/s/m7zxodh49qitt98/photo-1.JPG"
 series: Experience 2014
 tags: 
@@ -29,3 +29,5 @@ From Team Leader, Nate Hoot.  *The team is praising God for:*
 
 ##Team Haiti
 An update will be coming soon!  Team Haiti safely departed on schedule last night and will arrive with their hosts in Haiti today.  We can't wait to hear from them and will post an update as soon as it's received.
+
+>*This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.  This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.  Dear friends, since God so loved us, we also ought to love one another.  No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.  1 John 4:9-12*
