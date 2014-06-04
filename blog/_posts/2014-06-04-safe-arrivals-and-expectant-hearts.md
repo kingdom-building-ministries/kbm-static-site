@@ -30,6 +30,6 @@ From Team Leader, Nate Hoot.  *The team is praising God for:*
 3. Ideas!  When given the chance to structure their own ministry strategy to the community, the team came up with some great ideas, and the local translators supported their ideas. It was really cool to see them (our team and local Dominican Christians) come together with ideas to communicate the love of Christ!
 
 ##Team Haiti
-An update will be coming soon!  Team Haiti safely departed on schedule last night and will arrive with their hosts in Haiti today.  We can't wait to hear from them and will post an update as soon as it's received.
+Team Haiti departed on schedule last night and safely arrived with their hosts in Haiti today!  Although very tired, they hit the ground running.  We can't wait to hear more from them after they complete their first day.
 
 >*This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.  This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins.  Dear friends, since God so loved us, we also ought to love one another.  No one has ever seen God; but if we love one another, God lives in us and his love is made complete in us.  1 John 4:9-12*
