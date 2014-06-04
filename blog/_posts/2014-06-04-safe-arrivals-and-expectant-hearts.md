@@ -16,11 +16,11 @@ God is already at work showing the team the power of "along the way" ministry op
 >During our layover at the Atlanta airport, God already stretched our team with a lost passport which was found by an amazing woman who's 
 daughter needed prayer.  God is good!!!  The team is pumped to witness God powerful at work already. ~ Team Leader, Loren Hayes
 
-The team arrived safely to Honduras and they have had the opportunity to hear their missionary host's testimony, Marcia (a 2012 Experience alumna).  The team is learning the slower pace of Honduras and the importance of flexibility.  They've also begun discussing the topic of language barriers and brainstorming ways they can love without solely relying on language.  Since we are created for relationship, love is possible even with language barriers!  The team will trust that God's love will show them what to do. 
+The team arrived safely to Honduras and they have had the opportunity to hear their missionary host's testimony, Marcia (a 2012 Experience alumna).  The team is adapting to the slower pace of Honduras and learning the importance of flexibility.  They've also begun discussing the topic of language barriers and brainstorming ways they can love without solely relying on language.  Since we are created for relationship, love is possible even with language barriers!  The team is filled with faith and will trust that God's love will show them what to do. 
 
 ##Team Dominican Republic
 
-Yesterday, the team arrived in Puerto Plata with Jon and Rachel Sawyer. Upon arrival they took a tour of the Makarios school and grounds and had a great introduction to the Kingdom work God is doing through Makarios. Last night they spent a couple of hours with 4 local Dominican and Haitian Makarios staff members who will be serving as their translators during the next 3 days as the team engages the local community with street outreach activities.
+Yesterday, the team arrived in Puerto Plata with Jon and Rachel Sawyer. Upon arrival they took a tour of the Makarios school and grounds and had a great introduction to the Kingdom work God is doing through Makarios. Last night they spent a couple of hours with 4 local Dominican and Haitian Makarios staff members who will be serving as their translators during the next 3 days while the team engages the local community with street outreach activities.
 
 The team is praising God for:
 1. Safe travel! God helped us navigate through a midnight arrival, hotel stay and public transportation to our contacts on the north shore.
