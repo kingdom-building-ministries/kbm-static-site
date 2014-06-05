@@ -4,11 +4,13 @@ layout: "blog-post"
 title: Team Haiti In Cite Sole Today
 author: "lisa-zimmerman"
 post_types: "no-type"
-"poster-image": "https://www.dropbox.com/s/dc6nj41bpruv34g/image%20copy.jpeg"
+"poster-image": "https://www.dropbox.com/s/nofv6holv33jccy/image%20copy%202.jpeg"
 date: "2014-06-05 12:00:00"
 series: Experience 2014
 tags: 
   - International
+bible_references: 
+  - Isaiah
 ---
 
 ##Team Haiti
