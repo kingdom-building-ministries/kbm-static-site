@@ -4,7 +4,7 @@ layout: "blog-post"
 title: Team Haiti In Cite Sole Today
 author: "lisa-zimmerman"
 post_types: "no-type"
-"poster-image": "https://www.dropbox.com/s/nofv6holv33jccy/image%20copy%202.jpeg"
+"poster-image": "https://www.dropbox.com/s/qeub9aji61r3e4l/120617_MKW_THE_EXPERIENCE_2276.jpg"
 date: "2014-06-05 12:00:00"
 series: Experience 2014
 tags: 
