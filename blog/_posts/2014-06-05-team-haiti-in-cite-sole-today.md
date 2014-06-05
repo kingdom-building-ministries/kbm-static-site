@@ -16,12 +16,14 @@ Team Haiti arrived safely yesterday, and had an amazing first day!  After being 
 
 The next stop was the children's hospital. 
 >Our team was almost silent durning the 45 minute drive there, but as they were holding these precious babies, singing, praying, and pouring love over them, they were amped. ~Team Leader, Rachel Reed
- 
+
 Today, after a needed evening of rest last night, the team is ministering in Cite Sole, one of the most impoverished regions of Port-au-Prince.  They thank you for your prayers!
+
 {% include image.html url="https://www.dropbox.com/s/vgc50iw6kdcn699/image.jpeg" %}
 
 ##Team Dominican Republic
-Yesterday, the team ministered in a community near Puerto Plata and cleaned up a local basketball court where a basketball tournament will be hosted in a few weeks. The team came up with the idea to host an event TONIGHT at these courts, where they will play games, share worship, and give testimonies with the kids they have been playing basketball with the past two days.  {% include image.html url="https://www.dropbox.com/s/u422l9alifynavj/photo%202.JPG" float="right"%}
+{% include image.html url="https://www.dropbox.com/s/u422l9alifynavj/photo%202.JPG" float="right"%}
+Yesterday, the team ministered in a community near Puerto Plata and cleaned up a local basketball court where a basketball tournament will be hosted in a few weeks. The team came up with the idea to host an event TONIGHT at these courts, where they will play games, share worship, and give testimonies with the kids they have been playing basketball with the past two days.
 >Please be praying for tonight, for Gods Spirit to move mightily in hearts as the team shares Gods truth...through actions and words! ~Team Leader Nate Hoot
 
 {% include image.html url="https://www.dropbox.com/s/d5qucw4wl6uluxx/photo-1.JPG" %}
