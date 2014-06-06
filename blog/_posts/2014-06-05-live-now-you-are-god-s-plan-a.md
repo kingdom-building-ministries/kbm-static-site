@@ -11,6 +11,7 @@ tags:
   - Live Streaming
 ---
 
+{% include youtube.html video='Rrodi3z9B5A' %}
 *You are God's Plan A*, by Dwight Robertson will begin at 1:00pm (MST).  Thank you for joining us in the 16 Days Classroom!
 
 *While Jesus walked the earth, He modeled an “ancient-future” plan for high impact living: Up-close, main stream, and one life at a time.*
