@@ -11,6 +11,7 @@ tags:
   - Live Streaming
 ---
 
+{% include youtube.html video=H1cg32b-JTA %}
 *16 Days Overview*, by Rob Cupp will begin at 10:30am (MST).  Thank you for joining us!
 
 *Our all-consuming God wants to labor in and through every domain of your life.*
