@@ -11,8 +11,9 @@ tags:
   - Live Streaming
 ---
 
-*16 Days Overview*, by Rob Cupp will begin at 10:30am (MST).  *Our all-consuming God wants to labor in and through every domain of your life.*
+*16 Days Overview*, by Rob Cupp will begin at 10:30am (MST).  Thank you for joining us!
+
+*Our all-consuming God wants to labor in and through every domain of your life.*
 
 To download a copy of the teaching notes, click <a href="https://www.dropbox.com/s/p0kfflt3556xhx4/Rob%20Cupp%20-%2016%20Days%20Overview.pdf" target="_blank">HERE</a>.
 
-Thank you for joining us!
