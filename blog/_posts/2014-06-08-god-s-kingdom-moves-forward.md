@@ -15,8 +15,7 @@ tags:
 ---
 
 ##Team Honduras
-**Friday, June 6 (Team Leader, Loren Hayes):** {% include image.html url="https://www.dropbox.com/s/15624yvn48lbckc/photo-2.JPG" float="right" width="6"%}
-Another great day in Honduras!  Our stomachs are hurting but our hearts are alive!  We tried to visit another village today. It's rained everyday that we've been here and so the road to the village was unpassable so we had to stop short.  Praise God we were able to find an open field that people from the surrounding villages were able to walk to and meet us there.  We played soccer and other games.  We then had the blessing of praying over them.  The man driving us to the villages is a true multiplying Kingdom Laborer!  He and his wife are facing extremely difficult circumstances but continue to do the work God has called them to.  Please pray for Edgardo and his wife, especially.
+**Friday, June 6 (Team Leader, Loren Hayes):** Another great day in Honduras!  Our stomachs are hurting but our hearts are alive!  We tried to visit another village today. It's rained everyday that we've been here and so the road to the village was unpassable so we had to stop short.  Praise God we were able to find an open field that people from the surrounding villages were able to walk to and meet us there.  We played soccer and other games.  We then had the blessing of praying over them.  The man driving us to the villages is a true multiplying Kingdom Laborer!  He and his wife are facing extremely difficult circumstances but continue to do the work God has called them to.  Please pray for Edgardo and his wife, especially. {% include image.html url="https://www.dropbox.com/s/15624yvn48lbckc/photo-2.JPG" float="right" width="6"%}
 
 Our team finally finished their team challenge, the Abyss, today!  Yeah!  We followed with a "Spirit led time" in town.  For our debrief of that exciting time we were joined by another American studying in Guatemala.  We were able to encourage her with an invitation to our worship and debrief of our time downtown.  She's an awesome Christian girl who is friends with our host.  God is good!
 
@@ -28,13 +27,16 @@ into idolatry with a swipe of a credit card, click of a mouse, or constant thoug
 >And are we willing to lead a life that is all in?
 
 We have had sweet moments of worship and testimony as we seek God's direction for us in Copan.  Join us in this prayer one student cried out, " Daddy we are listening, speak to us, and give us the boldness to move."
+
 {% include image.html url="https://www.dropbox.com/s/c1zhx1u5071t458/image-1.jpeg" %}
 
 ##Team Dominican Republic
 **Friday, June 6 (Team Leader, Nate Hoot):** {% include image.html url="https://www.dropbox.com/s/f7ct7hh1h6lyreq/IMG_0048.JPG" float="left" width="6"%} Upon meeting our hosts (Jon and Rachel Sawyer) in the community of Los Ciruelos, we walked down the street in prayer for God's plan for our short time there. Our first stop was a basketball court where soon several kids and young adults began to gather. After playing for a few hours we headed back to the Sawyers and began talking with 4 translators/Makarios staff about what our time could look like. God birthed a community outreach vision among the team involving basketball, community service, crafts/games and a final event on Thursday night. 
 
-{% include image.html url="https://www.dropbox.com/s/cvvhe8evsd0vpfv/photo%203-1.JPG" float="left" width="6"%} The next two days we built relationships through craft projects, games and basketball, inviting all to attend the event on Thursday. God was awesome in how He orchestrated the event, bringing the team closer through the planning process and helping them (with the translators) communicate the message of hope in Jesus Christ. The night concluded with a bonfire where about 150 kids, young adults and some parents heard the gospel through team testimonies. 
+{% include image.html url="https://www.dropbox.com/s/cvvhe8evsd0vpfv/photo%203-1.JPG" float="right" width="6"%} The next two days we built relationships through craft projects, games and basketball, inviting all to attend the event on Thursday. God was awesome in how He orchestrated the event, bringing the team closer through the planning process and helping them (with the translators) communicate the message of hope in Jesus Christ. The night concluded with a bonfire where about 150 kids, young adults and some parents heard the gospel through team testimonies. 
+
 {% include image.html url="https://www.dropbox.com/s/ag4ke3o1w1g5wmr/IMG_0366.JPG" %}
+
 {% include image.html url="https://www.dropbox.com/s/xv1a5jlw0nwl3t2/IMG_0341.JPG" %}
 
 Back at our host home our lead translator, Francis, shared how God had used the past two days and the Thursday event to challenge him to start an outreach ministry in the local communities and birthed a vision to motivate local churches to move out of their comfort zones and reach out to the non-Christian community. We were all humbled at how God used the simple obedience of a bunch of first-time missionaries to see the beginning of what we pray will be a disciple making movement along the north shore of the Dominican Republic. 
@@ -45,6 +47,7 @@ We feel completely humbled and fully blessed to have spent the short time we did
 
 ##Team Haiti
 **Thursday, June 5 (Team Leader Colin Reed):** {% include image.html url="https://www.dropbox.com/s/5vh6jebdhjsvux1/OI000016.jpg" float="right" width="6"%}  Today we traveled to Cite Soleil to visit a ministry call Outside the Bowl. They have industrial sized cooking equipment and can make enough food to feed 1,000 people per hour. They're just getting started up here and the most they have fed is 1,700 a day, but other locations serve up to 6000 a day, so they have a lot of room to grow. We talked with Noel, the country director for outside the Bowl and he shared the vision and history of the ministry. Their hope is to plant churches along with more kitchens around Haiti. He hosts a discipleship meeting every Tuesday and Thursday right outside the kitchen that he calls "the dreadlocks church" because it is comprised of people that would be rejected from most churches. His focus is on spiritual formation as much as it is on feeding people. The team prayed over the kitchen staff and their ministry. Carl led us in a way of praying that is more common outside the US where everyone prays at once. We went from there to the neighboring hospital to serve food and pray for the patients. The students were hesitant at first, but quickly found their footing and moved from bed to bed praying for the different patients.
+
 {% include image.html url="https://www.dropbox.com/s/u9hzemb93eapr3h/OI000018.jpg" %}
 
 We continue to come back to prayer as the primary work of the Kingdom as we encounter people and places desperately in need of intercession or Kingdom blessing. Tonight the team is driving quite a distance to join in a viewing of The Jesus Film. The woman who is hosting the event is a passionate Jesus follower who has been using the Jesus Film to start a movement of churches being planted across Haiti.
