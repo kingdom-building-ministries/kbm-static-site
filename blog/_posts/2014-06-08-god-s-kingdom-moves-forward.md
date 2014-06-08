@@ -19,9 +19,9 @@ tags:
 
 Our team finally finished their team challenge, the Abyss, today!  Yeah!  We followed with a "Spirit led time" in town.  For our debrief of that exciting time we were joined by another American studying in Guatemala.  We were able to encourage her with an invitation to our worship and debrief of our time downtown.  She's an awesome Christian girl who is friends with our host.  God is good!
 
-**Saturday, June 7 (Gabby Engle):** {% include image.html url="https://www.dropbox.com/s/wrdurlze2cx9t7u/image-2.jpeg" float="right" width="6"%} Today the team was able to visit a Mayan ruin site. It was great to learn about the roots of the culture in Honduras. While at the ruins we learned about an ancient Mayan ceremony. During this ceremony the winner of the game (involving a rubber ball) is sacrificed in order to present the requests of the people to the gods. They win to die. 
+**Saturday, June 7 (Gabby Engle):** Today the team was able to visit a Mayan ruin site. It was great to learn about the roots of the culture in Honduras. While at the ruins we learned about an ancient Mayan ceremony. During this ceremony the winner of the game (involving a rubber ball) is sacrificed in order to present the requests of the people to the gods. They win to die. 
 
-As a team we were challenged with what it means to lay down our lives for Jesus. What does sacrifice look like? 
+{% include image.html url="https://www.dropbox.com/s/wrdurlze2cx9t7u/image-2.jpeg" float="right" width="6"%} As a team we were challenged with what it means to lay down our lives for Jesus. What does sacrifice look like? 
 We were also challenged to see if we hold onto idols in our lives. It is easy to think of idolatry as worshipping a golden calf, yet we fall
 into idolatry with a swipe of a credit card, click of a mouse, or constant thoughts of pride.  Who are we truly worshipping? 
 >And are we willing to lead a life that is all in?
