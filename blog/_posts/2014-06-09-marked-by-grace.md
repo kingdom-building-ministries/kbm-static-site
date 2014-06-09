@@ -4,7 +4,7 @@ layout: "blog-post"
 title: Marked by Grace
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-06-09 14:00:00"
+date: "2014-06-09 13:00:00"
 series: 16 Days 2014
 bible_references: 
   - Ephesians
