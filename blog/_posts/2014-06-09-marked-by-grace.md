@@ -11,7 +11,7 @@ bible_references:
 "poster-image": "https://www.dropbox.com/s/wdqpa6afp3v1q10/photo-1.JPG"
 ---
 
-The 16 Days Team has recently been learning about what a life marked by grace looks like.  What about you?  Is your life marked by grace?  Take a moment and reflect on the passage below from Ephesians 2:4-10:
+The 16 Days Team has recently learned about what a life marked by grace looks like.  What about you?  Is your life marked by grace?  Take a moment and reflect on the passage below from Ephesians 2:4-10:
 
 >**But because of his great love for us**, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions - it is by grace you have been saved.  And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus, in order that in the coming ages he might show the incomparable riches of his grace, expressed in his kindness to us in Christ Jesus.
 
