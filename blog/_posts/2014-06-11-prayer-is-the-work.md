@@ -11,7 +11,7 @@ tags:
   - International
 ---
 
-#How to Pray For Our International Teams
+**Pray for our international teams today!**
 
 ##Team Dominican Republic
 After a four hour bus ride, the DR team arrived safely on Sunday night at Caribbean Mountain Academy in Jarabacoa, a mountain town in central Dominican Republic.  Monday morning the team led the Academy staff and students in worship for their campus church service then experienced some local dominican rice, beans, ham, chicken, tostones (Dominican fried plantains), cabbage salad and sweet fried bananas.  In the afternoon the ladies hiked Monastery Falls with the female CMA students while all the boys played basketball and soccer at a local sports field. 
@@ -19,7 +19,7 @@ After a four hour bus ride, the DR team arrived safely on Sunday night at Caribb
 The team has spent the past two days in a more remote, self-sustaining village called Majaguita, to engage the community for Christ and serve by painting and re-building a foundation for a house that is falling down.
 
 Please pray for God's path to be clear and for His covering of protection.  Pray also for the CMA students who are in search of grace, forgiveness and the true purpose for which they've been created.  Your prayers for each team member are also appreciated - they are growing deeper in relationship with each other and with God!
->We are very excited to see how God moves and open doors for Kingdom advance. (Team Leader, Nate Hoot)
+>We are very excited to see how God moves and opens doors for Kingdom advance. (Team Leader, Nate Hoot)
 
 ##Team Haiti
 The team has been in Cap Haitien for the past couple of days. They have been working with a group of 10 Haitian students, sharing stories, passing along discipleship training tools, doing listening prayer together and ministering to the city together. The language barrier has been difficult to navigate at times, but God's grace continues to make bridges. They will be in Cap Hatien until tomorrow and will then travel to Fauche to join a missionary couple and KBM Itinerant, John Vermilya, there.
