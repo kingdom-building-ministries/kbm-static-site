@@ -21,4 +21,4 @@ bible_references:
 
 {% include image.html url="https://www.dropbox.com/s/bi3pdz6i7dx3gvg/462.JPG" %}
 
- {% include image.html url="https://www.dropbox.com/s/yyrw1ofy8dc2d55/IMG_2417.jpeg" %}
+{% include image.html url="https://www.dropbox.com/s/yyrw1ofy8dc2d55/IMG_2417.jpeg" %}
