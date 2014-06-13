@@ -12,18 +12,18 @@ bible_references:
 ---
 
 ##Team Haiti
-12 The team's time in Cap Haitien was amazing. There were cultural and language barriers to engage, but an evening night of worship in five different languages broke through in an amazing way and the two teams came together and said goodbye feeling the loss of new family.  The time there was filled with teachings, life stories, worship sessions, listening prayer over the city, street evangelism, a prison visit and team building activities. 
+The team's time in Cap Haitien was amazing. There were cultural and language barriers to engage, but an evening night of worship in five different languages broke through in an amazing way and the two teams came together and said goodbye feeling the loss of new family.  The time there was filled with teachings, life stories, worship sessions, listening prayer over the city, street evangelism, a prison visit and team building activities. 
 >God was so good and gave us a taste of his kingdom on earth with people of all languages. (Team Leader, Rachel Reed) 
 
 {% include image.html url="https://www.dropbox.com/s/bagol784vmv8a0w/_1.jpg" %}
 
-Yesterday the team traveled to Fauche to join missionary family Corey and Kris Thede with their kids Eli (16) and and Ana (13). They are in north Haiti in what is a rain forest setting, seeing the beauty of this country.  Last night the team heard the story of a kingdom-minded family who has been in Haiti for 15 years.  Today team Haiti is at the beach hoping to build relationships with those they meet.
+Yesterday the team traveled to Fauche to join missionary family Corey and Kris Thede with their kids Eli (16) and and Ana (13). They are in north Haiti in what is a rain forest setting, seeing the beauty of this country.  Last night the team heard the story of a kingdom-minded family who has been in Haiti for fifteen years.  Today team Haiti is at the beach hoping to build relationships with those they meet.
 
 ##Team Honduras
-Wednesday, the team sadly said goodbye to their wonderful host, Marcia, and the town of Copan.  They spent about 8 hours on the road and arrived safely in Tegucigalpa.  Upon arrival in the city, they worshipped and asked God to lead the time they will spend ministrering in Tegucigalpa. 
+Wednesday, the team sadly said goodbye to their wonderful host, Marcia, and the town of Copan.  They spent about eight hours on the road and arrived safely in Tegucigalpa.  Upon arrival in the city, they worshipped and asked God to lead the time they will spend ministrering in Tegucigalpa. 
 
 Yesterday team TBTB took on Teguicgapla full force! They started off meeting Alfredo, a youth pastor in the city. Alfredo and some of his team showed them around Tegucigalpa, explaining the historical context of the city. The team was blessed to learn more about the city they are serving in.  Also, the team was given the opportunity to shout their God-given, new names, high above the city!  The night ended with their host Eduardo and his adopted son Juaquin sharing their testimonies. 
->We were so blessed by the way their life stories proclaim God's faithfulness. (Team Leader, Gabby Engle)
+>We were so blessed by the way their life stories proclaimed God's faithfulness. (Team Leader, Gabby Engle)
 
 {% include image.html url="https://www.dropbox.com/s/4x7k8u7q37ewvfi/photo-1.JPG" %}
 
