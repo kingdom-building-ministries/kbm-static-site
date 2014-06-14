@@ -15,7 +15,9 @@ Recently, the summer training itinerary took our students to the downtown 16th S
  
 {% include image.html url="https://www.dropbox.com/s/zrxbllrm9f6xkbk/photo%201.PNG" float="right" width="6"%} On the weekends, downtown Denver hums with constant motion.  Dividing the team into smaller groups in order to better camouflage themselves with the crowd, the students began their experience by spending some time sitting quietly and observing the activity of the city, making note of the demeanor, body language, and engagement of those who passed by.  Did they say, “Hello?”  Did the notice me?  Where were their thoughts,   motives, and feet taking them?  
 
-{% include image.html url="https://www.dropbox.com/s/qkqvfmzwp9irkqm/photo-1.JPG" float="right" width="6"%} After observing how many sitting on the fringes are often overlooked and unwanted, the team’s next real life assignment was to engage in conversation with someone: a homeless person, a street performer, a person on the periphery, or anyone else appointed by God’s nudging.  The Holy Spirit was to lead the way – whether to sit and be present, share God’s story or their own, or simply exchange words or gestures that say “I care, and you matter.” 
+After observing how many sitting on the fringes are often overlooked and unwanted, the team’s next real life assignment was to engage in conversation with someone: a homeless person, a street performer, a person on the periphery, or anyone else appointed by God’s nudging.  The Holy Spirit was to lead the way – whether to sit and be present, share God’s story or their own, or simply exchange words or gestures that say “I care, and you matter.” 
+
+{% include image.html url="https://www.dropbox.com/s/qkqvfmzwp9irkqm/photo-1.JPG" %}
 
 {% include image.html url="https://www.dropbox.com/s/cksnbrs5m0dar0t/photo%202.JPG" %}
 
