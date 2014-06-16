@@ -23,7 +23,7 @@ The teams have reached the final week of the international stage!  Pray each tea
 {% include image.html url="https://www.dropbox.com/s/uht9oewh3kirm9h/photo-2.JPG" %}
 
 ##Team Haiti
-**Team Leader, Racher Reed:** Spending time in the Haitian rain forest area has been so good.  We spent Friday morning at an inhabited beach with the Thede family and about 20 Hatian adults and children. It was beautiful, restful and had plenty of time to throw the kids around in the water. During the afternoon, we helped fold laundry and took a tour of the land Corey Thede has developed through his agricultural endeavors. It was amazing to see how he is equipping the Haitians with both food and income through the crops. 
+**Team Leader, Rachel Reed:** Spending time in the Haitian rain forest area has been so good.  We spent Friday morning at an inhabited beach with the Thede family and about 20 Hatian adults and children. It was beautiful, restful and had plenty of time to throw the kids around in the water. During the afternoon, we helped fold laundry and took a tour of the land Corey Thede has developed through his agricultural endeavors. It was amazing to see how he is equipping the Haitians with both food and income through the crops. 
 
 Saturday morning we hiked to the top of a small mountain and John Vermilya and Rainey (friend from Buckley) shared some powerful thoughts and challenges.
 
