@@ -10,6 +10,7 @@ bible_references:
   - Titus
 tags: 
   - International
+"poster-image": "https://www.dropbox.com/s/5u21pi1isct2ky3/IMG_1616.JPG"
 ---
 
 The teams have reached the final week of the international stage!  Pray each team member would boldly follow God's voice, know God's heart more clearly and surrender to God's plan.
