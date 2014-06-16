@@ -36,7 +36,7 @@ Picture below: John Vermilya challenging the team to consider and embrace Jesus 
 {% include image.html url="https://www.dropbox.com/s/c7gdznta9cnwi2g/IMG_20140614_104548.jpg" %}
 
 ##Team Dominican Republic
-The team continues to seek God's heart in how to love and build relationships with the students at Carribean Mountaint Academy.  Pray for the team as they lead times of worship, games, teaching and testimony - may the story of the gospel come alive!  
+The team continues to seek God's heart in how to love and build relationships with the students at Carribean Mountaint Academy.  Pray for the team as they lead times of worship, games, teaching and testimony -- may the story of the gospel come alive and may the CMA students believe in and know the love of their Father!  
 
 {% include image.html url="https://www.dropbox.com/s/xko0rz2eg9jt179/Team%20DR%20Day%2010.jpg" %}
 
