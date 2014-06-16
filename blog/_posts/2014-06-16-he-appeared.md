@@ -4,7 +4,7 @@ layout: "blog-post"
 title: He Appeared
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-06-16 15:00:00"
+date: "2014-06-16 16:00:00"
 series: Experience 2014
 bible_references: 
   - Titus
