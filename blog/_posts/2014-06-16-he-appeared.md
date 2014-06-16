@@ -45,4 +45,3 @@ Sunday morning the KBM team executed a formal church service where Jesse, Tiana 
 {% include image.html url="https://www.dropbox.com/s/1brl4eq7sl51lpk/IMG_1699.JPG" %}
 
 {% include image.html url="https://www.dropbox.com/s/8bsx0mgc1afo89l/DSC_0345.JPG" %}
-
