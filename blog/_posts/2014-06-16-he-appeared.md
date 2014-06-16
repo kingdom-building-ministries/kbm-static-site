@@ -34,5 +34,3 @@ Picture below: John Vermilya challenging the team to consider and embrace Jesus 
 {% include image.html url="https://www.dropbox.com/s/8jhrxmmwu15oowl/photo-1.JPG" %}
 
 {% include image.html url="https://www.dropbox.com/s/c7gdznta9cnwi2g/IMG_20140614_104548.jpg" %}
-
-##Team Dominican Republic
