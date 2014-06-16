@@ -36,8 +36,13 @@ Picture below: John Vermilya challenging the team to consider and embrace Jesus 
 {% include image.html url="https://www.dropbox.com/s/c7gdznta9cnwi2g/IMG_20140614_104548.jpg" %}
 
 ##Team Dominican Republic
-The team continues to seek God's heart in how to love and build relationships with the students at Carribean Mountaint Academy.  Pray for the team as they lead times of worship, games, teaching and testimony -- may the story of the gospel come alive and may the CMA students believe in and know the love of their Father!  
+It has been so encouraging to watch the Holy Spirit move in the hearts of the CMA students as the team engages them in activities, meal-time conversations and spiritual connections each night during the KBM-initiated "youth nights". Early during our time here the team prayerfully planned out a series of topics they felt led to share with the teens throughout the week. The team has adopted individual students, committing to pray over them daily during our time here. God is working powerfully as spiritual conversations continue to deepen and we see hearts begin to soften. 
 
-{% include image.html url="https://www.dropbox.com/s/xko0rz2eg9jt179/Team%20DR%20Day%2010.jpg" %}
+Sunday morning the KBM team executed a formal church service where Jesse, Tiana and Trent led worship while Karolina and Darren shared from the Word on the topic of God's love. Saturday, after preparing breakfast for the students in their homes, we joined the CMA students for an authentic Dominican river hike, navigating through the river and small waterfalls until we reached "the big one"! Tonight the team will be sharing the Gospel message and addressing the topic of forgiveness with the CMA students. Thank you so much for praying!
+
+{% include image.html url="https://www.dropbox.com/s/k12s699qx74auf6/DSC_1175.JPG" %}
+
+{% include image.html url="https://www.dropbox.com/s/1brl4eq7sl51lpk/IMG_1699.JPG" %}
 
 {% include image.html url="https://www.dropbox.com/s/8bsx0mgc1afo89l/DSC_0345.JPG" %}
+
