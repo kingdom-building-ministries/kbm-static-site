@@ -4,7 +4,7 @@ layout: "blog-post"
 title: "Father, Thank You For Your Faithfulness"
 author: "lisa-zimmerman"
 post_types: "no-type"
-"poster-image": "https://www.dropbox.com/s/enle2lumasp2pz7/DSC_1675.JPG"
+"poster-image": "https://www.dropbox.com/s/48xufkd0v9dfizn/DSC_1427.JPG"
 date: "2014-06-19 11:00:00"
 series: Experience 2014
 tags: 
