@@ -8,7 +8,7 @@ date: "2014-06-21 9:00:00"
 series: 16 Days 2014
 bible_references: 
   - Matthew
-"poster-image": "https://www.dropbox.com/s/wt3qm0soc8rkhnj/photo%203.JPG"
+"poster-image": "https://www.dropbox.com/s/djr9d7vl497693f/447.JPG"
 ---
 
 Welcome to the Live Streaming of 16 Days Graduation!
