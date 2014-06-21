@@ -13,7 +13,7 @@ bible_references:
 
 Redeemed.  Loved.  Forgiven.  Humbled.  Freed.  Awakened.  Changed.  Equipped.
  
-The 18 students of the 16 Days team graduated today, commissioned as God's Plan A Kingdom Laborers.  The room was filled with the emotion of a close bond of a team about to embark on another chapter, and as staff and students shared, we sat in awe of the amazing love, grace and transformation God bestowed in each life.
+The 18 students of the 16 Days team graduated today, commissioned as God's Plan A Kingdom Laborers.  The room was filled with the emotion that comes with the close of one chapter and the beginning of a new one, and as staff and students shared, we sat in awe of the amazing love, grace and transformation God bestowed in each life.
  
 "Graduation day is our most exciting day of the program," 16 Days leader Charlie Marquis said.  "Why?  Because today you are commissioned and sent to go and labor with God in the plans He has in store to use you to advance His Kingdom in your schools, homes, churches and communities.  You are equipped and have everything you need in Jesus Christ."   
  
