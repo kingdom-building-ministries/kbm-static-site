@@ -12,7 +12,7 @@ bible_references:
 ---
 
 {% include youtube.html video='JML-z7HU_NQ' %}
-Welcome to the Live Streaming of 16 Days Graduation!
+Welcome to the Live Streaming of 16 Days Graduation!  The Parents' Reception will begin at 9:00am MST and Graduation will begin at 10:30am MST.
 
 Thank you for joining us and for celebrating the transformational work God has done in the lives of these students.  We take great joy in commissioning them as kingdom laborers today and in sending them out to co-labor with God in His glorious plan to love and reach the world.
 
