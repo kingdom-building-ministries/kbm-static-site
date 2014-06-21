@@ -4,7 +4,7 @@ layout: "blog-post"
 title: 16 Days Graduation LIVE
 author: "no-author"
 post_types: "no-type"
-date: "2014-06-21 8:00:00"
+date: "2014-06-21 8:30:00"
 series: 16 Days 2014
 bible_references: 
   - Matthew
