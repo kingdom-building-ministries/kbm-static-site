@@ -11,6 +11,7 @@ bible_references:
 "poster-image": "https://www.dropbox.com/s/wt3qm0soc8rkhnj/photo%203.JPG"
 ---
 
+{% include youtube.html video='JML-z7HU_NQ' %}
 Welcome to the Live Streaming of 16 Days Graduation!
 
 Thank you for joining us and for celebrating the transformational work God has done in the lives of these students.  We take great joy in commissioning them as kingdom laborers today and in sending them out to co-labor with God in His glorious plan to love and reach the world.
