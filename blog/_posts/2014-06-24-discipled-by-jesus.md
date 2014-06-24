@@ -4,7 +4,7 @@ layout: "blog-post"
 title: Discipled By Jesus
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-06-24"
+date: "2014-06-24 12:00:00"
 series: Deep Camp 2014
 bible_references: 
   - Matthew
