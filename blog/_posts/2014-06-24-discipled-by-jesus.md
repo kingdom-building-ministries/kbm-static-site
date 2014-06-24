@@ -10,7 +10,7 @@ bible_references:
   - Matthew
 tags: 
   - Robert Gelinas
-"poster-image": "https://www.dropbox.com/s/ckd9zl86ok3rgyw/photo%201.JPG"
+"poster-image": "https://www.dropbox.com/s/ur8e03xcts3v2cd/photo.JPG"
 ---
 
 It's day two of Deep Camp and our gracious God has already spoken in many ways through many vessels why it is we came up 9,000 feet for camp.  
