@@ -22,3 +22,5 @@ Coming up the mountain, far from the ground we perseveringly walk and work day t
 Through worship, teachings, discussion groups and the beauty of God's creation, Jesus is on the move in each life here.  Thank you for your prayers.
 
 *As Jesus was walking beside the Sea of Galilee, he saw two brothers, Simon called Peter and his brother Andrew. They were casting a net into the lake, for they were fishermen. “Come, follow me,” Jesus said, “and I will send you out to fish for people.”  At once they left their nets and followed him.  Matthew 4:18-20*
+
+{% include image.html url="https://www.dropbox.com/s/ckd9zl86ok3rgyw/photo%201.JPG" %}
