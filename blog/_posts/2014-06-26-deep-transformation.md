@@ -4,7 +4,7 @@ layout: "blog-post"
 title: Deep Transformation
 author: "john-boyd"
 post_types: "no-type"
-date: "2014-06-26"
+date: "2014-06-26 20:00:00"
 series: Deep Camp 2014
 "poster-image": "https://www.dropbox.com/s/lgh5bqp66x5jx2z/photo-1.JPG"
 ---
