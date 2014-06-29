@@ -4,7 +4,7 @@ layout: "blog-post"
 title: Living Like Eternity Matters
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-06-29 13:00:00"
+date: "2014-06-29 12:00:00"
 series: Deep Camp 2014
 "poster-image": "https://www.dropbox.com/s/dfqcjaspjw3adb0/VwO26.jpeg"
 bible_references: 
