@@ -6,7 +6,7 @@ author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-06-29 13:00:00"
 series: Deep Camp 2014
-"poster-image": "https://www.dropbox.com/s/mpu14a2p4zxyqy0/photo-1%20copy.JPG"
+"poster-image": "https://www.dropbox.com/s/dfqcjaspjw3adb0/VwO26.jpeg"
 bible_references: 
   - Colossians
 ---
