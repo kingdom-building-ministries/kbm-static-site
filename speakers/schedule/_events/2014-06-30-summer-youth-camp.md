@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "speaker-event"
-title: Summer Youth Camp
+title: "Crossover Church - Summer Youth Camp"
 speaker: "chris-emery"
 venue: Camp Gifford
 address: "3846 N. Deer Lake Rd. , Loon Lake, WA 99148"
