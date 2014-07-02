@@ -42,7 +42,7 @@ Prayer Requests:
 
 {% include image.html url="https://www.dropbox.com/s/qex15ndvv79h2z9/2014-07-01%2011.14.25.jpg" %}
 
-{% include image.html url="https://www.dropbox.com/s/bzrk0m4c0weajk0/2014-07-01%2013.29.19.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/lf21xc23c996wt6/2014-07-01%2013.29.19%20copy.jpg" %}
 
 ##Vegas Team
 Yesterday, the team went to work with Casa de Luz, helping with a food drive.  One of the pastors took the time to anoint and pray over each of the team members, believing that God has good and specific things in store for them this week!  Part of the team helped to distribute food while the rest of them hung out or played worship music for those hanging around.
