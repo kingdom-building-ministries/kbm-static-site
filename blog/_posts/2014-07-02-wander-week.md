@@ -2,11 +2,13 @@
 published: true
 layout: "blog-post"
 title: Wander Week
-author: "lisa-zimmerman"
+author: "no-author"
 post_types: "no-type"
 "poster-image": "https://www.dropbox.com/s/patzjddqitdg98j/2014-07-01%2013.35.29.jpg"
 date: "2014-07-02 10:00:00"
 series: Experience 2014
+bible_references: 
+  - John
 ---
 
 This week The Experience students, divided into three teams, have been doing life together in three separate cities in order to better grasp what it means to live in genuine Christian community and reach the world around them.  Convinced that people outside God's Kingdom will "know we are Christians by our love for one another" (John 13:35), the students have been asking such questions as:  
@@ -56,4 +58,3 @@ Prayer requests:
 {% include image.html url="https://www.dropbox.com/s/l0hdzgn09f6zowa/2014-07-01%2013.40.06.jpg" %}
 
 {% include image.html url="https://www.dropbox.com/s/qhmccye6jy20kg0/2014-07-01%2013.40.09.jpg" %}
-
