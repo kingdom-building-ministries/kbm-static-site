@@ -55,6 +55,4 @@ Prayer requests:
 
 {% include image.html url="https://www.dropbox.com/s/dpqxftgtv3qnkcr/2014-07-01%2013.40.12.jpg" %}
 
-{% include image.html url="https://www.dropbox.com/s/l0hdzgn09f6zowa/2014-07-01%2013.40.06.jpg" %}
-
-{% include image.html url="https://www.dropbox.com/s/qhmccye6jy20kg0/2014-07-01%2013.40.09.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/mxl29zdbhok7lmo/Vegas%20Worship.jpg" %}
