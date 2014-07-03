@@ -13,4 +13,6 @@ series: "Experience 2014 "
 
 Welcome to the Live Streaming of *Value of One* by Dwight Robertson!  The teaching will begin at 3:30pm MST.  Thank you for joining us!
 
-Be encou ministering to one life at a time may seem slow and ineffective in our own understanding, it's the very way Jesus modeled ministry and holds incredible Kingdom potential!
+To download the class notes to follow along with, click <a href="https://www.dropbox.com/s/l6zsnnoqndc7xub/Dwight%20Robertson_Value%20of%20One.pdf" target="_blank">HERE</a>.
+
+Be encouraged: ministering to one life at a time may seem slow and ineffective in our own understanding, but it's the way Jesus modeled ministry and holds incredible Kingdom potential!
