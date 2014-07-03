@@ -110,7 +110,7 @@ prose:
           element: "text"
           label: "Post Date"
           value: ""
-          placeholder: "2013-01-01"
+          placeholder: "2014-05-15 14:49:00"
           type: "text"
       - name: "poster-image"
         field:
@@ -138,6 +138,12 @@ prose:
           label: "Add Bible Books"
           alterable: "false"
           options: "http://www.kbm.org/data/bible_books.jsonp?callback=bible_books"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          alterable: "true"
+          options: "http://www.kbm.org/data/tags.jsonp"
     prayer/prayer-updates/_posts:
       - name: "layout"
         field:

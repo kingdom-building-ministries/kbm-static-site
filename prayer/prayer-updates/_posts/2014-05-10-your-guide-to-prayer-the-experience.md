@@ -5,9 +5,9 @@ title: "Your Guide to Prayer: The Experience"
 date: "2014-05-11"
 ---
 
-This Friday, May 16th, twenty eight young adults will walk through the doors of Kingdom Building Ministries!  As our ministry staff welcomes them, know that we realize a large number of our team is not present in person with us - each of you!  BUT, you are present (more than you may know) through your prayers.  We cannot articulate how thankful we are for you and the way your prayers help move God's work forward.  God has and will continue working miracles through the power of prayer, and our staff moves forward with joy this summer knowing you are co-laboring with us!  May the work God does in each student equip them to impact generations of Kingdom laborers to come.
+Friday, May 16th, twenty eight young adults walked through the doors of Kingdom Building Ministries!  We cannot articulate how thankful we are for you and the way your prayers help move God's work forward.  God has and will continue working miracles through the power of prayer, and our staff moves forward with joy this summer knowing you are co-laboring with us!  May the work God does in each student equip them to impact generations of Kingdom laborers to come.
  
-The prayer tool included this week is a breakdown of each month's activities and specific ways for you to pray.  Simply click the sentence below, download the file, and print it out!
+Click the sentence below to download a PDF file that details specific ways for you to pray throughout the summer!
  
 Click <a href="https://www.dropbox.com/s/7cg2fktxift3km8/Experience%202014%20Prayer%20Guide.pdf" target="_blank">HERE</a> to download the "2014 Experience Prayer Guide"
  

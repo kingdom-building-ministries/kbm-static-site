@@ -53,9 +53,9 @@ module Jekyll
 
     def sanitize_category_name(name)
       new_name = name.strip
-      new_name.sub! ' ', '-'
-      new_name.sub! "\'", ''
-      new_name.sub! "\"", ''
+      new_name.gsub! ' ', '-'
+      new_name.gsub! "\'", ''
+      new_name.gsub! "\"", ''
       new_name.downcase!
       new_name
     end

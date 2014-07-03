@@ -6,7 +6,7 @@ date: "2014-04-26"
 "poster-image": "https://www.dropbox.com/s/efd737yjpgonwh6/120521_CR_THE_EXPERIENCE_0354.jpg"
 author: "lisa-zimmerman"
 post_types: "no-type"
-bible_references: 
+bible_references:
   - Numbers
   - 2 Corinthians
 ---
@@ -25,5 +25,5 @@ Are you willing to submit to the journey God has set in place for you?  The new 
 
 Will you trust Him and surrender to His good and perfect plan?  Even as His pillar of cloud and fire leads to unknown and unexpected campsites?  
 
-2 Corinthians 3:18 (KJV) - 
+2 Corinthians 3:18 (KJV) -
 *But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.*

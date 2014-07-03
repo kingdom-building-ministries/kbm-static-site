@@ -15,18 +15,18 @@ highlight-menu-id: fuel
       <h1>{{ page.title }}</h1>
     </div>
   </div>
-  
+
   <div class="row" style="position:relative;">
     <div class="large-9 columns blog-content">
       {% include social-sharing-bar.html %}
-      
+
       {% include author-bio.html %}
-      
+
       {{ content }}
       <p class="muted">{{ page.date | date_to_long_string }}</p>
-      
-      {% include social-sharing-bar.html %}    
-    
+
+      {% include social-sharing-bar.html %}
+
     <!-- START: Livefyre Embed -->
     <div id="livefyre-comments"></div>
     <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
@@ -46,18 +46,18 @@ highlight-menu-id: fuel
         }], function() {});
     }());
     </script>
-    
+
     <!-- END: Livefyre Embed -->
-    
+
     </div>
-    
+
       <div class="large-3 columns blog-sidebar">
     	  <h3><a href="/blog">Blog Home</a></h3>
         {% include blog-sidebar.html %}
       </div>
     </div>
-    
+
   </div>
 </div>
- 
+
 {% include footer.html %}
