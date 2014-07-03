@@ -8,7 +8,7 @@ date: "2014-07-06 13:00:00"
 tags: 
   - Live Streaming
 series: "Experience 2014 "
-"poster-image": "https://www.dropbox.com/s/tgij977yxo4b07u/130623_CR_DEEP_CAMP_0053.jpg"
+"poster-image": "https://www.dropbox.com/s/f6iovt1otqgbq4e/DeepCamp2013_078.jpg"
 ---
 
 Welcome to the Live Streaming of *Value of One* by Dwight Robertson!  The teaching will begin at 3:30pm MST.  Thank you for joining us!
