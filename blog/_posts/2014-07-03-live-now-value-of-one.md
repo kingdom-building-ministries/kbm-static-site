@@ -11,6 +11,7 @@ series: "Experience 2014 "
 "poster-image": "https://www.dropbox.com/s/f6iovt1otqgbq4e/DeepCamp2013_078.jpg"
 ---
 
+{% include youtube.html video="Bxkt_V6XWc8" %}
 Welcome to the Live Streaming of *Value of One* by Dwight Robertson!  The teaching will begin at 3:30pm MST.  Thank you for joining us!
 
 To download class notes to follow along with, click <a href="https://www.dropbox.com/s/l6zsnnoqndc7xub/Dwight%20Robertson_Value%20of%20One.pdf" target="_blank">HERE</a>.
