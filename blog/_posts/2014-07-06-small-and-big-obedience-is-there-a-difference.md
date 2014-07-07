@@ -13,13 +13,13 @@ bible_references:
 
 The students learned this past week that God uses our small acts of obedience to the Spirit's leading to usher in the Kingdom of Heaven just as much as He can use the "big ones."
 
-As the teams returned to Denver from Wander Week, they were filled with excitement over the ways God had given the opporunity to co-labor with Him in.  A sense of wonder was also upon them, realizing this lifetime will never reveal the entirety of the kingdom advancement their small and big acts of obedience had.  But with the excitement and wonder came a humble brokenness while reflecting on the challenging moments - "How well did I display Christ-centered love and community within my team?  How often did I tire and grow weary of following the Spirit's leading?"  Successes and failures will come along this journey we're on, but what matters is that our Father in heaven looks and finds our hearts willing.
+As the teams returned to Denver from Wander Week, they were filled with excitement over the ways God had given the opporunity to co-labor with Him in.  A sense of wonder was also upon them, realizing this lifetime will never reveal the entirety of the kingdom advancement their small and big acts of obedience had.  But with the excitement and wonder came a humble brokenness while reflecting on the challenging moments - "How well did I display Christ-centered love and community within my team?  How often did I tire and grow weary of following the Spirit's leading?"  Successes and failures will come along the journey, and through them all, may our Father in heaven look and find our hearts turned towards His.
 
 >Will you be found faithful in the small and big moments to follow and obey God's voice?
 
 *I run in the path of your commands, for you have set my heart free.  Psalm 119:32*
 
-##Be Encouraged By These Student Testimonies:
+##Be Encouraged By These Student Testimonies
 
 "While in Denver, our team happened to meet this young woman named Anna!  We discovered that she was a believer in Jesus and had recently been praying for God to bring her Christ-centered community.  In meeting our team, she felt like we were a huge answer to her recent prayers and quickly adopted us as family in Christ!  She was such a blessing to us and a huge help to our team in introducing us into the city of Denver and helping us navigate some opportunities.  Our team realized that we didn't have to *only* be reaching out to the lost to be "on mission" - for God sends us to love and bless His children who are far away from Him *and* close up.  We invited Anna to our graduation this Saturday and were thrilled to learn she will be coming! We can't wait to see her again." ~Lauren 
 
