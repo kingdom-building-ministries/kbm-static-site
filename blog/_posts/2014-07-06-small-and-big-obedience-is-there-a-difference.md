@@ -19,7 +19,7 @@ As the teams returned to Denver from Wander Week, they were filled with exciteme
 
 *I run in the path of your commands, for you have set my heart free.  Psalm 119:32*
 
-Be encouraged by these student testimonies:
+##Be Encouraged By These Student Testimonies:
 
 "While in Denver, our team happened to meet this young woman named Anna!  We discovered that she was a believer in Jesus and had recently been praying for God to bring her Christ-centered community.  In meeting our team, she felt like we were a huge answer to her recent prayers and quickly adopted us as family in Christ!  She was such a blessing to us and a huge help to our team in introducing us into the city of Denver and helping us navigate some opportunities.  Our team realized that we didn't have to *only* be reaching out to the lost to be "on mission" - for God sends us to love and bless His children who are far away from Him *and* close up.  We invited Anna to our graduation this Saturday and were thrilled to learn she will be coming! We can't wait to see her again." ~Lauren 
 
