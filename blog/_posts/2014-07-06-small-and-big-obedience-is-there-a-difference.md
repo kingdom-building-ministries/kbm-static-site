@@ -31,4 +31,4 @@ As the teams returned to Denver from Wander Week, they were filled with exciteme
 
 {% include image.html url="https://www.dropbox.com/s/mv19leoau6mi273/Denver1.jpg" %}
 
-{% include image.html url="https://www.dropbox.com/s/cnlu3amqj29j87j/Vegas2.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/qixtskf5itdwtwj/Dallas1.jpg" %}
