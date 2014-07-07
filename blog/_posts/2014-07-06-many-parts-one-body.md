@@ -7,8 +7,9 @@ post_types: "no-type"
 bible_references: 
   - 1 Corinthians
   - Ephesians
-date: "2014-07-08 15:00:00"
+date: "2014-07-08 11:00:00"
 series: Experience 2014
+"poster-image": "https://www.dropbox.com/s/afzwr84hzw3v1cd/Tiana.jpg"
 ---
 
 The psalmist proclaims that we are wonderfully complex, uniquely created, marvelous pieces of workmanship.  (Psalm 139)  Paul reminds us in Ephesians that we are God’s masterpiece, his *poiema*, created anew in Christ to do the things he planned for us long ago. (Ephesians 2:10)  If these things are so, if God’s word is trustworthy, then we must be fully the very expression of God in us.  It is for us to know that we have a place, a call, a Kingdom job.
