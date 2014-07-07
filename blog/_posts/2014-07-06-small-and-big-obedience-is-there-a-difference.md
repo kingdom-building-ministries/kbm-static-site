@@ -8,7 +8,7 @@ date: "2014-07-07 15:00:00"
 series: Experience 2014
 bible_references: 
   - Psalm
-"poster-image": "https://www.dropbox.com/s/6nbmp56o58yfsii/Vegas3.jpg"
+"poster-image": "https://www.dropbox.com/s/qixtskf5itdwtwj/Dallas1.jpg"
 ---
 
 The students learned this past week that God uses our small acts of obedience to the Spirit's leading to usher in the Kingdom of Heaven just as much as He can use the "big ones."
@@ -27,7 +27,7 @@ As the teams returned to Denver from Wander Week, they were filled with exciteme
 
 "After arriving in Vegas, we realized we had some extra time we could put to use and asked God to help us know where to go.  We were scheduled to help a church and it's food pantry the following day, but decided to go a day early to meet the staff and find the building.  Little did we know, God had bigger plans - the food pantry truck had arrived and none of their regular volunteers were able to help!  A job that would have taken their small staff hours upon hours to do took our team about half the time.  We were amazed at God's ability to bring us to just the right place at just the right time to be a blessing to their ministry - He can do anything!" ~Trent
 
-{% include image.html url="https://www.dropbox.com/s/qixtskf5itdwtwj/Dallas1.jpg" %}
+{% include image.html url="https://www.dropbox.com/s/6nbmp56o58yfsii/Vegas3.jpg" %}
 
 {% include image.html url="https://www.dropbox.com/s/mv19leoau6mi273/Denver1.jpg" %}
 
