@@ -1,0 +1,70 @@
+---
+layout: default
+alias: /deepcamp2014
+title: Deep Camp 2014 Resources
+videos:
+  - title: Vision and Foundation
+    author: Jason Roe
+    image: https://www.dropbox.com/s/0k0tji7otlkxkkk/jason-roe.png
+    url: /fuel/140622-deep-camp-jason-roe
+  - title: Identifying Sin
+    author: Chris Emery
+    image: https://www.dropbox.com/s/i084nubf0xfnhyo/chris-emery.png
+    url: /fuel/140623-deep-camp-chris-emery
+  - title: "Salvation: Repentance"
+    author: Fred Lynch
+    image: https://www.dropbox.com/s/3qd1hzbmkhaiuh6/fred-lynch.png
+    url: /fuel/140623-deep-camp-fred-lynch
+  - title: New
+    author: Robert Gelinas
+    image: https://www.dropbox.com/s/mt0k8kwfhrfs68q/robert-gelinas.png
+    url: /fuel/140624-deep-camp-robert-gelinas
+  - title: New Life in Christ
+    author: Efrem Smith
+    image: https://www.dropbox.com/s/9eekl315j8x75bu/efrem-smith.png
+    url: /fuel/140624-deep-camp-efrem-smith
+  - title: Engaging Others
+    author: Tim Reilly
+    image: https://www.dropbox.com/s/r6rz0ym8zrtnc4c/tim-reilly.png
+    url: /fuel/140624-deep-camp-tim-reilly
+  - title: Equip
+    author: John Vermilya
+    image: https://www.dropbox.com/s/ktyers3brhujag5/john-vermilya.png
+    url: /fuel/140624-deep-camp-john-vermilya
+  - title: Intimacy
+    author: Dwight Robertson
+    image: https://www.dropbox.com/s/n955665dsrgtspf/dwight-robertson.png
+    url: /fuel/140626-deep-camp-dwight-robertson
+  - title: Gleaning Fields
+    author: Adrian Despres
+    image: https://www.dropbox.com/s/n8rlu85bycgu45c/adrian-despres.png
+    url: /fuel/140626-deep-camp-adrian-despres
+  - title: Vision
+    author: Caleb Bislow
+    image: https://www.dropbox.com/s/kbocy605cd3g1gu/caleb-bislow.png
+    url: /fuel/140627-deep-camp-caleb-bislow
+---
+<div style="height:45px;"></div>
+<div class="row">
+  <div class="large-10 large-centered columns">
+    <h1>Deep Camp 2014</h1>
+    <ul class="tag-grid small-block-grid-2 large-block-grid-3 grid">
+      {% for video in page.videos %}
+      <li>
+            <a href="{{video.url}}">
+              <div class="grid-thumbnail" style="background-image:url('{% include url.html url=video.image %}');">
+                <table>
+                  <tr>
+                    <td>
+                      <h3>{{ video.title }}</h3>
+                      <h3>{{ video.author }}</h3>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+            </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
