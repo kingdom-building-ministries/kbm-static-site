@@ -1,8 +1,12 @@
 ---
 highlight-menu-id: fuel
 ---
-
-{% include header.html %}
+{% capture metadata %}
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:image" content="{% include url.html url=page.poster-image %}" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+{% endcapture %}
+{% include header.html head=metadata %}
 
 <div class="blog-post-container">
   {% if page.poster-image %}
@@ -27,7 +31,7 @@ highlight-menu-id: fuel
       <article>
         {{ content }}
       </article>
-      
+
       <p class="muted">{{ page.date | date_to_long_string }}</p>
 
       {% include social-sharing-bar.html %}
