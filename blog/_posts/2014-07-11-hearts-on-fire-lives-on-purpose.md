@@ -20,7 +20,7 @@ You might have expected the room to be bursting with noise and energy, to see fa
 
 The way of the Kingdom of God is contrary to the wisdom of this world: the meek and humble are blessed, the ordinary and weak are made extraordinary and strong, followers are led by the Spirit of God himself, and its mysterious movement will always go unmeasured as one heart on fire sets another heart ablaze, who ignites another.
 
-As you look upon each student, don't misunderstand, for fire doesn't have to be loud and true purpose doesn't demand to be noticed.  Their hearts are indeed on fire for God, His Spirit lives inside, unstoppable, light-bearing, transforming and refining. And their life purpose has found its highest calling, to know God, to love and be loved by Him, and to labor tirelessly for the advancement of God's Kingdom.
+As you look upon each student, don't misunderstand, for fire doesn't need to be loud  and true purpose won't demand to be noticed.  Their hearts are indeed on fire for God, His Spirit lives inside - unstoppable, light-bearing, transforming and refining. And their life purpose has found its highest calling - to know God, to love and be loved by Him, and to labor tirelessly for the advancement of God's Kingdom.
 
 *You will go out in joy and be led forth in peace; the mountains and hills will burst into song before you, and all the trees of the field will clap their hands. Instead of the thornbush will grow the juniper, and instead of briers the myrtle will grow.
 This will be for the Lord’s renown, for an everlasting sign, that will endure forever. Isaiah 55:12-13*
