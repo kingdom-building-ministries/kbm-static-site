@@ -18,11 +18,16 @@ highlight-menu-id: fuel
 
   <div class="row" style="position:relative;">
     <div class="large-9 columns blog-content">
-      {% include social-sharing-bar.html %}
+      <header>
+        {% include social-sharing-bar.html %}
 
-      {% include author-bio.html %}
+        {% include author-bio.html %}
+      </header>
 
-      {{ content }}
+      <article>
+        {{ content }}
+      </article>
+      
       <p class="muted">{{ page.date | date_to_long_string }}</p>
 
       {% include social-sharing-bar.html %}
