@@ -26,7 +26,7 @@ As you look upon each student, don't misunderstand, for fire doesn't need to be 
 This will be for the Lord’s renown, for an everlasting sign, that will endure forever. Isaiah 55:12-13*
 
 ##Please Join Us For Their Graduation: Tomorrow 2:00-4:00pm MST## 
-To watch, visit the blog or click <a href="http://www.kbm.org/live/" target="_blank">kbm.org/live</a>.
+**To watch, visit the blog or click <a href="http://www.kbm.org/live/" target="_blank">kbm.org/live</a>.**
 
 {% include image.html url="https://www.dropbox.com/s/l5ctr0h2wt4udfo/photo%202.JPG" %}
 
