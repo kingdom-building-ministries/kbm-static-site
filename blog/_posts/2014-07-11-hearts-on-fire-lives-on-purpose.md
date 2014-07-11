@@ -25,7 +25,7 @@ As you look upon each student, don't misunderstand, for fire doesn't need to be 
 *You will go out in joy and be led forth in peace; the mountains and hills will burst into song before you, and all the trees of the field will clap their hands. Instead of the thornbush will grow the juniper, and instead of briers the myrtle will grow.
 This will be for the Lord’s renown, for an everlasting sign, that will endure forever. Isaiah 55:12-13*
 
-##Please Join Us For The Experience Graduation: Tomorrow 2:00-4:00pm MST## 
+##Please Join Us For Their Graduation: Tomorrow 2:00-4:00pm MST## 
 To watch, visit the blog or click <a href="http://www.kbm.org/live/" target="_blank">kbm.org/live</a>.
 
 {% include image.html url="https://www.dropbox.com/s/l5ctr0h2wt4udfo/photo%202.JPG" %}
