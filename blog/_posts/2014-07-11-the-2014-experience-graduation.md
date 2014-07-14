@@ -5,7 +5,7 @@ title: The 2014 Experience Graduation
 author: "no-author"
 post_types: "no-type"
 date: "2014-07-12 10:00:00"
-"poster-image": "https://www.dropbox.com/s/1bsrl5s19ssrwwj/140708_EXPERIENCE_untitled%20shoot_7051.jpg"
+"poster-image": "https://www.dropbox.com/s/6isup8eiu5mtvuv/140712_CR_EXPERIENCE_7448%20%281%29.jpg"
 series: Experience 2014
 tags: 
   - Live Streaming
