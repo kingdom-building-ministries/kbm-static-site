@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: Baton Passing
+title: Baton Passing Relationships
 author: "lisa-zimmerman"
 post_types: "recommended-resources"
 "poster-image": "https://www.dropbox.com/s/bfmrc87qhwflkot/DeepCamp2014_242.jpg"
