@@ -3,9 +3,13 @@ published: true
 layout: "blog-post"
 title: Baton Passing
 author: "lisa-zimmerman"
-post_types: "no-type"
+post_types: "recommended-resources"
 "poster-image": "https://www.dropbox.com/s/bfmrc87qhwflkot/DeepCamp2014_242.jpg"
 date: "2014-07-18 16:00:00"
+bible_references: 
+  - Ephesians
+tags: 
+  - Baton Passing and Coaching
 ---
 
 Are you pouring out what has been poured into you?
@@ -17,3 +21,5 @@ Who do you know in your life right now that would benefit from being pointed tow
 A helpful resource we would like to pass on to you is a booklet entitled *Baton Passing Relationships*.  In it, author Dwight Robertson shows you how you can be a great "Kingdom relay team member" today...right now - by encouraging, empowering, and equipping you to pass what God has already poured into your life.  This booklet will provide a solid foundation enabling you to begin living a life of successful spiritual multiplication.
 
 *Baton Passing Relationships* is available online through <a href="http://kbm.donorshops.com/product/KBM0004/batonpassingbooklet.php" target="_blank">kbm.org/store</a>.
+
+*Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming. Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ. From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.  Ephesians 4:14-16*
