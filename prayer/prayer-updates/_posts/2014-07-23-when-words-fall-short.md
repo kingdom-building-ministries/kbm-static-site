@@ -11,7 +11,7 @@ We are mistaken to believe our only option to commune with our Father is to spea
 
 Just as being together with a friend, the beauty of nature, a captivating image, or a heavenly melody will reach a heart more than words at times, what if our communion with Jesus is similar?  How would you pray or express your heart right now if you could see that Jesus was physically present with you?
 
-*Would you...
+Would you...
 - Open your hand to hold His
 - Feel or envision His embrace
 - Kneel in reverence of His holiness and the splendor of His majesty
@@ -20,7 +20,7 @@ Just as being together with a friend, the beauty of nature, a captivating image,
 - Walk or run with Him by your side
 - Hum or use an instrument to sing the melody in your soul
 - Cup your hands to receive from Him
-- Curl up under His wings of shelter*
+- Curl up under His wings of shelter
 
 Take note of how God responds as you draw near to Him in new ways and know He truly is with you.  And as you have box-breaking communion with Jesus this week, may your prayers find new life!
 
