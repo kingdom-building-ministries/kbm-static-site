@@ -5,9 +5,9 @@ title: "LIVE NOW: Value of One"
 author: "no-author"
 post_types: "itinerant-team"
 date: "2014-07-06 13:00:00"
-tags: 
+tags:
   - Live Streaming
-series: "Experience 2014 "
+series: "Experience 2014"
 "poster-image": "https://www.dropbox.com/s/f6iovt1otqgbq4e/DeepCamp2013_078.jpg"
 ---
 
