@@ -7,7 +7,7 @@ post_types: "no-type"
 bible_references: 
   - Luke
 date: "2014-07-30 10:00:00"
-"poster-image": ""
+"poster-image": "https://www.dropbox.com/s/0ukutk5tvz99kv9/Beach.jpg"
 ---
 
 Does ministry go on vacation?  To give a resounding “yes” to that question is to compartmentalize one’s life and faith.  Our relationship with Jesus is far more than “a part” of our lives.  Faith and life in him encompasses and permeates every fiber of our being – our thoughts, speech, decisions, emotions, time, giving, serving, playing, and doing.  We dare not treat Jesus in the same manner as work, hobbies, casual friendships, or community volunteering where we can lay them aside for a season or a weekend and then leisurely pick them back up at a time of our own choosing.   As Isaac Watts penned some 300 years ago - the “so amazing, so divine” love that God offers “demands *our* soul, *our* life, *our* all.”
