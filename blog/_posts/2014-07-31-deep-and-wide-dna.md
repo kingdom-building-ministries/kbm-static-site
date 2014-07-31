@@ -8,7 +8,7 @@ date: "2014-08-01 10:00:00"
 tags: 
   - Wide Values
   - Deep Values
-"poster-image": "https://www.dropbox.com/s/2g1mvuabnds1k5d/DarrenKid.jpg"
+"poster-image": "https://www.dropbox.com/s/voj08miwhz7kf8x/Darren.jpg"
 ---
 
 The foundation of a Kingdom Laborer’s life is built on God’s values and the focus of a Kingdom Laborer’s legacy is shaped by God’s purposes.  
