@@ -18,19 +18,19 @@ When an individual participates in one of our discipleship equipping programs, t
 Prayerfully look over the list below.  Are there any areas the Lord is highlighting for you to dig deeper and spread wider into?  As your intimacy and love for God continues to grow deeper, may your love and laboring spread wider for the glory of our King.
 
 **Deep Values**
-1. Loving God Intimately (Matthew 22:34-40)
-2. Seeking His Kingdom Always (Matthew 6:33)
-3. Being Daily Directed by His Spirit (Galatians 5:16-26)
-4. Living Passionately for Christ (Romans 5:1-5)
-5. Continuing Transformation Through the Holy Spirit (2 Corinthians 3:18)
-6. Engaging in the Spiritual Battle (James 4:7, 2 Corinthians 10:3-6, Ephesians 6:10-17)
-7. Growing Together with Other Believers (Ephesians 4:11-16, 1 John 1:7, Proverbs 27:17)
+- Loving God Intimately (Matthew 22:34-40)
+- Seeking His Kingdom Always (Matthew 6:33)
+- Being Daily Directed by His Spirit (Galatians 5:16-26)
+- Living Passionately for Christ (Romans 5:1-5)
+- Continuing Transformation Through the Holy Spirit (2 Corinthians 3:18)
+- Engaging in the Spiritual Battle (James 4:7, 2 Corinthians 10:3-6, Ephesians 6:10-17)
+- Growing Together with Other Believers (Ephesians 4:11-16, 1 John 1:7, Proverbs 27:17)
 
 **Wide Values**
-1. Loving All People (Matthew 22:34-40)
-2. Participating in the Priesthood of Believers (1 Peter 2:9)
-3. Engaging in the Ordinary (Matthew 9:10)
-4. Spiritually Multiplying Through One-At-A-Time Reproduction (Titus 2:4, Matthew 28:16-20)
-5. Fulfilling the Great Commission as Your Ultimate Purpose (Matthew 28:16-20)
-6. Living in Unity with All Believers (John 17:23)
-7. Living a Life of Transformational Impact (1 Corinthians 3:10-15, Galatians 4:24, John 15:16)
+- Loving All People (Matthew 22:34-40)
+- Participating in the Priesthood of Believers (1 Peter 2:9)
+- Engaging in the Ordinary (Matthew 9:10)
+- Spiritually Multiplying Through One-At-A-Time Reproduction (Titus 2:4, Matthew 28:16-20)
+- Fulfilling the Great Commission as Your Ultimate Purpose (Matthew 28:16-20)
+- Living in Unity with All Believers (John 17:23)
+- Living a Life of Transformational Impact (1 Corinthians 3:10-15, Galatians 4:24, John 15:16)
