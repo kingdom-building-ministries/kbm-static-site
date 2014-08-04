@@ -7,6 +7,7 @@ post_types: "no-type"
 date: "2014-08-04 15:00:00"
 tags: 
   - Deep Values
+"poster-image": "https://www.dropbox.com/s/8bzipw4hnx2sam7/deep.png"
 ---
 
 Have you ever noticed how some people, although they have been around the things of God most of their life, seem much more passionate and committed to things like sports teams, family happenings, and financial investments than they are their relationship with God and what’s happening in his Kingdom?  Why are some so quick to broadcast where to save money at the pump, or post the latest family selfie on Facebook, or play armchair quarterback the day after the game; yet, when it comes to the deeper things of faith and life, they seemed tight-lipped and distant from the very things they say they believe?  Could it be that when it comes right down to it such people actually show their hand as to what they genuinely value in life?
