@@ -7,6 +7,7 @@ post_types: "no-type"
 date: "2014-08-06 12:00:00"
 tags: 
   - Wide Values
+"poster-image": "https://www.dropbox.com/s/pz812as7iq108za/Little%20did%20He%20know.jpg"
 ---
 
 In the previous post, <a href="http://www.kbm.org/blog/2014/08/04/deep-values/" target="_blank">Deep Values</a>, we discussed that where Kingdom values are planted and nurtured through an intimate relationship with the King, Kingdom life takes root and makes its way to the surface of everyday life.  The ordinary becomes extraordinary, new colors paint the day and we find ourselves waking up to a story being told that is much bigger than ourselves.  
