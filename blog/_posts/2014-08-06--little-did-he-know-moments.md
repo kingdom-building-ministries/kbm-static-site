@@ -17,7 +17,7 @@ I think the Christian life is full of "Little did he know..." moments.  Beyond c
 
 Little do we know what God might have in store for His glory as we shuffle out of bed tomorrow and offer our day for His use.  A helping hand of love to the overlooked, a prayer of intercession, an intentional conversation at the lunch table, pouring out what God has poured in, asking forgiveness.  Are you willing to allow each day to be scripted by the Spirit's leading? 
 
-An *Experience* 2014 alumni, Andrew, recently shared with us:
+An *Experience* 2014 alumni, Andrew, recently shared a "little did he know" moment with us:
 
 *Earlier tonight I had the opportunity to talk with a missionary from Nigeria, named Phanuel.  My family was having dinner at a friends house and he was also their guest for dinner. When it was time for us to leave I felt the Spirit prompt me to ask him if we could pray with Him. This was awesome because at first I was like "No, it might be weird and my family might think this is strange". Then I thought to myself, this is exactly what we did on the International and Wander Stages, and remembered how God used those times to encourage the entire group. I am glad to say that my family and I did pray for him and he prayed for us too! Be reminded to KNOW and REMEMBER God's signs.*
 
