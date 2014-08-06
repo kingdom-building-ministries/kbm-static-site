@@ -22,7 +22,7 @@ An *Experience* 2014 alumni, Andrew, recently shared a "little did he know" mome
 
 *Earlier tonight I had the opportunity to talk with a missionary from Nigeria, named Phanuel.  My family was having dinner at a friends house and he was also their guest for dinner. When it was time for us to leave I felt the Spirit prompt me to ask him if we could pray with Him. This was awesome because at first I was like "No, it might be weird and my family might think this is strange". Then I thought to myself, this is exactly what we did on the International and Wander Stages, and remembered how God used those times to encourage the entire group. I am glad to say that my family and I did pray for him and he prayed for us too! Be reminded to KNOW and REMEMBER God's signs.*
 
-What moments do you recognize lately that were penned by the Author himself?  Don't lose track of *whose* story you're in!
+What moments do you recognize lately that were penned by the Author himself?  “Little did you know moments” come not out of right activity or behavior but out of allowing Kingdom values to be a part of your life in such a way that Kingdom advancement appears in wonderful ways one didn’t plan or was aware of.  Don't lose track of *whose* story you're in!
 
 **Wide Values**
 - Loving All People (Matthew 22:34-40)
