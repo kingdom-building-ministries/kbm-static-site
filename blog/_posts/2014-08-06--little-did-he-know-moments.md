@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "\"Little Did He Know\" Moments"
+title: "\"Little Did He Know\" Moments "
 author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-08-06 11:00:00"
@@ -31,4 +31,3 @@ What moments do you recognize lately that were penned by the Author himself?  Do
 - Fulfilling the Great Commission as Your Ultimate Purpose (Matthew 28:16-20)
 - Living in Unity with All Believers (John 17:23)
 - Living a Life of Transformational Impact (John 15:16)
-
