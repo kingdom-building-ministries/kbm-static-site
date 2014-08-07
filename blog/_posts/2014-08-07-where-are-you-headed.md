@@ -5,6 +5,13 @@ title: "Where Are You Headed?"
 author: "no-author"
 post_types: "no-type"
 date: "2014-08-08"
+"poster-image": "https://www.dropbox.com/s/rryuc2y2z3nys04/120620_MKW_THE_EXPERIENCE_2829.jpg"
+tags: 
+  - Wide Values
+  - Critical Question
+  - Deep Values
+bible_references: 
+  - Mark
 ---
 
 When you release a boat out into the ocean, there is no option for it to remain still and unaffected. You can choose to harness the power of the wind with a sail, or to set your strength to rowing, or you can choose to throw down an anchor to remain in one place; and even if you do not choose anything, the waves will push and sweep your boat away. You may or may not get where you were hoping to go, but you can be sure you will be moved. 
