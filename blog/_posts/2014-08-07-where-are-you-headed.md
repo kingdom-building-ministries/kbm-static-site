@@ -34,12 +34,12 @@ When Jesus said that the most important thing is to “Love the Lord your God wi
 
 And if so, how does that belief shape your life? 
 
-**Ask yourself:**
+***Ask yourself:***
 
-What does my life currently reflect that I value most? (Time with loved ones, wealth, prayer, comfort, service, surrender, etc.)
+*What does my life currently reflect that I value most? (Time with loved ones, wealth, prayer, comfort, service, surrender, etc.)*
 
-What do I want to be said about me when my life is over? 
+*What do I want to be said about me when my life is over?* 
 
-If what I am believing and valuing is not currently leading me toward the legacy I hope for, what needs to change?
+*If what I am believing and valuing is not currently leading me toward the legacy I hope for, what needs to change?*
 
 *Written by Staff Writer, Laura Bulgrien*
