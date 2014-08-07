@@ -4,7 +4,7 @@ layout: "blog-post"
 title: "Where Are You Headed?"
 author: "no-author"
 post_types: "no-type"
-date: "2014-08-08"
+date: "2014-08-08 10:00:00"
 "poster-image": "https://www.dropbox.com/s/rryuc2y2z3nys04/120620_MKW_THE_EXPERIENCE_2829.jpg"
 tags: 
   - Wide Values
