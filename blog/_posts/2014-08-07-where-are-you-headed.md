@@ -41,3 +41,5 @@ What does my life currently reflect that I value most? (Time with loved ones, we
 What do I want to be said about me when my life is over? 
 
 If what I am believing and valuing is not currently leading me toward the legacy I hope for, what needs to change?
+
+*Written by Staff Writer, Laura Bulgrien*
