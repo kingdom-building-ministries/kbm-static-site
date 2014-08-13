@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: "speaker-event"
 title: "Pioneers - Mission Conference in Egypt"
 speaker: "adrian-despres"
