@@ -5,7 +5,7 @@ title: Agnes Robertson Shares On Prayer
 author: "lisa-zimmerman"
 post_types: "no-type"
 date: "2014-08-14 11:00:00"
-"poster-image": "https://www.dropbox.com/s/p9qqxrtt924jxok/photo%201.JPG"
+"poster-image": "https://www.dropbox.com/s/f0y521axg2yyvm1/photo%202.JPG"
 ---
 
 Agnes grew up in a Catholic orphanage where each day 400 little boys and girls rose very early to get dressed, make beds and go to church at 6am, all before eating breakfast.  God felt far away in church, and far away in the strict hands that influenced her growing up years.  Little did she know how God could change a life.
