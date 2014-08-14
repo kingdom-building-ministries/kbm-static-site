@@ -18,6 +18,7 @@ Journeying into her adult years, Agnes was often bothered that she didn’t spen
 Currently, Agnes has two focuses in prayer: her neighborhood and the young generation of children growing up from Kingdom Building Ministries’ staff.  To help her in interceding for others, she has found that keeping a small book of prayer requests is very useful in guiding her time.
 
 **Q: How would you describe intercessory prayer?**
+
 **A:** “Intercession feels like a strong burden for somebody or something – a deep burning conviction that I NEED to pray.  Over time, I’ve gotten used to asking God who is on His heart to pray for.”
 
 As Agnes opened up her life to labor more in prayer, God began showing her unique ways to shine His light.  She quickly discovered that most of her neighbors were single woman with few friends.  As her prayer for them increased, her love for them grew and so did doors of opportunity.  Excitement and hope glimmered in Agnes’ eyes as she shared how she patiently awaits God’s divine timing to share the Reason her life has been changed.  
@@ -25,13 +26,15 @@ As Agnes opened up her life to labor more in prayer, God began showing her uniqu
 “As I pray for others, God continues to shape me.  I sense a deeper desire to read and study His Word.  My growing prayer life has caused me to value the scripture more than I did before.”
 
 **Q: What has been the theme of your prayers lately?**
+
 **A:** “I’ve been asking the Lord to refine me; to burn the dross away.  You’d think at my age the impurities would be out, but we’ll never arrive until we’re face to face with Jesus!”
 
 “Also, I often ask for the fire of God’s presence within me – for people to be able to see the desire I have for Jesus.”
 
 **Q: What do you envision happening if more people prayed?**
+
 **A:** “We do need a lot more people to accept God’s call to be praying, even more than doing!  If we did pray, we’d see miracle after miracle happen...a lot more of God. Since I was a little girl, I can recount story after story of how God moved in my life through prayer.”
 
-*Agnes is a living testimony of the way God can redeem, restore and bring abundant life found in Him.  Today, she is a spiritual mother and grandmother to many and we count ourselves richly blessed to learn from her example.*
+*Agnes is a living testimony of the way God can redeem a story and bring abundant life through faithfully laboring for His Kingdom.  She is a spiritual mother and grandmother to many and we count ourselves richly blessed to learn from her example.*
 
 **Who are the people and where are the places God is calling you to intercede for today?**
