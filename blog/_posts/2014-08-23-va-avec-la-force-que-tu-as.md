@@ -33,4 +33,4 @@ This phrase was repeated as we walked around the auditorium, coming up close to 
 
 Pray for those who attended this conference, as they return home after a week of intense discipleship. Pray that they would remain at the feet of Jesus. Pray that they would remember that Christ is in them. Pray for them to go with the strength they have... and watch God work.
 
-*Written by Staff member, Laura Bulgrien.*
+*Written by staff member, Laura Bulgrien.*
