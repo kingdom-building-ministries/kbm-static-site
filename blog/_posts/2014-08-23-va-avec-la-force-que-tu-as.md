@@ -27,10 +27,10 @@ Most importantly, as we sought to "mend the nets" of the Haitian youth leaders, 
 
 After being ushered before the throne of heaven day after day, the conference ended with a powerful message proclaiming the true strength we have to go forward with: CHRIST in us, the hope of glory.  
 
-"Christ is in you." ... "Christ is in you." ... "Christ is in you."
+*Christ is in you ... Christ is in you ... Christ is in you.*
 
 This phrase was repeated as we walked around the auditorium, coming up close to each one, touching one another and saying with all the confidence of God's promise that Christ is in us and will be with us.  
 
 Pray for those who attended this conference, as they return home after a week of intense discipleship. Pray that they would remain at the feet of Jesus. Pray that they would remember that Christ is in them. Pray for them to go with the strength they have... and watch God work.
 
-*Written by Staff member, Laura Bulgrien.
+*Written by Staff member, Laura Bulgrien.*
