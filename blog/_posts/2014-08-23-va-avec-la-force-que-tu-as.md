@@ -5,7 +5,7 @@ title: "Va avec la force que tu as!"
 author: "no-author"
 post_types: "no-type"
 date: "2014-08-23 12:00:00"
-"poster-image": "https://www.dropbox.com/s/tba5u8whp6f8d1a/140817_CR_HAITI_1124.jpg?dl=0"
+"poster-image": "https://www.dropbox.com/s/e90za0y0z3ae56d/140817_CR_HAITI_0370.jpg?dl=0"
 bible_references: 
   - Judges
 tags: 
