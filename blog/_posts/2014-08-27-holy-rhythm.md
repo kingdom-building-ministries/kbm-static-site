@@ -5,6 +5,7 @@ title: Holy Rhythm
 author: "shannon-boyd"
 post_types: "no-type"
 date: "2014-08-27 14:00:00"
+"poster-image": "https://www.dropbox.com/s/xplrza42tmupp7t/Maggie.jpg?dl=0"
 ---
 
 In the hustle and flow of life, something will set our daily, weekly, and monthly rhythms.  For a college student of any age, semesters and syllabi mark the time.  For professionals in most any line of work, 9 a.m. to 5 p.m. is the standard.  People in farming communities rise with the sun, work till dusk, and sow and harvest according to the changes in the moon and the natural changes of the seasons.  Parents of young children know well the times when little ones eat, play, and sleep.  Some months are more syncopated than others; some months, biding the time and making it through is the primary goal.  
@@ -19,4 +20,4 @@ We can begin simply with a prayer that asks God to direct what things we might n
 
 Likewise, we can seek his face and ask if there are things we must add to our schedules.  Do we need more physical and mental rest?  Do we need an extra 20 minutes in the morning to just sit still and absorb some beauty before we hit the ground running?  Do we need three healthy meals each day, instead of the two grab-and-go donuts and soda meals?  Do we need to hug our family members more often?  Can we take a minute or two throughout the day, even a few times a day, to write down things for which we are grateful? 
 
-So often, we feel powerless against the machine of the daily grind.  This is not so when we belong to Jesus, the Christ--who is Emmanuel, God *with* us.  The Holy Spirit lives in us, guiding us into all truth and teaching us and reminding us of the things inside the heart of God.  We can learn the rhythms of God’s heart, and we can begin to set our lives according to his time.     
+So often, we feel powerless against the machine of the daily grind.  This is not so when we belong to Jesus, the Christ--who is Emmanuel, God *with* us.  The Holy Spirit lives in us, guiding us into all truth and teaching us and reminding us of the things inside the heart of God.  We can learn the rhythms of God’s heart, and we can begin to set our lives according to his time.
