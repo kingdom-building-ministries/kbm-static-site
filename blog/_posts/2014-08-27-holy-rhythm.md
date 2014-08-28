@@ -16,7 +16,7 @@ In ancient Jewish culture, the people learned to order their time around a calen
 
 Yes, even in the busiest of times, there are ways that we can establish healthy and life-giving habits that allow God to tell our time.  
 
-We can begin simply with a prayer that asks God to direct what things we might need to let go of.  Are there extra activities that may need to be set aside for a while?  Are we involved in too many things?  Are our kids involved in too many things?  Is too much television interfering with good sleep patterns?  Might too much coffee late in the day keep us from knowing when we our bodies are tired?         
+We can begin simply with a prayer that asks God to direct what things we might need to let go of.  Are there extra activities that may need to be set aside for a while?  Are we involved in too many things?  Are our kids involved in too many things?  Is too much television interfering with good sleep patterns?  Might too much coffee late in the day keep us from knowing when our bodies are tired?         
 
 Likewise, we can seek his face and ask if there are things we must add to our schedules.  Do we need more physical and mental rest?  Do we need an extra 20 minutes in the morning to just sit still and absorb some beauty before we hit the ground running?  Do we need three healthy meals each day, instead of the two grab-and-go donuts and soda meals?  Do we need to hug our family members more often?  Can we take a minute or two throughout the day, even a few times a day, to write down things for which we are grateful? 
 
