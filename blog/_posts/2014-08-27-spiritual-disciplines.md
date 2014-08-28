@@ -7,6 +7,7 @@ post_types: "no-type"
 date: "2014-08-29 08:00:00"
 bible_references: 
   - 1 Corinthians
+"poster-image": "https://www.dropbox.com/s/ytuz3n8sg08vb39/Maggie3.jpg?dl=0"
 ---
 
 *“All athletes are disciplined in their training. They do it to win a prize that will fade away, but we do it for an eternal prize.”*  I Corinthians 9:25 (NLT)
@@ -31,4 +32,4 @@ Walking forward toward greater maturity requires that we willingly choose to ent
 
 *Service*.  Living outside of ourselves and outside of our regular bubbles of routine and community lends to an expansion of seeing the world with God’s eyes, to increasing our heart capacity for a world in need of the hope of Christ.  
 
-Maturing takes discipline … as athletes … and as people who want to run well the race God has set in front of them.  It is the more difficult way, but it’s worth every bit of tenacity it takes to live it.  
+Maturing takes discipline … as athletes … and as people who want to run well the race God has set in front of them.  It is the more difficult way, but it’s worth every bit of tenacity it takes to live it.
