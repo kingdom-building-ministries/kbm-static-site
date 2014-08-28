@@ -7,7 +7,7 @@ post_types: "no-type"
 date: "2014-08-29 08:00:00"
 bible_references: 
   - 1 Corinthians
-"poster-image": "https://www.dropbox.com/s/ytuz3n8sg08vb39/Maggie3.jpg?dl=0"
+"poster-image": "https://www.dropbox.com/s/jznc1uouapnvzur/Maggie2.jpg?dl=0"
 ---
 
 *“All athletes are disciplined in their training. They do it to win a prize that will fade away, but we do it for an eternal prize.”*  I Corinthians 9:25 (NLT)
