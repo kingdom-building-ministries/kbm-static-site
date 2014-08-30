@@ -7,7 +7,7 @@ post_types: "no-type"
 date: "2014-08-30 15:00:00"
 bible_references: 
   - Exodus
-"poster-image": "https://www.dropbox.com/s/1msq9tbykbuamgv/Maggie4.jpg?dl=0"
+"poster-image": "https://www.dropbox.com/s/new26tu4jb24d8o/Maggie4.jpg?dl=0"
 ---
 
 When God gave the Ten Commandments to the Israelites after the Exodus, He gave a gift.   He gave his people ways to live, ways to enjoy their freedom.  Trust Him first and above all else, He said.  Then, before He gave them the best ways to live with others in community, He said, *“Rest.”*
