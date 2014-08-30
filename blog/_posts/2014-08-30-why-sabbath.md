@@ -14,7 +14,7 @@ When God gave the Ten Commandments to the Israelites after the Exodus, He gave a
 
 “Remember to observe the Sabbath day by keeping it holy.  You have six days for your ordinary work, but the seventh day is a Sabbath day of rest dedicated to the Lord your God.”  (Exodus 20:8-9a, NLT)
 
-He had rescued them from slavery, from no rest, from only work.  Freedom meant learning to trust in the God who had rescued them, to trust His calendar, to trust His gifts.
+He had rescued them from slavery, from *no rest*, from *only work*.  Freedom meant learning to trust in the God who had rescued them, to trust His calendar, to trust His gifts.
 
 In modern westernized culture, we have a difficult time balancing recreation and work, too easily tilting to one side or the other.  It is important to note that the other six days of the week are a part of the rhythm of Sabbath.  We have time specifically for working; these are days of being faithful with the work of our hands and of trusting that a rest is coming. 
 
