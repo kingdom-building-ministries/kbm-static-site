@@ -10,7 +10,7 @@ title: 'Some awesome title regarging scripture references'
         {% assign first_post = posts_for_book[0] %}
         {% capture tag_link %}{% include sanitize_tag.html tag_type="scripture" tag=bible_book.name %}{% endcapture %}
         <a href="{{tag_link}}">
-          <div class="grid-thumbnail" style="background-image:url('{% include url.html url=first_post.poster-image %}');">
+          <div class="grid-thumbnail" style="background-image:url('{% include img-url.html url=first_post.poster-image %}');">
             <table>
               <tr>
                 <td>
