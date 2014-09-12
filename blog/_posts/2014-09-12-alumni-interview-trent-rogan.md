@@ -7,7 +7,7 @@ post_types: alumni
 date: "2014-09-12 17:00:00"
 bible_references: 
   - 1 Thessalonians
-"poster-image": "https://www.dropbox.com/s/y0ovj2zqa2gdpx2/Trent1.jpg?dl=0"
+"poster-image": "https://www.dropbox.com/s/pd0ma15vjst28ul/Trent2.jpg?dl=0"
 ---
 
 **Q:** What faith steps have you taken since <a href="http://www.kbm.org/training/theexperience/" target="_blank">*The Experience*</a>?  
