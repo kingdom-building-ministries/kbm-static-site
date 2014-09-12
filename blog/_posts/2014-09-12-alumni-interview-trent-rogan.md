@@ -10,7 +10,7 @@ bible_references:
 "poster-image": "https://www.dropbox.com/s/y0ovj2zqa2gdpx2/Trent1.jpg?dl=0"
 ---
 
-**Q:** What faith steps have you taken since *The Experience*?  
+**Q:** What faith steps have you taken since <a href="http://www.kbm.org/training/theexperience/" target="_blank">*The Experience*</a>?  
 
 **A:** Since *The Experience* the faith steps I've taken have been moving, finding a family willing let me stay with them and accepting an internship position with Colorado Community Church's youth group.  At this moment I feel that steps are being presented in many options and the Lord is asking me over and over, "How much do you trust me?". 
 
