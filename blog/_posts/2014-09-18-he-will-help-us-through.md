@@ -7,7 +7,7 @@ post_types: "no-type"
 bible_references: 
   - 1 Chronicles
 "poster-image": "https://www.dropbox.com/s/0ns0l4h23byzeg7/140526_CR_EXPERIENCE_2748.jpg?dl=0"
-date: "2014-09-18"
+date: "2014-09-18 10:00:00"
 ---
 
 "Look to the Lord and his strength; seek his face always." (1 Chronicles 16:11)
