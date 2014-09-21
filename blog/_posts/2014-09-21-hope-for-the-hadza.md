@@ -11,11 +11,9 @@ tags:
   - The Great Commission
 ---
 
-One day we will gather in heaven with every tribe, tongue and nation!  Once such tribe on God's heart is the Hadzabe, whom Charlie and Nathan depart this Tuesday to spend over 2 months with in Tanzania. 
+One day we will gather in heaven with every tribe, tongue and nation!  Once such tribe on God's heart is the Hadzabe, whom Charlie and Nathan depart this Tuesday, September 23, to spend over 2 months with in Tanzania. 
 
 Charlie and Nathan plan to share the Gospel through a picture banner (shown in the video) and through recording oral translations of Bible stories on solar-powered devices that can be easily shared with others.  Please watch the video below to hear them share the vision God has placed on their hearts -- making disciples who will make disciples -- and PRAY!
-
-
 
 {% include vimeo.html video=106695347 %}
 
