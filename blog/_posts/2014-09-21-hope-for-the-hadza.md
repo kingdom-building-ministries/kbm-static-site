@@ -15,6 +15,8 @@ One day we will gather in heaven with every tribe, tongue and nation!  Once such
 
 Charlie and Nathan plan to share the Gospel through a picture banner (shown in the video) and through recording oral translations of Bible stories on solar-powered devices that can be easily shared with others.  Please watch the video below to hear them share the vision God has placed on their hearts -- making disciples who will make disciples -- and PRAY!
 
+
+
 {% include vimeo.html video=106695347 %}
 
 >One day we'll come to a village and ask a man, "Who do you worship?".  And he won't say the sun as I've heard in the past, but he'll say "I worship Jesus Christ!".  Then I'll ask, "How did you hear about Him?"  His reply, "Another Hadzabe man told me."
