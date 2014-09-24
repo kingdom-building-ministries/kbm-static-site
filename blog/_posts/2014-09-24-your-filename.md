@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: ""
+title: The Small Things
 author: "no-author"
 post_types: "no-type"
 date: "2014-09-24 15:30:00"
