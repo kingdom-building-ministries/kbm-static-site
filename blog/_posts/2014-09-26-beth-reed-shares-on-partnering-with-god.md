@@ -43,7 +43,7 @@ For ten years, Jim and I have traveled to the Czech Republic to teach English.  
 
 **Q: Describe the kind of legacy a lifestyle of partnering with God can leave.**
 
-**A:** My parents modeled this lifestyle of partnering with God by having missionaries stay in our home.  As a child I got to meet people from other countries and hear what God was doing through them.  This impacted my life so significantly that when Jim and I established our home, we did the same!  Our children grew up getting to hear what God was doing all around the world.
+**A:** My parents modeled this lifestyle by having missionaries stay in our home.  As a child I got to meet people from other countries and hear what God was doing through them.  This impacted my life so significantly that when Jim and I established our home, we did the same!  Our children grew up getting to hear what God was doing all around the world.
 
 One night as our daughter considered what she wanted to do when she got older, she told us, “I want to do what you and mom do…I love how you always have people over and open your hearts and home to others.”  It was so humbling to hear our daughter, at 16, express her desire to continue the legacy of partnering with God.  Today, our hearts overflow with joy in watching both our son and daughter do family life in a way that welcomes the plans God has in mind.
 
