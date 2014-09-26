@@ -25,7 +25,7 @@ Over time I have learned that God brings people across my path that I seem to ha
 
 God delights in us experiencing the joy of partnering with Him.  I think because of that, God uses our interests, gifting, desires and heartbeat to lead us towards things He wants to accomplish.  My husband Jim has been amazed at the way God has even employed his passion for mechanics and tractors for Kingdom advancement!
 
-Psalm 37:4 says, “Take delight in the Lord, and he will give you the desires of your heart.”  The way I see it, as I delight in the Lord I see how the desires placed in me will often match the Kingdom work He leads me to do.  The cycle of delight is then complete when I get to join Him where He’s working by offering who I am! 
+Psalm 37:4 says, “Take delight in the Lord, and he will give you the desires of your heart.”  The way I see it, as I delight in the Lord I see how the desires placed in me will often match the Kingdom work He leads me to do.  The cycle of delight is then complete when I get to join Him where He’s working by simply offering who I am! 
 
 Finally, it’s much easier to join God when we are actively looking.  I truly believe that God brings people near us who have needs that He has enabled us to meet ... God appointments or divine appointments.  God does not keep His work a cosmic secret – He shows up in our natural and everyday relationships.
 
