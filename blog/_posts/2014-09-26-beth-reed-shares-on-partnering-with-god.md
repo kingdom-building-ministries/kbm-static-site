@@ -11,7 +11,7 @@ bible_references:
 "poster-image": "https://www.dropbox.com/s/4lmuardd0uo8x72/DSC02377.jpeg?dl=0"
 ---
 
->“When you’re invested for the long haul, committed over time to what God is up to, in a relationship or ministry, you will see different kinds of return on your investment…things only God could do.”
+>“When you’re invested for the long haul, committed over time to what God is up to, in a relationship or ministry, you will see different kinds of return on your investment ... things only God could do.”
 
 Have you ever wondered what partnering with God looks like, real-time and on the ground?  Be encouraged by this interview with our Board Chair, Beth Reed.
 
