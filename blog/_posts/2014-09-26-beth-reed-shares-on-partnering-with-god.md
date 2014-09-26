@@ -4,11 +4,11 @@ layout: "blog-post"
 title: Beth Reed Shares on Partnering With God
 author: "lisa-zimmerman"
 post_types: "no-type"
-date: "2014-09-26 13:00:00"
+date: "2014-09-26 14:00:00"
 bible_references: 
   - Psalm
   - Acts
-"poster-image": "https://www.dropbox.com/s/912851nzsee8fi8/Beth%20Reed.jpg?dl=0"
+"poster-image": ""
 ---
 
 >“When you’re invested for the long haul, committed over time to what God is up to, in a relationship or ministry, you will see different kinds of return on your investment ... things only God could do.”
