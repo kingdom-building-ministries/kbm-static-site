@@ -3,7 +3,7 @@ layout: basic
 title: "Kingdom Building Ministries: Forge Forward Tour"
 ---
 
-# Kingdom Building Ministries: 
+# Kingdom Building Ministries:
 # Forge Forward Tour
 
 ### Denver, CO: November 3, 2014
@@ -14,7 +14,7 @@ title: "Kingdom Building Ministries: Forge Forward Tour"
 ### Clemson, SC: November 10, 2014
 7-9 PM
 
-[Register Now!](https://www.eventbrite.com/e/kingdom-building-ministries-forge-forward-tour-clemson-sc-tickets-13211823921)
+[Register Now!](https://www.eventbrite.com/e/kingdom-building-ministries-forge-forward-tour-clemsoncentral-sc-tickets-13211823921)
 
 ### Columbia, SC: November 11, 2014
 7-9 PM
