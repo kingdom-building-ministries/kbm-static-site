@@ -8,7 +8,7 @@ date: "2014-09-26 13:00:00"
 bible_references: 
   - Psalm
   - Acts
-"poster-image": "https://www.dropbox.com/s/4lmuardd0uo8x72/DSC02377.jpeg?dl=0"
+"poster-image": "https://www.dropbox.com/s/drw5ob0sei2ndhf/IMG_5375.jpeg?dl=0"
 ---
 
 >“When you’re invested for the long haul, committed over time to what God is up to, in a relationship or ministry, you will see different kinds of return on your investment ... things only God could do.”
