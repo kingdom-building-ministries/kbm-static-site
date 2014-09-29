@@ -23,7 +23,7 @@ In short, look for “heart matches” and “heart tugs”!
 
 Over time I have learned that God brings people across my path that I seem to have a “heart match” with; the person’s ministry and what they’re doing for the Kingdom really tugs on my heart strings.  For example, I’ll hear about a need (from a local church, missionary, etc.) and something resonates deep within me – it’s as if God’s spirit is moving me to join in and get excited!
 
-God delights in us experiencing the joy of partnering with Him.  I think because of that, God uses our interests, gifting, desires and heartbeat to lead us towards things He wants to accomplish.  My husband Jim has been amazed at the way God has even employed his passion for mechanics and tractors for Kingdom advancement!
+God delights in us experiencing the joy of partnering with Him.  I think because of that, God uses our interests, gifting, desires and heartbeat to lead us towards things He wants to accomplish.  Growing up, I watched God even employ my Father's passion for mechanics and tractors for Kingdom advancement!
 
 Psalm 37:4 says, “Take delight in the Lord, and he will give you the desires of your heart.”  The way I see it, as I delight in the Lord I see how the desires placed in me will often match the Kingdom work He leads me to do.  The cycle of delight is then complete when I get to join Him where He’s working by simply offering who I am! 
 
