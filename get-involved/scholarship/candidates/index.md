@@ -24,7 +24,7 @@ In addition to their personal investment, each student is asked to raise support
     <h1><a href="{{student.link}}">{{student.name}}</a></h1>
       <div class="row">
         <div class="kbm-third-col">
-          <a href="{{student.link}}"><img src="{% include url.html url=student.picurl %}"/></a>
+          <a href="{{student.link}}"><img src="{% include img-url.html url=student.picurl %}"/></a>
         </div>
 
         <div class="kbm-third-col">

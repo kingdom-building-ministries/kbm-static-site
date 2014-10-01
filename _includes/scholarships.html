@@ -8,7 +8,7 @@
   <li>
     <div>
       <a href="/get-involved/scholarship/candidates/#{{ student.name | downcase | replace: ' ', '' }}">
-        <div class="face" style="background-image:url({% include url.html url=student.picurl %});"></div>
+        <div class="face" style="background-image:url({% include img-url.html url=student.picurl %});"></div>
         <h3>
           {% if include.first_name == 'y' %}
             {{student.name | split: ' ' | first}}

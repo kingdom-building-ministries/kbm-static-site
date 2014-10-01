@@ -3,7 +3,7 @@ highlight-menu-id: fuel
 ---
 {% capture metadata %}
 <meta property="og:title" content="{{ page.title }}" />
-<meta property="og:image" content="{% include url.html url=page.poster-image %}" />
+<meta property="og:image" content="{% include img-url.html url=page.poster-image %}" />
 <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
 {% endcapture %}
 {% include header.html head=metadata %}
@@ -11,7 +11,7 @@ highlight-menu-id: fuel
 <div class="blog-post-container">
   {% if page.poster-image %}
   <div class="row blog-poster-img-crop"
-       style="background-image: url('{% include url.html url=page.poster-image %}');">
+       style="background-image: url('{% include img-url.html url=page.poster-image %}');">
   {% else %}
   <div class="row blog-poster-no-img">
   {% endif %}
