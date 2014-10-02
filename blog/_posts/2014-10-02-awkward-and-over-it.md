@@ -19,7 +19,7 @@ My husband and I have begun making some new friends in Colorado and leading a 20
 
 Unfortunately, my last word search through the Bible came up with zero matches for the word “awkward.”  However, there are plenty of instances in Scripture where our use of the term could apply: Adam and Eve’s first conversation after sin entered the world, Noah and his boat in the desert, Joseph and Potiphar’s wife, David and angry King Saul, John the Baptist, Peter slicing that soldier’s ear off and so much more.  It seems that obedience, faith and partnering with God can often bring us face to face with the unknown and the uncomfortable.
 
-Consider this: Is joining God in the work He is up to worth the cost of awkward, unknown and comfortable?     
+Consider this: Is joining God in the work He is up to worth the cost of awkward, unknown and uncomfortable?     
 
 Let’s take it a step further.  Sometimes awkward moments can’t be avoided, however, have you ever paused to think about why it felt awkward in the first place?  At times there are deeper factors at work within us: fear, self-reliance, insecurities and more.  Think about your current activities, opportunities and relationships.  Are any of the pests mentioned above present?  In the next uncomfortable moment you encounter, invite God to join you in it and help you navigate your fears and personal roadblocks.  May freedom in Jesus Christ abound as you gain new perspective.
 
