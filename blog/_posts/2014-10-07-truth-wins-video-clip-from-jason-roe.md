@@ -17,6 +17,6 @@ As you watch this video clip from <a href="http://www.kbm.org/speakers/jason-roe
 
 View Jason's entire message @ <a href="http://www.kbm.org/fuel/140622-deep-camp-jason-roe/" target="_blank">kbm.org/deepcamp2014</a>.
 
-Join us on the <a href="http://myemail.constantcontact.com/Join-us-on-the-Forge-Forward-Tour.html?soid=1110408784002&aid=saPZ2HDnQT0" target="_blank">Forge Forward Tour</a> this November and be inspired and encouraged by Jason Roe and our Speaker Team.  Visit kbm.org/tour to register today!
+Join us on the <a href="http://myemail.constantcontact.com/Join-us-on-the-Forge-Forward-Tour.html?soid=1110408784002&aid=saPZ2HDnQT0" target="_blank">Forge Forward Tour</a> this November and be inspired and encouraged by Jason Roe and our Speaker Team.  Visit <a href="http://www.kbm.org/tour/" target="_blank">kbm.org/tour</a> to register today!
 
 {% include image.html url="https://www.dropbox.com/s/0a4vmh640o3b4m8/tour-facebook-cover.jpg?dl=0" %}
