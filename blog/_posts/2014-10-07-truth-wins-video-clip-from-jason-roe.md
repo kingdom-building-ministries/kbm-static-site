@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Truth Wins: Video Clip from Jason Roe"
+title: "Truth Wins: Video from Jason Roe"
 author: "lisa-zimmerman"
 post_types: "itinerant-team"
 series: Forge Forward Tour
