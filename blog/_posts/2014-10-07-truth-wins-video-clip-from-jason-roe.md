@@ -9,7 +9,9 @@ series: Forge Forward Tour
 date: "2014-10-07 17:00:00"
 ---
 
-Are you relying and depending upon God and His Truth over your life, or are you walking the journey on your own?  *When we commit ourselves to Truth, everything changes.* 
+*Jesus answered, "I am the way and the truth and the life.  No one comes to the Father except through me" (John 14:6).*
+
+Are you relying and depending upon God and His Truth to guide your life, or are you walking the journey on your own?  *When we commit ourselves to Truth, everything changes.* 
 
 As you watch this video clip from <a href="http://www.kbm.org/speakers/jason-roe/" target="_blank">Jason Roe</a>, bring to God those recent moments where you've chosen to walk alone and say, "It's ok God, I've got this."  
 
