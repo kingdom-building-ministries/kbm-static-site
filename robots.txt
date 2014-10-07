@@ -2,3 +2,8 @@ User-agent: *
 Disallow: /internal/
 Disallow: /speakers/follow-up/
 Disallow: /last-build/
+
+User-agent: ia_archiver
+Disallow: /speakers/mick-veach
+Disallow: /speakers/mick-veach/
+Disallow: /speakers/mickveach
