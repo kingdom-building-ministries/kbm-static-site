@@ -6,7 +6,7 @@ author: "lisa-zimmerman"
 post_types: "itinerant-team"
 series: Forge Forward Tour
 "poster-image": "https://www.dropbox.com/s/ifwcd69ddoohd7y/jason-roe%20copy.png?dl=0"
-date: "2014-10-07 16:00:00"
+date: "2014-10-07 17:00:00"
 ---
 
 Are you relying and depending upon God and His Truth over your life, or are you walking the journey on your own?  *When we commit ourselves to Truth, everything changes.* 
