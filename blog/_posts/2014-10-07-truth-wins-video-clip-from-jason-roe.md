@@ -7,6 +7,8 @@ post_types: "itinerant-team"
 series: Forge Forward Tour
 "poster-image": "https://www.dropbox.com/s/ifwcd69ddoohd7y/jason-roe%20copy.png?dl=0"
 date: "2014-10-07 17:00:00"
+bible_references: 
+  - John
 ---
 
 *Jesus answered, "I am the way and the truth and the life.  No one comes to the Father except through me" (John 14:6).*
