@@ -5,7 +5,7 @@ title: "Truth Wins: Video from Jason Roe"
 author: "lisa-zimmerman"
 post_types: "itinerant-team"
 series: Forge Forward Tour
-"poster-image": "https://www.dropbox.com/s/gliphjx84ij6yp2/Screenshot%202014-10-07%2017.03.00.png?dl=0"
+"poster-image": "https://www.dropbox.com/s/275fk1jqk7jhl4p/DeepCamp2013_157-CMYK300.jpg?dl=0"
 date: "2014-10-07 17:00:00"
 bible_references: 
   - John
