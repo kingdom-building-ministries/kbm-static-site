@@ -10,7 +10,7 @@ bible_references:
 "poster-image": "https://www.dropbox.com/s/ytdpdx51rkri4a8/Laura%20Ocean.jpg?dl=0"
 ---
 
-RE·MEM·BER [ri-mem-ber]  (verb): *to recall to the mind by an act or effort of memory; 
+RE·MEM·BER (verb): *to recall to the mind by an act or effort of memory; 
 to retain in the memory; keep in mind; remain aware of.*
 
 Over and over again throughout Scripture, God calls His people to remember. 
