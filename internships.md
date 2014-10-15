@@ -33,11 +33,11 @@ Interns will have key roles in coordinating critical details for KBM equipping p
 - The opportunity to engage relationships with current KBM students
 - Continued spiritual formation through classes and investment from KBM speakers and staff members
 
-## [Apply now!](https://www.dropbox.com/s/qert5966h921abo/Internship%20FAQ.pdf?dl=0)
+## [Apply now!](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=kbm&id=77)
 - Applications must be submitted by October 31.
 - Interviews will be conducted between November 17-21.
 - Decisions will be made by December 1.
-- **[Apply now!](https://www.dropbox.com/s/qert5966h921abo/Internship%20FAQ.pdf?dl=0)**
+- **[Apply now!](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=kbm&id=77)**
 
 <table>
     <tr>
