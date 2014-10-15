@@ -9,6 +9,8 @@ date: "2014-10-15 16:00:00"
 series: Forge Forward Tour
 bible_references: 
   - Exodus
+  - Romans
+  - James
 ---
 
 *"...but each one is tempted when, by his own evil desire, he is dragged away and enticed.  Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death" (James 1:14-15).*
