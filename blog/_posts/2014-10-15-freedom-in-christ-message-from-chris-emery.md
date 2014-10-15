@@ -18,3 +18,7 @@ Sin has an insatiable appetite and can devour you.  Scripture is clear, light an
 {% include vimeo.html video=100065312 %}
 
 *"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord" (Romans 6:23).*
+
+Join us on the <a href="http://myemail.constantcontact.com/Join-us-on-the-Forge-Forward-Tour.html?soid=1110408784002&aid=saPZ2HDnQT0" target="_blank">Forge Forward Tour</a> this November and be inspired and encouraged by Chris Emery and our Speaker Team.  Visit <a href="http://www.kbm.org/tour/" target="_blank">kbm.org/tour</a> to register today!
+
+{% include image.html url="https://www.dropbox.com/s/0a4vmh640o3b4m8/tour-facebook-cover.jpg?dl=0" %}
