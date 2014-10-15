@@ -15,7 +15,7 @@ bible_references:
 
 *"...but each one is tempted when, by his own evil desire, he is dragged away and enticed.  Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death" (James 1:14-15).*
 
-Sin has an insatiable appetite and can devour you.  Are you stuck in a cycle of bondage?  A pattern of sin that seems normal now?  There is an exit out of the cycle: life, through freedom in Jesus Christ.  Watch this message from <a href="http://www.kbm.org/speakers/chris-emery/" target="_blank">Chris Emery</a>, and while you do, ask Jesus how you can step more fully into a life redeemed by the gospel today.
+Sin has an insatiable appetite and can devour you.  Are you stuck in a cycle of bondage?  A pattern of sin that just seems normal now?  There is an exit out of the cycle: life, through freedom in Jesus Christ.  Watch this message from <a href="http://www.kbm.org/speakers/chris-emery/" target="_blank">Chris Emery</a>, and while you do, ask Jesus how you can step more fully into a life redeemed by the gospel today.
 
 {% include vimeo.html video=100065312 %}
 
