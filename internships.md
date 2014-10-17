@@ -6,9 +6,9 @@ title: "Internships"
 
 ## Basic Information:
 - Internship Commitment: May 17th (Sunday) through July 21st (Tuesday)
-  - 16 Days Intern ONLY: June 8th (Monday) through June 28th (Sunday)
-  - Location: Denver, Colorado
-  - Internship Requirements:
+- 16 Days Intern ONLY: June 8th (Monday) through June 28th (Sunday)
+- Location: Denver, Colorado
+- Internship Requirements:
   - Interns must be at least one year removed from High School
   - Interns must have completed either The Experience or 16 Days.
 - **[Frequently Asked Questions](https://www.dropbox.com/s/qert5966h921abo/Internship%20FAQ.pdf?dl=0)**
