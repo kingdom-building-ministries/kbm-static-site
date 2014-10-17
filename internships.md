@@ -7,10 +7,10 @@ title: "Internships"
 ## Basic Information:
 - Internship Commitment: May 17th (Sunday) through July 21st (Tuesday)
   - 16 Days Intern ONLY: June 8th (Monday) through June 28th (Sunday)
-- Location: Denver, Colorado
-- Internship Requirements:
-- Interns must be at least one year removed from High School
-- Interns must have completed either The Experience or 16 Days.
+  - Location: Denver, Colorado
+  - Internship Requirements:
+  - Interns must be at least one year removed from High School
+  - Interns must have completed either The Experience or 16 Days.
 - **[Frequently Asked Questions](https://www.dropbox.com/s/qert5966h921abo/Internship%20FAQ.pdf?dl=0)**
 
 
@@ -21,7 +21,7 @@ Interns will have key roles in coordinating critical details for KBM equipping p
 - Service
 - Humility
 - Teachable Spirit
-- Complete dependence on God
+- Dependence on God
 - Teamwork
 - General Problem Solving Skills
 - Financial Stewardship
@@ -39,6 +39,7 @@ Interns will have key roles in coordinating critical details for KBM equipping p
 - Decisions will be made by December 1.
 - **[Apply now!](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=kbm&id=77)**
 
+## Positions Available
 <table>
     <tr>
         <th>
@@ -164,4 +165,3 @@ Interns will have key roles in coordinating critical details for KBM equipping p
         </td>
     </tr>
 </table>
-
