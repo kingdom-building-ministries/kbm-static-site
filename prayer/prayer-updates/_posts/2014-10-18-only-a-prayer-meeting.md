@@ -11,6 +11,6 @@ You may remember days like these yourself, and might even wonder where they've g
 
 "It is not too much to say that all real growth in the spiritual life - all victory over temptation, all confidence and peace in the presence of difficulties and dangers, all repose of spirit in times of great disappointment or loss, all habitual communion with God - depends upon prayer."  *Only* a prayer meeting?  "We are never so high as when we are on our knees." (From The Kneeling Christian)
 
-Those facilitating the prayer meetings at my church probably never imagined my little heart would remember glimpses of those nights.  The importance and power of prayer must continue on.  There are little girls and boys growing up today who desperately need to see what God does when His people pray.  **Will you help them see?**
+Those facilitating the prayer meetings at my church probably never imagined my little heart would remember glimpses of those nights.  The importance and power of prayer must continue on.  There are little girls and boys growing up today who desperately need to know what God does when His people pray.  **Will you help them see?**
 
 *Does your church hold a prayer meeting?  Perhaps you should go this week.  Or, have you ever considered hosting an evening of prayer in your own home?  May we be willing to follow God as He leads us to deeper and wider places of prayer... places that bring revival, both personally and within our communities, and places that leave Kingdom legacies beyond our generation.*
