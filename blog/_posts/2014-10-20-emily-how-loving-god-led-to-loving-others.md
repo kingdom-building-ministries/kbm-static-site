@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "blog-post"
-title: "Emily: How Loving God Led to Loving Others"
+title: How Loving God Led to Loving Others
 author: "john-boyd"
 post_types: alumni
 date: "2014-10-20 14:00:00"
